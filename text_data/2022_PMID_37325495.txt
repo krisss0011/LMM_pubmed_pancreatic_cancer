@@ -1,0 +1,77 @@
+1. Liver Cancer. 2022 Aug 30;12(2):116-128. doi: 10.1159/000526638. eCollection 
+2023 Jun.
+
+Phase 2 Study of the PD-1 Inhibitor Serplulimab plus the Bevacizumab Biosimilar 
+HLX04 in Patients with Previously Treated Advanced Hepatocellular Carcinoma.
+
+Ren Z(1), Shao G(2), Shen J(3), Zhang L(4), Zhu X(5), Fang W(6), Sun G(7), Bai 
+Y(8), Wu J(9), Liu L(10), Yuan Y(11), Zhang J(12), Li Z(13), Zhang L(14), Yin 
+T(15), Wu J(16), Hou X(17), Wang Q(17), Zhu J(17), Fan J(1).
+
+Author information:
+(1)Liver Cancer Institute, Zhongshan Hospital, Fudan University, Shanghai, 
+China.
+(2)Department of Interventional Radiology, Cancer Hospital of the University of 
+Chinese Academy of Sciences (Zhejiang Cancer Hospital), Hangzhou, China.
+(3)Department of Oncology, Nanjing Drum Tower Hospital, The Affiliated Hospital 
+of Nanjing University Medical School, Nanjing, China.
+(4)Department of Oncology, Chongqing University Three Gorges Hospital, 
+Chongqing, China.
+(5)Key Laboratory of Carcinogenesis and Translational Research (Ministry of 
+Education/Beijing), Department of Interventional Therapy, Peking University 
+Cancer Hospital & Institute, Beijing, China.
+(6)Department of Medical Oncology, The First Affiliated Hospital, Zhejiang 
+University School of Medicine, Hangzhou, China.
+(7)Department of Oncology, The First Affiliated Hospital of Anhui Medical 
+University, Hefei, China.
+(8)Department of Gastrointestinal Oncology, Harbin Medical University Cancer 
+Hospital, Harbin, China.
+(9)Department of Oncology, The Second Affiliated Hospital of Nanchang 
+University, Nanchang, China.
+(10)Department of Hepatobiliary Surgery, Anhui Provincial Hospital, The First 
+Affiliated Hospital of University of Science and Technology of China, Hefei, 
+China.
+(11)Department of Oncology, Xuzhou Central Hospital, Xuzhou, China.
+(12)Medical Oncology Department of Gastrointestinal Cancer, Liaoning Cancer 
+Hospital & Institute, Cancer Hospital of China Medical University, Shenyang, 
+China.
+(13)Department of Medical Oncology, Linyi Cancer Hospital, Linyi, China.
+(14)Department of Hepatobiliary and Pancreatic Surgery, Henan Cancer Hospital, 
+The Affiliated Cancer Hospital of Zhengzhou University, Zhengzhou, China.
+(15)Department of Hepatobiliary and Pancreatic Surgery, Hubei Cancer Hospital, 
+Wuhan, China.
+(16)Department of Hepatobiliary and Pancreatic Surgery, Hainan General Hospital, 
+Haikou, China.
+(17)Shanghai Henlius Biotech, Inc., Shanghai, China.
+
+INTRODUCTION: Current treatments for patients with previously treated advanced 
+hepatocellular carcinoma (HCC) provide modest survival benefits. We evaluated 
+the safety and antitumor activity of serplulimab, an anti-PD-1 antibody, plus 
+the bevacizumab biosimilar HLX04 in this patient population.
+METHODS: In this open-label, multicenter, phase 2 study in China, patients with 
+advanced HCC who failed prior systemic therapy received serplulimab 3 mg/kg plus 
+HLX04 5 mg/kg (group A) or 10 mg/kg (group B) intravenously every 2 weeks. The 
+primary endpoint was safety.
+RESULTS: As of April 8, 2021, 20 and 21 patients were enrolled into groups A and 
+B, and they had received a median of 7 and 11 treatment cycles, respectively. 
+Grade ≥3 treatment-emergent adverse events were reported by 14 (70.0%) patients 
+in group A and 12 (57.1%) in group B. Most immune-related adverse events were 
+grade ≤3. The objective response rate was 30.0% (95% confidence interval [CI], 
+11.9-54.3) in group A and 14.3% (95% CI, 3.0-36.3) in group B. Median duration 
+of response was not reached (95% CI, 3.3-not evaluable [NE]) in group A and was 
+9.0 months (95% CI, 7.9-NE) in group B. Median progression-free survival was 2.2 
+months (95% CI, 1.4-5.5) and 4.1 months (95% CI, 1.5-NE), and median overall 
+survival was 11.6 months (95% CI, 6.4-NE) and 14.3 months (95% CI, 8.2-NE) in 
+groups A and B, respectively.
+CONCLUSION: Serplulimab plus HLX04 showed a manageable safety profile and 
+promising antitumor activity in patients with previously treated advanced HCC.
+
+Copyright © 2022 by The Author(s). Published by S. Karger AG, Basel.
+
+DOI: 10.1159/000526638
+PMCID: PMC10267516
+PMID: 37325495
+
+Conflict of interest statement: Xiaoli Hou, Qingyu Wang, and Jun Zhu are 
+employees of Shanghai Henlius Biotech, Inc. Dr. Jia Fan is an associate editor 
+of Liver Cancer. All other authors declare no potential conflicts of interest.

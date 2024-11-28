@@ -1,0 +1,53 @@
+1. Front Oncol. 2024 Nov 12;14:1378691. doi: 10.3389/fonc.2024.1378691.
+eCollection  2024.
+
+An insight to PDAC tumor heterogeneity across pancreatic subregions using 
+computed tomography images.
+
+Javed S(1), Qureshi TA(1), Wang L(1), Azab L(1), Gaddam S(1), Pandol SJ(1), Li 
+D(1).
+
+Author information:
+(1)Cedars Sinai Medical Center, Los Angeles, CA, United States.
+
+Pancreatic Ductal Adenocarcinoma (PDAC) is an exceptionally deadly form of 
+pancreatic cancer with an extremely low survival rate. From diagnosis to 
+treatment, PDAC is highly challenging to manage. Studies have demonstrated that 
+PDAC tumors in distinct regions of the pancreas exhibit unique characteristics, 
+influencing symptoms, treatment responses, and survival rates. Gaining insight 
+into the heterogeneity of PDAC tumors based on their location in the pancreas 
+can significantly enhance overall management of PDAC. Previous studies have 
+explored PDAC tumor heterogeneity across pancreatic subregions based on their 
+genetic and molecular profiles through biopsy-based histologic assessment. 
+However, biopsy examinations are highly invasive and impractical for large 
+populations. Abdominal imaging, such as Computed Tomography (CT) offers a 
+completely non-invasive means to evaluate PDAC tumor heterogeneity across 
+pancreatic subregions and an opportunity to correlate image feature of tumors 
+with treatment outcome and monitoring. In this study, we explored the 
+inter-tumor heterogeneity in PDAC tumors across three primary pancreatic 
+subregions: the head, body, and tail. Utilizing contrast-enhanced abdominal CT 
+scans and a thorough radiomic analysis of PDAC tumors, several morphological and 
+textural tumor features were identified to be notably different between tumors 
+in the head and those in the body and tail regions. To validate the significance 
+of the identified features, a machine learning ML model was trained to 
+automatically classify PDAC tumors into their respective regions i.e. head or 
+body/tail subregion using their CT features. The study involved 200 CT abdominal 
+scans, with 100 used for radiomic analysis and model training, and the remaining 
+100 for model testing. The ML model achieved an average classification accuracy, 
+sensitivity, and specificity of 87%, 86%, and 88% on the testing scans 
+respectively. Evaluating the heterogeneity of PDAC tumors across pancreatic 
+subregions provides valuable insights into tumor composition and has the 
+potential to enhance diagnosis and personalize treatment based on tumor 
+characteristics and location.
+
+Copyright © 2024 Javed, Qureshi, Wang, Azab, Gaddam, Pandol and Li.
+
+DOI: 10.3389/fonc.2024.1378691
+PMCID: PMC11588633
+PMID: 39600638
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest. The author(s) declared that 
+they were an editorial board member of Frontiers, at the time of submission. 
+This had no impact on the peer review process and the final decision.

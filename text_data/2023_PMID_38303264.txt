@@ -1,0 +1,34 @@
+1. Gan To Kagaku Ryoho. 2023 Dec;50(13):1959-1961.
+
+[Treatment Experience of Chemotherapy and Carbon-Ion Radiotherapy followed by 
+Curative Conversion Surgery for Initially Locally Advanced Unresectable 
+Pancreatic Cancer after Distal Gastrectomy].
+
+[Article in Japanese]
+
+Watanabe H(1), Sugawara S, Takahashi R, Ashitomi Y, Kawashiro S, Sato H, Nemoto 
+K, Kono M, Futakuchi M, Motoi F.
+
+Author information:
+(1)Dept. of Surgery, Yamagata University Graduate School of Medical Science.
+
+BACKGROUND: Carbon-ion radiotherapy(CIRT)has an advantage over conventional 
+radiotherapy by its dose distribution and biological effect for locally advanced 
+unresectable pancreatic cancer(UR-PC). Conversion surgery(CS)might be attempted 
+for UR-PC with favorable response by chemotherapy and radiotherapy.
+CASE PRESENTATION: A 67-year-old female who have a history of distal 
+gastrectomy. CT scan revealed locally advanced UR-PC with invasion to celiac 
+artery, 60 mm in size. Systemic chemotherapy with gemcitabine and nab-paclitaxel 
+was continued for 15 months, showing decrease of tumor markers and radiological 
+shrinkage of the tumor. The patient was referred to our hospital for surgical 
+consultation. Since there was no metastasis in staging laparoscopy, CIRT with 
+gemcitabine was administered for 3 weeks. After completion of CIRT, distal 
+pancreatectomy with celiac axis resection and total remnant gastrectomy for 
+direct invasion of the tumor was performed as CS, resulting R0 resection. Her 
+postoperative course was uneventful with 17 days of hospital stay.
+DISCUSSION: CS after CIRT was safely performed. Clinical trial of total 
+neoadjuvant therapy with systemic chemotherapy, CIRT, followed by CS for locally 
+advanced CIRT is ongoing in our hospital. CIRT could be an effective treatment 
+in locally advanced UR-PC in the context of multi-modal treatment including CS.
+
+PMID: 38303264 [Indexed for MEDLINE]

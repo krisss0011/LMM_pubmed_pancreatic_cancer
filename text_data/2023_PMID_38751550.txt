@@ -1,0 +1,129 @@
+1. Liver Cancer. 2023 Jul 7;13(2):193-202. doi: 10.1159/000531820. eCollection
+2024  Apr.
+
+Multicenter Phase II Trial of Lenvatinib plus Hepatic Intra-Arterial Infusion 
+Chemotherapy with Cisplatin for Advanced Hepatocellular Carcinoma: LEOPARD.
+
+Ikeda M(1), Yamashita T(2), Ogasawara S(3), Kudo M(4), Inaba Y(5), Morimoto 
+M(6), Tsuchiya K(7), Shimizu S(8), Kojima Y(9), Hiraoka A(10), Nouso K(11), 
+Aikata H(12), Numata K(13), Sato T(14), Okusaka T(15), Furuse J(6)(16).
+
+Author information:
+(1)Department of Hepatobiliary and Pancreatic Oncology, National Cancer Center 
+Hospital East, Kashiwa, Japan.
+(2)Department of Gastroenterology, Kanazawa University Hospital, Kanazawa, 
+Japan.
+(3)Department of Gastroenterology, Graduate School of Medicine, Chiba 
+University, Chiba, Japan.
+(4)Department of Gastroenterology and Hepatology, Kindai University Faculty of 
+Medicine, Osaka, Japan.
+(5)Department of Diagnostic and Interventional Radiology, Aichi Cancer Center 
+Hospital, Nagoya, Japan.
+(6)Department of Gastroenterology, Kanagawa Cancer Center, Yokohama, Japan.
+(7)Department of Gastroenterology and Hepatology, Musashino Red Cross Hospital, 
+Tokyo, Japan.
+(8)Department of Gastroenterology, Saitama Cancer Center, Saitama, Japan.
+(9)Department of Gastroenterology, National Center for Global Health and 
+Medicine Center Hospital, Tokyo, Japan.
+(10)Gastroenterology Center, Ehime Prefectural Central Hospital, Matsuyama, 
+Japan.
+(11)Department of Gastroenterology, Okayama City Hospital, Okayama, Japan.
+(12)Department of Gastroenterology and Metabolism, Hiroshima University, 
+Hiroshima, Japan.
+(13)Gastroenterological Center, Yokohama City University Medical Center, 
+Yokohama, Japan.
+(14)Department of Biostatistics, Kyoto University School of Public Health, 
+Kyoto, Japan.
+(15)Department of Hepatobiliary and Pancreatic Oncology, National Cancer Center 
+Hospital, Tokyo, Japan.
+(16)Department of Medical Oncology, Kyorin University Faculty of Medicine, 
+Tokyo, Japan.
+
+INTRODUCTION: Hepatic arterial infusion chemotherapy (HAIC) with cisplatin and 
+lenvatinib exhibits strong antitumor effects against advanced hepatocellular 
+carcinoma (HCC). Higher antitumor activity is expected for the combination 
+treatment. The aim of this trial was to evaluate the efficacy and safety of 
+lenvatinib in combination with HAIC using cisplatin in patients with advanced 
+HCC.
+METHODS: In this multicenter, open-labeled, single-arm, phase II trial, patients 
+with advanced HCC categorized as Child-Pugh class A with no prior history of 
+systemic therapy were enrolled. Patients received lenvatinib plus HAIC with 
+cisplatin (lenvatinib: 12 mg once daily for patients ≥60 kg, 8 mg once daily for 
+patients <60 kg; HAIC with cisplatin: 65 mg/m2, day 1, every 4-6 weeks, maximum 
+of six cycles). The primary endpoint was the objective response rate (ORR) 
+assessed using modified RECIST by the Independent Review Committee. The 
+secondary endpoints were the ORR assessed using RECIST v1.1, progression-free 
+survival, overall survival, and frequency of adverse events associated with the 
+treatment.
+RESULTS: A total of 36 patients were enrolled between September 2018 and March 
+2020. In the 34 evaluable patients, the ORR assessed by the Independent Review 
+Committee using modified RECIST and RECIST v1.1 were 64.7% (95% confidence 
+interval [CI]: 46.5-80.3%) and 45.7% (95% CI: 28.8-63.4%), respectively. The 
+median progression-free survival and overall survival were 6.3 months (95% CI: 
+5.1-7.9 months) and 17.2 months (95% CI: 10.9 - not available, months), 
+respectively. The main grade 3-4 adverse events were increased aspartate 
+aminotransferase (34%), leukopenia (22%), increased alanine aminotransferase 
+(19%), and hypertension (11%).
+CONCLUSION: Lenvatinib plus HAIC with cisplatin yielded a favorable ORR and 
+overall survival and was well tolerated in patients with advanced HCC. Further 
+evaluation of this regimen in a phase III trial is warranted.
+
+© 2023 The Author(s). Published by S. Karger AG, Basel.
+
+DOI: 10.1159/000531820
+PMCID: PMC11095614
+PMID: 38751550
+
+Conflict of interest statement: Ikeda M reports grants or contracts from 
+AstraZeneca, Bayer, Bristol-Myers Squibb, Chiome Bioscience, Chugai, Eisai, Eli 
+Lilly Japan, Delta-Fly Pharma, Invitae, J-Pharma, Merck Biopharma, Merus N.V., 
+MSD, Novartis, Nihon Servier, Ono, Pfizer, Takeda, and Yakult, and personal fees 
+and other funding from AstraZeneca, AbbVie, Abbott Japan, Bayer, Bristol-Myers 
+Squibb, Chugai, Eisai, Eli Lilly Japan, E.A. Pharma, Fujifilm Toyama Chemical, 
+Incyte Biosciences Japan, M.S.D., Nihon Servier, Nippon Kayaku, Novartis, 
+Otsuka, Teijin, Taiho, Taisho Pharmaceutical, Takeda, and Yakult outside the 
+submitted work. Yamashita T. reports personal fees and other funding from Eisai, 
+Chugai, and Lilly outside the submitted work. Ogasawara S. reports grants or 
+contracts from Bayer, Eisai, Eli Lilly, Chugai, and AstraZeneca; consulting fees 
+from Eisai, Chugai, and AstraZeneca; and personal fees and other funding from 
+Bayer, Eisai, Eli Lilly, Chugai, and AstraZeneca outside the submitted work. 
+Kudo M. reports grants or contracts from Taiho, E.A. Pharma, Eisai, G.E. 
+Healthcare, Otsuka, AbbVie, and Chugai; consulting fees from Chugai, 
+AstraZeneca, Roche, and Eisai; and personal fees and other funding from Eli 
+Lilly, Bayer, Eisai, Chugai, Takeda, and AstraZeneca; grants: Taiho, Otsuka, 
+E.A. Pharma, AbbVie, Eisai, Chugai, G.E. Healthcare; advisory consulting: 
+Chugai, Roche, AstraZeneca, and Eisai outside the submitted work. Inaba Y. and 
+Morimoto M. report personal fees and other funding from Eisai, outside the 
+submitted work. Tsuchiya K. reports personal fees and other funding from Chugai, 
+Eisai, Takeda, and Eli Lilly, outside the submitted work. Shimizu S. reports 
+grants or contracts from AstraZeneca, Incyte Corporation, and Delta-Fly Pharma, 
+outside the submitted work. Kojima Y. reports grants or contracts from Takeda, 
+Ono Pharmaceutical, Eisai, Chugai, and Daiichi Sankyo; personal fees and other 
+funding from Chugai, Yakult, Daiichi Sankyo, and Eisai; and participation on a 
+Data Safety Monitoring Board or Advisory Board of AstraZeneca, outside the 
+submitted work. Hiraoka A. reports personal fees and other funding from Chugai, 
+AstraZeneca, and Eli Lilly Japan, outside the submitted work. K. Nouso reports 
+personal fees and other funding from Nihon Kayaku and Eisai, outside the 
+submitted work. Aikata H. reports personal fees and other funding from Eisai and 
+Chugai, outside the submitted work. Okusaka T. reports grants or contracts from 
+AstraZeneca, Syneos Health, E.P. CRSU, Eisai, M.S.D., and Insight Japan; 
+consulting fees from AstraZeneca, Eisai, Nihon Servier, Dainippon Sumitomo 
+Pharma, Bristol-Myers, and FUJIFILM Toyama Chemical; and personal fees and other 
+funding from AstraZeneca, Insight Japan, Eisai, Ono Pharmaceutical, Yakult 
+Honsha, Johnson and Johnson, Daiichi Sankyo, Taiho Pharmaceutical, Chugai, Nihon 
+Servier, Nippon Shinyaku, Eli Lilly Japan, Pfizer Japan, and Novartis, outside 
+the submitted work. Furuse J reports grants from or contracts with Astellas, 
+AstraZeneca, Incyte Biosciences Japan, Eisai, M.S.D., Ono Pharmaceutical, 
+Sanofi, J-Pharma, Daiichi Sankyo, Sumitomo Dainippon, Taiho Pharmaceutical, 
+Takeda, Delta-Fly Pharma, and Chugai; consulting fees from Fujifilm, Astellas, 
+OncoTherapy Science, Delta-Fly Pharma, Merck Bio, Ono Pharmaceutical, M.S.D., 
+Taiho, Chugai, AstraZeneca, Incyte Biosciences Japan, and J-Pharma; and personal 
+fees and other funding from Ono Pharmaceutical, Chugai Pharma, Incyte 
+Biosciences Japan, Eisai, Eli Lilly Japan, AstraZeneca, Yakult, Servier Japan, 
+M.S.D., Novartis, Takeda, Bayer, Taiho, E.A. Pharma, Teijin Pharma, Daiichi 
+Sankyo, Terumo; and participation on a Data Safety Monitoring Board or Advisory 
+Board of OncoTherapy Science, Chugai, Astellas, AstraZeneca, Takara bio, Merck 
+Bio, M.S.D., and Taiho, outside the submitted work. K. Numata and Sato T. report 
+nothing to declare. Ikeda M., Yamashita T., Tsuchiya K., K. Nouso, and Furuse J. 
+are Editorial Board Members of Liver Cancer, and Kudo M. is an Editor in Chief 
+of Liver Cancer.

@@ -1,0 +1,40 @@
+1. Hepat Oncol. 2023 Mar 6;9(4):HEP46. doi: 10.2217/hep-2022-0002. eCollection
+2022  Dec.
+
+Uncooled TATO microwave system for liver ablation.
+
+Crespo E(1), Hermosín A(1), Villalba Á(1), Daguer E(1), Flores J(1), Periañez 
+J(1), Martínez-Galdámez M(2), Santos E(3).
+
+Author information:
+(1)Vascular & Interventional Radiology at Hospital Fundación Jiménez Díaz, 
+Madrid, Spain.
+(2)Department of Vascular & Interventional Radiology, Hospital Clínico 
+Universitario de Valladolid, Spain.
+(3)Vascular & Interventional Radiology at Memorial Sloan Kettering Cancer 
+Center, NY 10065, USA.
+
+AIM: To evaluate the safety and efficacy of uncooled TATO microwave ablation 
+(MWA) for primary and metastatic liver cancer.
+MATERIALS & METHODS: This was a retrospective study on percutaneous liver 
+ablations performed with TATO MWA. Twenty-five ablations were performed; 11 
+(44%) were performed for hepatocellular carcinoma, 14 (56%) for colorectal 
+carcinoma, gastric and pancreatic metastases.
+RESULTS: Adverse events were reported only in one (4%) ablation: an abscess that 
+was observed in the ablated area and was resolved with a percutaneous drainage 
+and antibiotic therapy. Local tumor control rate was 92% at the 3-month 
+follow-up.
+CONCLUSION: TATO MWA was safe and effective with high reproducibility in 
+treating primary and secondary liver cancer with satisfactory technical and 
+clinical outcomes.
+
+Plain Language Summary: The removal of cancer from the liver or liver metastases 
+from cancers in distant sites can be performed safely and effectively with a 
+system that uses a microwave generator (TATO) that allows a good visibility of 
+ablation procedure under intraprocedural real-time ultrasound imaging.
+
+© 2023 The Authors.
+
+DOI: 10.2217/hep-2022-0002
+PMCID: PMC10064260
+PMID: 37009421

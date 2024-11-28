@@ -1,0 +1,47 @@
+1. Front Chem. 2024 Nov 12;12:1484310. doi: 10.3389/fchem.2024.1484310.
+eCollection  2024.
+
+The combined signatures of programmed cell death and immune landscape provide a 
+prognostic and therapeutic biomarker in the hepatocellular carcinoma.
+
+Liu W(#)(1), Huang Y(#)(2), Xu Y(2), Gao X(1), Zhao Y(1), Fan S(3), Geng Y(4), 
+Zhu S(2).
+
+Author information:
+(1)Department of General Surgery, Affiliated Hospital of Nantong University, 
+Medicine School of Nantong University, Nantong, China.
+(2)Department of Hepatobiliary and Pancreatic Surgery, Affiliated Hospital of 
+Nantong University, Medical School of Nantong University, Nantong, China.
+(3)Department of Nursing, Affiliated Hospital of Nantong University, Nantong, 
+China.
+(4)Medicine School of Nantong University, Nantong, China.
+(#)Contributed equally
+
+Hepatocellular carcinoma (HCC) ranks as the fourth most common cause of 
+mortality globally among all cancer types. Programmed cell death (PCD) is a 
+crucial biological mechanism governing cancer progression, tumor expansion, and 
+metastatic dissemination. Furthermore, the tumor microenvironment (TME) is 
+critical in influencing overall survival (OS) and immune responses to 
+immunotherapeutic interventions. From a multi-omics perspective, the combination 
+of PCD and TME could help to predict the survival of HCC patient survival and 
+immunotherapy response. Our study analyzed variations in the PCD- and 
+TME-classifier used in the classification of HCC patients into two subgroups: 
+PCD high-TME low and PCD low-TME high. In the following step, we compared the 
+tumor somatic mutation (TMB), immunotherapy response, and functional annotation 
+of both groups of patients. Lastly, Western Blot (WB) were conducted. The 
+immunohistochemistry (IHC) was performed on the Human Protein Atlas (HPA). In 
+the PCD-TME classifier, 23 PCD-related genes and three immune cell types were 
+identified. Patients' prognoses and responses to therapy could be accurately 
+predicted using this model. The findings of this study provide a new instrument 
+for the clinical management of HCC patients, and they contribute to the 
+development of accurate treatment strategies for these patients.
+
+Copyright © 2024 Liu, Huang, Xu, Gao, Zhao, Fan, Geng and Zhu.
+
+DOI: 10.3389/fchem.2024.1484310
+PMCID: PMC11591233
+PMID: 39600313
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

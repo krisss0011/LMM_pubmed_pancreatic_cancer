@@ -1,0 +1,52 @@
+1. AME Med J. 2023 Jun 30;8:17. doi: 10.21037/amj-23-13. Epub 2023 Jun 6.
+
+Disseminated intravascular coagulation after cryoablation for metastatic 
+pancreatic cancer: a case report.
+
+Dulu A(1), Tayban Y(1), Delaleu J(1), Cornelis FH(2), Pastores SM(1).
+
+Author information:
+(1)Critical Care Center, Department of Anesthesiology and Critical Care 
+Medicine, Memorial Sloan Kettering Cancer Center, New York, NY, USA.
+(2)Interventional Radiology Service, Memorial Sloan Kettering Cancer Center, New 
+York, NY, USA.
+
+BACKGROUND: Pancreatic cancer is the fourth most common cause of cancer-related 
+death in the United States. Despite advancements in surgery and chemoradiation 
+therapies, pancreatic cancer has a 5-year survival rate of only 11% in the 
+United States. Cryoablation is emerging as a new and effective therapy for 
+locally advanced pancreatic cancer and symptom palliation in metastatic disease. 
+To our knowledge, the occurrence of disseminated intravascular coagulation (DIC) 
+after cryoablation is rare.
+CASE DESCRIPTION: A 47-year-old woman with no significant past medical history 
+was diagnosed with pancreatic cancer and underwent a Whipple procedure followed 
+by chemotherapy with gemcitabine and paclitaxel. Due to the abdominal lymph 
+nodes, peritoneum, right femur, and surrounding soft tissue metastases, she 
+received systemic palliative chemotherapy with gemcitabine and paclitaxel and 
+underwent right femur tumor excision, open reduction, and internal fixation, 
+followed by radiation therapy. She continued to have persistent pain and 
+underwent palliative percutaneous cryoablation of the metastatic tumor under 
+computed tomography (CT) and ultrasound guidance. Immediately post procedure, 
+she developed slow but continuous blood oozing at the ablation site, which was 
+difficult to control despite compression dressings, reinforcement sutures, and 
+local thrombin powder. The patient was transferred to the intensive care unit 
+where she was noted to be hypotensive and tachycardic, with petechiae in both 
+lower extremities. Laboratory studies were consistent with DIC and peripheral 
+blood smear revealed multiple schistocytes. CT angiogram of the right lower 
+extremity did not show any bleeding vessel amenable to embolization. She was 
+transfused red blood cells, platelets, fresh frozen plasma, and cryoprecipitate. 
+Despite multiple daily transfusions, she continued to have pain and remained 
+persistently thrombocytopenic and coagulopathic. After discussion with the 
+patient and her family, she chose to transition to comfort care measures and 
+died.
+CONCLUSIONS: DIC is an unusual but life-threatening complication of advanced 
+pancreatic cancer.
+
+DOI: 10.21037/amj-23-13
+PMCID: PMC11141771
+PMID: 38827122
+
+Conflict of interest statement: Conflicts of Interest: All authors have 
+completed the ICMJE uniform disclosure form (available at 
+https://amj.amegroups.com/article/view/10.21037/amj-23-13/coif). The authors 
+have no conflicts of interest to declare.

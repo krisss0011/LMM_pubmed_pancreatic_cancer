@@ -1,0 +1,57 @@
+1. J Inflamm Res. 2024 Nov 19;17:9041-9058. doi: 10.2147/JIR.S480345. eCollection
+ 2024.
+
+Mesenchymal Stem Extracellular Vesicles in Various Respiratory Diseases: A New 
+Opportunity.
+
+Hu Z(#)(1), Zhu L(#)(2), Zhu Y(3), Xu Y(2).
+
+Author information:
+(1)School of Medicine, Shaoxing University, Shaoxing, Zhejiang, People's 
+Republic of China.
+(2)Department of Infectious Disease, Affiliated Jinhua Hospital, Zhejiang 
+University School of Medicine, Jinhua, Zhejiang, People's Republic of China.
+(3)Department of Hepatobiliary Pancreatic Gastrointestinal Surgery 2, Affiliated 
+Jinhua Hospital of Wenzhou Medical University, Jinhua, Zhejiang, People's 
+Republic of China.
+(#)Contributed equally
+
+Lung diseases are associated with high morbidity and mortality rates, thereby 
+jeopardizing human health and imposing a great burden on society. Currently, 
+lung diseases are mainly treated with medications, oxygen therapy and mechanical 
+ventilation, but these approaches are unable to effectively reduce the mortality 
+rate. Therefore, lung transplantation remains the ultimate treatment for various 
+chronic lung diseases, but this treatment is also hindered by the limited 
+availability of lung sources, immature technology and a low survival rate after 
+transplantation. With constant changes in the environment, pathogens, type and 
+amount of harmful substances and the prevalence of respiratory diseases, there 
+is an urgent need to identify alternative treatment methods. Research on stem 
+cell therapy has been very successful in recent years, and mesenchymal stem 
+cells (MSCs), together with their secretory bodies, play a significant 
+therapeutic role. Extracellular vesicles of MSCs (MSC-EVs) are also major 
+components of the paracrine secretion of MSCs, including exosomes, 
+microvesicles, and apoptotic bodies, among which exosomes are the most typical. 
+MSC-EVs are believed to be present in various tissues of the human body where 
+they can carry proteins, DNA, RNA and biologically active factors, just to name 
+a few. They can also transmit various biological signals to participate in 
+different biological activities, including the maintenance of homeostasis within 
+the tissue. Several studies have further demonstrated that MSCs and their 
+generated extracellular vesicles play an important role in the treatment of 
+diseases. In this paper, the origin, properties and roles of MSCs and MSC-EVs 
+are reviewed, the mechanisms of different lung diseases, the limitations of 
+current therapeutic options and the roles of MSC-EVs in Chronic Obstructive 
+Pulmonary Disease, asthma, infectious lung disease, lung cancer, pulmonary 
+fibrosis, pulmonary arterial hypertension, and acute lung injury/ acute 
+respiratory distress syndrome are also discussed (Figure 1). In addition, the 
+current limitations and possible future research directions are also discussed 
+in view of providing new ideas for the role of MSC-EVs in the treatment of lung 
+diseases.
+
+© 2024 Hu et al.
+
+DOI: 10.2147/JIR.S480345
+PMCID: PMC11586120
+PMID: 39583853
+
+Conflict of interest statement: The authors declare no competing interest in 
+this work.

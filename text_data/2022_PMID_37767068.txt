@@ -1,0 +1,117 @@
+1. Liver Cancer. 2022 Nov 28;12(3):238-250. doi: 10.1159/000528272. eCollection 
+2023 Aug.
+
+IMbrave150: Efficacy and Safety of Atezolizumab plus Bevacizumab versus 
+Sorafenib in Patients with Barcelona Clinic Liver Cancer Stage B Unresectable 
+Hepatocellular Carcinoma: An Exploratory Analysis of the Phase III Study.
+
+Kudo M(1), Finn RS(2), Galle PR(3), Zhu AX(4)(5), Ducreux M(6), Cheng AL(7), 
+Ikeda M(8), Tsuchiya K(9), Aoki KI(10), Jia J(11), Lencioni R(12).
+
+Author information:
+(1)Department of Gastroenterology and Hepatology, Kindai University Faculty of 
+Medicine, Osaka, Japan.
+(2)Department of Medicine, Division of Hematology and Oncology, Jonsson 
+Comprehensive Cancer Center, Geffen School of Medicine at UCLA, Los Angeles, 
+California, USA.
+(3)Department of Internal Medicine, University Medical Center Mainz, Mainz, 
+Germany.
+(4)Massachusetts General Hospital Cancer Center, Harvard Medical School, Boston, 
+Massachusetts, USA.
+(5)Jiahui International Cancer Center, Jiahui Health, Shanghai, China.
+(6)Department of Medical Oncology, Gustave Roussy Cancer Center, Paris-Saclay 
+University, Inserm U1279, Villejuif, France.
+(7)Department of Oncology, National Taiwan University Cancer Center and National 
+Taiwan University Hospital, Taipei, Taiwan.
+(8)Department of Hepatobiliary and Pancreatic Oncology, National Cancer Center 
+Hospital East, Kashiwa, Japan.
+(9)Department of Gastroenterology and Hepatology, Musashino Red Cross Hospital, 
+Tokyo, Japan.
+(10)Chugai Pharmaceutical Ltd., Tokyo, Japan.
+(11)Hoffmann-La Roche Limited, Mississauga, Ontario, Canada.
+(12)University of Pisa, Pisa, Italy.
+
+INTRODUCTION: The phase III IMbrave150 study established atezolizumab + 
+bevacizumab as standard of care in patients with unresectable hepatocellular 
+carcinoma (HCC). This exploratory analysis reports efficacy and safety results 
+in patients with baseline Barcelona Clinic Liver Cancer (BCLC) stage B disease.
+METHODS: Patients with systemic treatment-naive unresectable HCC and Child-Pugh 
+class A liver function were randomized 2:1 to receive 1,200 mg of atezolizumab 
+plus 15 mg/kg of bevacizumab or 400 mg of sorafenib. Co-primary endpoints were 
+overall survival (OS) and progression-free survival (PFS) per independent review 
+facility (IRF)-assessed Response Evaluation Criteria in Solid Tumours (RECIST) 
+version 1.1 in the BCLC stage B subgroup. Patients in this analysis had BCLC 
+stage B disease at baseline per electronic case report form. Secondary efficacy 
+endpoints included the objective response rate (ORR) and change in the sum of 
+longest diameters (SLD) of target lesions from baseline per IRF RECIST 1.1 and 
+modified RECIST (mRECIST) for HCC.
+RESULTS: Of 501 enrolled patients, 74 (15%) had BCLC stage B disease at baseline 
+(atezolizumab + bevacizumab, n = 49; sorafenib, n = 24). For this group, median 
+follow-up was 19.7 months. A trend toward improved OS and PFS per IRF RECIST 1.1 
+was observed with atezolizumab + bevacizumab versus sorafenib (OS: hazard ratio 
+[HR]: 0.63; 95% confidence interval [CI]: 0.29, 1.34; PFS: HR: 0.64; 95% CI: 
+0.36, 1.12). ORRs per IRF RECIST 1.1 and HCC mRECIST were 43% and 50% with 
+atezolizumab + bevacizumab and 26% and 30% with sorafenib, respectively. 
+Percentage change in SLD of target lesions from baseline per IRF RECIST 1.1 and 
+HCC mRECIST showed durable responses with atezolizumab + bevacizumab treatment. 
+Safety data were consistent with known profiles of atezolizumab and bevacizumab, 
+as seen in the overall study population.
+DISCUSSION/CONCLUSION: Efficacy benefits were observed with atezolizumab + 
+bevacizumab in patients with baseline BCLC stage B disease, consistent with the 
+intention-to-treat population.
+
+Copyright © 2022 by The Author(s). Published by S. Karger AG, Basel.
+
+DOI: 10.1159/000528272
+PMCID: PMC10521324
+PMID: 37767068
+
+Conflict of interest statement: Masatoshi Kudo reports the following conflicts 
+of interest: honoraria payment to self from Bayer, Chugai Pharmaceutical Co. 
+Ltd., Eli Lilly, Eisai, Merck Sharp & Dohme, and Takeda; research funding to the 
+institution from AbbVie, Chugai Pharmaceutical Co. Ltd., EA Pharma, Eisai, F. 
+Hoffmann-La Roche Ltd., GE Healthcare, Gilead Sciences, Otsuka, Sumitomo 
+Dainippon Pharma, Taiho, and Takeda; Editor-in-Chief of Liver Cancer. Richard S. 
+Finn reports the following conflicts of interest: consulting fees to self from 
+AstraZeneca, Bayer, CStone Pharmaceuticals, Eisai, Eli Lilly, Exelixis, F. 
+Hoffmann-La Roche Ltd., Jiangsu Hengrui Pharmaceuticals, Merck, and Pfizer; 
+research funding to the institution from Adaptimmune, Bristol Myers Squibb, 
+Eisai, Eli Lilly, Merck, Pfizer, and F. Hoffmann-La Roche Ltd; Editorial Board 
+Member of Liver Cancer. Peter R. Galle reports the following conflicts of 
+interest: consulting fees to self from Adaptimmune, AstraZeneca, Bayer, Boston 
+Scientific, Bristol Myers Squibb, Eisai, Eli Lilly, F. Hoffmann-La Roche Ltd., 
+Guerbet, Ipsen, Merck Sharp & Dohme, and Sirtex Medical; honoraria payment to 
+self from Adaptimmune, AstraZeneca, Bayer, Boston Scientific, Bristol Myers 
+Squibb, Eisai, Eli Lilly, F. Hoffmann-La Roche Ltd., Guerbet, Ipsen, Merck Sharp 
+& Dohme, and Sirtex Medical; advisory fees to self from Adaptimmune, 
+AstraZeneca, Bayer, Boston Scientific, Bristol Myers Squibb, Eisai, Eli Lilly, 
+F. Hoffmann-La Roche Ltd., Guerbet, Ipsen, Merck Sharp & Dohme, and Sirtex 
+Medical; research funding to the institution from Bayer and F. Hoffmann-La Roche 
+Ltd. Andrew X. Zhu reports the following conflicts of interest: consulting fees 
+to self from Eisai, Eli Lilly, F. Hoffmann-La Roche Ltd., and Sanofi-Aventis; 
+research funding to the institution from F. Hoffmann-La Roche Ltd. Michel 
+Ducreux reports the following conflicts of interest: honoraria, consulting fees, 
+or advisory fees to self from Amgen, AstraZeneca, Bayer, Eli Lilly, F. 
+Hoffmann-La Roche Ltd., Ipsen, Merck Serono, Pierre Fabre, and Servier; speaker 
+bureau participation for Amgen, Bayer, Eli Lilly, F. Hoffmann-La Roche Ltd., 
+Ipsen, and Merck Serono; travel support from Bayer, Eli Lilly, F. Hoffmann-La 
+Roche Ltd., Ipsen, Merck Sharp & Dohme, and Servier; research funding to the 
+institution from Bayer and F. Hoffmann-La Roche Ltd. Ann-Lii Cheng reports the 
+following conflicts of interest: research funding to the institution from F. 
+Hoffmann-La Roche Ltd. Masafumi Ikeda reports the following conflicts of 
+interest: honoraria to self from Bayer, Chugai Pharmaceutical Co. Ltd., Eisai, 
+Eli Lilly, and Takeda; advisory/consulting fees to self from Chugai 
+Pharmaceutical Co. Ltd., Eisai, Eli Lilly, Merck Sharp & Dohme, and Takeda; 
+research funding to the institution from Bayer, Bristol Myers Squibb, Chugai 
+Pharmaceutical Co. Ltd., Eisai, Eli Lilly, F. Hoffmann-La Roche Ltd., Merck 
+Sharp & Dohme, and Takeda. Kaoru Tsuchiya reports the following conflicts of 
+interest: advisory/consultancy fees to self from Chugai Pharmaceutical Co. Ltd., 
+and Eisai; speaker bureau participation for Chugai Pharmaceutical Co. Ltd., 
+Eisai, Eli Lilly, and Takeda; research funding to the institution from F. 
+Hoffmann-La Roche Ltd. Ken-ichi Aoki reports the following conflicts of 
+interest: employment by Chugai Pharmaceutical Co. Ltd. Jing Jia reports the 
+following conflicts of interest: employment by F. Hoffmann-La Roche Ltd. 
+Riccardo Lencioni reports the following conflicts of interest: 
+advisory/consultancy fees to self from AstraZeneca, Bayer, Eisai, and F. 
+Hoffmann-La Roche Ltd.; research funding to the institution from F. Hoffmann-La 
+Roche Ltd.

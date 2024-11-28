@@ -1,0 +1,41 @@
+1. Front Oncol. 2024 Jan 4;13:1333839. doi: 10.3389/fonc.2023.1333839.
+eCollection  2023.
+
+The importance of cancer-associated fibroblasts in targeted therapies and drug 
+resistance in breast cancer.
+
+Zheng J(1), Hao H(1).
+
+Author information:
+(1)Department of Pathology, Yangpu Hospital, School of Medicine, Tongji 
+University, Shanghai, China.
+
+Cancer-associated fibroblasts (CAFs) play a substantial role in the tumor 
+microenvironment, exhibiting a strong association with the advancement of 
+various types of cancer, including breast, pancreatic, and prostate cancer. CAFs 
+represent the most abundant mesenchymal cell population in breast cancer. 
+Through diverse mechanisms, including the release of cytokines and exosomes, 
+CAFs contribute to the progression of breast cancer by influencing tumor energy 
+metabolism, promoting angiogenesis, impairing immune cell function, and 
+remodeling the extracellular matrix. Moreover, CAFs considerably impact the 
+response to treatment in breast cancer. Consequently, the development of 
+interventions targeting CAFs has emerged as a promising therapeutic approach in 
+the management of breast cancer. This article provides an analysis of the role 
+of CAFs in breast cancer, specifically in relation to diagnosis, treatment, drug 
+resistance, and prognosis. The paper succinctly outlines the diverse mechanisms 
+through which CAFs contribute to the malignant behavior of breast cancer cells, 
+including proliferation, invasion, metastasis, and drug resistance. Furthermore, 
+the article emphasizes the potential of CAFs as valuable tools for early 
+diagnosis, targeted therapy, treatment resistance, and prognosis assessment in 
+breast cancer, thereby offering novel approaches for targeted therapy and 
+overcoming treatment resistance in this disease.
+
+Copyright © 2024 Zheng and Hao.
+
+DOI: 10.3389/fonc.2023.1333839
+PMCID: PMC10810416
+PMID: 38273859
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

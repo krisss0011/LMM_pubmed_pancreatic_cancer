@@ -1,0 +1,47 @@
+1. Biomolecules. 2024 Oct 28;14(11):1374. doi: 10.3390/biom14111374.
+
+Serum from Hypertensive Patients Induces Cancer-Supporting Phenotype of Vascular 
+Endothelium In Vitro.
+
+Uruski P(1), Mikuła-Pietrasik J(2), Tykarski A(1), Książek K(2).
+
+Author information:
+(1)Department of Hypertensiology, Angiology and Internal Medicine, Poznan 
+University of Medical Sciences, Długa 1/2 Str., 61-848 Poznan, Poland.
+(2)Department of Pathophysiology of Ageing and Civilization Diseases, Poznan 
+University of Medical Sciences, Święcickiego 4 Str., 60-781 Poznan, Poland.
+
+BACKGROUND/OBJECTIVES: Large-scale epidemiological studies have established a 
+bidirectional association between hypertension and cancer. However, the 
+underlying mechanisms explaining this connection remain unclear. In our study, 
+we investigated whether serum from patients with hypertension (HT) could enhance 
+the aggressiveness of cancer cells in vitro through alterations in endothelial 
+cell phenotype.
+METHODS: Experiments were performed using EAhy926 endothelial cells and ovarian 
+(SKOV-3), colorectal (SW480), pancreatic (PSN-1), breast (MCF-7), and lung 
+(A549) cancer cell lines.
+RESULTS: This study showed that conditioned medium (CM) produced by EAhy926 
+cells, when exposed to serum from patients with untreated hypertension (HT-CM), 
+promotes the proliferation, migration, and invasion of every cancer cell line 
+tested. In addition, endothelial cells subjected to HT serum promote the 
+adhesion of all cancer cell types except PSN-1. An intensified transendothelial 
+invasion of cancer cells was accompanied by decreased expression of junctional 
+proteins (connexin 43, E-cadherin, occluding, desmoglein) in HT serum-treated 
+endothelial cells. Quantitative analysis of the secretome of endothelial cells 
+subjected to HT serum showed that they secrete increased amounts of CCL2, CXCL1, 
+CXCL8, bFGF, HGF, IL-6, PAI-1, and TGF-β1. Moreover, cancer cells exposed to 
+HT-CM display increased mRNA expression for several pro-cancerogenic agents, 
+including CXCL8, tPA, and VEGF.
+CONCLUSIONS: Our report shows that hypertension may potentiate cancer cell 
+aggressiveness by modulating endothelial cell phenotype. Further tests with 
+antihypertensive drugs are required to assess whether effective treatment of 
+hypertension can mitigate its cancer-promoting potential.
+
+DOI: 10.3390/biom14111374
+PMCID: PMC11592052
+PMID: 39595551 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest. 
+The funders had no role in the design of the study; in the collection, analyses, 
+or interpretation of data; in the writing of the manuscript, or in the decision 
+to publish the results.

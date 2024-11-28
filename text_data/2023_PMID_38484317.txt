@@ -1,0 +1,30 @@
+1. Magy Onkol. 2023 Sep 28;67(3):194-201. Epub 2023 Sep 10.
+
+[Electromagnetic procedures in the treatment of pancreatic cancer: eminent or 
+resentful?].
+
+[Article in Hungarian]
+
+Dank M(1), Herold M(1), Garay MT(1), Gajdácsi J(2), Herold Z(1), Szász MA(1).
+
+Author information:
+(1)Belgyógyászati és Onkológiai Klinika, Semmelweis Egyetem ÁOK, Onkológiai 
+Profil, Budapest, Hungary. szasz.attila.marcell@semmelweis.hu.
+(2)Patológiai, Igazságügyi és Biztosítási Orvostani Intézet, Semmelweis Egyetem 
+ÁOK, Budapest, Hungary.
+
+The treatment of advanced-stage pancreatic cancers is limited. Previous studies 
+have found that the use of modulated electro-hyperthermia (mEHT) is beneficial 
+in this patient population. However, there is no data on the optimal treatment 
+number and initiation period. Therefore, a retrospective study was conducted 
+with the inclusion of 96 mEHT-treated and 86 age- and sex-matched control 
+pancreatic cancer patients. 76, 57, 38 and 33 patient pairs were enrolled into 
+propensity score matched cohorts, whether they received at least 10, 20, 30 and 
+40 mEHT treatments, respectively. The survival of patients with at least 30 (HR: 
+0.5011; p = 0.0041) and 40 (HR: 0.5048; p = 0.0085) mEHT treatments was 
+significantly longer, median survival was almost twice as long (10 vs. 18 
+months). The introduction of mEHT had the greatest benefit in the first (HR: 
+0.5382; p = 0.0056) and second (HR: 0.7861; p = 0.0031) 6 months after 
+diagnosis.
+
+PMID: 38484317 [Indexed for MEDLINE]

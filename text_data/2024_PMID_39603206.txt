@@ -1,0 +1,59 @@
+1. Transl Oncol. 2024 Nov 26;51:102206. doi: 10.1016/j.tranon.2024.102206. Online
+ ahead of print.
+
+Niraparib perturbs autophagosome-lysosome fusion in pancreatic ductal 
+adenocarcinoma and exhibits anticancer potential against gemcitabine-resistant 
+PDAC.
+
+Yao Z(1), Zhang H(2), Huang K(3), Huang G(1), Xi P(1), Jiang L(1), Qin D(1), 
+Chen F(4), Li S(5), Wei R(6).
+
+Author information:
+(1)State Key Laboratory of Oncology in South China, Guangdong Provincial 
+Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, 
+Guangzhou, 510060, China.
+(2)Center for Orthopaedic Surgery, Guangdong Provincial Key Laboratory of Bone 
+and Joint Degeneration Diseases, The Third Affiliated Hospital of Southern 
+Medical University, Guangzhou, Guangdong, 510060, China.
+(3)Department of Clinical Laboratory, Sun Yat-Sen University Cancer Center, 
+Guangzhou, 510060, China.
+(4)State Key Laboratory of Oncology in South China, Guangdong Provincial 
+Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, 
+Guangzhou, 510060, China. Electronic address: chenfan2@sysucc.org.cn.
+(5)State Key Laboratory of Oncology in South China, Guangdong Provincial 
+Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, 
+Guangzhou, 510060, China. Electronic address: lishengp@mail.sysu.edu.cn.
+(6)State Key Laboratory of Oncology in South China, Guangdong Provincial 
+Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center, 
+Guangzhou, 510060, China. Electronic address: weiran@sysucc.org.cn.
+
+While poly (adenosine diphosphate-ribose) polymerase inhibitors (PARPi) have 
+achieved specific clinical benefits in a subset of pancreatic ductal 
+adenocarcinoma (PDAC) patients, the potential role of the PARPi niraparib in 
+PDAC necessitates further exploration. In this study, we demonstrated that 
+Niraparib exhibited a pronounced inhibitory effect on autophagy in PDAC both in 
+vitro and in vivo. Mechanistically, this inhibition was primarily attributed to 
+niraparib's ability to disrupt the fusion process between autophagosomes and 
+lysosomes, while potentially exerting a relatively minor impact on the initial 
+stage of autophagy. The blockade effect observed may be mediated via modulation 
+of the ERK signaling pathway, and this effect can be mitigated by the 
+application of an ERK inhibitor (FR180204). Notably, the combined treatment 
+regimen of niraparib and gemcitabine failed to elicit the anticipated 
+synergistic effects in wild-type PANC-1 cells, instead exhibiting pronounced 
+antagonistic interactions. However, in gemcitabine-resistant PANC-1 cells, the 
+combination of niraparib and gemcitabine exhibited modest additive effects. 
+Furthermore, niraparib demonstrated a heightened cytotoxic potency against 
+gemcitabine-resistant PANC-1 cells compared to wild-type PANC-1 cells, both in 
+vitro and in vivo. Our research established that niraparib inhibits late-stage 
+autophagy in PDAC, potentially representing a valuable salvage therapy for 
+gemcitabine-resistant PDAC. Further clinical studies are justified.
+
+Copyright © 2024. Published by Elsevier Inc.
+
+DOI: 10.1016/j.tranon.2024.102206
+PMID: 39603206
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.

@@ -1,0 +1,41 @@
+1. Int J Mol Sci. 2024 Nov 9;25(22):12038. doi: 10.3390/ijms252212038.
+
+Predicting and Monitoring Immune Checkpoint Inhibitor Therapy Using Artificial 
+Intelligence in Pancreatic Cancer.
+
+Yu G(1), Zhang Z(2), Eresen A(2)(3), Hou Q(2), Amirrad F(4), Webster S(4), Nauli 
+S(4)(5), Yaghmai V(2)(3), Zhang Z(1)(2)(3)(6).
+
+Author information:
+(1)Department of Biomedical Engineering, University of California, Irvine, CA 
+92617, USA.
+(2)Department of Radiological Sciences, University of California, Irvine, CA 
+92868, USA.
+(3)Chao Family Comprehensive Cancer Center, University of California Irvine, 
+Irvine, CA 92612, USA.
+(4)Department of Biomedical and Pharmaceutical Sciences, Harry and Diane Rinker 
+Health Science Campus, Chapman University, Irvine, CA 92618, USA.
+(5)Department of Medicine, University of California Irvine, Irvine, CA 92868, 
+USA.
+(6)Department of Pathology and Laboratory Medicine, University of California 
+Irvine, Irvine, CA 92617, USA.
+
+Pancreatic cancer remains one of the most lethal cancers, primarily due to its 
+late diagnosis and limited treatment options. This review examines the 
+challenges and potential of using immunotherapy to treat pancreatic cancer, 
+highlighting the role of artificial intelligence (AI) as a promising tool to 
+enhance early detection and monitor the effectiveness of these therapies. By 
+synthesizing recent advancements and identifying gaps in the current research, 
+this review aims to provide a comprehensive overview of how AI and immunotherapy 
+can be integrated to develop more personalized and effective treatment 
+strategies. The insights from this review may guide future research efforts and 
+contribute to improving patient outcomes in pancreatic cancer management.
+
+DOI: 10.3390/ijms252212038
+PMCID: PMC11593706
+PMID: 39596108 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest. 
+The funders had no role in the design of the study; in the collection, analyses, 
+or interpretation of the data; in the writing of the manuscript; or in the 
+decision to publish the results.

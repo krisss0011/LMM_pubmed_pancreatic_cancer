@@ -1,0 +1,37 @@
+1. Turk J Med Sci. 2023 Sep 9;53(6):1552-1564. doi: 10.55730/1300-0144.5724. 
+eCollection 2023.
+
+Long noncoding RNAs in pancreas cancer: from biomarkers to therapeutic targets.
+
+Güzel Tanoğlu E(1)(2), Adigüzel S(1)(2), Tanoğlu A(3), Aydin ZB(1)(2), Hocaoğlu 
+G(1)(2), Ebinç S(1)(2).
+
+Author information:
+(1)Department of Molecular Biology and Genetics, Hamidiye Institute of Health 
+Sciences, University of Health Sciences, İstanbul, Turkiye.
+(2)Experimental Medicine Research and Application Center, University of Health 
+Sciences, İstanbul, Turkiye.
+(3)Department of Internal Medicine, Division of Gastroenterology, School of 
+Medicine, Bahçeşehir University, İstanbul, Turkiye.
+
+Long noncoding RNAs (lncRNAs) are noncoding RNA molecules with a heterogeneous 
+structure consisting of 200 or more nucleotides. Because these noncoding RNAs 
+are transcribed by RNA polymerase II, they have properties similar to messenger 
+RNA (mRNA). Contrary to popular belief, the term "ncRNA" originated before the 
+discovery of microRNAs. LncRNA genes are more numerous than protein-coding 
+genes. They are the focus of current molecular research because of their pivotal 
+roles in cancer-related processes such as cell proliferation, differentiation, 
+and migration. The incidence of pancreatic cancer (PC) is increasing around the 
+world and research on the molecular aspects of PC are growing. In this review, 
+it is aimed to provide critical information about lncRNAs in PC, including the 
+biological and oncological behaviors of lncRNAs in PC and their potential 
+application in therapeutic strategies and as diagnostic tumor markers.
+
+© TÜBİTAK.
+
+DOI: 10.55730/1300-0144.5724
+PMCID: PMC10760575
+PMID: 38813489 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: The authors declare no 
+conflicts of interest.

@@ -1,0 +1,32 @@
+1. Gan To Kagaku Ryoho. 2023 Dec;50(13):1384-1386.
+
+[Retrospective Study of Preoperative Serial Pancreatic Juice Aspiration 
+Cytological Examination(SPACE)for Early Preoperative Detection of Pancreatic 
+Cancer].
+
+[Article in Japanese]
+
+Yamashita K(1), Nishino H, Takayashiki T, Takano S, Suzuki D, Sakai N, Hosokawa 
+I, Mishima T, Konishi T, Suzuki K, Nakada S, Otsuka M.
+
+Author information:
+(1)Dept. of General Surgery, Chiba University Graduate School of Medicine.
+
+Serial pancreatic juice aspiration cytological examination(SPACE)has been 
+reported as a reliable preoperative diagnostic method for early pancreatic 
+cancer, when combined with imaging findings suspecting early pancreatic cancer. 
+Among 259 patients with suspected pancreatic cancer who underwent pancreatic 
+resection at our hospital, SPACE was preoperatively performed in 14 cases(5.4%). 
+Of these 14 cases, final pathological diagnosis was pancreatic cancer in 12 
+patients (86%), including 5 patients with Stage ⅠA pancreatic cancer(35.7%), all 
+of whom had a mass on preoperative CT or EUS. On the other hand, in the other 2 
+cases(14.3%), CT/EUS detected no mass but focal pancreatic parenchymal atrophy 
+and main pancreatic duct stenosis which were the imaging findings suspecting 
+very early pancreatic cancer such as cancer in situ. Although preoperative SPACE 
+results of these 2 cases were class Ⅳ, final pathological results of resected 
+specimen were low-grade PanIN in both cases. SPACE was considered useful for 
+preoperative diagnosis of pancreatic cancer in our study, however further study 
+is needed to examine its diagnostic accuracy for early pancreatic cancer which 
+does not appear as a mass in any imaging modality.
+
+PMID: 38303282 [Indexed for MEDLINE]

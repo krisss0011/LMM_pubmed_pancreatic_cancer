@@ -1,0 +1,98 @@
+1. Liver Cancer. 2022 Oct 5;12(1):32-43. doi: 10.1159/000527294. eCollection 2023
+ Feb.
+
+Surgical Outcomes of Laparoscopic versus Open Hepatectomy for Left 
+Hepatocellular Carcinoma: Propensity Score Analyses Using Retrospective Japanese 
+and Korean Individual Patient Data.
+
+Kaibori M(1), Yoshii K(2), Umeda Y(3), Yagi T(3), Okabayashi T(4), Sui K(4), 
+Mori A(5), Hamaguchi Y(5), Kajiyama K(6), Hokuto D(7), Monden K(8), Yoshizumi 
+T(9), Nomura Y(10), Toriguchi K(11), Kim JM(12), Choi GH(13), Ryu JH(14), Koh 
+Y(15), Kang KJ(16), You YK(17), Chun KS(18), Han YS(19), Cho CW(20), Choi 
+YI(21), Kim DS(22), Yang JD(23), Mori K(24), Hiraoka A(25), Yamaue H(26), 
+Nakamura M(27), Yamamoto M(28), Endo I(29).
+
+Author information:
+(1)Department of Surgery, Kansai Medical University, Osaka, Japan.
+(2)Department of Mathematics and Statistics in Medical Sciences, Kyoto 
+Prefectural University of Medicine, Kyoto, Japan.
+(3)Gastroenterological Surgery, Okayama University Graduate School of Medicine, 
+Dentistry, and Pharmaceutical Sciences, Okayama, Japan.
+(4)Department of Gastroenterological Surgery, Kochi Health Sciences Center, 
+Kochi, Japan.
+(5)Department of Surgery, Japanese Red Cross Osaka Hospital, Osaka, Japan.
+(6)Department of Surgery, Iizuka Hospital, Fukuoka, Japan.
+(7)Department of Surgery, Nara Medical University, Nara, Japan.
+(8)Department of Surgery, Fukuyama City Hospital, Hiroshima, Japan.
+(9)Department of Surgery and Science, Graduate School of Medical Sciences, 
+Kyushu University, Fukuoka, Japan.
+(10)Division of Hepatobiliary and Pancreatic Surgery, Department of Surgery, 
+Kurume University School of Medicine, Fukuoka, Japan.
+(11)Department of Gastroenterological Surgery, Hyogo College of Medicine, 
+Nishinomiya, Japan.
+(12)Department of Surgery, Samsung Medical Center, Sungkyunkwan University 
+School of Medicine, Seoul, Republic of Korea.
+(13)Division of Hepatobiliary and Pancreas Surgery, Department of Surgery, 
+Severance Hospital, Yonsei University College of Medicine, Seoul, Republic of 
+Korea.
+(14)Division of Hepato-Biliary-Pancreatic Surgery and Transplantation, 
+Department of Surgery, Pusan National University Yangsan Hospital, Pusan 
+National University School of Medicine, Busan, Republic of Korea.
+(15)Department of Surgery, Chonnam National University Hwasun Hospital, Chonnam 
+National University Medical School, Gwangju, Republic of Korea.
+(16)Division of Hepatobiliary and Pancreatic Surgery, Department of Surgery, 
+Keimyung University Dongsan Medical Center, Daegu, Republic of Korea.
+(17)Department of Surgery, Seoul St. Mary's Hospital, College of Medicine, The 
+Catholic University of Korea, Seoul, Republic of Korea.
+(18)Department of Surgery, Chungnam National University Hospital, Daejeon, 
+Republic of Korea.
+(19)Liver Transplantation and Hepatobiliary Pancreas Surgery, Department of 
+Surgery, Kyungpook National University, School of Medicine, Kyungpook National 
+University Hospital, Daegu, Republic of Korea.
+(20)Department of Surgery, Yeungnam University College of Medicine, Daegu, 
+Republic of Korea.
+(21)Department of Surgery, Kosin University Gospel Hospital, Kosin University 
+College of Medicine, Busan, Republic of Korea.
+(22)Division of HBP Surgery and Liver Transplantation, Department of Surgery, 
+Korea University College of Medicine, Seoul, Republic of Korea.
+(23)Department of Surgery, Jeonbuk National University Hospital, Jeonbuk 
+National University Medical School, Jeonju, Republic of Korea.
+(24)Department of Biostatistics, Clinical Research Center, Shizuoka Cancer 
+Center, Shizuoka, Japan.
+(25)Gastroenterology Center, Ehime Prefectural Central Hospital, Matsuyama, 
+Japan.
+(26)Second Department of Surgery, Wakayama Medical University, Wakayama, Japan.
+(27)Surgery and Oncology, Graduate School of Medical Sciences, Kyushu 
+University, Fukuoka, Japan.
+(28)Department of Surgery, Utsunomiya Memorial Hospital, Tochigi, Japan.
+(29)Gastroenterological Surgery, Yokohama City University Graduate School of 
+Medicine, Kanagawa, Japan.
+
+INTRODUCTION: This study aimed to compare the prognostic impact of laparoscopic 
+left hepatectomy (LLH) with that of open left hepatectomy (OLH) on patient 
+survival after resection of left hepatocellular carcinoma (HCC).
+METHODS: Among the 953 patients who received initial treatment for primary HCC 
+that was resectable by either LLH or OLH from 2013 to 2017 in Japan and Korea, 
+146 patients underwent LLH and 807 underwent OLH. The inverse probability of 
+treatment weighting approach based on propensity scoring was used to address the 
+potential selection bias inherent in the recurrence and survival outcomes 
+between the LLH and OLH groups.
+RESULTS: The occurrence rate of postoperative complications and hepatic 
+decompensation was significantly lower in the LLH group than in the OLH group. 
+Recurrence-free survival (RFS) was better in the LLH group than in the OLH group 
+(hazard ratio, 1.33; 95% confidence interval, 1.03-1.71; p = 0.029), whereas 
+overall survival (OS) was not significantly different. Subgroup analyses of RFS 
+and OS revealed an almost consistent trend in favor of LLH over OLH. In patients 
+with tumor sizes of ≥4.0 cm or those with single tumors, both RFS and OS were 
+significantly better in the LLH group than in the OLH group.
+CONCLUSIONS: LLH decreases the risk of tumor recurrence and improves OS in 
+patients with primary HCC located in the left liver.
+
+Copyright © 2022 by The Author(s). Published by S. Karger AG, Basel.
+
+DOI: 10.1159/000527294
+PMCID: PMC9982339
+PMID: 36872920
+
+Conflict of interest statement: None of the other authors have potential 
+conflicts of interest to declare.

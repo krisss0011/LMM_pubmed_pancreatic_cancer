@@ -1,0 +1,51 @@
+1. J Med Genet. 2023 May;60(5):477-483. doi: 10.1136/jmg-2022-108633. Epub 2022
+Sep  7.
+
+Genotype-phenotype correlations and clinical outcomes of patients with von 
+Hippel-Lindau disease with large deletions.
+
+Zhang K(#)(1)(2)(3), Yang W(#)(1)(2)(3), Ma K(1)(2), Qiu J(1)(2), Li L(1)(2), Xu 
+Y(1)(2), Zhang Z(1)(2), Yu C(1)(2), Zhou J(1)(2), Gong Y(1)(2), Cai 
+L(#)(4)(2)(3), Gong K(#)(4)(2)(3).
+
+Author information:
+(1)Department of Urology, Peking University First Hospital, Beijing, China.
+(2)Institute of Urology, Peking University, Beijing, China.
+(3)Hereditary Kidney Cancer Research Center, Peking University First Hospital, 
+Beijing, China.
+(4)Department of Urology, Peking University First Hospital, Beijing, China 
+gongkan_pku@126.com drcailin@163.com.
+(#)Contributed equally
+
+BACKGROUND: Approximately 20%-40% of patients with von Hippel-Lindau (VHL) 
+disease, an autosomal dominant hereditary disease, exhibit large deletions 
+(LDs). Few studies have focused on this population. Hence, we aimed to elucidate 
+the genotype-phenotype correlations and clinical outcomes in VHL patients with 
+LDs.
+METHODS: In this retrospective study, we included 119 patients with VHL disease 
+from 50 unrelated families in whom LDs were detected using traditional and 
+next-generation sequencing methods. Other germline mutations were confirmed by 
+Sanger sequencing. Genotype-phenotype correlations and survival were analysed in 
+different groups using Kaplan-Meier and Cox regression. We also evaluated 
+therapeutic response to tyrosine kinase inhibitor (TKI) therapy.
+RESULTS: The overall penetrance of patients aged <60 was 95.2%. Two VHL patients 
+with LDs also carried CHEK2 and FLCN germline mutations. An earlier age of onset 
+of retinal haemangioblastoma was observed in the next generation. Patients with 
+exon 2 deletion of VHL had an earlier onset age of renal cell carcinoma and 
+pancreatic lesions. The risk of renal cell carcinoma was lower in VHL patients 
+with LDs and a BRK1 deletion. The group with earlier age of onset received 
+poorer prognosis. Four of eight (50%) patients showed partial response to TKI 
+therapy.
+CONCLUSION: The number of generations and the status of exon 2 could affect age 
+of onset of VHL-related manifestations. Onset age was an independent risk factor 
+for overall survival. TKI therapy was effective in VHL patients with LDs. Our 
+findings would further support clinical surveillance and decision-making 
+processes.
+
+© Author(s) (or their employer(s)) 2023. No commercial re-use. See rights and 
+permissions. Published by BMJ.
+
+DOI: 10.1136/jmg-2022-108633
+PMID: 37080588 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.

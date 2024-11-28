@@ -1,0 +1,38 @@
+1. Oxf Med Case Reports. 2023 Nov 28;2023(11):omad120. doi: 10.1093/omcr/omad120.
+ eCollection 2023 Nov.
+
+Severe and fatal interstitial lung disease induced by gemcitabine in advanced 
+pancreatic adenocarcinoma: a case report.
+
+Haag EK(1), Adjadé G(1)(2), Dawood H(2), El Fadli M(1), Essadi I(3), Belbaraka 
+R(1).
+
+Author information:
+(1)Department of Medical Oncology, University Hospital Mohammed VI, Cadi Ayyad 
+University, Marrakech, Morocco.
+(2)Department of Medical Oncology, Regional Hospital of Orleans, Orleans, 
+France.
+(3)Department of Medical Oncology, Military Hospital Avicennes, Marrakech, 
+Morocco.
+
+Gemcitabine is a cytotoxic drug commonly used in the treatment of several types 
+of cancer. While gemcitabine is generally considered safe and effective, it can 
+cause some side effects, including pulmonary toxicity. Interstitial lung disease 
+is a rare but potentially serious event. We report a case of a 63-year-old 
+patient with advanced pancreatic adenocarcinoma. She received Gemcitabine 
+1000 mg/m2 on day 1, and day 8, and presented on day 15 of the first cycle with 
+respiratory distress rapidly aggravating. Clinical and radiological findings 
+were concordant with interstitial lung disease. Management consisted of high 
+doses of corticosteroids and oxygen therapy. There was no clinical improvement 
+and the patient passed away after a few days. Despite its low incidence, 
+gemcitabine-induced interstitial lung disease may be responsible for a fatal 
+clinical picture. Clinicians must be aware of this possibility and address 
+respiratory symptoms as soon as possible.
+
+© The Author(s) 2023. Published by Oxford University Press.
+
+DOI: 10.1093/omcr/omad120
+PMCID: PMC10805609
+PMID: 38264204
+
+Conflict of interest statement: None declared.

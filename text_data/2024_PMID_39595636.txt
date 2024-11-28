@@ -1,0 +1,32 @@
+1. Biomolecules. 2024 Nov 17;14(11):1458. doi: 10.3390/biom14111458.
+
+Tumor-Colonizing E. coli Expressing Both Collagenase and Hyaluronidase Enhances 
+Therapeutic Efficacy of Gemcitabine in Pancreatic Cancer Models.
+
+Avsharian LC(1)(2), Loganathan S(1), Ebelt ND(1), Shalamzari AF(2), Rodarte 
+Muñoz I(1), Manuel ER(1).
+
+Author information:
+(1)Department of Immuno-Oncology, Beckman Research Institute of the City of 
+Hope, Duarte, CA 91010, USA.
+(2)Irell and Manella Graduate School of Biological Sciences, City of Hope, 
+Duarte, CA 91010, USA.
+
+Desmoplasia is a hallmark feature of pancreatic ductal adenocarcinoma (PDAC) 
+that contributes significantly to treatment resistance. Approaches to enhance 
+drug delivery into fibrotic PDAC tumors continue to be an important unmet need. 
+In this study, we have engineered a tumor-colonizing E. coli-based agent that 
+expresses both collagenase and hyaluronidase as a strategy to reduce desmoplasia 
+and enhance the intratumoral perfusion of anticancer agents. Overall, we 
+observed that the tandem expression of both these enzymes by tumor-colonizing E. 
+coli resulted in the reduced presence of intratumoral collagen and hyaluronan, 
+which likely contributed to the enhanced chemotherapeutic efficacy observed when 
+used in combination. These results highlight the importance of combination 
+treatments involving the depletion of desmoplastic components in PDAC before or 
+during treatment.
+
+DOI: 10.3390/biom14111458
+PMCID: PMC11591662
+PMID: 39595636 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.

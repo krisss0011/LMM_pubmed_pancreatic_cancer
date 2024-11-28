@@ -1,0 +1,26 @@
+1. Genes Dis. 2022 Nov 19;10(4):1513-1524. doi: 10.1016/j.gendis.2022.10.019. 
+eCollection 2023 Jul.
+
+The role of TGF-β in the tumor microenvironment of pancreatic cancer.
+
+Luo Q(1), Hu Z(1), Zhao H(1), Fan Y(1), Tu X(1), Wang Y(1), Liu X(1).
+
+Author information:
+(1)Hubei Key Laboratory of Tumor Microenvironment and Immunotherapy, College of 
+Basic Medical Science, China Three Gorges University, Yichang, Hubei 443003, 
+China.
+
+Pancreatic cancer (PC) is an aggressive malignant tumor with low rate of 
+surgical resection and poor prognosis. Transforming growth factor-β (TGF-β) is a 
+cytokine that has both protumor and antitumor activities, depending on tumor 
+microenvironment. The interaction between TGF-β signaling and the tumor 
+microenvironment in PC is complex. Here, we reviewed the role of TGF-β in the 
+tumor microenvironment of PC, highlighting producers of TGF-β and TGF-β 
+responders in the tumor microenvironment of PC.
+
+© 2022 The Authors. Publishing services by Elsevier B.V. on behalf of KeAi 
+Communications Co., Ltd.
+
+DOI: 10.1016/j.gendis.2022.10.019
+PMCID: PMC10311106
+PMID: 37397548

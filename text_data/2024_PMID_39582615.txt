@@ -1,0 +1,61 @@
+1. World J Clin Oncol. 2024 Nov 24;15(11):1404-1411. doi: 
+10.5306/wjco.v15.i11.1404.
+
+Recent efficacy and long-term survival of Astragalus polysaccharide combined 
+with gemcitabine and S-1 in pancreatic cancer.
+
+Li GY(1)(2), Jiang J(3).
+
+Author information:
+(1)The First Affiliated Hospital of Zhejiang Chinese Medical University 
+(Zhejiang Provincial Hospital of Chinese Medicine), Hangzhou 310000, Zhejiang, 
+China.
+(2)The First Clinical Medical College of Zhejiang Chinese Medical University, 
+Hangzhou 310000, Zhejiang Province, China.
+(3)Zhejiang Cancer Hospital, Hangzhou 310000, Zhejiang Province, China. 
+jjsgxhszlyy@gmail.com.
+
+BACKGROUND: Pancreatic cancer is a highly malignant tumor with a rapid 
+progression rate and a high susceptibility to infiltration and metastasis. 
+Astragalus polysaccharide (APS), a pure Chinese medicine preparation primarily 
+made from the traditional Chinese herb Astragalus, plays a positive role in the 
+treatment of many malignant tumors.
+AIM: To explore the recent efficacy of APS combined with gemcitabine plus 
+tegafur gimeracil oteracil potassium capsule (S-1) (GS) regimen in the treatment 
+of pancreatic cancer and assess its effect on the immune function and long-term 
+survival of patients.
+METHODS: A total of 97 patients who were diagnosed with pancreatic cancer and 
+received GS chemotherapy at The First Affiliated Hospital of Zhejiang Chinese 
+Medical University (Zhejiang Provincial Hospital of Chinese Medicine) from March 
+2021 to December 2021 were included in the retrospective analysis. Among them, 
+41 patients received APS combined with GS chemotherapy, and 56 patients received 
+GS chemotherapy only. The recent efficacy, immune function, adverse reactions, 
+and long-term survival were compared among these patients.
+RESULTS: After 4 cycles of treatment, the objective response rate of patients 
+receiving the combined therapy of APS and GS was 51.22%, and the disease control 
+rate (DCR) was 56.10%, higher than those of patients receiving the monotherapy 
+with GS alone (30.36% and 35.71%, respectively). Besides, the percentages of 
+CD3+ T cells (50.18% ± 9.57%) and CD4+ T cells (31.52% ± 5.33%) in the 
+peripheral blood of patients receiving the combined therapy of APS and GS were 
+higher compared with those treated with GS regimen alone [(44.06% ± 8.55%) and 
+(26.01% ± 7.83%), respectively]. Additionally, the incidences of leukopenia, 
+thrombocytopenia, and fatigue in patients receiving the combined therapy of APS 
+and GS were significantly lower than those in patients receiving the monotherapy 
+of GS alone (17.07%, 9.76%, 31.71% vs 37.50%, 28.57%, 60.71%). Moreover, the 
+median survival time of patients receiving the combined therapy of APS and GS 
+was 394 days, significantly longer than that of patients receiving the 
+monotherapy of GS alone (339 days) (hazard ratio: 0.66; 95%CI: 0.45-0.99; P = 
+0.036). All these differences were statistically significant (P < 0.05).
+CONCLUSION: The combined therapy of APS and GS improved the recent efficacy and 
+long-term survival of patients with pancreatic cancer and alleviated 
+chemotherapy-induced immune suppression and adverse reactions.
+
+©The Author(s) 2024. Published by Baishideng Publishing Group Inc. All rights 
+reserved.
+
+DOI: 10.5306/wjco.v15.i11.1404
+PMCID: PMC11514418
+PMID: 39582615
+
+Conflict of interest statement: Conflict-of-interest statement: All the authors 
+report no relevant conflicts of interest for this article.

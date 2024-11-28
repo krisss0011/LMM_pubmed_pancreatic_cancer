@@ -1,0 +1,33 @@
+1. J Interv Med. 2022 Oct 22;6(1):10-13. doi: 10.1016/j.jimed.2022.10.001. 
+eCollection 2023 Feb.
+
+Irreversible electroporation of the pancreas - A decade on.
+
+Ong DY(1), How GY(1), Pua U(1).
+
+Author information:
+(1)Department of Diagnostic Radiology, Tan Tock Seng Hospital, Singapore.
+
+Irreversible electroporation (IRE) employs the use of an electric field to cause 
+irreversible permeability of the cell membrane, inducing apoptosis. The use of 
+IRE for locally advanced pancreatic cancer (LAPC) was first described in 2012. 
+The crucial advantage of IRE compared with other devices employing thermal 
+ablation is the safety around vital structures such as vessels and ducts. This 
+makes it an attractive option for use in the pancreas due to the close proximity 
+of multiple major vascular structures, biliary ducts, and adjacent 
+gastrointestinal organs. Over the past decade, IRE has established itself as a 
+useful treatment adjunct and may soon become the standard of care, particularly 
+for LAPC. This article will explore the current evidence and provide a concise 
+summary of pertinent issues, including patient selection, preoperative 
+management, clinical outcomes, radiological response and future prospects of IRE 
+in pancreatic cancer.
+
+© 2022 Shanghai Journal of Interventional Radiology Press. Publishing services 
+by Elsevier B.V. on behalf of KeAi Communications Co. Ltd.
+
+DOI: 10.1016/j.jimed.2022.10.001
+PMCID: PMC10167507
+PMID: 37180371
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.

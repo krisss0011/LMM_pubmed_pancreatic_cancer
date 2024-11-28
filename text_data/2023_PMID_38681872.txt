@@ -1,0 +1,50 @@
+1. Nano Today. 2024 Feb;54:102058. doi: 10.1016/j.nantod.2023.102058. Epub 2023
+Nov  15.
+
+Reprogramming the pancreatic cancer stroma and immune landscape by a silicasome 
+nanocarrier delivering nintedanib, a protein tyrosine kinase inhibitor.
+
+Luo L(1)(2), Wang X(1)(2), Liao YP(1), Xu X(1)(2), Chang CH(2), Nel AE(1)(2).
+
+Author information:
+(1)Division of Nanomedicine, Department of Medicine, University of California, 
+Los Angeles, CA 90095, USA.
+(2)California NanoSystems Institute, University of California, Los Angeles, CA 
+90095, USA.
+
+The prevailing desmoplastic stroma and immunosuppressive microenvironment within 
+pancreatic ductal adenocarcinoma (PDAC) pose substantial challenges to 
+therapeutic intervention. Despite the potential of protein tyrosine kinase (PTK) 
+inhibitors in mitigating the desmoplastic stromal response and enhancing the 
+immune milieu, their efficacy is curtailed by suboptimal pharmacokinetics (PK) 
+and insufficient tumor penetration. To surmount these hurdles, we have pioneered 
+a novel strategy, employing lipid bilayer-coated mesoporous silica nanoparticles 
+(termed "silicasomes") as a carrier for the delivery of Nintedanib. Nintedanib, 
+a triple PTK inhibitor that targets vascular endothelial growth factor, 
+platelet-derived growth factor and fibroblast growth factor receptors, was 
+encapsulated in the pores of silicasomes via a remote loading mechanism for weak 
+bases. This innovative approach not only enhanced pharmacokinetics and 
+intratumor drug concentrations but also orchestrated a transformative shift in 
+the desmoplastic and immune landscape in a robust orthotopic KRAS-mediated 
+pancreatic carcinoma (KPC) model. Our results demonstrate attenuation of 
+vascular density and collagen content through encapsulated Nintedanib treatment, 
+concomitant with significant augmentation of the CD8+/FoxP3+ T-cell ratio. This 
+remodeling was notably correlated with tumor regression in the KPC model. 
+Strikingly, the synergy between encapsulated Nintedanib and anti-PD-1 
+immunotherapy further potentiated the antitumor effect. Both free and 
+encapsulated Nintedanib induced a transcriptional upregulation of PD-L1 via the 
+extracellular signal-regulated kinase (ERK) pathway. In summary, our pioneering 
+approach involving the silicasome carrier not only improved antitumor 
+angiogenesis but also profoundly reshaped the desmoplastic stromal and immune 
+landscape within PDAC. These insights hold excellent promise for the development 
+of innovative combinatorial strategies in PDAC therapy.
+
+DOI: 10.1016/j.nantod.2023.102058
+PMCID: PMC11044875
+PMID: 38681872
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare the following competing financial interest(s): Andre E. Nel is 
+co-founder and equity holder in Westwood Biosciences Inc. and Nammi 
+Therapeutics. Nel also serves on the Board for Westwood Biosciences Inc. The 
+remaining authors declare no conflict of interest.

@@ -1,0 +1,57 @@
+1. Nutrients. 2024 Nov 5;16(22):3790. doi: 10.3390/nu16223790.
+
+High Prevalence of Sarcopenia in Patients with Newly Diagnosed 
+Gastroenteropancreatic Neuroendocrine Tumours (GEP-NETs), but No Association 
+with the Risk of Surgical Complications.
+
+Clement DSVM(1)(2), van Leerdam ME(3)(4), Tesselaar MET(3), Srinivasan P(1)(5), 
+Menon K(1)(5), Kuhlmann K(6), den Hartog A(6), Giovos G(7), Weickert MO(7), 
+Srirajaskanthan R(1).
+
+Author information:
+(1)Kings Health Partners, ENETS Centre of Excellence, Institute of Liver 
+Studies, King's College Hospital, London SE5 9RS, UK.
+(2)Department of Gastroenterology, King's College Hospital, London SE5 9RS, UK.
+(3)Department of Gastrointestinal Oncology, Netherlands Cancer Institute, ENETS 
+Centre of Excellence, 1066 CX Amsterdam, The Netherlands.
+(4)Department of Gastroenterology and Hepatology, Leiden University Medical 
+Center, 2333 ZA Leiden, The Netherlands.
+(5)Department of Hepatopancreaticobiliairy Surgery, King's College Hospital, 
+London SE5 9RS, UK.
+(6)Department of Gastrointestinal Surgery, Netherlands Cancer Institute, ENETS 
+Centre of Excellence, 1066 CX Amsterdam, The Netherlands.
+(7)The ARDEN NET Centre, ENETS Centre of Excellence, University Hospitals 
+Coventry and Warwickshire NHS Trust, Coventry CV2 2DX, UK.
+
+Background: Sarcopenia is a muscle disease that occur across a lifetime. It is 
+commonly described in the aging population but can occur earlier in life in 
+patients with cancer. Previous studies demonstrated sarcopenia is highly 
+prevalent in patients with gastroenteropancreatic neuroendocrine tumours 
+(GEP-NETs). In solid organ cancers, such as colorectal or pancreatic cancer, the 
+presence of sarcopenia is associated with surgical complications. It is unknown 
+if sarcopenia in patients with GEP-NETs is a risk factor for surgical 
+complications. Methods: A multicentre retrospective study was performed in 
+patients with a recently diagnosed GEP-NET and surgery to the primary tumour. CT 
+scans were analysed for body composition analyses to assess for the presence of 
+sarcopenia. Data regarding surgical procedures and complications were collected. 
+Any major surgical complication was considered as Clavien-Dindo score ≥ 3. 
+Results: This study included 180 patients, with 83 being male (46%) with a 
+median age of 62 years (IQR 54-69). Most patients (n = 138, 77%) had a small 
+intestinal NET, while 36 patients (20%) had pancreatic NETs. Sarcopenia was 
+present in 109 patients (61%). In 43 patients (24%), surgical complications were 
+recorded, and 21 complications (49%) were considered as major. Any type of 
+surgical complication was not statistically different between patients without 
+sarcopenia (n = 17, 24%) and with sarcopenia (n = 26, 24%)-a p-value of 0.36. 
+This was the same for major complications; between patients without sarcopenia 
+(n = 5, 24%) and with sarcopenia (n = 16, 76%)-a p-value of 0.18. Conclusions: 
+Sarcopenia is highly prevalent in patients with a recently diagnosed GEP-NET, 
+but this is not associated with major surgical complications. Future studies 
+should include pathophysiological mechanisms that could be used to identify the 
+causes of sarcopenia, its effect on quality of life and other oncological 
+outcomes.
+
+DOI: 10.3390/nu16223790
+PMCID: PMC11597585
+PMID: 39599579 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.

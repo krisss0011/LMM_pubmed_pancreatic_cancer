@@ -1,0 +1,39 @@
+1. Cancer Med. 2024 Dec;13(23):e70446. doi: 10.1002/cam4.70446.
+
+Metformin Inhibits the Progression of Pancreatic Cancer Through Regulating 
+miR-378a-3p/VEGFA/RGC-32 Axis.
+
+He J(1), Luo Y(1), Ding Y(2), Zhu L(1).
+
+Author information:
+(1)Department of Gastroenterology, The First Affiliated Hospital, Jiangxi 
+Medical College, Nanchang University, Nanchang, China.
+(2)Department of Medical Cosmetology, The Second Affiliated Hospital, Jiangxi 
+Medical College, Nanchang University, Nanchang, China.
+
+BACKGROUND: Pancreatic cancer (PC) is a major contributor to global 
+cancer-related mortality. While the inhibitory effect of metformin (Met) on PC 
+has been reported, the underlying mechanism remains elusive.
+METHODS: We established BxPC-3 cell models with miR-378a-3p and VEGFA knockdown. 
+The expression of miR-378a-3p, VEGFA, and RGC-32 in PC and normal tissues was 
+analyzed using GEPIA, TCGA databases. Cell proliferation, invasion, migration, 
+and apoptosis were assessed through CCK8, Transwell, wound healing, and flow 
+cytometry.
+RESULTS: Significantly lower expression of miR-378a-3p was observed in PC 
+tissues and cells. Knockdown of miR-378a-3p reversed the impact of Met on cell 
+viability in PANC-1 and BxPC3. VEGFA emerged as a potential regulator in PC and 
+a downstream target of miR-378a-3p. The interaction between VEGFA and RGC-32 
+played a crucial role in PC regulation. Knockdown of VEGFA substantially 
+reversed the impact of miR-378a-3p inhibitor on tumor growth and the 
+epithelial-mesenchymal transition (EMT) process. Moreover, knockdown of VEGFA 
+effectively countered the influence of miR-378a-3p inhibitor on cell viability 
+and the EMT process in BxPC3 cells.
+CONCLUSIONS: Met exerted inhibitory effects on PC through the 
+miR-378a-3p/VEGFA/RGC-32 pathway. Strategies targeting the 
+miR-378a-3p/VEGFA/RGC-32 axis represent a novel avenue for the prevention and 
+treatment of PC.
+
+© 2024 The Author(s). Cancer Medicine published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/cam4.70446
+PMID: 39606802 [Indexed for MEDLINE]

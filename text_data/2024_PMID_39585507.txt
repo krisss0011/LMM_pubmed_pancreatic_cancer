@@ -1,0 +1,61 @@
+1. Eur J Epidemiol. 2024 Nov 25. doi: 10.1007/s10654-024-01176-8. Online ahead of
+ print.
+
+Pesticides and risk of pancreatic adenocarcinoma in France: a nationwide 
+spatiotemporal ecological study between 2011 and 2021.
+
+Brugel M(1)(2)(3), Gauthier V(4), Bouché O(5), Blangiardo M(6), Génin M(7).
+
+Author information:
+(1)Digestive Oncology, Hepatology and Gastroenterology Department, Centre 
+Hospitalier de La Côte Basque, Bayonne, France. mbrugel@ch-cotebasque.fr.
+(2)ULR 2694-METRICS: Évaluation Des Technologies de Santé Et Des Pratiques 
+Médicales, University of Lille, CHU Lille, 59000, Lille, France. 
+mbrugel@ch-cotebasque.fr.
+(3)Department of Epidemiology and Biostatistics, School of Public Health, MRC 
+Centre for Environment and Health, Imperial College London, London, UK. 
+mbrugel@ch-cotebasque.fr.
+(4)U1167-RID-AGE-Facteurs de Risque Et Déterminants Moléculaires Des Maladies 
+Liées Au Vieillissement, University Lille, Inserm, CHU Lille, Institut Pasteur 
+de Lille, Lille, France.
+(5)Digestive Oncology, Hepatology and Gastroenterology Department, CHU Reims, 
+Université Reims Champagne-Ardenne, Reims, France.
+(6)Department of Epidemiology and Biostatistics, School of Public Health, MRC 
+Centre for Environment and Health, Imperial College London, London, UK.
+(7)ULR 2694-METRICS: Évaluation Des Technologies de Santé Et Des Pratiques 
+Médicales, University of Lille, CHU Lille, 59000, Lille, France.
+
+While pancreatic adenocarcinoma (PA) incidence is increasing, especially in 
+France, the association between pesticides and PA remains unclear. The aims of 
+this study were to assess the spatiotemporal distribution of the incidence of PA 
+in France between 2011 and 2021 and to determine whether pesticide exposure was 
+associated with higher risk of PA. We employed a disease-mapping and ecological 
+regression approach with medicoadministrative data covering 99% of the French 
+population. Exposure data were drawn from an open purchase database. A pesticide 
+exposure intensity index (PEXI), defined as the logged and scaled median of the 
+ratio quantity of substance over agricultural surface per spatial unit was used 
+for total quantity (total PEXI) and 9 specific substances. The analyses were 
+adjusted for tobacco-induced diseases, deprivation, community medicine 
+accessibility, alcohol-related disease and morbid obesity. A Bayesian 
+hierarchical spatiotemporal model was used to both model the incidence over time 
+and space, and to estimate the risk of PA for pesticide use. We identified 
+134 102 incident cases of PA between 2011 and 2021. The relative risk of PA was 
+heterogeneous across space with greater risk around Paris, central France and 
+the Mediterranean coast. We observed an association, albeit small, between the 
+total PEXI and PA incidence over the study period (RR: 1.0130; CI95% 
+[1.0057;1.0204]). Sulphur for spraying, mancozeb, and glyphosate showedevidence 
+of an association of the same magnitude. These findings show that new cases of 
+PA occur heterogeneously in space, raising questions about our understanding of 
+PA environmental risk factors. The association with pesticide exposure should be 
+confirmed and underlying mechanisms understood using individual-level studies.
+
+© 2024. Springer Nature B.V.
+
+DOI: 10.1007/s10654-024-01176-8
+PMID: 39585507
+
+Conflict of interest statement: Declarations. Conflict of interest: O.B. reports 
+personal fees as a speaker and/or in an advisory role from Apmonia Therapeutics, 
+Merck KGaA, Bayer, MSD, Amgen, Deciphera, Servier, and Pierre Fabre, outside the 
+submitted work. Mathias Brugel, Victoria Gauthier, Marta Blangiardo, Michaël 
+Génin had no conflict of interest.

@@ -1,0 +1,109 @@
+1. HPB (Oxford). 2023 Apr;25(4):400-408. doi: 10.1016/j.hpb.2022.07.015. Epub
+2022  Aug 17.
+
+Use and outcome of minimally invasive pancreatic surgery in the European E-MIPS 
+registry.
+
+van der Heijde N(1), Vissers FL(1), Manzoni A(2), Zimmitti G(2), Balsells J(3), 
+Berrevoet F(4), Bjornsson B(5), van den Boezem P(6), Boggi U(7), Bratlie SO(8), 
+Burdio F(9), Coratti A(10), D'Hondt M(11), Del Pozo CD(12), Dokmak S(13), Fara 
+R(14), Can MF(15), Festen S(16), Forgione A(17), Fristrup C(18), Gaujoux S(19), 
+Groot Koerkamp B(20), Hackert T(21), Khatkov IE(22), Keck T(23), Seppänen H(24), 
+Lips D(25), Luyer M(26), Pittau G(27), Maglione M(28), Molenaar IQ(29), Pessaux 
+P(30), Roeyen G(31), Saint-Marc O(32), Cabus SS(33), van Santvoort H(29), van 
+der Schelling G(34), Serradilla-Martin M(35), Souche FR(36), Suarez Muñoz 
+MÁ(37), Marino MV(38), Besselink MG(39), Abu Hilal M(40); European Consortium on 
+Minimally Invasive Pancreatic Surgery.
+
+Collaborators: Vilhav C(8), Hartman V(31), Kirkegård J(41), Sergeant G(42), 
+Kleeff J(43), Coolsen M(44), Coppola R(45), Pauletti B(46), Mittermair C(47), 
+Tingstedt B(48), Erkan M(49), Tomazic A(50), Korkolis D(51).
+
+Author information:
+(1)Amsterdam UMC, location University of Amsterdam, Amsterdam, the Netherlands; 
+Cancer Center Amsterdam, the Netherlands; Instituto Fondazione Poliambulanza, 
+Brescia, Italy.
+(2)Instituto Fondazione Poliambulanza, Brescia, Italy.
+(3)Vall d'Hebron University Hospital, Barcelona, Spain.
+(4)Ghent University Hospital, Ghent, Belgium.
+(5)Linköping University, Linköping, Sweden.
+(6)Radboud UMC, Nijmegen, Netherlands.
+(7)Azienda Ospedaliera Universitá Pisana University of Pisa, Pisa, Italy.
+(8)Sahlgrenska University Hospital, Gothenburg, Sweden.
+(9)Hospital del Mar, Barcelona, Spain.
+(10)Hospital del Mar, Barcelona, Spain; Careggi University Hospital, Florence, 
+Italy.
+(11)Az Groeninge, Kortrijk, Belgium.
+(12)Hospital Universitario doctor Peset, Valencia, Spain.
+(13)Beaujon Hospital, Clichy, France.
+(14)Hôpital Européen Marseille, Marseille, France.
+(15)Lokman Hekim Ankara Hospital, Ankara, Turkey.
+(16)OLVG, Amsterdam, Netherlands.
+(17)Niguarda Hospital, Milan, Italy.
+(18)Odense University Hospital, Odense, Denmark.
+(19)Paris Descartes University - Hospital Cochin, Paris, France.
+(20)Erasmus Medical Center, Rotterdam, Netherlands.
+(21)University of Heidelberg, Heidelberg, Germany.
+(22)Moscow Clinical Scientific Center, Moscow, Russian Federation.
+(23)UKSH Campus Lübeck, Lübeck, Germany.
+(24)Helsinki University Central Hospital, Helsinki, Finland.
+(25)MST, Enschede, Netherlands.
+(26)Catharina Hospital Eindhoven, Eindhoven, Netherlands.
+(27)Hôpital Paul Brousse, Villejuif, France.
+(28)Medical University Innsbruck, Department of Visceral, Transplant, and 
+Thoracic Surgery, Innsbruck, Austria.
+(29)Regional Academic Cancer Center Utrecht (RAKU), UMC Utrecht and St Antonius 
+Hospital, Utrecht, Netherlands.
+(30)Hopitaux Universitaire de Strasbourg, Nouvel Hopital Civil - Institut 
+Hospitalo-Universitaire de Strasbourg, Strasbourg, France.
+(31)Antwerp University Hospital, Antwerp, Belgium.
+(32)Centre Hospitalier Regional D'Orleans, Orleans, France.
+(33)Hospital de Sant Pau, Barcelona, Spain.
+(34)Amphia Hospital, Breda, Netherlands.
+(35)Insituto de Investigación Sanitaria Aragón, Miguel Servet University 
+Hospital, Zaragoza, Spain.
+(36)Centre Hospitalier Universitaire de Montpellier, Montpellier, France.
+(37)University Hospital Virgen de la Victoria, Malaga, Spain.
+(38)Azienda OspedalieraOspedali Riuniti VillaSofia Cervello, Palermo, Italy.
+(39)Amsterdam UMC, location University of Amsterdam, Amsterdam, the Netherlands; 
+Cancer Center Amsterdam, the Netherlands. Electronic address: 
+m.g.besselink@amsterdamUMC.nl.
+(40)Instituto Fondazione Poliambulanza, Brescia, Italy; University Hospital 
+Southampton NHS Trust, Southampton, United Kingdom. Electronic address: 
+abuhilal9@gmail.com.
+(41)Aarhus University Hospital, Aarhus, Denmark.
+(42)Jessa ziekenhuis, Hasselt, Belgium.
+(43)Martin Luther Halle Wittenberg, Halle, Germany.
+(44)Academisch Centrum Maastricht, Maastricht, the Netherlands.
+(45)Universita Campus Bio Medico di Roma, Rome, Italy.
+(46)Ospedale di Treviso, Treviso, Italy.
+(47)Saint John of God Hospital, Salzburg, Austria.
+(48)Lund University Hospital, Lund, Sweden.
+(49)Koc University Hospital, Istanbul, Turkey.
+(50)University Medical Center Ljubljana, Ljubljana, Slovenia.
+(51)Hellenic Saint Savvas, Athens, Greece.
+
+BACKGROUND: The European registry for minimally invasive pancreatic surgery 
+(E-MIPS) collects data on laparoscopic and robotic MIPS in low- and high-volume 
+centers across Europe.
+METHODS: Analysis of the first year (2019) of the E-MIPS registry, including 
+minimally invasive distal pancreatectomy (MIDP) and minimally invasive 
+pancreatoduodenectomy (MIPD). Primary outcome was 90-day mortality.
+RESULTS: Overall, 959 patients from 54 centers in 15 countries were included, 
+558 patients underwent MIDP and 401 patients MIPD. Median volume of MIDP was 10 
+(7-20) and 9 (2-20) for MIPD. Median use of MIDP was 56.0% (IQR 39.0-77.3%) and 
+median use of MIPD 27.7% (IQR 9.7-45.3%). MIDP was mostly performed laparoscopic 
+(401/558, 71.9%) and MIPD mostly robotic (234/401, 58.3%). MIPD was performed in 
+50/54 (89.3%) centers, of which 15/50 (30.0%) performed ≥20 MIPD annually. This 
+was 30/54 (55.6%) centers and 13/30 (43%) centers for MIPD respectively. 
+Conversion rate was 10.9% for MIDP and 8.4% for MIPD. Overall 90 day mortality 
+was 1.1% (n = 6) for MIDP and 3.7% (n = 15) for MIPD.
+CONCLUSION: Within the E-MIPS registry, MIDP is performed in about half of all 
+patients, mostly using laparoscopy. MIPD is performed in about a quarter of 
+patients, slightly more often using the robotic approach. A minority of centers 
+met the Miami guideline volume criteria for MIPD.
+
+Copyright © 2022. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.hpb.2022.07.015
+PMID: 37028826 [Indexed for MEDLINE]

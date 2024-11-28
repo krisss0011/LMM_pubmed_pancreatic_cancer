@@ -1,0 +1,79 @@
+1. J Clin Oncol. 2024 Nov 25:JCO2302724. doi: 10.1200/JCO.23.02724. Online ahead
+of  print.
+
+Oxaliplatin-Based Versus Alkylating Agent in Neuroendocrine Tumors According to 
+the O(6)-Methylguanine-DNA Methyltransferase Status: A Randomized Phase II Study 
+(MGMT-NET).
+
+Walter T(1)(2), Lecomte T(3)(4), Hadoux J(5), Niccoli P(6), Saban-Roche L(7), 
+Gaye E(8), Guimbaud R(9), Baconnier M(10), Hautefeuille V(11), Do Cao C(12), 
+Petorin C(13), Hentic O(14), Perrier M(15), Aparicio T(16), Scoazec JY(17), 
+Bonjour M(18), Gibert B(19), Hervieu V(20), Poncet D(21), Barritault M(21), 
+Gerard L(1), Durand A(1); “Groupe d’étude des tumeurs endocrines (GTE)” and the 
+French ENDOCAN-RENATEN network.
+
+Author information:
+(1)Department of Medical Oncology, Edouard Herriot Hospital, Hospices Civils de 
+Lyon, Lyon, France.
+(2)Gastroenterology and Technologies for Health, INSERM UMR 1052 CNRS UMR 5286, 
+Cancer Research Center of Lyon, University of Lyon, Lyon, France.
+(3)Department of Hepatogastroenterology and Digestive Oncology, Tours University 
+Hospital, Tours, France.
+(4)Inserm UMR 1069, Nutrition, Croissance et Cancer, University of Tours, Tours, 
+France.
+(5)Departement of Endocrine Oncology, Gustave Roussy, Villejuif, France.
+(6)Oncology Department, Institut Paoli Calmette, Marseille, France.
+(7)Oncology Department, Lucien Neuwirth Cancer Institute, Saint Priest en Jarez, 
+France.
+(8)Oncology Department, Oscar Lambret, Lille, France.
+(9)Department of Digestive Medical Oncology, CHU de Toulouse, Toulouse, France.
+(10)Departement of Hepato-gastroenterology and Digestive Oncology, Annecy 
+Hospital, Annecy, France.
+(11)Departement of Hepato-gastroenterology and Digestive Oncology, Amiens 
+University Hospital, Amiens, France.
+(12)CHU Lille, Department of Endocrinology, Diabetology, and Metabolism, 
+University Hospital of Lille, Lille, France.
+(13)Oncology Department, Estaing Hospital, Clermont-Ferrand, France.
+(14)Gastroenterology-Pancreatology Department, Hôpital Beaujon, Clichy, France.
+(15)Department of Hepatogastroenterology and Digestive Oncology, Hôpital Robert 
+Debré, Reims, France.
+(16)Department of Gastroenterology and Digestive Oncology, Saint Louis Hospital, 
+APHP, Université de Paris, Paris, France.
+(17)Department of Pathology, Gustave Roussy Cancer Campus, Villejuif, France.
+(18)Biostatistic Team of Hospices Civils of Lyon, Clinical Research Department 
+UMR CNRS 5558, University Lyon 1, Lyon, France.
+(19)Gastroenterology and Technologies for Health, Research Unit INSERM UMR 1052 
+CNRS UMR 5286, Cancer Research Center of Lyon, Lyon, France.
+(20)Multi-site Institute of Pathology of the HCL-Est Site, GHE University 
+Hospital, Bron, France.
+(21)Department of Molecular Biology, Institute of Multi-Site Pathology of the 
+HCL-Est Site, GHE University Hospital, Bron, France.
+
+PURPOSE: Alkylating agents (ALKY) are the main chemotherapies used for advanced 
+neuroendocrine tumors (NETs). O6-Methylguanine-DNA methyltransferase (MGMT) 
+status, as proficient (p) or deficient (d), may predict the response to ALKY.
+PATIENTS AND METHODS: MGMT-NET (ClinicalTrials.gov identifier: NCT03217097) was 
+a phase II trial randomly assigning 1:1 for pMGMT or 2:1 for dMGMT-NETs to 
+either ALKY or oxaliplatin (Ox). Inclusion criteria were a confirmed advanced 
+pancreatic, thoracic, or unknown primary NETs with an indication for 
+chemotherapy and tissue available. The primary aim was to detect a difference of 
+35% between the 3-month objective response rate (ORR) in pMGMT-NETs versus in 
+dMGMT-NETs when treated with ALKY. A biomarker-stratified design was performed 
+to compare ALKY and Ox in the dMGMT and pMGMT strata for the secondary end 
+points. dMGMT was defined using pyrosequencing (PSQ; methylated MGMT ≥9%) and 
+using immunochemistry (H-score of MGMT <50) when PSQ was not interpretable.
+RESULTS: From October 2018 to October 2021, 105 patients (55 pancreas, 38 
+thorax, 12 unknown) started either ALKY (n = 62) or Ox (n = 43). The median age 
+was 63 years (range, 30-84), and 59% were males. NETs were G1 (19%), G2 (69%), 
+or G3 (10%). Among patients with interpretable MGMT status, 56.9% (58 of 102) 
+had a dMGMT-NET. The primary end point was not reached; the 3-month ORR was 10 
+(29.4%) versus 2 (8%), and the odds ratio was 3.5 (0.58-21.16), P = .172. 
+However, best ORR (18 [52.9%] v 3 [11.5%]) and median progression-free survival 
+(14.6 [95% CI, 7.2 to 22.1] v 11.3 [9.4 to 13.2] months) were higher for 
+dMGMT-NETs versus pMGMT-NETs. MGMT status does not seem to affect the Ox 
+efficacy.
+CONCLUSION: Despite the fact that the primary end point was not reached, ALKY 
+has clinical activity in patients with dMGMT-NETs.
+
+DOI: 10.1200/JCO.23.02724
+PMID: 39586038

@@ -1,0 +1,45 @@
+1. J Cancer Res Ther. 2024 Apr 1;20(3):811-816. doi: 10.4103/jcrt.jcrt_2329_22. 
+Epub 2023 May 2.
+
+INSM1 expression in neuroendocrine tumors in a tertiary care hospital.
+
+Chandrasekaran K(1), Sundaram S(2), Balasubramanian S(2).
+
+Author information:
+(1)Department of Pathology, Chettinad Hospital and Research Institute, 
+Kelambakkam, Chengalpattu District, Tamil Nadu, India.
+(2)Department of Pathology, Sri Ramachandra Institute of Higher Education and 
+Research, Chennai, Tamil Nadu, India.
+
+AIM: Neuroendocrine tumors are heterogenous group of neoplasms that includes 
+benign and malignant tumors that originate from neuroendocrine or 
+nonneuroendocrine organs. Insulinoma-associated protein 1 (INSM1) is a zinc 
+finger transcription factor originally isolated from subtraction library of 
+human insulinoma. The main aim was to study the INSM1 expression in a spectrum 
+of neuroendocrine tumors and a limited spectrum of nonneuroendocrine tumors.
+MATERIALS AND METHODS: A total of 100 cases of which 57 neuroendocrine neoplasms 
+and 43 nonneuroendocrine neoplasms were included in the study. 
+Immunohistochemistry (IHC) was done and expression patterns of INSM1 were 
+analyzed. Pituitary adenoma, medullary carcinoma of thyroid, pheochromocytoma 
+lung, gastrointestinal, and pancreatic neuroendocrine tumors were the 
+neuroendocrine tumors that were included in the study. Papillary carcinoma of 
+thyroid, gastrointestinal adenocarcinoma, lung adenocarcinoma, and squamous cell 
+carcinoma were the nonneuroendocrine tumors that were included in the study. 
+Depending upon the tissue availability, comparison of INSM1 with synaptophysin 
+and chromogranin was also done in few neuroendocrine tumors.
+RESULTS: All the 57 neuroendocrine tumors showed positive expression for INSM1 
+and all the nonneuroendocrine tumors were negative for INSM1. This study is 
+statistically significant.
+CONCLUSION: Our study suggests that INSM1 is a diagnostic marker for 
+neuroendocrine tumors with high degree of sensitivity and specificity. The study 
+is significant and suggests that INSM1- IHC shows nuclear positivity in a 
+spectrum of neuroendocrine tumors. Being a nuclear marker, interpretation is 
+easy and more reliable than the cytoplasmic markers. INSM1 has a stronger 
+positivity than synaptophysin and chromogranin in the present study especially 
+for small cell carcinoma lung. Hence, INSM1 may be included in the routine panel 
+for neuroendocrine tumors along with synaptophysin and chromogranin.
+
+Copyright © 2023 Copyright: © 2023 Journal of Cancer Research and Therapeutics.
+
+DOI: 10.4103/jcrt.jcrt_2329_22
+PMID: 39023587 [Indexed for MEDLINE]

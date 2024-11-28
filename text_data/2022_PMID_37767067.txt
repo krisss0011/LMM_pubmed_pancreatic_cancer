@@ -1,0 +1,60 @@
+1. Liver Cancer. 2022 Nov 30;12(3):229-237. doi: 10.1159/000528356. eCollection 
+2023 Aug.
+
+Outcomes of Salvage Surgery for Initially Unresectable Hepatocellular Carcinoma 
+Converted by Transcatheter Arterial Chemoembolization Combined with Lenvatinib 
+plus Anti-PD-1 Antibodies: A Multicenter Retrospective Study.
+
+Wu JY(1)(2), Zhang ZB(3), Zhou JY(4), Ke JP(5), Bai YN(1)(2), Chen YF(6), Wu 
+JY(1)(2), Zhou SQ(1)(2), Wang SJ(5), Zeng ZX(1), Li YN(1), Qiu FN(1)(2), Li 
+B(5), Yan ML(1)(2).
+
+Author information:
+(1)Shengli Clinical Medical College of Fujian Medical University, Fuzhou, China.
+(2)Department of Hepatobiliary Pancreatic Surgery, Fujian Provincial Hospital, 
+Fuzhou, China.
+(3)Department of Hepatopancreatobiliary Surgery, The First Affiliated Hospital 
+of Fujian Medical University, Fuzhou, China.
+(4)Department of Hepatobiliary Surgery, Zhongshan Hospital of Xiamen University, 
+Xiamen, China.
+(5)Department of Hepato-Biliary-Pancreatic and Vascular Surgery, The First 
+Affiliated Hospital of Xiamen University, Xiamen, China.
+(6)Department of Hepatobiliary Surgery, The Zhangzhou Affiliated Hospital of 
+Fujian Medical University, Zhangzhou, China.
+
+INTRODUCTION: The actual rate of conversion surgery and its prognostic 
+advantages remain unclear. This study aimed to assess the outcomes of salvage 
+surgery after conversion therapy with triple therapy (transcatheter arterial 
+chemoembolization [TACE] combined with lenvatinib plus anti-PD-1 antibodies) in 
+patients with initially unresectable hepatocellular carcinoma (uHCC).
+METHODS: Patients with initially uHCC who received at least one cycle of 
+first-line triple therapy and salvage surgery at five major cancer centers in 
+China were included. The primary endpoints were overall survival (OS) and 
+recurrence-free survival (RFS) rates after salvage surgery. The secondary 
+endpoints were perioperative complications, 90-day mortality, and pathological 
+tumor response.
+RESULTS: Between June 2018 and December 2021, 70 patients diagnosed with uHCC 
+who underwent triple therapy and salvage surgery were analyzed: 39 with 
+Barcelona Clinic Liver Cancer (BCLC) stage C, 22 with BCLC stage B, and 9 with 
+BCLC stage A disease. The median interval between the start of triple therapy 
+and salvage surgery was 4.3 months (range, 1.7-14.2 months). Pathological 
+complete response and major pathological response were observed in 29 (41.4%) 
+and 59 (84.3%) patients, respectively. There were 2 cases of perioperative 
+mortality (4.3%) and 5 cases of severe perioperative complications (7.1%). With 
+a median follow-up of 12.9 months after surgery (range, 0.3-36.8 months), the 
+median OS and RFS were not reached. The 1- and 2-year OS rates were 97.1% and 
+94.4%, respectively, and the corresponding RFS rates were 68.9% and 54.4%, 
+respectively.
+CONCLUSION: First-line combination of TACE, lenvatinib, and anti-PD-1 antibodies 
+provides a better chance of conversion therapy in patients with initially uHCC. 
+Furthermore, salvage surgery after conversion therapy is effective and safe and 
+has the potential to provide excellent long-term survival benefits.
+
+Copyright © 2022 by The Author(s). Published by S. Karger AG, Basel.
+
+DOI: 10.1159/000528356
+PMCID: PMC10521320
+PMID: 37767067
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+declare.

@@ -1,0 +1,61 @@
+1. Cancer Rep (Hoboken). 2023 Feb;6(2):e1699. doi: 10.1002/cnr2.1699. Epub 2022
+Aug  13.
+
+Systematic study of tissue factor expression in solid tumors.
+
+de Bono JS(1), Harris JR(2), Burm SM(3), Vanderstichele A(4), Houtkamp MA(3), 
+Aarass S(2)(3), Riisnaes R(1), Figueiredo I(1), Nava Rodrigues D(1), Christova 
+R(1), Olbrecht S(4), Niessen HWM(5), Ruuls SR(6), Schuurhuis DH(3), Lammerts van 
+Bueren JJ(7), Breij ECW(3), Vergote I(4).
+
+Author information:
+(1)The Institute of Cancer Research, Royal Cancer Hospital, London, UK.
+(2)Genmab, Plainsboro, New Jersey, USA.
+(3)Genmab, Utrecht, The Netherlands.
+(4)Department of Gynaecology and Obstetrics, Division of Gynaecologic Oncology, 
+University Hospitals Leuven, Leuven Cancer Institute, Leuven, Belgium.
+(5)Department of Pathology, VU Medical Center, Amsterdam, The Netherlands.
+(6)Lava Therapeutics, Utrecht, The Netherlands.
+(7)Merus, Utrecht, The Netherlands.
+
+Erratum in
+    Cancer Rep (Hoboken). 2024 Jul;7(7):e2143. doi: 10.1002/cnr2.2143.
+
+BACKGROUND: Elevated tissue factor (TF) expression, although restricted in 
+normal tissue, has been reported in multiple solid cancers, and expression has 
+been associated with poor prognosis. This manuscript compares TF expression 
+across various solid tumor types via immunohistochemistry in a single study, 
+which has not been performed previously.
+AIMS: To increase insight in the prevalence and cellular localization of TF 
+expression across solid cancer types, we performed a detailed and systematic 
+analysis of TF expression in tumor tissue obtained from patients with ovarian, 
+esophageal, bladder, cervical, endometrial, pancreatic, prostate, colon, breast, 
+non-small cell lung cancer (NSCLC), head and neck squamous cell carcinoma 
+(HNSCC), and glioblastoma. The spatial and temporal variation of TF expression 
+was analyzed over time and upon disease progression in patient-matched biopsies 
+taken at different timepoints. In addition, TF expression in patient-matched 
+primary tumor and metastatic lesions was also analyzed.
+METHODS AND RESULTS: TF expression was detected via immunohistochemistry (IHC) 
+using a validated TF-specific antibody. TF was expressed in all cancer types 
+tested, with highest prevalence in pancreatic cancer, cervical cancer, colon 
+cancer, glioblastoma, HNSCC, and NSCLC, and lowest in breast cancer. Staining 
+was predominantly membranous in pancreatic, cervical, and HNSCC, and cytoplasmic 
+in glioblastoma and bladder cancer. In general, expression was consistent 
+between biopsies obtained from the same patient over time, although variability 
+was observed for individual patients. NSCLC biopsies of primary tumor and 
+matched lymph node metastases showed no clear difference in TF expression 
+overall, although individual patient changes were observed.
+CONCLUSION: This study shows that TF is expressed across a broad range of solid 
+cancer types, and expression is present upon tumor dissemination and over the 
+course of treatment.
+
+© 2022 The Authors. Cancer Reports published by Wiley Periodicals LLC.
+
+DOI: 10.1002/cnr2.1699
+PMCID: PMC9940005
+PMID: 36806722 [Indexed for MEDLINE]
+
+Conflict of interest statement: J.S.B., A.V., R.R., I.F., D.N.R., R.C., S.O., 
+H.N., and I.V. performed this research under a sponsored research agreement with 
+Genmab. J.R.H, S.M.B., M.A.H., S.A., S.R.R., D.H.S., J.J.L.B., and E.C.W.B. 
+are/were employees of Genmab and own Genmab warrants and/or stock.

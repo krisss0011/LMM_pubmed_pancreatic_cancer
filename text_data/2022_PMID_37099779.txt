@@ -1,0 +1,40 @@
+1. Pancreas. 2022 Nov-Dec 01;51(10):1359-1364. doi: 10.1097/MPA.0000000000002180.
+
+Racial and Ethnic Disparities in Opioid Prescriptions in Benign and Malignant 
+Pancreatic Disease in the United States.
+
+McHenry N(1), Ahmed A(1), Shah I(1), Freedman SD(2), Nee J(1), Lembo A(1), Sheth 
+SG(2).
+
+Author information:
+(1)From the Digestive Disease Center.
+(2)Pancreas Center, Beth IsraelDeaconess Medical Center, Boston, MA.
+
+OBJECTIVES: Racial-ethnic disparities in pain management are common but not 
+known among pancreatic disease patients. We sought to evaluate racial-ethnic 
+disparities in opioid prescriptions for pancreatitis and pancreatic cancer 
+patients.
+METHODS: Data from the National Ambulatory Medical Care Survey were used to 
+examine racial-ethnic and sex differences in opioid prescriptions for ambulatory 
+visits by adult pancreatic disease patients.
+RESULTS: We identified 207 pancreatitis and 196 pancreatic cancer patient 
+visits, representing 9.8 million visits, but weights were repealed for analysis. 
+No sex differences in opioid prescriptions were found among pancreatitis (P = 
+0.78) or pancreatic cancer patient visits (P = 0.57). Opioids were prescribed at 
+58% of Black, 37% of White, and 19% of Hispanic pancreatitis patient visits (P = 
+0.05). Opioid prescriptions were less common in Hispanic versus non-Hispanic 
+pancreatitis patients (odds ratio, 0.35; 95% confidence interval, 0.14-0.91; P = 
+0.03). We found no racial-ethnic differences in opioid prescriptions among 
+pancreatic cancer patient visits.
+CONCLUSIONS: Racial-ethnic disparities in opioid prescriptions were observed in 
+pancreatitis, but not pancreatic cancer patient visits, suggesting possible 
+racial-ethnic bias in opioid prescription practices for patients with benign 
+pancreatic disease. However, there is a lower threshold for opioid provision in 
+the treatment of malignant, terminal disease.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/MPA.0000000000002180
+PMID: 37099779 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

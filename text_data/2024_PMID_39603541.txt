@@ -1,0 +1,79 @@
+1. Gastrointest Endosc. 2024 Nov 25:S0016-5107(24)03749-0. doi: 
+10.1016/j.gie.2024.11.039. Online ahead of print.
+
+Necrosectomy and its timing in relation to clinical outcomes of endoscopic 
+ultrasound-guided treatment of walled-off pancreatic necrosis: a multicenter 
+study.
+
+Tsujimae M(1), Saito T(2), Sakai A(1), Takenaka M(3), Omoto S(3), Hamada T(4), 
+Ota S(5), Shiomi H(6), Takahashi S(7), Fujisawa T(7), Suda K(8), Matsubara S(8), 
+Uemura S(9), Iwashita T(9), Yoshida K(10), Maruta A(10), Okuno M(11), Iwata 
+K(11), Hayashi N(12), Mukai T(13), Yasuda I(12), Isayama H(7), Nakai Y(14), 
+Masuda A(15); WONDERFUL study group in Japan.
+
+Author information:
+(1)Division of Gastroenterology, Department of Internal Medicine, Kobe 
+University Graduate School of Medicine, Hyogo, Japan.
+(2)Department of Gastroenterology, Graduate School of Medicine, The University 
+of Tokyo, Tokyo, Japan.
+(3)Department of Gastroenterology and Hepatology, Faculty of Medicine, Kindai 
+University, Osaka, Japan.
+(4)Department of Gastroenterology, Graduate School of Medicine, The University 
+of Tokyo, Tokyo, Japan; Department of Hepato-Biliary-Pancreatic Medicine, Cancer 
+Institute Hospital, Japanese Foundation for Cancer Research, Tokyo, Japan.
+(5)Division of Gastroenterology, Department of Internal Medicine, Kobe 
+University Graduate School of Medicine, Hyogo, Japan; Division of Hepatobiliary 
+and Pancreatic Diseases, Department of Gastroenterology, Hyogo Medical 
+University, Hyogo, Japan.
+(6)Division of Hepatobiliary and Pancreatic Diseases, Department of 
+Gastroenterology, Hyogo Medical University, Hyogo, Japan.
+(7)Department of Gastroenterology, Graduate School of Medicine, Juntendo 
+University, Tokyo, Japan.
+(8)Department of Gastroenterology and Hepatology, Saitama Medical Center, 
+Saitama Medical University, Saitama, Japan.
+(9)First Department of Internal Medicine, Gifu University Hospital, Gifu, Japan.
+(10)Department of Gastroenterology, Gifu Prefectural General Medical Center, 
+Gifu, Japan.
+(11)Department of Gastroenterology, Gifu Municipal Hospital, Gifu, Japan.
+(12)Third Department of Internal Medicine, University of Toyama, Toyama, Japan.
+(13)Department of Gastroenterological Endoscopy, Kanazawa Medical University, 
+Ishikawa, Japan.
+(14)Department of Gastroenterology, Graduate School of Medicine, The University 
+of Tokyo, Tokyo, Japan; Department of Internal Medicine, Institute of 
+Gastroenterology, Tokyo Women's Medical University, Tokyo, Japan. Electronic 
+address: ynakai-tky@umin.ac.jp.
+(15)Division of Gastroenterology, Department of Internal Medicine, Kobe 
+University Graduate School of Medicine, Hyogo, Japan. Electronic address: 
+atmasuda@med.kobe-u.ac.jp.
+
+BACKGROUND AND AIMS: Endoscopic ultrasound (EUS)-guided transmural drainage with 
+on-demand endoscopic necrosectomy (EN) is increasingly utilized to manage 
+walled-off necrosis (WON). It has not been fully elucidated how EN and its 
+timing are correlated with treatment outcomes compared to the drainage-based 
+approach.
+METHODS: Within a multi-institutional cohort of 423 patients with pancreatic 
+fluid collections including 227 patients with WON, we identified 153 patients 
+who received the step-up treatment following the initial EUS-guided drainage of 
+symptomatic WON, including 102 EN patients and 51 non-EN (drainage) patients. 
+Using the competing-risks multivariable proportional hazards regression model 
+with adjustment for potential confounders, we calculated subdistribution hazard 
+ratios (SHRs) for clinical treatment success (WON resolution) by the use of EN 
+and its timing.
+RESULTS: Compared to drainage alone, the EN-based treatment was associated with 
+a shorter time to clinical success with a multivariable SHR of 1.66 (95% 
+confidence interval, 1.12-2.46). Despite a higher risk of procedure-related 
+bleeding in the EN group, there were no differences in the rates of severe 
+adverse events (7.8% vs. 5.9% in the EN and non-EN groups, respectively) and 
+mortality (6.9% vs. 9.8%). In the EN-treated patients, the timing of EN was not 
+statistically significantly associated with the time to clinical success (Ptrend 
+= 0.34) CONCLUSION: Among patients receiving EUS-guided treatment of symptomatic 
+WON, the use of EN in addition to drainage procedures was associated with 
+earlier disease resolution. Further research is desired to determine the optimal 
+timing of initiating EN considering a risk-benefit balance and 
+cost-effectiveness.
+
+Copyright © 2024 American Society for Gastrointestinal Endoscopy. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.gie.2024.11.039
+PMID: 39603541

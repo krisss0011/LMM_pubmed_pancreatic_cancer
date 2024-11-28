@@ -1,0 +1,78 @@
+1. Signal Transduct Target Ther. 2024 Nov 25;9(1):321. doi: 
+10.1038/s41392-024-02031-8.
+
+Spatial interactions of immune cells as potential predictors to efficacy of 
+toripalimab plus chemotherapy in locally advanced or metastatic pancreatic 
+ductal adenocarcinoma: a phase Ib/II trial.
+
+Cheng K(#)(1), Li X(#)(1), Lv W(#)(2), Zhao G(1), Zhou R(3), Chang C(1), Yang 
+H(1), Li R(1), Li Z(1), Chen Y(1), Yi C(1), Yan O(1), Xiao C(3), Zhang Y(4)(5), 
+Xiong J(4), Huang Z(6)(7), Shao W(8), You X(1), Guo W(1), He D(9), Ling W(10), 
+Wang R(11), Tian B(12), Zhao C(13), Cao D(14).
+
+Author information:
+(1)Division of Abdominal Tumor, Department of Medical Oncology, Cancer Center 
+and State Key Laboratory of Biological Therapy, West China Hospital, Sichuan 
+University, Chengdu, Sichuan, China.
+(2)Department of Oncology, Meishan City People's Hospital, Meishan, Sichuan, 
+China.
+(3)State Key Laboratory of Biotherapy and Cancer Center, Sichuan University and 
+Collaborative Innovation Center, West China Hospital, Chengdu, Sichuan, China.
+(4)Pancreatic Division, Department of General Surgery, West China Hospital, 
+Sichuan University, Chengdu, Sichuan, China.
+(5)Department of General Surgery, ChengDu ShangJing NanFu Hospital, Chengdu, 
+Sichuan, China.
+(6)Department of Radiology, West China Hospital, Sichuan University, Chengdu, 
+Sichuan, China.
+(7)Department of Radiology, West China Tianfu Hospital, Sichuan University, 
+Chengdu, Sichuan, China.
+(8)Genecast Biotechnology Co. Ltd, Wuxi, China.
+(9)Department of Pathology, West China Hospital, Sichuan University, Chengdu, 
+Sichuan, China.
+(10)Department of Medical Ultrasound, West China Hospital of Sichuan University, 
+Chengdu, Sichuan, China.
+(11)Department of Gastroenterology, West China Hospital, Sichuan University, 
+Chengdu, Sichuan, China.
+(12)Pancreatic Division, Department of General Surgery, West China Hospital, 
+Sichuan University, Chengdu, Sichuan, China. tianbole@scu.edu.cn.
+(13)State Key Laboratory of Biotherapy and Cancer Center, Sichuan University and 
+Collaborative Innovation Center, West China Hospital, Chengdu, Sichuan, China. 
+chjianzhao@scu.edu.cn.
+(14)Division of Abdominal Tumor, Department of Medical Oncology, Cancer Center 
+and State Key Laboratory of Biological Therapy, West China Hospital, Sichuan 
+University, Chengdu, Sichuan, China. caodan@scu.edu.cn.
+(#)Contributed equally
+
+Advanced pancreatic ductal adenocarcinoma (PDAC) has a dismal prognosis. 
+Immunotherapy alone offers limited efficacy, but it is still unknown whether its 
+combination with chemotherapy could offer synergistic anti-tumor effects. This 
+phase Ib/II study evaluated the safety and efficacy of combining toripalimab 
+with the gemcitabine plus nab-paclitaxel (GnP) regimen as first-line treatment 
+for locally advanced or metastatic PDAC and explored predictive biomarkers 
+(ChiCTR2000032293). The primary endpoints were safety and overall survival (OS). 
+The secondary outcomes were objective response rate (ORR), disease control rate 
+(DCR), and progression-free survival (PFS). Immune-related biomarkers including 
+programmed death-ligand 1 (PD-L1) expression, genetic status, cytokine levels, 
+and spatial features of the tumor immune microenviroment (TIME) were 
+investigated. Neither serious treatment-related adverse events nor grade 4 
+immune-related adverse events were reported. Among the 72 patients, the median 
+OS was 8.9 months, 12-month OS rate was 31.9%, with median PFS of 5.6 months, 
+ORR of 33.3%, and DCR of 90.3%. Higher PD-L1 expression, without liver 
+metastases were associated with higher ORR, however these factors could not 
+effectively distinguish responders and non-responders. Importantly, dendritic 
+cells - T helper cells - cytotoxic T lymphocytes (DC-Th-CTL) enriched immune 
+niche and their spatial interactions were dominant predictors of response based 
+on TIME analysis using a cyclic multiplex tissue staining assay, with an area 
+under the curve value of 0.8. Overall, GnP plus toripalimab exhibited good 
+safety and differentiated efficacy in selected population, and the spatial 
+interactions of DC-Th-CTL represent promising predictors to efficacy of 
+immunochemotherapy in locally advanced or metastatic PDAC.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41392-024-02031-8
+PMCID: PMC11586424
+PMID: 39582060 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: The authors declare no 
+competing interests.

@@ -1,0 +1,61 @@
+1. Cancer Res Commun. 2022 Nov 11;2(11):1418-1425. doi: 
+10.1158/2767-9764.CRC-22-0343. eCollection 2022 Nov.
+
+Cell-free DNA Predicts Prolonged Response to Multi-agent Chemotherapy in 
+Pancreatic Ductal Adenocarcinoma.
+
+Christenson ES(1), Lim SJ(1), Durham J(1), De Jesus-Acosta A(1), Bever K(1), 
+Laheru D(1), Ryan A(1), Agarwal P(1), Scharpf RB(1), Le DT(#)(1), Wang H(#)(1).
+
+Author information:
+(1)Bloomberg-Kimmel Institute, Sidney Kimmel Comprehensive Cancer Center, and 
+The Skip Viragh Center for Pancreatic Cancer Research and Clinical Care, Johns 
+Hopkins University School of Medicine, Baltimore, Maryland.
+(#)Contributed equally
+
+The treatment of metastatic pancreatic ductal adenocarcinoma (PDAC) is 
+frequently characterized by significant toxicity and rapid development of 
+resistance to current approved therapies. More reliable biomarkers of response 
+are needed to guide clinical decision making. We evaluated cell-free DNA (cfDNA) 
+using a tumor-agnostic platform and traditional biomarkers (CEA and CA19-9) 
+levels in 12 patients treated at Johns Hopkins University on NCT02324543 "Study 
+of Gemcitabine/Nab-Paclitaxel/Xeloda (GAX) in Combination With Cisplatin and 
+Irinotecan in Subjects With Metastatic Pancreatic Cancer." The pretreatment 
+values, levels after 2 months of treatment, and change in biomarker levels with 
+treatment were compared with clinical outcomes to determine their predictive 
+value. The variant allele frequency (VAF) of KRAS and TP53 mutations in cfDNA 
+after 2 months of treatment was predictive of progression-free survival (PFS) 
+and overall survival (OS). In particular, patients with a lower-than-average 
+KRAS VAF after 2 months of treatment had a substantially longer PFS than 
+patients with higher posttreatment KRAS VAF (20.96 vs. 4.39 months). Changes in 
+CEA and CA19-9 after 2 months of treatment were also good predictors of PFS. 
+Comparison via concordance index demonstrated KRAS or TP53 VAF after 2 months of 
+treatment to be better predictors of PFS and OS than CA19-9 or CEA. This pilot 
+study requires validation but suggests cfDNA measurement is a useful adjunct to 
+traditional protein biomarkers and imaging evaluation and could distinguish 
+between patients who are likely to achieve prolonged responses versus those that 
+will have early progression and may benefit from a change in treatment approach.
+SIGNIFICANCE: We report on the association of cfDNA with response durability for 
+patients undergoing treatment with a novel metronomic chemotherapy regimen 
+(gemcitabine, nab-paclitaxel, capecitabine, cisplatin, irinotecan; GAX-CI) for 
+metastatic PDAC. This investigation offers encouraging evidence that cfDNA may 
+prove to be a valuable diagnostic tool to guide clinical management.
+
+© 2022 The Authors; Published by the American Association for Cancer Research.
+
+DOI: 10.1158/2767-9764.CRC-22-0343
+PMCID: PMC10035498
+PMID: 36970054 [Indexed for MEDLINE]
+
+Conflict of interest statement: E.S. Christenson reports grants from Swim Across 
+America during the conduct of the study; personal fees from OncLive outside the 
+submitted work; and Haystack Oncology - developing a research collaboration to 
+look at the use of cfDNA to detected minimal residual disease in locally 
+advanced rectal cancer; Natera - developing a research collaboration to look at 
+the use of cfDNA to monitor clonal dynamics during treatment of colorectal 
+cancer. K. Bever reports grants from Merck and Bristol Myers Squibb outside the 
+submitted work. R.B. Scharpf reports personal fees and other from Delfi 
+Diagnostics outside the submitted work. D.T. Le reports grants and personal fees 
+from BMS, Merck, grants from Abbvie, Nouscom; personal fees from Jansenn and G1 
+Therapeutics outside the submitted work. H. Wang reports grants from NIH during 
+the conduct of the study. No disclosures were reported by the other authors.

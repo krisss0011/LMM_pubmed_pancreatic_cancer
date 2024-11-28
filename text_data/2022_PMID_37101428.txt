@@ -1,0 +1,49 @@
+1. ACS Bio Med Chem Au. 2022 Sep 26;2(6):617-626. doi: 
+10.1021/acsbiomedchemau.2c00045. eCollection 2022 Dec 21.
+
+KRAS Inhibitor that Simultaneously Inhibits Nucleotide Exchange Activity and 
+Effector Engagement.
+
+Pagba CV(1), Gupta AK(1), Naji AK(2), van der Hoeven D(2), Churion K(3), Liang 
+X(1), Jakubec J(1), Hook M(3), Zuo Y(1), Martinez de Kraatz M(1), Frost 
+JA(1)(4), Gorfe AA(1)(5).
+
+Author information:
+(1)Department of Integrative Biology and Pharmacology, McGovern Medical School, 
+The University of Texas Health Science Center at Houston, 6431 Fannin Street, 
+Houston, Texas 77030, United States.
+(2)Department of Diagnostic and Biomedical Sciences, School of Dentistry, The 
+University of Texas Health Science Center at Houston, 7500 Cambridge Street, 
+Houston, Texas 77030, United States.
+(3)Center for Infectious and Inflammatory Diseases, Texas A&M University Health 
+Science Center, 2121 W Holcombe Blvd, Houston, Texas 77030, United States.
+(4)Biochemistry and Cell Biology Program, UTHealth MD Anderson Cancer Center 
+Graduate School of Biomedical Sciences, 6431 Fannin Street, Houston, Texas 
+77030, United States.
+(5)Biochemistry and Cell Biology Program & Therapeutics and Pharmacology 
+Program, UTHealth MD Anderson Cancer Center Graduate School of Biomedical 
+Sciences, 6431 Fannin Street, Houston, Texas 77030, United States.
+
+We describe a small molecule ligand ACA-14 (2-hydroxy-5-{[(2-phenylcyclopropyl) 
+carbonyl] amino} benzoic acid) as an initial lead for the development of direct 
+inhibitors of KRAS, a notoriously difficult anticancer drug target. We show that 
+the compound binds to KRAS near the switch regions with affinities in the low 
+micromolar range and exerts different effects on KRAS interactions with binding 
+partners. Specifically, ACA-14 impedes the interaction of KRAS with its effector 
+Raf and reduces both intrinsic and SOS-mediated nucleotide exchange rates. 
+Likely as a result of these effects, ACA-14 inhibits signal transduction through 
+the MAPK pathway in cells expressing mutant KRAS and inhibits the growth of 
+pancreatic and colon cancer cells harboring mutant KRAS. We thus propose 
+compound ACA-14 as a useful initial lead for the development of broad-acting 
+inhibitors that target multiple KRAS mutants and simultaneously deplete the 
+fraction of GTP-loaded KRAS while abrogating the effector-binding ability of the 
+already GTP-loaded fraction.
+
+© 2022 The Authors. Published by American Chemical Society.
+
+DOI: 10.1021/acsbiomedchemau.2c00045
+PMCID: PMC10125367
+PMID: 37101428
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.

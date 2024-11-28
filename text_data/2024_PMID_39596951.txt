@@ -1,0 +1,36 @@
+1. Medicina (Kaunas). 2024 Oct 28;60(11):1766. doi: 10.3390/medicina60111766.
+
+Pictorial Review of Rare Pancreatic Tumors and Tumor-like Lesions: 
+Radiologic-Pathologic Correlation.
+
+Hong JH(1), Kim JW(1), Yoon EJ(1), Song SG(1), Kim HC(1), Hur YH(2), Kim HJ(3).
+
+Author information:
+(1)Department of Radiology, Chosun University Hospital, Chosun University 
+College of Medicine, Gwangju 61453, Republic of Korea.
+(2)Department of Hepato-Biliary-Pancreas Surgery, Chonnam National University 
+Hwasun Hospital, Chonnam National University Medical School, Gwangju 61469, 
+Republic of Korea.
+(3)Medical Science Research Institute, Kyung Hee University Hospital, Seoul 
+02447, Republic of Korea.
+
+Rare pancreatic tumors and non-neoplastic tumor-like lesions present a 
+diagnostic challenge due to their uncommon occurrence and overlapping imaging 
+characteristics with more prevalent pancreatic neoplasms. Advances in imaging 
+technologies and diagnostic criteria have contributed to increased detection of 
+these rare entities in clinical practice. This pictorial review focuses on the 
+radiologic-pathologic correlation of rare pancreatic tumors, including colloid 
+carcinoma, acinar cell carcinoma, pancreatoblastoma, primary pancreatic 
+lymphoma, and non-neoplastic tumor-like lesions such as hamartomas and 
+inflammatory pseudotumors. Detailed imaging features, such as signal intensities 
+on MRI and enhancement patterns on CT, are correlated with pathological findings 
+to assist in the differential diagnosis. Familiarity with these characteristics 
+is crucial for radiologists to ensure accurate diagnosis and guide appropriate 
+treatment strategies, as management and prognosis significantly differ from 
+common pancreatic neoplasms.
+
+DOI: 10.3390/medicina60111766
+PMCID: PMC11596154
+PMID: 39596951 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.

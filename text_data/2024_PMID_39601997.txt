@@ -1,0 +1,49 @@
+1. Surg Case Rep. 2024 Nov 27;10(1):272. doi: 10.1186/s40792-024-02066-7.
+
+Simplified technique in total pancreatectomy with islet cell autotransplantation 
+after Frey's procedure: a case report.
+
+Oikawa R(1), Takemura N(2), Shimoda M(1), Nakamura M(1), Mihara F(1), Inagaki 
+F(1), Kokudo N(1).
+
+Author information:
+(1)Hepato-Biliary-Pancreatic Surgery Division, Department of Surgery, National 
+Center for Global Health and Medicine, 1-21-1 Toyama, Shinjuku-Ku, Tokyo, 
+162-8655, Japan.
+(2)Hepato-Biliary-Pancreatic Surgery Division, Department of Surgery, National 
+Center for Global Health and Medicine, 1-21-1 Toyama, Shinjuku-Ku, Tokyo, 
+162-8655, Japan. ntakemura@hosp.ncgm.go.jp.
+
+BACKGROUND: The selection of the surgical approach for chronic pancreatitis (CP) 
+is determined by various factors including inflammatory location, presence of 
+pancreatic duct dilatation, or possibility of cancer. Total pancreatectomy (TP), 
+with or without islet cell autotransplantation, is considered for patients with 
+refractory CP after the failure of other surgical treatments. Considering the 
+increasing incidence of CP requiring surgical treatment, the number of cases in 
+which TP is performed after previous surgical treatment is expected to increase.
+CASE PRESENTATION: We reported a case of TPIAT in a patient with alcoholic CP 
+who had previously undergone Frey's procedure. During the operation, the 
+sufficient length of the elevated jejunal loop for pancreaticojejunostomy in 
+Frey's procedure allowed it to be used directly for biliary jejunostomy during 
+TP. In addition, jejunojejunostomy from the previous operation could be used, 
+and these methods contributed to simplifying the operative procedure. We need 
+open hemostasis on post-operative day (POD) 1and a percutaneous drainage tube 
+replacement for an intraperitoneal abscess on POD 24. The patient was discharged 
+from the hospital on POD 37 with normal serum C-peptide level, which suggests 
+favorable insulin secretion from transplanted islets, and the epigastric pain 
+that suffered her preoperatively resulted in a dramatic improvement.
+CONCLUSIONS: When performing the Frey's procedure, the elevated jejunal loop and 
+Y-anastomosis jejunal loop with sufficient length allow them to be used directly 
+for the reconstructions in the possible subsequent TP.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s40792-024-02066-7
+PMID: 39601997
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: This article satisfied the consensus of the National Center for 
+Global Health and Medicine Research Ethics Committee/Institutional Review Board. 
+Consent for publication: Informed consent was obtained from the patient 
+presented in this article. Competing interests: The authors disclose no 
+conflicts.

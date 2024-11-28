@@ -1,0 +1,38 @@
+1. Cancers (Basel). 2024 Nov 12;16(22):3809. doi: 10.3390/cancers16223809.
+
+Diagnostic Utility of MicroRNAs in Pancreatic Cancers.
+
+Jelski W(1), Mroczko J(1), Okrasinska S(2), Mroczko B(1)(3).
+
+Author information:
+(1)Department of Biochemical Diagnostics, Medical University, 15-276 Bialystok, 
+Poland.
+(2)Department of Biochemical Diagnostics, University Hospital, 15-268 Bialystok, 
+Poland.
+(3)Department of Neurodegeneration Diagnostics, Medical University, 15-268 
+Bialystok, Poland.
+
+Pancreatic cancer (PC) is a serious malignant tumor with a high mortality rate, 
+mainly due to late diagnosis and a lack of effective therapeutic interventions. 
+The possibility of recognizing this cancer with reliable biomarkers using 
+minimally invasive methods is of great importance for improving early detection, 
+prognostic assessment, and targeted treatment methods. In recent years, small 
+non-coding RNAs, especially microRNAs, have emerged as promising candidates for 
+biomarkers of pancreatic cancer. Despite the methodological and analytical 
+limitations of microRNA determination and a lack of available automated and 
+standardized tests, a prospective systematic assessment of this new parameter's 
+use in the detection of pancreatic cancer is warranted. This review provides 
+general information on the diagnostic and prognostic utility of microRNAs, which 
+appear to be well-established in many studies. In summary, microRNAs are 
+promising non-invasive biomarkers of pancreatic cancer, offering potential 
+opportunities for early detection, prognosis, and treatment monitoring. As 
+research in this field progresses, microRNAs should become valuable tools in the 
+fight against pancreatic cancer.
+
+DOI: 10.3390/cancers16223809
+PMCID: PMC11593317
+PMID: 39594763
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.

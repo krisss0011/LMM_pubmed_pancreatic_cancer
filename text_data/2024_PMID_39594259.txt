@@ -1,0 +1,49 @@
+1. Diagnostics (Basel). 2024 Nov 18;14(22):2593. doi:
+10.3390/diagnostics14222593.
+
+Effect of Intravenous Contrast on CT Body Composition Measurements in Patients 
+with Intraductal Papillary Mucinous Neoplasm.
+
+Chima RS(1), Glushko T(1), Park MA(2)(3), Hodul P(2), Davis EW(2)(4), Martin 
+K(5), Qayyum A(1), Permuth JB(2)(4), Jeong D(1)(4).
+
+Author information:
+(1)Department of Diagnostic Imaging and Interventional Radiology, H. Lee Moffitt 
+Cancer Center & Research Institute, 12902 USF Magnolia Drive, Tampa, FL 33612, 
+USA.
+(2)Department of Gastrointestinal Oncology, H. Lee Moffitt Cancer Center & 
+Research Institute, 12902 USF Magnolia Drive, Tampa, FL 33612, USA.
+(3)Department of Biostatistics and Bioinformatics, H. Lee Moffitt Cancer Center 
+& Research Institute, 12902 USF Magnolia Drive, Tampa, FL 33612, USA.
+(4)Department of Cancer Epidemiology, H. Lee Moffitt Cancer Center & Research 
+Institute, 12902 USF Magnolia Drive, Tampa, FL 33612, USA.
+(5)Department of Clinical Science, H. Lee Moffitt Cancer Center & Research 
+Institute 12902 USF Magnolia Drive, Tampa, FL 33612, USA.
+
+BACKGROUND: The effect of differing post-contrast phases on CT body composition 
+measurements is not yet known.
+METHODS: A fully automated AI-based body composition analysis using DAFS was 
+performed on a retrospective cohort of 278 subjects undergoing pre-treatment 
+triple-phase CT for pancreatic intraductal papillary mucinous neoplasm. The CT 
+contrast phases included noncontrast (NON), arterial (ART), and venous (VEN) 
+phases. The software selected a single axial CT image at mid-L3 on each phase 
+for body compartment segmentation. The areas (cm2) were calculated for skeletal 
+muscle (SM), intermuscular adipose tissue (IMAT), visceral adipose tissue (VAT), 
+and subcutaneous adipose tissue (SAT). The mean Hounsfield units of skeletal 
+muscle (SMHU) within the segmented regions were calculated. Bland-Altman and Chi 
+Square analyses were performed.
+RESULTS: SM-NON had a lower percentage of bias [LOA] than SM-ART, -0.7 [-7.6, 
+6.2], and SM-VEN, -0.3 [-7.6, 7.0]; VAT-NON had a higher percentage of bias than 
+ART, 3.4 [-18.2, 25.0], and VEN, 5.8 [-15.0, 26.6]; and this value was lower for 
+SAT-NON than ART, -0.4 [-14.9, 14.2], and VEN, -0.5 [-14.3, 13.4]; and higher 
+for IMAT-NON than ART, 5.9 [-17.9, 29.7], and VEN, 9.5 [-17.0, 36.1]. The bias 
+in SMHU NON [LOA] was lower than that in ART, -3.8 HU [-9.8, 2.1], and VEN, -7.8 
+HU [-14.8, -0.8].
+CONCLUSIONS: IV contrast affects the voxel HU of fat and muscle, impacting CT 
+analysis of body composition. We noted a relatively smaller bias in the SM, VAT, 
+and SAT areas across the contrast phases. However, SMHU and IMAT experienced 
+larger bias. During threshold risk stratification for CT-based measurements of 
+SMHU and IMAT, the IV contrast phase should be taken into consideration.
+
+DOI: 10.3390/diagnostics14222593
+PMID: 39594259

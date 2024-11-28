@@ -1,0 +1,38 @@
+1. Pancreas. 2022 Nov-Dec 01;51(10):1337-1344. doi: 10.1097/MPA.0000000000002190.
+
+Postoperative Poor Oral Intake After Distal Pancreatectomy.
+
+Park HM(1), Park SJ(1), Kang MJ(2), Han SS(1), Kim SW(3).
+
+Author information:
+(1)From the Department of Surgery, Center for Liver and Pancreatobiliary Cancer.
+(2)The Korea Central Cancer Registry, National Cancer Center, Goyang-Si.
+(3)Department of Surgery, Chung-Ang University Gwang-Myeong Hospital, 
+Gwangmyeong-Si, Korea.
+
+OBJECTIVES: Poor oral intake (POI) without an identifiable cause is frequently 
+observed after distal pancreatectomy (DP). This study was designed to 
+investigate the incidence and risk factors of POI after DP, and its impact on 
+the length of hospital stay.
+METHODS: The prospectively collected data of patients who received DP were 
+retrospectively reviewed. A diet protocol after DP was followed, and POI after 
+DP was defined as the oral intake being less than 50% of the daily requirement 
+and parenteral calorie supply being required on postoperative day 7.
+RESULTS: Of the 157 patients, 21.7% (34) experienced POI after DP. The 
+multivariate analysis revealed that the remnant pancreatic margin (head; hazard 
+ratio, 7.837; 95% confidence interval, 2.111-29.087; P = 0.002) and 
+postoperative hyperglycemia >200 mg/dL (hazard ratio, 5.643; 95% confidence 
+interval, 1.482-21.494; P = 0.011) were independent risk factors for POI after 
+DP. The length of hospital stay (median [range]) of the POI group was 
+significantly longer than that of the normal diet group (17 [9-44] vs 10 [5-44] 
+days; P < 0.001).
+CONCLUSIONS: Patients undergoing pancreatic resection at pancreatic head portion 
+should follow a postoperative diet, and postoperative glucose levels should be 
+strictly regulated.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/MPA.0000000000002190
+PMID: 37099776 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

@@ -1,0 +1,45 @@
+1. Cancer Radiother. 2023 Dec;27(8):768-777. doi: 10.1016/j.canrad.2023.08.001. 
+Epub 2023 Oct 26.
+
+Practice-changing clinical trials in radiation oncology for gastrointestinal 
+malignancies in 2021-2023.
+
+Boustani J(1), Huguet F(2), Vendrely V(3).
+
+Author information:
+(1)Department of Radiation Oncology, centre hospitalier universitaire de 
+Besançon, Besançon, France; Inserm, EFS BFC, UMR 1098, RIGHT, 
+Greffon-hôte-tumeur interactions/Ingénierie cellulaire et génique, université de 
+Franche-Comté, Besançon, France. Electronic address: jboustani@chu-besancon.fr.
+(2)Department of Radiation Oncology, hôpital Tenon, AP-HP, Sorbonne université, 
+Paris, France.
+(3)Department of Radiation Oncology, centre hospitalier universitaire de 
+Bordeaux, Bordeaux, France; BoRdeaux Institute of onCology (BRIC), UMR1312, 
+Inserm, université de Bordeaux, 33000, Bordeaux, France.
+
+Gastrointestinal cancers are one of the most frequent cancers and a leading 
+cause of cancer deaths worldwide. We provide an overview of the most important 
+practice-changing trials that were either published or presented at the 
+international scientific meetings in 2021-2023. Highlights included reports on 
+three phase III trials (CONCORDE/PRODIGE 26, ARTDECO, and a study by Xu et al.) 
+that evaluated dose escalation in the definitive setting for locally advanced 
+oesophageal cancers, as well as two phase III trials that evaluated the role of 
+chemotherapy (neo-AEGIS) and targeted therapy (NRG/RTOG 1010) in the neoadjuvant 
+setting for adenocarcinoma oesophageal cancers or gastroesophageal junction 
+cancer. CheckMate 577 evaluated nivolumab in patients who had residual 
+pathological disease after neoadjuvant chemoradiation followed by complete 
+resection. The use of radiation therapy for borderline and locally advanced 
+pancreatic cancer is also discussed (SMART and CONKO-007 trials). Stereotactic 
+body radiation therapy followed by sorafenib was compared to sorafenib alone in 
+patients with hepatocellular carcinoma in the NRG/RTOG 1112 study. New options 
+in the management of rectal cancer are emerging such as total neoadjuvant 
+treatment (PRODIGE 23, RAPIDO, PROSPECT), organ preservation (OPRA, OPERA), and 
+the role of immunotherapy in patients with DNA mismatch-repair 
+deficient/microsatellite instability. Finally, preliminary results of the ACT 4 
+trial that evaluated de-escalation in anal cancer are presented.
+
+Copyright © 2023 Société française de radiothérapie oncologique (SFRO). 
+Published by Elsevier Masson SAS. All rights reserved.
+
+DOI: 10.1016/j.canrad.2023.08.001
+PMID: 38415359 [Indexed for MEDLINE]

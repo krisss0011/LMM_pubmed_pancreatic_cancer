@@ -1,0 +1,45 @@
+1. Pancreas. 2022 Oct 1;51(9):1217-1224. doi: 10.1097/MPA.0000000000002175.
+
+Negative p53 Expression Confers Worse Prognosis in Patients With Resected 
+Pancreatic Ductal Adenocarcinoma: Research Focused on Reinterpretation of 
+Immunohistochemical Staining.
+
+Li B, Wang Y(1), Wang J(2), Zhang G(2), Yin X(2), Wang H(2), Jiang H(3), Jin 
+G(2), Guo S(2).
+
+Author information:
+(1)Department of Pathology, Shanghai Fourth People's Hospital Affiliated to 
+Tongji University School of Medicine.
+(2)From the Department of Hepatobiliary Pancreatic Surgery, Changhai Hospital 
+Affiliated to Navy Medical University (Second Military Medical University).
+(3)Department of Pathology, Changhai Hospital Affiliated to Navy Medical 
+University (Second Military Medical University), Shanghai, China.
+
+OBJECTIVE: The aim of the study is to reinterpret the prognostic prediction of 
+p53 expression categories in pancreatic ductal adenocarcinoma with exploration 
+of the relationship between TP53 mutation genotype and p53 expression pattern.
+METHODS: Data were retrospectively collected from consecutive patients who 
+underwent primary pancreatic resection. Complete loss of function of TP53 is 
+defined as nonsense and frameshift mutations. A tissue microarray was used to 
+evaluate p53 expression by immunohistochemistry and was categorized as 
+regulated, high, or negative.
+RESULTS: The κ coefficient for agreement between p53 expression and TP53 was 
+0.761. Cox regression analyses revealed that p53 expression (high vs regulated: 
+hazard ratio [HR], 2.225; P < 0.001; negative vs regulated: HR, 2.788; P < 
+0.001), tumor-node-metastasis stage (II vs I: HR, 3.471; P < 0.001; III vs I: 
+HR, 6.834; P < 0.001), and tumor grade (G3/4 vs G1/2: HR, 1.958; P < 0.001) were 
+independent prognostic factors in developing cohort and validation cohort. In 
+subgroups of stage I, II, and III, compared with regulated expression, the 
+patients with negative expression had a worse prognosis in both cohorts (P < 
+0.05).
+CONCLUSIONS: Our findings indicate that 3-tier p53 expression in resectable 
+pancreatic ductal adenocarcinoma provided independent prognostic information 
+complementary to the tumor-node-metastasis staging system and facilitated 
+patient stratification for personalized therapy.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/MPA.0000000000002175
+PMID: 37078948 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
