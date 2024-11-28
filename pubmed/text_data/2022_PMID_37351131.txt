@@ -1,0 +1,79 @@
+1. Hepatobiliary Surg Nutr. 2023 Jun 1;12(3):314-327. doi: 10.21037/hbsn-21-423. 
+Epub 2022 Feb 15.
+
+Association of tumor morphology with long-term prognosis after liver resection 
+for patients with a solitary huge hepatocellular carcinoma-a multicenter 
+propensity score matching analysis.
+
+Xu XF(#)(1), Wu H(#)(1), Li JD(#)(2), Yao LQ(#)(1), Huang B(3), Diao YK(4), Chen 
+TH(5), Gu WM(6), Chen Z(7), Li J(8), Zhang YM(9), Wang H(10), Liang YJ(11), Zhou 
+YH(12), Li C(1), Wang MD(1), Zhang CW(4), Pawlik TM(13), Lau WY(1)(14), Shen 
+F(1), Yang T(1)(4).
+
+Author information:
+(1)Department of Hepatobiliary Surgery, Eastern Hepatobiliary Surgery Hospital, 
+Naval Medical University (Second Military Medical University), Shanghai, China.
+(2)Department of General Surgery, Changzheng Hospital, Naval Medical University 
+(Second Military Medical University), Shanghai, China.
+(3)Department of Radiology, Eastern Hepatobiliary Surgery Hospital, Naval 
+Medical University (Second Military Medical University), Shanghai, China.
+(4)Division of Hepatobiliary and Pancreatic Surgery, Department of General 
+Surgery, Cancer Center, Zhejiang Provincial People's Hospital, People's Hospital 
+of Hangzhou Medical College, Hangzhou, China.
+(5)Department of General Surgery, Ziyang First People's Hospital, Ziyang, China.
+(6)The First Department of General Surgery, the Fourth Hospital of Harbin, 
+Harbin, China.
+(7)Department of Hepatobiliary Surgery, Affiliated Hospital of Nantong 
+University, Nantong, China.
+(8)Department of Hepatobiliary Surgery, Fuyang People's Hospital, Fuyang, China.
+(9)The Second Department of Hepatobiliary Surgery, Meizhou People's Hospital, 
+Meizhou, China.
+(10)Department of General Surgery, Liuyang People's Hospital, Changsha, China.
+(11)Department of Hepatobiliary Surgery, the First Affiliated Hospital of Harbin 
+Medical University, Harbin, China.
+(12)Department of Hepatobiliary Surgery, Pu'er People's Hospital, Pu'er, China.
+(13)Department of Surgery, Ohio State University, Wexner Medical Center, 
+Columbus, OH, USA.
+(14)Faculty of Medicine, the Chinese University of Hong Kong, Hong Kong, China.
+(#)Contributed equally
+
+BACKGROUND: A solitary hepatocellular carcinoma (HCC) without macrovascular 
+invasion and distant metastasis, regardless of tumor size, is currently 
+classified as early-stage disease by the latest Barcelona Clinic Liver Cancer 
+(BCLC) staging system. While the preferred treatment is surgical resection, the 
+association of tumor morphology with long-term survival outcomes after liver 
+resection for a solitary huge HCC of ≥10 cm has not been defined.
+METHODS: Patients who underwent curative liver resection for a solitary huge HCC 
+were identified from a multicenter database. Preoperative imaging findings were 
+used to define spherical- or ellipsoidal-shaped lesions with smooth edges as 
+balloon-shaped HCCs (BS-HCCs); out-of-shape lesions or lesions of any shape with 
+matt edges were defined as non-balloon-shaped HCCs (NBS-HCCs). The two groups of 
+patients with BS-HCCs and NBS-HCCs were matched in a 1:1 ratio using propensity 
+score matching (PSM). Clinicopathologic characteristics, long-term overall 
+survival (OS) and recurrence-free survival (RFS) were assessed.
+RESULTS: Among patients with a solitary huge HCC, 74 pairs of patients with 
+BS-HCC and NBS-HCC were matched. Tumor pathological features including 
+proportions of microvascular invasion, satellite nodules, and incomplete tumor 
+encapsulation in the BS-HCC group were lower than the NBS-HCC group. At a median 
+follow-up of 50.7 months, median OS and RFS of all patients with a solitary huge 
+HCC after PSM were 27.8 and 10.1 months, respectively. The BS-HCC group had 
+better median OS and RFS than the NBS-HCC group (31.9 vs. 21.0 months, P=0.01; 
+and 19.7 vs. 6.4 months, P=0.015). Multivariate analyses identified BS-HCC as 
+independently associated with better OS (HR =0.592, P=0.009) and RFS (HR =0.633, 
+P=0.013).
+CONCLUSIONS: For a solitary huge HCC, preoperative imaging on tumor morphology 
+was associated with prognosis following resection. In particular, patients with 
+BS-HCCs had better long-term survival following liver resection versus patients 
+with large NBS-HCCs.
+
+2023 Hepatobiliary Surgery and Nutrition. All rights reserved.
+
+DOI: 10.21037/hbsn-21-423
+PMCID: PMC10282672
+PMID: 37351131
+
+Conflict of interest statement: Conflicts of Interest: All authors have 
+completed the ICMJE uniform disclosure form (available at 
+https://hbsn.amegroups.com/article/view/10.21037/hbsn-21-423/coif). TMP and WYL 
+serve as the unpaid editorial board members of Hepatobiliary Surgery and 
+Nutrition. The other authors have no conflicts of interest to declare.

@@ -1,0 +1,70 @@
+1. Dig Dis Sci. 2024 Nov 27. doi: 10.1007/s10620-024-08715-z. Online ahead of 
+print.
+
+CD8 + T-Cell-Related Genes: Deciphering Their Role in the Pancreatic 
+Adenocarcinoma TME and Their Effect on Prognosis.
+
+Zhang Y(1)(2), Hou H(3), Zhang X(2), Lan H(1)(2), Huo X(1)(2), Duan X(1)(2), Li 
+Y(2)(3), Zhang X(1), Zhou N(4).
+
+Author information:
+(1)Precision Medicine Center of Oncology, The Affiliated Hospital of Qingdao 
+University, Qingdao University, No. 59 Haier Road, Qingdao, 266000, Shandong, 
+China.
+(2)Department of Medicine, Qingdao University, No. 308 Ningxia Road, Qingdao, 
+266000, Shandong, China.
+(3)Department of Oncology, The Affiliated Hospital of Qingdao University, No. 7 
+Jiaxing Road, Qingdao, 266000, Shandong, China.
+(4)Precision Medicine Center of Oncology, The Affiliated Hospital of Qingdao 
+University, Qingdao University, No. 59 Haier Road, Qingdao, 266000, Shandong, 
+China. zhouna@qdu.edu.cn.
+
+BACKGROUND: Because of the unique tumor microenvironment (TME), immunotherapy 
+and targeted therapies have shown limited efficacy in treating pancreatic 
+adenocarcinoma (PAAD). CD8 + T cells play crucial roles in regulating the TME in 
+PAAD; therefore, exploring the function of CD8 + T-cell-related genes (CD8RGs) 
+in PAAD has high potential clinical value and could provide a comprehensive 
+understanding of the microenvironment of PAAD.
+METHODS: We employed the weighted gene coexpression network analysis and 
+CIBERSORT algorithms to assess PAAD transcriptome data from The Cancer Genome 
+Atlas (TCGA) dataset and identify modules strongly associated with CD8 + T cell 
+infiltration. Using least absolute shrinkage and selection operator regression 
+analysis and Kaplan-Meier curves, we developed a prognostic risk score model for 
+patients with PAAD. We validated this model using single-cell and transcriptome 
+datasets obtained from the Gene Expression Omnibus (GEO). We also examined the 
+correlations between the risk score and factors such as the TME, clinical 
+characteristics, and tumor mutation burden (TMB). Gene Ontology and Kyoto 
+Encyclopedia of Genes and Genomes enrichment analysis were performed on 
+differentially expressed genes between the high- and low-risk groups. In 
+addition, the Tumor Immune Dysfunction and Exclusion website and "pRRophetic" R 
+package were used to predict response to immunotherapy and chemotherapy in the 
+high- and low-risk groups, respectively. Finally, we analyzed the expressions of 
+hub genes at the cellular level with quantitative real-time PCR.
+RESULTS: A risk model based on five CD8RGs was established and validated using 
+TCGA and GEO datasets. The low-risk group exhibited significantly longer overall 
+and progression-free survival. A positive correlation between the TMB and the 
+risk score was observed. The TME analysis revealed a significant correlation 
+between the risk score and immune function, as well as immune checkpoints. The 
+expression of hub genes was significantly correlated with the infiltration level 
+of CD8 + T cells. The high-risk group responded better to immunotherapy, 
+paclitaxel, cisplatin, mitomycin C, afatinib (BIBW2992), and gefitinib. In 
+contrast, the low-risk group showed higher sensitivity to sunitinib, MK.2206, 
+palbociclib (PD.0332991), and axitinib. Compared with that in normal pancreatic 
+epithelial cells, the expression levels of BCL11A, PHOSPHO1, and GNG7 were 
+significantly decreased, while those of KLK11 and VCAM1 were significantly 
+increased in pancreatic tumor cells.
+CONCLUSIONS: CD8RGs play an important role in regulating the TME of PAAD. Five 
+hub genes-BCL11A, KLK11, GNG7, PHOSPHO1, and VCAM1-are closely associated with 
+the prognosis of PAAD patients, providing new references for the exploration of 
+biomarkers. Furthermore, our findings offer novel insights for clinical 
+decision-making.
+
+© 2024. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s10620-024-08715-z
+PMID: 39604668
+
+Conflict of interest statement: Declarations. Competing interests: The authors 
+declare that they have no competing interests. Ethical approval: Not applicable. 
+Consent for publication: Not applicable.

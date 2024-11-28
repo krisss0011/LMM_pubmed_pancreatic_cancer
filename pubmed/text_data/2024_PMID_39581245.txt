@@ -1,0 +1,57 @@
+1. Crit Rev Oncol Hematol. 2024 Nov 22;206:104573. doi: 
+10.1016/j.critrevonc.2024.104573. Online ahead of print.
+
+Association of epigenetic landscapes with heterogeneity and plasticity in 
+pancreatic cancer.
+
+Manoukian P(1), Kuhnen LC(2), van Laarhoven HWM(3), Bijlsma MF(4).
+
+Author information:
+(1)Amsterdam UMC location University of Amsterdam, Center for Experimental and 
+Molecular Medicine, Laboratory of Experimental Oncology and 
+Radiobiology, Amsterdam, the Netherlands; Cancer Center Amsterdam, Cancer 
+Biology, Amsterdam, the Netherlands. Electronic address: 
+p.manoukian@amsterdamumc.nl.
+(2)Amsterdam UMC location University of Amsterdam, Center for Experimental and 
+Molecular Medicine, Laboratory of Experimental Oncology and 
+Radiobiology, Amsterdam, the Netherlands.
+(3)Cancer Center Amsterdam, Cancer Biology, Amsterdam, the Netherlands; 
+Amsterdam UMC location University of Amsterdam, Department of Medical 
+Oncology, Amsterdam, the Netherlands.
+(4)Amsterdam UMC location University of Amsterdam, Center for Experimental and 
+Molecular Medicine, Laboratory of Experimental Oncology and 
+Radiobiology, Amsterdam, the Netherlands; Cancer Center Amsterdam, Cancer 
+Biology, Amsterdam, the Netherlands.
+
+Pancreatic ductal adenocarcinoma (PDAC) has a poor prognosis. Due to a lack of 
+clear symptoms, patients often present with advanced disease, with limited 
+clinical intervention options. The high mortality rate of PDAC is, however, also 
+a result of several other factors that include a high degree of heterogeneity 
+and treatment resistant cellular phenotypes. Molecular subtypes of PDAC have 
+been identified that are thought to represent cellular phenotypes at the tissue 
+level. The epigenetic landscape is an important factor that dictates these 
+subtypes. Permissive epigenetic landscapes serve as drivers of molecular 
+heterogeneity and cellular plasticity in developing crypts as well as 
+metaplastic lesions. Drawing parallels with other cancers, we hypothesize that 
+epigenetic permissiveness is a potential driver of cellular plasticity in PDAC. 
+In this review will explore the epigenetic alterations that underlie PDAC cell 
+states and relate them to cellular plasticity from other contexts. In doing so, 
+we aim to highlight epigenomic drivers of PDAC heterogeneity and plasticity and, 
+with that, offer some insight to guide pre-clinical research.
+
+Copyright © 2024 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.critrevonc.2024.104573
+PMID: 39581245
+
+Conflict of interest statement: Declaration of Competing Interest MFB has 
+received research funding from Celgene, Frame Therapeutics, and Lead Pharma, and 
+has acted as a consultant to Servier, Olympus and Wholomics. HWML Consultant or 
+advisory role: Amphera, Anocca, Astellas, AstraZeneca, Beigene, Boehringer, 
+Daiichy-Sankyo, Dragonfly, MSD, Myeloid, Servier Research funding, medication 
+supply, and/or other research support: Auristone, Incyte, Merck, ORCA, Servier. 
+Speaker role: Astellas, Beigene, Benecke, BMS, Daiichy-Sankyo, JAAP, Medtalks, 
+Novartis, Springer, Travel Congress Management B.V. JWW Consultant or advisory 
+role: MSD, Servier, Astra Zeneca, Research funding: MSD, Nordic, Servier. 
+Speaker role: MSD, Servier. None of these parties participated in the design or 
+drafting of the manuscript.

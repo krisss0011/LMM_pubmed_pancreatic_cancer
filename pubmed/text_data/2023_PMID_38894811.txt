@@ -1,0 +1,81 @@
+1. Liver Cancer. 2023 Nov 28;13(3):322-334. doi: 10.1159/000535514. eCollection 
+2024 Jun.
+
+A Multicenter Phase 2 Trial Evaluating the Efficacy and Safety of Preoperative 
+Lenvatinib Therapy for Patients with Advanced Hepatocellular Carcinoma (LENS-HCC 
+Trial).
+
+Ichida A(1), Arita J(1), Hatano E(2)(3), Eguchi S(4), Saiura A(5), Nagano H(6), 
+Shindoh J(7), Hashimoto M(7), Takemura N(8), Taura K(3), Sakamoto Y(9), 
+Takahashi Y(10), Seyama Y(11), Sasaki Y(12), Uemura K(13), Kokudo N(8), Hasegawa 
+K(1).
+
+Author information:
+(1)Hepato-Biliary-Pancreatic Surgery Division, Department of Surgery, Graduate 
+School of Medicine, The University of Tokyo, Tokyo, Japan.
+(2)Department of Gastroenterological Surgery, Hyogo Medical University, Kobe, 
+Japan.
+(3)Department of Surgery, Graduate School of Medicine, Kyoto University, Kyoto, 
+Japan.
+(4)Department of Surgery, Nagasaki University Graduate School of Biomedical 
+Sciences, Nagasaki, Japan.
+(5)Department of Hepatobiliary-Pancreatic Surgery, Juntendo University School of 
+Medicine, Tokyo, Japan.
+(6)Department of Gastroenterological, Breast and Endocrine Surgery, Graduate 
+School of Medicine, Yamaguchi University, Yamaguchi, Japan.
+(7)Hepatobiliary-Pancreatic Surgery Division, Department of Gastroenterological 
+Surgery, Toranomon Hospital, Tokyo, Japan.
+(8)Hepato-Biliary-Pancreatic Surgery Division, Department of Surgery, National 
+Center for Global Health and Medicine, Tokyo, Japan.
+(9)Department of Hepato-Biliary-Pancreatic Surgery, Kyorin University Hospital, 
+Tokyo, Japan.
+(10)Division of Hepatobiliary and Pancreatic Surgery, Cancer Institute Hospital 
+for Japanese Foundation for Cancer Research, Tokyo, Japan.
+(11)Department of Hepato-Biliary-Pancreatic Surgery, Tokyo Metropolitan Cancer 
+and Infectious Diseases Center, Komagome Hospital, Tokyo, Japan.
+(12)JCRAC Data Center, Department of Data Science, Center for Clinical Sciences, 
+National Center for Global Health and Medicine, Tokyo, Japan.
+(13)Biostatistics and Bioinformatics Course, The University of Tokyo, Tokyo, 
+Japan.
+
+INTRODUCTION: The phase III REFLECT trial demonstrated that lenvatinib was 
+superior to sorafenib in terms of progression-free survival (PFS), time to 
+progression, and objective response rate (ORR) for patients with unresectable 
+hepatocellular carcinoma (HCC). This study assessed the efficacy and safety of 
+preoperative lenvatinib therapy for patients with oncologically or technically 
+unresectable HCC.
+METHODS: In this multicenter single-arm phase II trial, patients with advanced 
+HCC and factors suggestive of a poor prognosis (macroscopic vascular invasion, 
+extrahepatic metastasis, or multinodular tumors) were enrolled. Patients with 
+these factors, even with technically resectable HCC, were defined as 
+oncologically unresectable because of the expected poor prognosis after surgery. 
+After 8 weeks of lenvatinib therapy, the patients were assessed for 
+resectability, and tumor resection was performed if the tumor was considered 
+technically resectable. The primary endpoint was the surgical resection rate. 
+The secondary endpoints were the macroscopic curative resection rate, overall 
+survival (OS), ORR, PFS, and the change in the indocyanine green retention rate 
+at 15 min as measured before and after lenvatinib therapy. The trial was 
+registered with the Japan Registry of Clinical Trials (s031190057).
+RESULTS: Between July 2019 and January 2021, 49 patients (42 oncologically 
+unresectable patients and 7 technically unresectable patients) from 11 centers 
+were enrolled. The ORR was 37.5% based on mRECIST and 12.5% based on RECIST 
+version 1.1. Thirty-three patients underwent surgery (surgical resection rate: 
+67.3%) without perioperative mortality. The surgical resection rate was 76.2% 
+for oncologically unresectable patients and 14.3% for technically unresectable 
+patients. The 1-year OS rate and median PFS were 75.9% and 7.2 months, 
+respectively, with a median follow-up period of 9.3 months.
+CONCLUSIONS: The relatively high surgical resection rate seen in this study 
+suggests the safety and feasibility of lenvatinib therapy followed by surgical 
+resection for patients with oncologically or technically unresectable HCC.
+
+© 2023 The Author(s). Published by S. Karger AG, Basel.
+
+DOI: 10.1159/000535514
+PMCID: PMC11185855
+PMID: 38894811
+
+Conflict of interest statement: E.H. reports honoraria from Eisai, Chugai 
+Pharmaceutical, Bayer, Eli Lilly, and Takeda Pharmaceutical. J.S. reports 
+honoraria from Eisai and Chugai Pharmaceutical. K.H. reports honoraria and 
+grants from Eisai, Chugai Pharmaceutical, Bayer, Eli Lilly, and Takeda 
+Pharmaceutical, and research funding from Chugai Pharmaceutical.

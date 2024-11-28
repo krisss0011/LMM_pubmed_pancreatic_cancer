@@ -1,0 +1,39 @@
+1. Ann Ital Chir. 2023 Nov 13;12(November):1-5.
+
+Management of incidental pancreatic neuroendocrine tumor: a case report with 
+literature review.
+
+Spaziani E(1), Di Filippo AR(2), Spaziani M(2), Tamagnini GT(1), Francioni P(3), 
+Salesi N(4), Picchio M(5), De Cesare A(6).
+
+Author information:
+(1)Department of Medico-Surgical Sciences and Biotechnologies, Polo Pontino, 
+Sapienza University of Rome, Terracina, Italy.
+(2)Unit of Anesthesia, Intensive Care and Pain Medicine, Sapienza University of 
+Rome, Sant'Andrea University Hospital, Rome, Italy.
+(3)Department of Radiology, AUSL Latina, "A. Fiorini" Hospital, Terracina, 
+Italy.
+(4)Department of Oncology, Hospital "S. Maria Goretti", Latina, Italy.
+(5)Division of Surgery, ASL Roma 6, "P. Colombo" Hospital, Velletri, Italy.
+(6)Department of Surgery "Pietro Valdoni", Sapienza University of Rome, Rome, 
+Italy.
+
+BACKGROUND: Pancreatic neuroendocrine tumors (PNETs) are rare and accounting for 
+less than 5% of all pancreatic neoplasms. Their management depends on dimension 
+of the lesion, main pancreatic duct (MPD) caliber, tumor malignancy features and 
+evolutive potential.
+CASE REPORT: Incidental finding of a lesion 1.2 cm wide of the pancreatic body, 
+after contrast enhanced total body CT, in a 71 years old obese Caucasian male 
+(BMI>25), during follow-up for cutaneous melanoma. The lesion was confirmed by 
+MRI and 68-Ga pancreatic scintigraphy. EUS showed a second hypoecogenic and 
+hypovascularized lesion compatible with pancreatic tail PNET. After FNB, Ki-67 
+was below 3%.
+DISCUSSION: 68-Gallium PET-CT was the preferred technique for the staging of the 
+neuroendocrine neoplasm, for treatment planning, for the localization of the 
+pancreatic lesion, excluding the presence of unknown extra-pancreatic lesions. 
+EUS-FNB is indicated in patient with suspicion of PNET, although further 
+investigation is needed to include it as a routine diagnostic examination.
+CONCLUSION: Surgery is mandatory in case of PNETs larger than 2 cm, with MPD 
+dilation, Ki-67>20% and compression symptoms.
+
+PMID: 38919024 [Indexed for MEDLINE]

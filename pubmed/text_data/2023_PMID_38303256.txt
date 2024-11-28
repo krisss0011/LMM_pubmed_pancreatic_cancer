@@ -1,0 +1,34 @@
+1. Gan To Kagaku Ryoho. 2023 Dec;50(13):1931-1933.
+
+[Pancreatic Acinar Cell Carcinoma with Peritoneal Recurrence Treated with 
+Peritonectomy and Intraoperative Hyperthermic Intraperitoneal Chemotherapy-A 
+Case Report].
+
+[Article in Japanese]
+
+Yonemura Y(1), Ishibashi H, Fujita T, Liu Y, Wakama S, Sako S, Kitai T, Katayama 
+K, Kamada Y, Taniguchi K, Fujimoto D, Kajiwara J, Hoffman RM.
+
+Author information:
+(1)Asian School of Peritoneal Surface Malignancy Treatment.
+
+A 31-year-old man with a big epigastric mass from pancreas body was completely 
+removed by distal pancreatectomy and segmental gastrectomy. Two years after oral 
+administration of S-1 for 4 courses, peritoneal dissemination on the right 
+subdiaphragmatic space was detected. Laparotomy revealed white colored round 
+nodules were found scattered on the peritoneal surface, and the peritoneal 
+cancer index(PCI)was 18. To achieve complete resection of peritoneal nodules, 
+peritonectomy was performed. After complete removal of macroscopic peritoneal 
+metastasis(PM), intraoperative hyperthermic intraoperative peritoneal 
+chemotherapy using 1 gr of gemcitabine and 60 mg of docetaxel was performed for 
+40 min with thermal dose of 41.5 min. Postoperative course was uneventful. Drug 
+sensitivity test(HDRA method)showed that gemcitabine that gemcitabine showed the 
+highest inhibition rate. The patient was treated with systemic gemcitabine 
+chemotherapy. He is still alive without recurrence 18 months after peritonectomy 
+plus intraoperative HIPEC. Pathological examination showed pancreatic acinar 
+cell carcinoma(PACC)demonstrating positive for chymotrypsin. In conclusion, we 
+present a PACC-case with PM successfully treated by a comprehensive treatment. 
+Intraoperative HIPEC using gemcitabine may be effective for PACC patients with 
+PM in treating residual micrometastasis after peritonectomy.
+
+PMID: 38303256 [Indexed for MEDLINE]

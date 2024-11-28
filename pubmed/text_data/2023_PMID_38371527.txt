@@ -1,0 +1,63 @@
+1. Biochem Biophys Rep. 2023 Dec 7;37:101600. doi: 10.1016/j.bbrep.2023.101600. 
+eCollection 2024 Mar.
+
+PANoptosis-related long non-coding RNA signature to predict the prognosis and 
+immune landscapes of pancreatic adenocarcinoma.
+
+Zhao Q(1)(2), Ye Y(1)(2), Zhang Q(1)(2), Wu Y(1)(2), Wang G(1)(2), Gui Z(1)(2), 
+Zhang M(1)(2)(3).
+
+Author information:
+(1)Oncology Department of Integrated Traditional Chinese and Western Medicine, 
+The First Affiliated Hospital of Anhui Medical University, Hefei, China.
+(2)The Traditional and Western Medicine (TCM)-Integrated Cancer Center of Anhui 
+Medical University, Hefei, China.
+(3)Graduate School of Anhui University of Chinese Medicine, Hefei, China.
+
+BACKGROUND: Cancer growth is significantly influenced by processes such as 
+pyroptosis, apoptosis, and necroptosis that underlie PANoptosis, a 
+proinflammatory programmed cell death. Several studies have examined the long 
+non-coding RNAs (lncRNAs) associated with pancreatic adenocarcinoma (PAAD). 
+However, the predictive value of lncRNAs related to PANoptosis for PAAD has not 
+been established.
+METHODS: The Clinical Genome Atlas database was used to obtain the transcriptome 
+、clinical data and the corresponding mutation data of the patients with PAAD in 
+this study. The least absolute shrinkage and selection operator regression 
+analysis was employed to obtain prognosis-related lncRNAs for constructing a 
+risk signature. According to the median risk score of the signature, patients 
+with PAAD were grouped into low- and high-risk groups to further compare the 
+survival prognosis of different risk groups. Time-dependent receiver operating 
+characteristic curves, c-index analysis, nomograms, principal component analysis 
+and univariate Cox and multivariate Cox regression were performed for the 
+internal validation of the signature. In addition, enrichment analysis of 
+different genes was performed using gene ontology (GO) and Kyoto Encyclopedia of 
+Genes and Genomes (KEGG) analysis. Lastly, differences in tumor mutation burden 
+(TMB), immune function, tumor immune dysfunction and rejection (TIDE), and drug 
+response were determined for the two risk groups.
+RESULTS: The signature was constructed with six PANoptosis-related lncRNAs 
+(AC067817.2、LINC02004、AC243829.1、AC092171.5、AP005233.2、AC004687.1) that 
+predicted the prognosis of the patients with PAAD. Survival curves showed that 
+patients in the two risk groups had statistically significant differences in 
+prognosis (P < 0.05), and multi-cox regression analysis identified risk score as 
+an independent risk factor for PAAD prognosis, and internal validation of 
+nomograms showed high confidence in the signature. GO and KEGG enrichment 
+analysis showed functional and pathway differences between the high- and 
+low-risk groups. TMB evaluation demonstrated that patients in the high-risk 
+group had a higher frequency of mutations. The TIDE score indicated that the 
+high-risk group had a lower risk of immunotherapy escape and better 
+immunotherapy outcomes. Additionally, the two risk groups revealed significantly 
+different responses to 11 anticancer drugs.
+CONCLUSION: We identified a novel risk signature for PANoptosis-related lncRNAs, 
+which is a standalone prognostic indicator for PAAD. The PANoptosis-related 
+lncRNA risk signature may be relevant for immunotherapy and a therapeutic target 
+for PAAD.
+
+© 2023 The Authors.
+
+DOI: 10.1016/j.bbrep.2023.101600
+PMCID: PMC10873882
+PMID: 38371527
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.

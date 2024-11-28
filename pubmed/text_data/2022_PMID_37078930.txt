@@ -1,0 +1,36 @@
+1. Pancreas. 2022 Oct 1;51(9):1092-1104. doi: 10.1097/MPA.0000000000002154.
+
+Clinically Relevant Biology of Hyaluronic Acid in the Desmoplastic Stroma of 
+Pancreatic Ductal Adenocarcinoma.
+
+Jahedi H(1), Ramachandran A(1), Windsor J(2), Knowlton N, Blenkiron C, Print 
+CG(1).
+
+Author information:
+(1)From the Departments of Molecular Medicine and Pathology.
+(2)Surgery.
+
+Pancreatic ductal adenocarcinoma (PDAC) is notorious for its poor outcome. The 
+presence of a dense desmoplastic stroma is a hallmark of this malignancy, and 
+abundant hyaluronic acid (HA) within this stroma is a common feature of PDAC. At 
+the end of 2019, an HA-targeting drug, after initial promise, failed phase 3 
+clinical trials in PDAC. This failure in the face of such strong evidence for 
+biological importance forces us to turn back to the research and seek a better 
+understanding of HA biology in PDAC. Therefore, in this review, we reexamine 
+what is known about HA biology, the methods used to detect and quantify HA, and 
+the ability of the biological models in which HA has been investigated to 
+recapitulate an HA-rich desmoplastic tumor stroma. The role of HA in PDAC relies 
+on its complex interplay with a range of HA-associated molecules, which have not 
+been as extensively investigated as HA itself. Therefore, using large genomic 
+data sets, we cataloged the abundance and activity in PDAC of molecules that 
+modulate HA synthesis, degradation, protein interactions, and receptor binding. 
+Based on their association with clinical characteristics and individual patient 
+outcomes, we suggest a small number of HA-associated molecules that warrant 
+further investigation as biomarkers and drug targets.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/MPA.0000000000002154
+PMID: 37078930 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

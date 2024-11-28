@@ -1,0 +1,30 @@
+1. Curr Oncol. 2024 Nov 17;31(11):7275-7286. doi: 10.3390/curroncol31110536.
+
+Exploration of the Dual Role of Dectin-1 in Tumor Development and Its 
+Therapeutic Potential.
+
+Cai Y(1), Wu K(1).
+
+Author information:
+(1)Department of Gastrointestinal Surgery, Tongji Medical College, Union 
+Hospital, Huazhong University of Science and Technology, Wuhan 430022, China.
+
+Immunotherapy, particularly immune checkpoint inhibitors like PD-1, PD-L1, and 
+CTLA-4, has revolutionized cancer treatment. However, the role of the innate 
+immune system, especially pattern recognition receptors, in cancer development 
+and immunity is gaining more and more attention. Dectin-1, a C-type lectin 
+receptor primarily involved in antifungal immunity, has emerged as a significant 
+player in cancer biology, exhibiting both pro-tumor and anti-tumor roles. This 
+dual function largely depends on the tumor type and microenvironment. Dectin-1 
+can promote immune responses against tumors like melanoma and breast cancer by 
+enhancing both innate and adaptive immunity. However, in tumors like pancreatic 
+ductal adenocarcinoma and colorectal cancer, Dectin-1 activation suppresses T 
+cell immunity, facilitating tumor progression. This review explores the complex 
+mechanisms by which Dectin-1 modulates the tumor microenvironment and discusses 
+its potential as a therapeutic target for cancer treatment.
+
+DOI: 10.3390/curroncol31110536
+PMCID: PMC11592733
+PMID: 39590166 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.

@@ -1,0 +1,53 @@
+1. Transl Cancer Res. 2023 Jan 30;12(1):78-92. doi: 10.21037/tcr-22-1133. Epub
+2022  Dec 31.
+
+Hypermethylated WASF2: tumor suppressive role in head and neck squamous cell 
+carcinoma.
+
+Zhang J(#)(1), Ding Z(#)(1), Chen L(1), Qin H(2).
+
+Author information:
+(1)Central Laboratory of Stomatology, Nanjing Stomatological Hospital, Medical 
+School of Nanjing University, Nanjing, China.
+(2)Department of Dental Implantology and Nanjing Stomatological Hospital, 
+Medical School of Nanjing University, Nanjing, China.
+(#)Contributed equally
+
+BACKGROUND: WASF2 regulates actin reorganization during cell migration. WASF2 
+has been identified as a regulator of the development of gastric cancer, breast 
+cancer, and pancreatic cancer. But its regulatory mechanisms remain unknown. 
+Also, its function was absent in head and neck squamous cell carcinoma (HNSCC). 
+Consequently, we examined the effect of DNA methylation on aberrant WASF2 
+expression in HNSCC.
+METHODS: TNMplot, TIMER, GSEA pathway analysis, and the Kaplan-Meier Plotter 
+database were used to analyze the expression, function, and prognostic value of 
+WASF2, as well as the correlation between WASF2 and infiltrating immune cells in 
+HNSCC or pan-cancer analysis. WASF2 promoter methylation levels and the 
+correlation between WASF2 expression and WASF2 promoter methylation in HNSCC 
+were evaluated using the DNMIVD database. The effect of DNA methylation 
+inhibitor on WASF2 expression was demonstrated in the GEO database. Finally, the 
+TISIDB database determined the relationships between WASF2 methylation, immune 
+cell infiltration, and immune inhibitors.
+RESULTS: WASF2 was significantly downregulated in HNSCC tissues where WASF2 
+promoter methylation was elevated. According to the GEO database, treatment with 
+a DNA methylation inhibitor notably restored the mRNA expression of WASF2. WASF2 
+expression was also a favorable indicator of human papilloma virus 
+(HPV)-positive HNSCC. Its level of promoter methylation had detrimental effects 
+on patient survival. In addition, patients with elevated levels of WASF2 
+demonstrated active G2/M regulation, TGF-β signaling, Kras signaling, fatty acid 
+metabolism, and p53 pathways. WASF2 was positively associated with tumor-killing 
+immune cells, while WASF2 methylation was positively related to 
+immunosuppressive cells and immune-inhibitors.
+CONCLUSIONS: Hypermethylated WASF2 acted as a tumor suppressor of HNSCC by 
+regulating tumor formation and immune imbalance.
+
+2023 Translational Cancer Research. All rights reserved.
+
+DOI: 10.21037/tcr-22-1133
+PMCID: PMC9906064
+PMID: 36760387
+
+Conflict of interest statement: Conflicts of Interest: All authors have 
+completed the ICMJE uniform disclosure form (available at 
+https://tcr.amegroups.com/article/view/10.21037/tcr-22-1133/coif). The authors 
+have no conflicts of interest to declare.

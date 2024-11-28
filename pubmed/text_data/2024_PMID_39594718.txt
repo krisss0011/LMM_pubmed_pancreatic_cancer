@@ -1,0 +1,39 @@
+1. Cancers (Basel). 2024 Nov 8;16(22):3764. doi: 10.3390/cancers16223764.
+
+Annexin A2 in Tumors of the Gastrointestinal Tract, Liver, and Pancreas.
+
+Christofidis K(1)(2), Pergaris A(2), Fioretzaki R(3), Charalampakis N(4), 
+Kapetanakis EΙ(5), Kavantzas N(1), Schizas D(3), Sakellariou S(1).
+
+Author information:
+(1)Cytopathology Laboratory, Laiko General Hospital of Athens, 11527 Athens, 
+Greece.
+(2)First Department of Pathology, School of Medicine, National and Kapodistrian 
+University of Athens, 11527 Athens, Greece.
+(3)First Department of Surgery, National and Kapodistrian University of Athens, 
+Laiko General Hospital of Athens, 11527 Athens, Greece.
+(4)Department of Medical Oncology, Metaxa Cancer Hospital of Piraeus, 18537 
+Piraeus, Greece.
+(5)Department of Thoracic Surgery, National and Kapodistrian University of 
+Athens, Attikon University Hospital, 12462 Athens, Greece.
+
+Annexin A2 (ANXA2) is a protein that is involved in many physiological and 
+pathological cellular processes. There is compelling evidence that its 
+dysregulated expression, be it up- or downregulation, contributes to the 
+oncogenesis of various neoplasms, including those of the digestive system. The 
+present review summarizes the current knowledge on the role of ANXA2 in the main 
+tumors of the digestive system. The clinical significance of ANXA2 is 
+primordial, due to its potential use as a diagnostic and prognostic biomarker, 
+and as a part of therapeutic protocols. Certain preclinical studies have shown 
+that inhibiting ANXA2 or disrupting its interactions with key molecules can 
+suppress tumor growth, invasion, and metastasis, as well as increase the cancer 
+cells' sensitivity to treatment in various cancers. Further research is needed 
+to fully elucidate the complex role of ANXA2 in the carcinogenesis of tumors of 
+the digestive system, and to translate these findings into clinical applications 
+for improved diagnosis, prognosis, and treatment.
+
+DOI: 10.3390/cancers16223764
+PMCID: PMC11592865
+PMID: 39594718
+
+Conflict of interest statement: The authors declare no conflicts of interest.

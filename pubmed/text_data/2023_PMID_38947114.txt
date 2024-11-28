@@ -1,0 +1,54 @@
+1. Endosc Ultrasound. 2024 Jan-Feb;13(1):28-34. doi:
+10.1097/eus.0000000000000027.  Epub 2023 Nov 3.
+
+Clinical utility of the forward-viewing echoendoscope in patients after 
+pancreatoduodenectomy: A prospective study.
+
+Ishiwatari H(1), Kaneko J(1)(2), Sato J(1), Satoh T(1)(3), Ishikawa K(1)(4), 
+Niiya F(1), Matsubayashi H(1)(5), Minamide T(1), Maeda Y(1), Yamamoto Y(1), 
+Kishida Y(1), Yoshida M(1), Ito S(1), Kawata N(1), Imai K(1), Hotta K(1), 
+Imamura T(6), Sugiura T(6), Uesaka K(6), Ono H(1).
+
+Author information:
+(1)Division of Endoscopy, Shizuoka Cancer Center, Shizuoka, Japan.
+(2)Division of Gastroenterology, Iwata City Hospital, Shizuoka, Japan.
+(3)Department of Gastroenterology, Shizuoka General Hospital, Shizuoka, Japan.
+(4)Department of Medical Oncology, Sapporo Medical University, Sapporo, Japan.
+(5)Division of Genetic Medicine Promotion, Shizuoka Cancer Center, Shizuoka, 
+Japan.
+(6)Division of Hepato-Biliary-Pancreatic Surgery, Shizuoka Cancer Center, 
+Shizuoka, Japan.
+
+BACKGROUND AND OBJECTIVES: Endoscopic treatment of obstructive jaundice and 
+pancreatitis due to hepaticojejunostomy (H-J), pancreatojejunostomy (P-J) 
+strictures, and tumor recurrence after pancreatoduodenectomy (PD) is technically 
+challenging. Treatment of P-J strictures results in poor outcomes. Although 
+conventional EUS that has an oblique view is not suitable for such patients, 
+forward-viewing EUS (FV-EUS) may become a useful option. This study aimed to 
+evaluate the feasibility and efficacy of FV-EUS in patients who have undergone 
+PD.
+METHODS: Patients with PD who were scheduled to undergo diagnosis and treatment 
+using FV-EUS for H-J or P-J lesions were enrolled in this single-center 
+prospective study. After observation of the P-J and H-J using FV-EUS according 
+to a predetermined protocol, treatment using FV-EUS was performed as needed.
+RESULTS: A total of 30 patients were enrolled, and FV-EUS was used to observe 
+P-J and H-J in 24 and 28 patients, respectively. The detection rates of P-J and 
+H-J by endoscopy were 50% (12/24) and 96.4% (27/28), respectively, and by EUS 
+were 70.8% (17/24) and 100% (28/28), respectively. Of these, P-J and H-J were 
+found by endoscopy only after EUS observation in 3 and 1 patient, respectively. 
+The success rates of endoscopic treatment using FV-EUS were 66.7% (2/3), 95.2% 
+(20/21), and 25% (1/4) for benign P-J strictures, benign H-J strictures, and 
+tumor recurrence, respectively.
+CONCLUSIONS: Endoscopic treatment using FV-EUS is feasible and effective for 
+patients after PD. Moreover, FV-EUS increases the P-J lesion detection rate by 
+adding EUS observation.
+
+Copyright © 2023 The Author(s). Published by Wolters Kluwers Health, Inc on 
+behalf of Scholar Media Publishing.
+
+DOI: 10.1097/eus.0000000000000027
+PMCID: PMC11213614
+PMID: 38947114
+
+Conflict of interest statement: The authors declare that they have no financial 
+conflict of interest with regard to the content of this report.

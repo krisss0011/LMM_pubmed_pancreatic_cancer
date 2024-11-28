@@ -1,0 +1,58 @@
+1. Imeta. 2023 Jul 16;2(3):e127. doi: 10.1002/imt2.127. eCollection 2023 Aug.
+
+Immune-related interaction perturbation networks unravel biological peculiars 
+and clinical significance of glioblastoma.
+
+Liu Z(1)(2)(3), Xu Y(4), Wang Y(5), Weng S(1), Xu H(1), Ren Y(6), Guo C(7), Liu 
+L(8), Zhang Z(9), Han X(1)(2)(3).
+
+Author information:
+(1)Department of Interventional Radiology The First Affiliated Hospital of 
+Zhengzhou University Zhengzhou China.
+(2)Interventional Institute of Zhengzhou University Zhengzhou China.
+(3)Interventional Treatment and Clinical Research Center of Henan Province 
+Zhengzhou China.
+(4)Department of Neurology The First Affiliated Hospital of Zhengzhou University 
+Zhengzhou China.
+(5)Department of Clinical Laboratory The Third Affiliated Hospital of Zhengzhou 
+University Zhengzhou China.
+(6)Department of Respiratory and Critical Care Medicine The First Affiliated 
+Hospital of Zhengzhou University Zhengzhou China.
+(7)Department of Endovascular Surgery The First Affiliated Hospital of Zhengzhou 
+University Zhengzhou China.
+(8)Department of Hepatobiliary and Pancreatic Surgery The First Affiliated 
+Hospital of Zhengzhou University Zhengzhou China.
+(9)Department of Neurosurgery The First Affiliated Hospital of Zhengzhou 
+University Zhengzhou China.
+
+The immune system is an interacting network of plentiful molecules that could 
+better characterize the relationship between immunity and cancer. This study 
+aims to investigate the behavioral patterns of immune-related interaction 
+perturbation networks in glioblastoma. An immune-related 
+interaction-perturbation framework was introduced to characterize four 
+heterogeneous subtypes using RNA-seq data of TCGA/CGGA glioblastoma tissues and 
+GTEx normal brain tissues. The stability and robustness of the four subtypes 
+were validated in public datasets and our in-house cohort. In the four subtypes, 
+C1 was an inflammatory subtype with high immune infiltration, low tumor purity, 
+and potential response to immunotherapy; C2, an invasive subtype, was featured 
+with dismal prognosis, telomerase reverse transcriptase promoter mutations, 
+moderate levels of immunity, and stromal constituents, as well as sensitivity to 
+receptor tyrosine kinase signaling inhibitors; C3 was a proliferative subtype 
+with high tumor purity, immune-desert microenvironment, sensitivity to 
+phosphatidylinositol 3'-kinase signaling inhibitor and DNA replication 
+inhibitors, and potential resistance to immunotherapy; C4, a synaptogenesis 
+subtype with the best prognosis, exhibited high synaptogenesis-related gene 
+expression, prevalent isocitrate dehydrogenase mutations, and potential 
+sensitivity to radiotherapy and chemotherapy. Overall, this study provided an 
+attractive platform from the perspective of immune-related interaction 
+perturbation networks, which might advance the tailored management of 
+glioblastoma.
+
+© 2023 The Authors. iMeta published by John Wiley & Sons Australia, Ltd on 
+behalf of iMeta Science.
+
+DOI: 10.1002/imt2.127
+PMCID: PMC10989959
+PMID: 38867932
+
+Conflict of interest statement: The authors declare no conflict of interest.

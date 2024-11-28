@@ -1,0 +1,53 @@
+1. World J Surg Oncol. 2024 Nov 27;22(1):315. doi: 10.1186/s12957-024-03597-x.
+
+Drainage posterior to pancreaticojejunostomy reduces the severity of 
+postoperative pancreatic fistula after pancreaticoduodenectomy.
+
+Zhou Y(#)(1), Lu F(#)(1), Lin X(1), Yang Y(1), Wang C(1), Fang H(1), Lin R(2), 
+Huang H(3).
+
+Author information:
+(1)Department of General Surgery, Fujian Medical University Union Hospital, 
+Fuzhou, Fujian, People's Republic of China.
+(2)Department of General Surgery, Fujian Medical University Union Hospital, 
+Fuzhou, Fujian, People's Republic of China. linronggui@fjmu.edu.cn.
+(3)Department of General Surgery, Fujian Medical University Union Hospital, 
+Fuzhou, Fujian, People's Republic of China. heguanghuang123@163.com.
+(#)Contributed equally
+
+BACKGROUND: Clinically relevant postoperative pancreatic fistula (CR-POPF) is a 
+common postoperative complication after pancreaticoduodenectomy (PD) and is 
+associated with severe complications. Drainage is an effective method to treat 
+POPF and prevent POPF-related complications. However, controversy still exists 
+about whether different drainage methods reduce the incidence or the severity of 
+POPF after PD.
+METHODS: A closed suction drainage was placed posterior to 
+pancreaticojejunostomy in PD except for other routine drainage placements. A 
+retrospective study was conducted to calculate the incidence and severity of 
+CR-POPF and POPF-related complications and to evaluate the efficacy of this 
+drainage method.
+RESULTS: 295 patients who underwent PD were enrolled in this study, 130 patients 
+in the trial group and 165 patients in the control group. The two groups were 
+comparable in both preoperative and intraoperative characteristics. The overall 
+incidence of CR-POPF was similar between the two groups. The trial group had a 
+significantly decreased incidence of grade C POPF (0% vs. 3.6%, p < 0.05), 
+post-pancreatectomy hemorrhage (PPH) (0% vs. 6.1%, p = 0.003), reoperation (0% 
+vs. 3.6%, p = 0.036), intra-abdominal infection (13.1% vs. 25.5%, p = 0.008), 
+and delayed gastric emptying (DGE) (2.3% vs. 8.5%, p = 0.024) than the control 
+group. Subgroup analysis of patients with intermediate/high risk for CR-POPF 
+mirrored these results. Logistic regression identified obstructive jaundice, 
+biliary fistula, POPF, and DGE as independent risk factors for PPH and 
+reoperation, though the results were not significant in multivariate analysis.
+CONCLUSIONS: The drainage posterior to pancreaticojejunostomy reduces the 
+severity of POPF and the incidence of POPF-related complications after PD.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12957-024-03597-x
+PMID: 39605037 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: This study was conducted in accordance with established ethical 
+principles, including the World Medical Association Declaration of Helsinki, and 
+with the approval of the Ethics Committee of Fujian Medical University Union 
+Hospital. Competing interests: The authors declare no competing interests.

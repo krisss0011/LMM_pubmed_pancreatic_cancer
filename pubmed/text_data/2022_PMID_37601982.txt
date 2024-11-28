@@ -1,0 +1,83 @@
+1. Liver Cancer. 2022 Nov 28;12(3):262-276. doi: 10.1159/000528034. eCollection 
+2023 Aug.
+
+Tumor Radiomic Features on Pretreatment MRI to Predict Response to Lenvatinib 
+plus an Anti-PD-1 Antibody in Advanced Hepatocellular Carcinoma: A Multicenter 
+Study.
+
+Xu B(1), Dong SY(2), Bai XL(3), Song TQ(4), Zhang BH(5), Zhou LD(6), Chen YJ(7), 
+Zeng ZM(8), Wang K(9), Zhao HT(10), Lu N(3), Zhang W(4), Li XB(11), Zheng SS(5), 
+Long G(6), Yang YC(7), Huang HS(8), Huang LQ(9), Wang YC(10), Liang F(12), Zhu 
+XD(1), Huang C(1), Shen YH(1), Zhou J(1), Zeng MS(2), Fan J(1), Rao SX(2), Sun 
+HC(1).
+
+Author information:
+(1)Department of Liver Surgery and Transplantation, Liver Cancer Institute and 
+Zhongshan Hospital, Fudan University, Shanghai, China.
+(2)Department of Radiology, Zhongshan Hospital, Fudan University, Shanghai 
+Institute of Medical Imaging, Shanghai, China.
+(3)Department of Hepatobiliary and Pancreatic Surgery, The First Affiliated 
+Hospital, Zhejiang University School of Medicine, Hangzhou, China.
+(4)Department of Hepatobiliary, National Clinical Research Center of Cancer, 
+Oncology Key Laboratory of Cancer Prevention and Therapy, Tianjin Medical 
+University Cancer Institute and Hospital, Tianjin, China.
+(5)Department of Hepatic Oncology, Xiamen Branch, Zhongshan Hospital, Fudan 
+University, Xiamen, China.
+(6)Department of General Surgery, Xiangya Hospital, Central South University, 
+Changsha, China.
+(7)Department of Hepatobiliary Surgery, Ruijin Hospital, Shanghai Jiao Tong 
+University School of Medicine, Shanghai, China.
+(8)Department of Medical Oncology, The First Affiliated Hospital of Guangxi 
+Medical University, Nanning, China.
+(9)Department of Hepatic Surgery II, Eastern Hepatobiliary Surgery Hospital, 
+Navy Medical University, Shanghai, China.
+(10)Department of Liver Surgery, Peking Union Medical College Hospital, Chinese 
+Academy of Medical Sciences and Peking Union Medical College, Beijing, China.
+(11)Department of Radiology, National Clinical Research Center of Cancer, 
+Tianjin Medical University Cancer Institute and Hospital, Tianjin, China.
+(12)Department of Biostatistics, Zhongshan Hospital, Fudan University, Shanghai, 
+China.
+
+INTRODUCTION: Lenvatinib plus an anti-PD-1 antibody has shown promising 
+antitumor effects in patients with advanced hepatocellular carcinoma (HCC), but 
+with clinical benefit limited to a subset of patients. We developed and 
+validated a radiomic-based model to predict objective response to this 
+combination therapy in advanced HCC patients.
+METHODS: Patients (N = 170) who received first-line combination therapy with 
+lenvatinib plus an anti-PD-1 antibody were retrospectively enrolled from 9 
+Chinese centers; 124 and 46 into the training and validation cohorts, 
+respectively. Radiomic features were extracted from pretreatment 
+contrast-enhanced MRI. After feature selection, clinicopathologic, radiomic, and 
+clinicopathologic-radiomic models were built using a neural network. The 
+performance of models, incremental predictive value of radiomic features 
+compared with clinicopathologic features and relationship between radiomic 
+features and survivals were assessed.
+RESULTS: The clinicopathologic model modestly predicted objective response with 
+an AUC of 0.748 (95% CI: 0.656-0.840) and 0.702 (95% CI: 0.547-0.884) in the 
+training and validation cohorts, respectively. The radiomic model predicted 
+response with an AUC of 0.886 (95% CI: 0.815-0.957) and 0.820 (95% CI: 
+0.648-0.984), respectively, with good calibration and clinical utility. The 
+incremental predictive value of radiomic features to clinicopathologic features 
+was confirmed with a net reclassification index of 47.9% (p < 0.001) and 41.5% 
+(p = 0.025) in the training and validation cohorts, respectively. Furthermore, 
+radiomic features were associated with overall survival and progression-free 
+survival both in the training and validation cohorts, but modified 
+albumin-bilirubin grade and neutrophil-to-lymphocyte ratio were not.
+CONCLUSION: Radiomic features extracted from pretreatment MRI can predict 
+individualized objective response to combination therapy with lenvatinib plus an 
+anti-PD-1 antibody in patients with unresectable or advanced HCC, provide 
+incremental predictive value over clinicopathologic features, and are associated 
+with overall survival and progression-free survival after initiation of this 
+combination regimen.
+
+Copyright © 2022 by The Author(s). Published by S. Karger AG, Basel.
+
+DOI: 10.1159/000528034
+PMCID: PMC10433098
+PMID: 37601982
+
+Conflict of interest statement: Hui-Chuan Sun has received honorarium or lecture 
+fees from Roche, Bayer, MSD, Eisai, Hengrui, Innovent, TopAlliance, Abbott, 
+Beigene, Gilead, and Zelgen during the last 5 years. Jia Fan is an Editorial 
+Board Member of Liver Cancer. All remaining authors have no conflicts of 
+interest to declare.

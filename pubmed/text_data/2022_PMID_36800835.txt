@@ -1,0 +1,32 @@
+1. Cell Mol Biol (Noisy-le-grand). 2022 Aug 31;68(8):64-68. doi: 
+10.14715/cmb/2022.68.8.11.
+
+GSTM1 and GSTT1 Gene Polymorphisms with Gallbladder Carcinoma.
+
+Fang J(1), Fang F(1), Huang J(1), Zhang X(1), Wang H(1).
+
+Author information:
+(1)Department of Hepatobiliary and Pancreatic Surgery, Zhe Jiang Jinhua Guangfu 
+Tumor Hospital, Jinhua, 321111, Zhejiang Province, China. 
+wanghongjuan2022@yandex.com.
+
+In order to explore the relationship between GSTM1 and GSTT1 gene polymorphisms 
+and gallbladder cancer, so as to find a better treatment and prevention of 
+gallbladder cancer and improve the treatment effect. In this paper, 247 patients 
+with gallbladder cancer were selected for the experiment, including 187 male 
+patients and 60 female patients. The total number of patients was randomly 
+divided into two groups, namely the case group and the control group. The 
+patients in normal condition and after treatment of tumor tissue and adjacent 
+non-tumor tissue gene detection, and then through the logistic regression model 
+to analyze the data. After the experiment, we found that the frequency ratio of 
+GSTM1 and GSTT1 in gallbladder cancer patients before treatment was 57.33% and 
+52.37%, which was very high, which was very disadvantageous in gene detection. 
+However, after treatment, the frequency of deletion of the two genes was 45.73% 
+and 51.02%, which was significantly reduced. The reduced gene ratio is very 
+beneficial to the observation of gallbladder cancer. Therefore, the surgical 
+treatment of gallbladder cancer before the first drug after gene testing, in the 
+understanding of various principles, will have twice the result with half the 
+effort.
+
+DOI: 10.14715/cmb/2022.68.8.11
+PMID: 36800835 [Indexed for MEDLINE]

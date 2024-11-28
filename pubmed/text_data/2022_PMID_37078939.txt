@@ -1,0 +1,50 @@
+1. Pancreas. 2022 Oct 1;51(9):1153-1159. doi: 10.1097/MPA.0000000000002167.
+
+The Efficacy and Safety of Treatment Regimens Used in the First-Line Setting in 
+Metastatic Pancreatic Cancer Patients: A Multicenter Real-Life Study.
+
+Akdeniz N(1), Kaplan MA(2), İnanç M(3), Uncu D(4), Ergün Y(4), Küçüköner M(2), 
+Demirci A(5), Şendur MAN(4), Beşiroğlu M(6), Topçu A(6), Yerlikaya H(7), Urakçi 
+Z(2), Kiliçkap S(8), Işikdoğan A(2).
+
+Author information:
+(1)From the Department of Medical Oncology, Adiyaman Training and Research 
+Hospital, Adiyaman.
+(2)Department of Medical Oncology, Dicle University Faculty of Medicine, 
+Diyarbakir.
+(3)Department of Medical Oncology, Erciyes University Faculty of Medicine, 
+Kayseri.
+(4)Department of Medical Oncology, Ankara City Hospital, Ankara.
+(5)Department of Medical Oncology, Sakarya University Faculty of Medicine, 
+Sakarya.
+(6)Department of Medical Oncology, Bezmialem Vakif University Faculty of 
+Medicine, Istanbul.
+(7)Department of Medical Oncology, Gazi Yasargil Training and Research Hospital, 
+Diyarbakir.
+(8)Department of Medical Oncology, Istinye University Faculty of Medicine, 
+Istanbul, Turkey.
+
+OBJECTIVE: The aim of the study is to compare the efficacy and safety of 3 
+chemotherapy regimens used as first-line treatments in the real-life management 
+of metastatic pancreatic cancer.
+METHODS: A total of 218 patients were included in this multicenter study. 
+Gemcitabine (Gem, n = 71), gemcitabine-cisplatin (Gem-Cis, n = 91), and 
+FOLFIRINOX (a combination of leucovorin, 5-fluorouracil, irinotecan, and 
+oxaliplatin [FFX], n = 56) treatments were compared.
+RESULTS: Overall response rate was significantly higher in the FFX group (50.0%) 
+than in the Gem (28.2%) and Gem-Cis (27.5%) groups (P = 0.010). Median 
+progression-free survival (8.4 vs 4.6 and 5.5 months, respectively, P < 0.001) 
+and overall survival (16.4 vs 8.1 and 8.7 months, respectively, P = 0.002) were 
+significantly longer in the FFX group than in the Gem and Gem-Cis groups. 
+Toxicity of any grade was noted in 46 (64.8%), 56 (61.5%), and 49 (87.5%) 
+patients in the Gem, Gem-Cis, and FFX groups, respectively (P = 0.003).
+CONCLUSIONS: In our study, FFX regimen provides a significant advantage over the 
+other treatment regimens in terms of response rates and survival. Treatment 
+toxicity was more frequent but manageable with the FFX regimen.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/MPA.0000000000002167
+PMID: 37078939 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

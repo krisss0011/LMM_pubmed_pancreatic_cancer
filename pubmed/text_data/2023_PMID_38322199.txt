@@ -1,0 +1,63 @@
+1. Hepatobiliary Surg Nutr. 2024 Feb 1;13(1):3-15. doi: 10.21037/hbsn-22-506.
+Epub  2023 Jun 8.
+
+Prevalence, patterns, risk factors and outcomes of peritoneal metastases after 
+laparoscopic hepatectomy for hepatocellular carcinoma: a multicenter study from 
+China.
+
+Lu YX(#)(1), Zhao JP(#)(1), Yuan GD(#)(2), Hu MG(3), Sun CD(4), Chen KL(5), Chen 
+Y(6), Zeng YY(7), Yang ZY(8), Zhang WG(1).
+
+Author information:
+(1)Hepatic Surgery Center, Tongji Hospital of Tongji Medical College of Huazhong 
+University of Science and Technology, Wuhan, China.
+(2)Department of Hepatobiliary Surgery, The First Affiliated Hospital of Guangxi 
+Medical University, Nanning, China.
+(3)Faculty of Hepato-Pancreato-Biliary Surgery, Chinese PLA General Hospital, 
+Beijing, China.
+(4)Department of Hepatobiliary and Pancreatic Surgery, The Affiliated Hospital 
+of Qingdao University, Qingdao, China.
+(5)Department of Hepatobiliary and Pancreatic Surgery, The First Affiliated 
+Hospital of Zhengzhou University, Zhengzhou, China.
+(6)Department of Radiology Intervention, The Affiliated Tumor Hospital of 
+Zhengzhou University, Henan Cancer Hospital, Zhengzhou, China.
+(7)Department of Hepatobiliary Surgery, Mengchao Hepatobiliary Hospital of 
+Fujian Medical University, Fuzhou, China.
+(8)Department of General Surgery, China-Japan Friendship Hospital, Beijing, 
+China.
+(#)Contributed equally
+
+BACKGROUND: We aim to investigate the prevalence, patterns, risk factors, and 
+outcomes of peritoneal metastases (PM) after curative laparoscopic hepatectomy 
+(LH) for hepatocellular carcinoma (HCC).
+METHODS: A multicenter cohort of 2,138 HCC patients who underwent curative LH 
+from August 2010 to December 2016 from seven hospitals in China was 
+retrospectively analyzed. The incidence of PM following LH was evaluated and 
+compared with that in open hepatectomy (OH) after 1:1 propensity score matching 
+(PSM).
+RESULTS: PM prevalence was 5.1% (15/295) in the early period [2010-2013], 2.6% 
+(47/1,843) in the later period [2014-2016], and 2.9% (62/2,138) in all LH 
+patients, which was similar to 4.0% (59/1,490) in the OH patients. The 
+recurrence patterns, timing, and treatment did not significantly vary between 
+the LH and OH patients (P>0.05). Multivariate logistic regression revealed that 
+tumor diameter >5 cm, non-anatomical resection, presence of microvascular 
+invasion, and lesions <2 cm from major blood vessels were independent risk 
+factors of PM after LH. Of the 62 cases with PM, 26 (41.9%) had PM only, 34 
+(54.9%) had intrahepatic recurrence (IHR) and PM, and 2 (3.2%) had synchronous 
+extraperitoneal metastases (EPM). Patients with resectable PM had a 5-year 
+overall survival (OS) of 65.0% compared to 9.0% for unresectable PM (P=0.001).
+CONCLUSIONS: The prevalence, patterns and independent risk factors of PM were 
+identified for HCC patients after LH. LH was not associated with increased 
+incidence of PM in HCC patients for experienced surgeons. Surgical re-excision 
+of PM was associated with prolonged survival.
+
+2024 Hepatobiliary Surgery and Nutrition. All rights reserved.
+
+DOI: 10.21037/hbsn-22-506
+PMCID: PMC10839707
+PMID: 38322199
+
+Conflict of interest statement: Conflicts of Interest: All authors have 
+completed the ICMJE uniform disclosure form (available at 
+https://hbsn.amegroups.com/article/view/10.21037/hbsn-22-506/coif). The authors 
+have no conflicts of interest to declare.

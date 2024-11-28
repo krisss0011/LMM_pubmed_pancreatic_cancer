@@ -1,0 +1,46 @@
+1. Indian J Surg Oncol. 2024 May;15(Suppl 2):338-343. doi: 
+10.1007/s13193-023-01866-x. Epub 2023 Dec 20.
+
+Pancreaticoduodenectomy with Para-aortic Lymph Node Dissection for Periampullary 
+Cancer.
+
+Bhatti ABH(1)(2), Dar FS(1), Ahmed IN(2).
+
+Author information:
+(1)Department of HPB Surgery and Liver Transplantation, Shifa International 
+Hospital, Islamabad, Pakistan.
+(2)Department of Pathology, Shifa International Hospital, Islamabad, Pakistan.
+
+There is no consensus on the utility of para-aortic lymph node dissection 
+(PALND) in patients undergoing pancreaticoduodenectomy (PD) for periampullary 
+cancer. The objective of this study was to assess survival in patients who 
+underwent PD with PALND for pancreatic (PAC) and non-pancreatic (non-PAC) 
+adenocarcinoma. All patients who underwent PD and PALND between 2011 and 2019 
+were reviewed (n = 114). We looked at the impact of tumor type (PAC versus 
+non-PAC) and pathologically confirmed PALN metastasis (PALNM) on overall 
+survival (OS). Out of 114 patients, PALNM were pathologically confirmed in 
+17(14.9%) patients. Without PALND, pathological staging would be pN0 in1(0.8%), 
+pN1 in 3(2.5%), and pN2 in 13(11.2%) patients. The 30-day mortality was 3(2.6%) 
+and 65(57%) patients received adjuvant treatment. The 4-year OS for PAC and 
+non-PAC was 9% and 39% (P = 0.001). Advanced nodal involvement (pN2) was seen in 
+14/17(82.4%) and 21/97(21.6%) patients with and without PALNM, respectively 
+(P < 0.001). For PAC, 4-year OS for patients with pN0-N1, pN2, and PALNM was 
+12%, 8%, and not reached (P = 0.067). For non-PAC, 4-year OS was 45%, 19%, and 
+12% (P = 0.006). In patients with non-PAC, despite metastatic involvement of 
+PALN, acceptable long-term survival can be achieved with curative resection. For 
+PAC, survival benefit with curative resection remains questionable.
+
+© The Author(s), under exclusive licence to Indian Association of Surgical 
+Oncology 2023. Springer Nature or its licensor (e.g. a society or other partner) 
+holds exclusive rights to this article under a publishing agreement with the 
+author(s) or other rightsholder(s); author self-archiving of the accepted 
+manuscript version of this article is solely governed by the terms of such 
+publishing agreement and applicable law.
+
+DOI: 10.1007/s13193-023-01866-x
+PMCID: PMC11133244
+PMID: 38817990
+
+Conflict of interest statement: Disclosure of potential conflicts of interestThe 
+authors have no potential conflicts of interest to declare.Conflict of 
+InterestThe authors declare no competing interests.

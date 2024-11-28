@@ -1,0 +1,54 @@
+1. Langenbecks Arch Surg. 2024 Nov 26;409(1):361. doi:
+10.1007/s00423-024-03550-2.
+
+Long-term survival after resection of invasive pancreatic intraductal papillary 
+mucinous neoplasm.
+
+Addeo P(1), Canali G(2), Paul C(2), de Mathelin P(2), Averous G(3), Bachellier 
+P(2).
+
+Author information:
+(1)Hepato-Pancreato-Biliary Surgery and Liver transplantation, Pôle des 
+Pathologies Digestives et Hépatiques, Hôpital de Hautepierre-Hôpitaux 
+Universitaires de Strasbourg, Université de Strasbourg, 1 Avenue Moliere, 
+Strasbourg, 67098, France. pietrofrancesco.addeo@chru-strasbourg.fr.
+(2)Hepato-Pancreato-Biliary Surgery and Liver transplantation, Pôle des 
+Pathologies Digestives et Hépatiques, Hôpital de Hautepierre-Hôpitaux 
+Universitaires de Strasbourg, Université de Strasbourg, 1 Avenue Moliere, 
+Strasbourg, 67098, France.
+(3)Department of Pathology, University of Strasbourg, Hôpital de 
+Hautepierre-Hôpitaux Universitaires de Strasbourg, Université de Strasbourg, 
+Strasbourg, France.
+
+BACKGROUND: This study aimed to report the long-term outcomes after surgical 
+resection for invasive (I) intraductal papillary mucinous neoplasm (IPMN) and to 
+define prognostic factors for survival.
+METHODS: We retrospectively evaluated all consecutive pancreatic resections 
+performed IPMN between January 1, 2007, and December 31, 2022. Multivariate Cox 
+analysis identified risk factors for survival.
+RESULTS: Surgery for IPMN was performed in 125 patients including 78 I-IPMN 
+(62%). Ninety-day mortality rates was 1.6% (n = 2) with an overall morbidity 
+rate of 44.4%. I-IPMN showed higher serum CA 19 - 9 serum values (p < 0.0001), 
+more frequently jaundice (p = 0.008), more high-risk stigmata (p = 0.002) and 
+diffuse IPMN form (p = 0.005) compared with non-invasive IPMN. The median 
+overall survival for I-IPMN was 178.36 months (95% confidence interval [CI]: 
+87.01-NR) with overall survival rates at one, three, five, and 10 years of 91%, 
+75%, 72%, and 62%, respectively. Jaundice (hazard ratio [HR]: 4.23; 95% CI: 
+1.48-12.07; p = 0.006), T3 lesions (HR: 3.24; 95% CI: 1.65-6.39; p = 0.006), 
+absence of lymph node involvement (HR: 0.15; 95% CI: 0.04-0.60; p = 0.0007), R1 
+margin status (HR: 2.96;95%CI:1.08-8:15;p = 0.03) and need for venous resection 
+(HR: 4.30; 95% CI: 1.26-14.6; p = 0.006) were identified as independent risk 
+factors for survival.
+CONCLUSIONS: Long-term survival and cure can be observed after surgical 
+resection of pancreatic adenocarcinomas originating from I-IPMN when resected at 
+early stage (Tis, T1, T2). I-IPMN spreading beyond pancreatic ducts (jaundice, 
+T3 lesions, lymph nodes, Veins) have limited long-term survival.
+
+© 2024. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00423-024-03550-2
+PMID: 39589407 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Competing interests: The authors 
+declare no competing interests.

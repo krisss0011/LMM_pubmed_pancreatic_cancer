@@ -1,0 +1,43 @@
+1. J Cancer Sci Clin Ther. 2022;6(4):446-451. doi: 10.26502/jcsct.5079183. Epub 
+2022 Dec 22.
+
+Effects of Ketamine, S-Ketamine and MK 801 on Integrin Beta-3-mediated Cell 
+Migration in Pancreatic Carcinoma.
+
+Malsy M(1), Hofer V(1), Schmidbauer S(1), Graf B(1), Bundscherer A(1).
+
+Author information:
+(1)Department of Anesthesiology, University Medical Center Regensburg, Germany.
+
+INTRODUCTION: Pancreatic ductal adenocarcinoma is one of the most aggressive 
+malignancies in humans. The main reason for its unfavourable prognosis is the 
+combination of rapid tumour growth, early-onset metastasis and currently still 
+inadequate diagnostic and therapeutic options. Thus, only very few patients are 
+eligible for radical resection of the primary tumour as the only curative 
+treatment option available so far. In the perioperative period, tumour 
+progression and metastasis are facilitated by the activation of key signalling 
+pathways and the altered regulation of transcription factors. Various tumour 
+entities have shown increased expression of the integrin-3 receptor subunit, 
+which correlates with more rapid tumour progression and metastasis through 
+advanced migration, invasion and proliferation. The influence of perioperative 
+medication and postoperative pain management remains unclear. To investigate the 
+effects of ketamine, s-ketamine and MK 801 on integrin beta-3-mediated cell 
+migration in pancreatic cancer cells in vitro.
+METHODS: The effects of ketamine, s-ketamine and MK 801 on integrin beta-3 
+expression were investigated with immunoblot. Cell migratory potentials were 
+analysed using a Cell Migration Assay Kit with a Boyden chamber, in which cells 
+migrate through a semipermeable membrane under different stimuli.
+RESULTS: Stimulation with ketamine and MK 801 significantly promoted migration 
+in pancreatic cancer cells, increasing the expression of integrin beta-3.
+CONCLUSION: Novel therapeutic approaches target the effective modulation of 
+specific signalling and transcription pathways. The prerequisite for such 
+'target therapies' is comprehensive knowledge about the respective 
+carcinogenesis. Further studies are required to identify the underlying disease 
+mechanisms of pancreatic carcinoma.
+
+DOI: 10.26502/jcsct.5079183
+PMCID: PMC9910313
+PMID: 36777697
+
+Conflict of interest statement: Conflicts of Interest The authors declare that 
+they have no conflicts interests.

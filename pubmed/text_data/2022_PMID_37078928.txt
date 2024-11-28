@@ -1,0 +1,38 @@
+1. Pancreas. 2022 Oct 1;51(9):1074-1082. doi: 10.1097/MPA.0000000000002162.
+
+Challenges in Recruitment and Retention: Leveraging Health-Related Antecedents 
+and Information Carrier Factors to Improve Patient Participation in Pancreatic 
+Cancer Research-A Review Article.
+
+Coffin TB(1), Kenner BJ.
+
+Author information:
+(1)From the Kenner Family Research Fund, New York, NY.
+
+Advancements in pancreatic ductal adenocarcinoma (PDAC) prevention, diagnosis, 
+and treatment rely on representative and robust clinical trial participation. 
+Given the severity of PDAC, along with the lack of effective early detection 
+approaches, the need for accessible screening tools and new treatments is dire. 
+Unfortunately, enrollment barriers often result in low participant accrual rates 
+for PDAC studies and illustrate the challenging terrain researchers are facing. 
+Research participation along with access to preventative care has been further 
+impacted by the coronavirus disease 2019 pandemic. In this review, we use the 
+Comprehensive Model for Information Seeking to discuss underexplored factors 
+that influence patient participation in clinical studies. Adequate staffing, 
+flexible scheduling, effective patient and physician communication, and 
+culturally responsive messaging, along with the use of telehealth, can support 
+enrollment objectives. Clinical research studies are a key component of health 
+care, informing medical advancements, and improving outcomes. By leveraging 
+health-related antecedents and information carrier factors, researchers can more 
+effectively address barriers to participation and implement potential 
+evidence-based mitigating strategies. While this work focuses on the PDAC 
+research context, the lessons delineated here are applicable to the wider cancer 
+research setting.
+
+Copyright © 2023 The Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/MPA.0000000000002162
+PMCID: PMC10144271
+PMID: 37078928 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

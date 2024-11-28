@@ -1,0 +1,49 @@
+1. Cancers (Basel). 2024 Nov 18;16(22):3863. doi: 10.3390/cancers16223863.
+
+Altered Mechanobiology of PDAC Cells with Acquired Chemoresistance to 
+Gemcitabine and Paclitaxel.
+
+Gregori A(1)(2)(3), Bergonzini C(4), Capula M(5), de Mercado RR(3), Danen 
+EHJ(4), Giovannetti E(1)(2)(5), Schmidt T(3).
+
+Author information:
+(1)Cancer Biology and Immunology, Cancer Center Amsterdam, 1081 HV Amsterdam, 
+The Netherlands.
+(2)Department of Medical Oncology, Amsterdam UMC, Location Vrije Universiteit 
+Amsterdam, 1081 HV Amsterdam, The Netherlands.
+(3)Physics of Life Processes, Huygens-Kamerlingh Onnes Laboratory, Leiden 
+University, 2333 CA Leiden, The Netherlands.
+(4)Leiden Academic Center for Drug Research, Leiden University, 2333 CC Leiden, 
+The Netherlands.
+(5)Fondazione Pisana per La Scienza, 56017 San Giuliano Terme, Italy.
+
+Background: Pancreatic ductal adenocarcinoma acquired resistance to chemotherapy 
+poses a major limitation to patient survival. Despite understanding some 
+biological mechanisms of chemoresistance, much about those mechanisms remains to 
+be uncovered. Mechanobiology, which studies the physical properties of cells, 
+holds promise as a potential target for addressing the challenges of 
+chemoresistance in PDAC. Therefore, we, here in an initial step, assessed the 
+altered mechanobiology of PDAC cells with acquired chemoresistance to 
+gemcitabine and paclitaxel. Methods: Five PDAC cell lines and six stably 
+resistant subclones were assessed for force generation on elastic micropillar 
+arrays. Those measurements of mechanical phenotype were complemented by 
+single-cell motility and invasion in 3D collagen-based matrix assays. Further, 
+the nuclear translocation of Yes-associated protein (YAP), as a measure of 
+active mechanical status, was compared, and biomarkers of the 
+epithelial-to-mesenchymal transition (EMT) were evaluated using RT-qPCR. 
+Results: The PDAC cells with acquired chemoresistance exert higher traction 
+forces than their parental/wild-type (WT) cells. In 2D, single-cell motility was 
+altered for all the chemoresistant cells, with a cell-type specific pattern. In 
+3D, the spheroids of the chemoresistant PDAC cells were able to invade the 
+matrix and remodel collagen more than their WT clones. However, YAP nuclear 
+translocation and EMT were not significantly altered in relation to changes in 
+other physical parameters. Conclusions: This is the first study to investigate 
+and report on the altered mechanobiological features of PDAC cells that have 
+acquired chemoresistance. A better understanding of mechanical features could 
+help in identifying future targets to overcome chemoresistance in PDAC.
+
+DOI: 10.3390/cancers16223863
+PMCID: PMC11593083
+PMID: 39594817
+
+Conflict of interest statement: The authors declare no conflicts of interest.

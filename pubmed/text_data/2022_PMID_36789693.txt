@@ -1,0 +1,43 @@
+1. Acta Biochim Biophys Sin (Shanghai). 2022 Dec 25;54(12):1811-1821. doi: 
+10.3724/abbs.2022183.
+
+DUSP9 alleviates hepatic ischemia/reperfusion injury by restraining both 
+mitogen-activated protein kinase and IKK in an apoptosis signal-regulating 
+kinase 1-dependent manner.
+
+Li Z(1), Huang Z(2), Luo Y(3), Yang H(3), Yang M(1).
+
+Author information:
+(1)College of Basic Medicine, Chongqing Medical University, Chongqing 400016, 
+China.
+(2)Department of Hepatobiliary Pancreatic Tumor Center, Chongqing University 
+Cancer Hospital, Chongqing 400030, China.
+(3)The First Affiliated Hospital of Chongqing Medical University, Chongqing 
+400016.
+
+Erratum in
+    Acta Biochim Biophys Sin (Shanghai). 2023 Nov 22;55(12):2013. doi: 
+10.3724/abbs.2023265.
+
+Hepatic ischemia/reperfusion (I/R) injury occurs frequently in various liver 
+operations and diseases, but its effective treatment remains inadequate because 
+the key switch that leads to hepatic explosive inflammation has not been well 
+disclosed. Dual specificity phosphatase 9 (DUSP9) is widely involved in the 
+innate immune response of solid organs and is sometimes regulated by ubiquitin. 
+In the present study, we find that DUSP9 is reduced in mouse hepatic I/R injury. 
+DUSP9 enrichment attenuates hepatic inflammation both in vivo and in vitro as 
+revealed by western blot analysis and qRT-PCR. In contrast, DUSP9 depletion 
+leads to more severe I/R injury. Mechanistically, DUSP9 inhibits the 
+phosphorylation of apoptosis signal-regulating kinase 1 (ASK1) by directly 
+binding to ASK1, thereby decreasing tumor necrosis factor receptor-associated 
+factor 6 (TRAF6), K63 ubiquitin and the phosphorylation of p38/JNK1 instead of 
+ERK1. The present study documents a novel role of DUSP9 in hepatic I/R injury 
+and implies the potential of targeting the DUSP9/ASK1 axis towards 
+mitogen-activated protein kinase and TRAF6/inhibitor of κB kinase pathways.
+
+DOI: 10.3724/abbs.2022183
+PMCID: PMC10157530
+PMID: 36789693 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.

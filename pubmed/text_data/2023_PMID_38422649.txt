@@ -1,0 +1,61 @@
+1. Phytomedicine. 2024 Apr;126:155265. doi: 10.1016/j.phymed.2023.155265. Epub
+2023  Dec 7.
+
+Qingjie Huagong decoction inhibits pancreatic acinar cell pyroptosis by 
+regulating circHipk3/miR-193a-5p/NLRP3 pathway.
+
+Feng M(1), Qin B(2), Luo F(1), Zhu X(1), Liu K(3), Li K(1), Wu D(4), Chen G(5), 
+Tang X(6).
+
+Author information:
+(1)The First Clinical School of Medicine, Guangxi University of Traditional 
+Chinese Medicine, Nanning 530000, China.
+(2)Department of Gastroenterology, Chongqing Traditional Chinese Medicine 
+Hospital, Chongqing 400021, China.
+(3)Department of Gastroenterology, The First Affiliated Hospital of Guangxi 
+University of Traditional Chinese Medicine, 89-9 Dongge Road, Nanning 530023, 
+China.
+(4)School of Pharmacy, Guangxi University of Traditional Chinese Medicine, 
+Nanning 530000, China.
+(5)Department of Gastroenterology, The First Affiliated Hospital of Guangxi 
+University of Traditional Chinese Medicine, 89-9 Dongge Road, Nanning 530023, 
+China. Electronic address: chenguozhong2023@163.com.
+(6)Endoscopy Center, Guangxi Medical University Cancer Hospital, 71 Hedi Road, 
+Nanning 530021, China. Electronic address: fengminchao2021@stu.gxtcmu.edu.cn.
+
+BACKGROUND: Safer and more effective drugs are needed for the treatment of acute 
+pancreatitis (AP). Qingjie Huagong decoction (QJHGD) has been applied to treat 
+AP for many years and has shown good clinical effects. However, the potential 
+mechanism has not yet been determined.
+PURPOSE: To investigate the role and underlying mechanism of the effects of 
+QJHGD on AP both in vitro and in vivo.
+METHODS: QJHGD was characterized by UHPLC-Q-Orbitrap-MS. The protective effect 
+of QJHDG and the underlying mechanism were investigated in MPC-83 cells in 
+vitro. A caerulein-induced AP model was established to evaluate the protective 
+effect of QJHGD in mice. CCK-8 assays were used to detect cell viability. The 
+contents of inflammatory mediators were determined by ELISA. Expression levels 
+of circRNA, miRNA and mRNA were determined by qRT-PCR. Protein expression was 
+determined using Western blot. Pancreatic tissues were assessed by hematoxylin 
+and eosin staining as well as immunohistochemical and immunofluorescence 
+analyses. Pull-down and luciferase activity assays were performed to determine 
+the regulatory relationships of circHipk3, miR-193a-5p and NLRP3.
+RESULTS: Our results confirmed that mmu-miR-193a-5p was sponged by 
+mmu-circHipk3, and NLRP3 was a target of miR-193a-5p. In vitro experiments 
+showed that QJHGD enhanced MPC-83 cell viability by regulating circHipk3 
+sponging mir-193a-5 targeting NLRP3 and inhibiting pyroptosis-related factors. 
+Finally, we showed that QJHGD ameliorated pancreatic tissue injury in AP mice 
+via this pathway.
+CONCLUSION: This study demonstrate that QJHDG exerted its anti-AP effects via 
+the circHipk3/miR-193a-5p/NLRP3 pathway, revealing a novel mechanism for the 
+therapeutic effect of QJHDG on AP.
+
+Copyright © 2023 The Author(s). Published by Elsevier GmbH.. All rights 
+reserved.
+
+DOI: 10.1016/j.phymed.2023.155265
+PMID: 38422649 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that there are no conflicts of interest regarding the publication of 
+this paper. All authors have read and agreed to the published version of the 
+manuscript.

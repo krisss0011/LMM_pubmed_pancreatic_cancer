@@ -1,0 +1,30 @@
+1. Gan To Kagaku Ryoho. 2023 Dec;50(13):1694-1696.
+
+[A Case of Two-Stage Operation for Esophageal Cancer with Sarcoidosis].
+
+[Article in Japanese]
+
+Higashi S(1), Furukawa H, Yanagi S, Oga Y, Marukawa D, Ichikawa Y, Tsunashima R, 
+Miyake M, Morishima H, Kashiwazaki M, Tanemura M.
+
+Author information:
+(1)Dept. of Surgery, Rinku General Medical Center.
+
+A 69-year-old man with dysphagia was diagnosed with advanced esophageal cancer 
+by upper gastrointestinal endoscopy. He had undergone pancreatic tail and 
+partial transverse colon resection for pancreatic cancer, and right hilar lymph 
+node biopsy and partial lower lobe resection for the diagnosis of pulmonary 
+sarcoidosis. Contrast-enhanced computed tomography(CT)scan showed no change over 
+time in lymph node enlargement in the mediastinum, so metastasis of esophageal 
+cancer was considered to be negative. Therefore, the diagnosis of advanced 
+esophageal cancer, Mt, type 2, T2N0M0, cStage Ⅱ, was made, and surgery was 
+performed after 2 courses of DCF therapy. Because of the adhesions in the 
+thoracic cavity and possible problems with elevation of the gastric tube and 
+blood flow due to resection of the pancreatic tail, it was decided to perform 
+two-stage operation. Although imaging studies over time, as in the present case, 
+can help in the diagnosis, it is difficult to distinguish whether enlarged lymph 
+nodes are reactive changes or metastases. In this study, we experienced a case 
+of thoracic esophageal cancer complicated by sarcoidosis with enlarged 
+mediastinal lymph nodes.
+
+PMID: 38303176 [Indexed for MEDLINE]

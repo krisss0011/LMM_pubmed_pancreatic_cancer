@@ -1,0 +1,38 @@
+1. Front Med (Lausanne). 2023 Feb 7;9:935676. doi: 10.3389/fmed.2022.935676. 
+eCollection 2022.
+
+Gastrointestinal disorders and intestinal bacteria: Advances in research and 
+applications in therapy.
+
+Ohkusa T(1), Nishikawa Y(1), Sato N(1).
+
+Author information:
+(1)Department of Microbiota Research, Juntendo University Graduate School of 
+Medicine, Tokyo, Japan.
+
+Intestinal bacteria coexist with humans and play a role in suppressing the 
+invasion of pathogens, producing short-chain fatty acids, producing vitamins, 
+and controlling the immune system. Studies have been carried out on culturable 
+bacterial species using bacterial culture methods for many years. However, as 
+metagenomic analysis of bacterial genes has been developed since the 1990s, it 
+has recently revealed that many bacteria in the intestine cannot be cultured and 
+that approximately 1,000 species and 40 trillion bacteria are present in the gut 
+microbiota. Furthermore, the composition of the microbiota is different in each 
+disease state compared with the healthy state, and dysbiosis has received much 
+attention as a cause of various diseases. Regarding gastrointestinal diseases, 
+dysbiosis has been reported to be involved in inflammatory bowel disease, 
+irritable bowel syndrome, and non-alcoholic steatohepatitis. Recent findings 
+have also suggested that dysbiosis is involved in colon cancer, liver cancer, 
+pancreatic cancer, esophageal cancer, and so on. This review focuses on the 
+relationship between the gut microbiota and gastrointestinal/hepatobiliary 
+diseases and also discusses new therapies targeting the gut microbiota.
+
+Copyright © 2023 Ohkusa, Nishikawa and Sato.
+
+DOI: 10.3389/fmed.2022.935676
+PMCID: PMC9941163
+PMID: 36825261
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

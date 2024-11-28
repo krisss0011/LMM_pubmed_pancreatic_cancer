@@ -1,0 +1,44 @@
+1. Oncol Res. 2023 Jan 31;30(4):201-210. doi: 10.32604/or.2022.027584.
+eCollection  2022.
+
+Konjac glucomannan enhances 5-FU-induced cytotoxicity of hepatocellular 
+carcinoma cells via TLR4/PERK/CHOP signaling to induce endoplasmic reticulum 
+stress.
+
+Shi Y(1), Ma J(1), Chen KE(1), Chen B(1).
+
+Author information:
+(1)Department of General Surgery, Cancer Center, Division of Gastrointestinal 
+and Pancreatic Surgery, Zhejiang Provincial People's Hospital, Affiliated 
+People's Hospital, Hangzhou Medical College, Hangzhou, 310011, China.
+
+5-Fluorouracil (5-FU) is a commonly used chemotherapeutic agent for various 
+cancers. However, the drug resistance developed by tumor cells hinders the 
+therapeutic effect. Konjac glucomannan (KGM) is indicated to sensitize 
+5-FU-resistant hepatocellular carcinoma (HCC) cells to 5-FU. In our study, we 
+found that KGM or 5-FU treatment alone did not affect the malignant cell 
+behaviors and endoplasmic reticulum (ER) stress of 5-FU-resistant HCC cells or 
+HepG2/5-FU and Bel-7402/5-FU cells, while cotreatment with KGM and 5-FU 
+significantly facilitated HCC cell apoptosis and ER stress and suppressed cell 
+proliferation potential and migration abilities. Moreover, we explored the 
+underlying mechanism by which KGM induces 5-FU cytotoxicity in HCC cells. We 
+found that Toll-like receptor 4 (TLR4) was downregulated in KGM- and 
+5-FU-treated HCC cells. TLR4 overexpression reversed the KGM and 5-FU 
+cotreatment-induced inhibition of the malignant behaviors of 5-FU-resistant HCC 
+cells. Furthermore, KGM enhanced 5-FU-induced ER stress by inhibiting TLR4 to 
+activate PERK/ATF4/CHOP signaling. Xenograft mouse models were established using 
+HepG2/5-FU cells, and KGM was demonstrated to reverse 5-FU resistance in HCC 
+tumors in vivo by suppressing TLR4 to enhance ER stress and activate 
+PERK/ATF4/CHOP signaling. In conclusion, KGM combined with 5-FU treatment 
+significantly promoted apoptosis and reduced cell proliferation, migration and 
+ER stress in 5-FU-resistant HCC cells compared with KGM or 5-FU treatment alone 
+by downregulating TLR4 to activate PERK/ATF4/CHOP signaling.
+
+© 2022 SHI et al.
+
+DOI: 10.32604/or.2022.027584
+PMCID: PMC10208023
+PMID: 37304412 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors received no specific funding for 
+this study.

@@ -1,0 +1,55 @@
+1. Front Immunol. 2024 Nov 8;15:1459942. doi: 10.3389/fimmu.2024.1459942. 
+eCollection 2024.
+
+Models of fibrolamellar carcinomas, tools for evaluation of a new era of 
+treatments.
+
+Song J(#)(1)(2)(3), Lu M(#)(1)(4), He Z(1)(2)(3)(4), Zhang W(1)(2)(3).
+
+Author information:
+(1)Institute for Regenerative Medicine, Medical Innovation Center and State Key 
+Laboratory of Cardiology, Shanghai East Hospital, School of Life Sciences and 
+Technology, Tongji University, Shanghai, China.
+(2)Shanghai Engineering Research Center of Stem Cells Translational Medicine, 
+Shanghai, China.
+(3)Shanghai Institute of Stem Cell Research and Clinical Translation, Shanghai, 
+China.
+(4)Postgraduate Training Base of Shanghai East Hospital, Jinzhou Medical 
+University, Jinzhou, Liaoning, China.
+(#)Contributed equally
+
+Fibrolamellar carcinoma (FLC) is a rare but fatal cancer that occurs primarily 
+in young people. There are currently no known effective treatments, although 
+several promising treatments appear to be in development. Genetic studies have 
+confirmed that almost all FLC tumors have a fusion protein marker 
+(DNAJB1-PRKACA) encoded by a fusion gene (DNAJB1-PRKACA); It is currently 
+accepted as a diagnostic criterion for FLCs. Several research teams have 
+established patient-derived xenograft (PDX) FLC models using immunocompromised 
+animals as hosts and patient tissue samples (tumors or ascites) as primary 
+sources for PDX-derived organoids. These FLC organoids are composed of FLC 
+epithelia, endothelial progenitor cells, and stellate cells. CRISPR/Cas9 was 
+used as a gene editing technique to modify mature hepatocytes to obtain ex vivo 
+FLC-like cells expressing the fusion gene and/or other mutated genes associated 
+with FLCs. Although these models simulate some but not all FLC features. Drug 
+screening using these models has not proven effective in identifying clinically 
+useful treatments. Genetic studies comparing FLCs to normal maturing endodermal 
+cell lineages have shown that FLCs share genetic signatures not with 
+hepatocytes, but with subpopulations of biliary tree stem cells (BTSCs), 
+hepato/pancreatic stem/progenitor cells that consistently reside in peribiliary 
+glands (PBGs) located in the biliary tree and are sources of stem cells for the 
+formation and postnatal regeneration of the liver and pancreas. Therefore, it is 
+expected that models of BTSCs, instead of hepatocytes may prove more useful. In 
+this review, we summarize the status of the various FLC models and their 
+features, applications, and limitations. They provide opportunities to 
+understand the cause and characteristics of this deadly disease and are models 
+from which effective treatments can be identified.
+
+Copyright © 2024 Song, Lu, He and Zhang.
+
+DOI: 10.3389/fimmu.2024.1459942
+PMCID: PMC11582006
+PMID: 39582856 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

@@ -1,0 +1,42 @@
+1. Pancreas. 2022 Oct 1;51(9):1258-1262. doi: 10.1097/MPA.0000000000002150.
+
+Exceptional Response of Pancreatic Acinar Cell Carcinoma and Bile Duct Cancer to 
+Platinum-Based Chemotherapy in a Family With a Germline BRCA2 Variant.
+
+Sunami T, Yamada A, Kondo T, Kanai M(1), Nagai K(2), Uchida Y(2), Yokode M(3), 
+Matsumori T(3), Uza N(3), Murakami H(4), Yamada T(4), Muto M.
+
+Author information:
+(1)Department of Clinical Oncology, Kyoto University Hospital.
+(2)Division of Hepato-Biliary-Pancreatic Surgery and Transplantation, Department 
+of Surgery.
+(3)Department of Gastroenterology and Hepatology, Graduate School of Medicine, 
+Kyoto University.
+(4)Clinical Genetics Unit, Kyoto University Hospital, Kyoto, Japan.
+
+Pancreatic cancer and its rare subtype, acinar cell carcinoma (PACC), frequently 
+harbor germline and/or somatic variants in homologous recombinant genes, 
+including BRCA2. Individuals possessing germline pathogenic BRCA2 variants are 
+known to have a higher risk of developing various cancers, including breast, 
+ovarian, pancreatic, and bile duct cancers (BDCs). It has been reported that 
+tumors positive for BRCA1/2 variants are sensitive to platinum-based agents. 
+Thus, BRCA1/2 germline testing and comprehensive genomic profiling are 
+recommended to identify genetic susceptibility and to indicate optimal targeted 
+therapy. Here, we report familial occurrence of PACC and BDC associated with 
+BRCA2; both tumors responded exceptionally well to platinum-based chemotherapy. 
+A 37-year-old man was diagnosed with unresectable PACC with a germline BRCA2 
+variant. He was treated with oxaliplatin-containing chemotherapy and conversion 
+surgery, and remains alive without tumor recurrence after more than 36 months. 
+His father also possessed the identical germline BRCA2 variant and was diagnosed 
+with extrahepatic BDC with lymph node metastases. The tumors showed marked 
+shrinkage upon treatment with cisplatin-containing chemotherapy. Our cases 
+underscore the importance of comprehensive genomic profiling and genetic testing 
+for BRCA2 to ensure optimal therapeutic options for PACC as well as to identify 
+high-risk individuals with various cancers in the family.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/MPA.0000000000002150
+PMID: 37078954 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

@@ -1,0 +1,41 @@
+1. Pancreas. 2022 Nov-Dec 01;51(10):1332-1336. doi: 10.1097/MPA.0000000000002194.
+
+Pancreatic Neuroendocrine Tumor: Rationale for Centralization in an Integrated 
+Health Care System.
+
+Kwak HV(1), Hsu DS(1), Le ST(1), Chang AL(2), Spitzer AL(3), Kazantsev GB(3), 
+Peng PD(3), Chang CK(3).
+
+Author information:
+(1)From the Department of Surgery, University of California San Francisco-East 
+Bay, Oakland, CA.
+(2)University of California Davis, Davis, CA.
+(3)Department of Surgery, Kaiser Permanente Oakland Medical Center, Oakland, CA.
+
+OBJECTIVES: Given the complex surgical management and infrequency of pancreatic 
+neuroendocrine tumor, we hypothesized that treatment at a center of excellence 
+improves survival.
+METHODS: Retrospective review identified 354 patients with pancreatic 
+neuroendocrine tumor treated between 2010 and 2018. Four hepatopancreatobiliary 
+centers of excellence were created from 21 hospitals throughout Northern 
+California. Univariate and multivariate analyses were performed. The χ2 test of 
+clinicopathologic factors determined which were predictive for overall survival 
+(OS).
+RESULTS: Localized disease was seen in 51% of patients, and metastatic disease 
+was seen in 32% of patients with mean OS of 93 and 37 months, respectively (P < 
+0.001). On multivariate survival analysis, stage, tumor location, and surgical 
+resection were significant for OS (P < 0.001). All stage OS for patients treated 
+at designated centers was 80 and 60 months for noncenters (P < 0.001). Surgery 
+was more common across stages at the centers of excellence versus noncenters at 
+70% and 40%, respectively (P < 0.001).
+CONCLUSIONS: Pancreatic neuroendocrine tumors are indolent but have malignant 
+potential at any size with management often requiring complex surgeries. We 
+showed survival was improved for patients treated at a center of excellence, 
+where surgery was more frequently utilized.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/MPA.0000000000002194
+PMID: 37099775 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

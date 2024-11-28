@@ -1,0 +1,37 @@
+1. Rozhl Chir. 2022 Winter;101(12):584-592. doi:
+10.33699/PIS.2022.101.12.584-592.
+
+Introducing in vivo pancreatic cancer models for the study of new therapeutic 
+regimens.
+
+[Article in English]
+
+Sychra T, Václavíková R, Szabó A, Spálenková A, Šeborová K, Balatka Š, Tesařová 
+T, Kočí K, Gürlich R, Souček P, Oliverius M.
+
+Introduction: Pancreatic cancer is a severe oncological disease with an 
+ever-increasing incidence and a high rate of morbidity and mortality. 
+Therapeutic options are limited and the five-year overall survival rate is 
+7–20%, depending on the possibility of surgical resection and the earliness of 
+detection. Most patients with this diagnosis die due to the resistance of tumour 
+cells and their microenvironment to the used treatment regimes. Methods: In our 
+study, we focused on the implementation of two in vivo models, which are the 
+cell-line derived xenograft (CDX) and the patient-derived xenograft (PDX). These 
+two models differ significantly from each other methodologically, technically, 
+financially, but also in their achieved results. Results: In a pilot study, we 
+managed to successfully implement the CDX model with a very aggressive and 
+resistant PaCa-44 line of pancreatic cancer in a total of 30 NU/NU strain mice. 
+Furthermore, we created three PDX models with various subtypes of pancreatic 
+cancer from patients operated at the University Hospital Kralovske Vinohrady, 
+Department of General Surgery. These tumours were re-transplanted into 
+subsequent generations of 23 individuals of NOD/SCID strain and 47 NU/NU strain 
+mice. The established CDX and PDX models are then used to compare conventional 
+and experimental chemotherapy regimens. Conclusion: The next steps will be to 
+evaluate the effects of treatment regimens by using imaging and molecular 
+genetic methods and to optimise the entire process for further use in precise 
+personalised medicine for patients with pancreatic cancer. The upcoming goal is 
+to create a library of PDX models of the most common pancreatic ductal 
+adenocarcinoma and other rare subtypes of pancreatic cancer.
+
+DOI: 10.33699/PIS.2022.101.12.584-592
+PMID: 36759205 [Indexed for MEDLINE]

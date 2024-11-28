@@ -1,0 +1,64 @@
+1. Turk J Biol. 2022 Sep 19;46(6):439-457. doi: 10.55730/1300-0152.2630. 
+eCollection 2022.
+
+Gemcitabine in combination with epibrassinolide enhanced the apoptotic response 
+in an ER stress-dependent manner and reduced the epithelial-mesenchymal 
+transition in pancreatic cancer cells.
+
+Obakan Yerlikaya P(1)(2), Mehdizadehtapeh L(3), Rencüzoğullari Ö(4), Kuryayeva 
+F(4), Çevikli SS(4), Özağar Ş(4), Odabaş SP(4), Tunçkol S(4), Yetim H(4), Çoker 
+Gürkan A(5), Arisan ED(6).
+
+Author information:
+(1)Department of Molecular Biology and Genetics, Faculty of Engineering and 
+Natural Sciences, İstanbul Medeniyet University, İstanbul, Turkey.
+(2)Science and Advanced Technology Research Center, İstanbul Medeniyet 
+University, İstanbul, Turkey.
+(3)Department of Food and Nutrition, İstanbul Sabahattin Zaim University, 
+İstanbul, Turkey.
+(4)Department of Molecular Biology Genetics, İstanbul Kültür University, 
+İstanbul, Turkey.
+(5)Department of Biology, Faculty of Science and Literature, Marmara University, 
+İstanbul, Turkey.
+(6)Institute of Biotechnology, Gebze Technical University, Kocaeli, Turkey.
+
+Gemcitabine is a broad-spectrum antimetabolite and a deoxycytidine analog 
+recognized as a standard therapy alone or in combination with other 
+antineoplastic agents in the therapy of pancreas cancer. Drug resistance 
+following gemcitabine treatment is a common phenomenon; therefore, combinational 
+therapy models are usually preferred. Pancreatic ductal adenocarcinoma, or 
+pancreas cancer, is the fourth leading cause of cancer-related deaths worldwide. 
+With the increasing incidence of pancreatic cancer every year, the mortality 
+rate is also rising significantly because of late diagnosis, and limited 
+chemotherapy options. Adjuvant chemotherapy after surgical resection is the 
+typical option for the treatment of early pancreatic cancer. Mostly, 
+5-fluorouracil/leucovorin with irinotecan and oxaliplatin (FOLFIRINOX) and 
+gemcitabine/nab-paclitaxel is used for the prognosis of advanced pancreatic 
+cancer; however, chemoresistance usually occurs limiting the effectiveness of 
+the chemotherapy. Therefore, most of the studies are focused on gemcitabine 
+combination with other drugs to overcome the situation. As an apoptotic agent 
+and a member of brassinosteroids, epibrassinolide (EBR) induces endoplasmic 
+reticulum (ER) stress-dependent cell death in different cancer cells, as shown 
+by our group. In this study, we aimed to enhance the gemcitabine apoptotic 
+effect by EBR combined treatment in pancreatic cancer cells. EBR treatment 
+reduced cell viability and inhibited cell proliferation in PANC-1, MIA PaCa-2, 
+and AsPC-1 cells. Each pancreatic cancer cell gave different responses to the 
+EBR treatment because of different aggressiveness. However, EBR induced 
+apoptosis through increasing ROS generation, which was associated with ER stress 
+in PANC-1 and MIA PaCa-2 cells. Gemcitabine alone reduced the cell viability of 
+each pancreatic cancer cell line; however, combination with EBR led to further 
+induction of apoptotic cell death in each pancreatic cancer cell line. In 
+addition, combined treatment of gemcitabine and EBR further decreased N-cadherin 
+and vimentin expressions, suggesting that epithelial-mesenchymal transition of 
+pancreatic cells is reduced. In conclusion, EBR had therapeutic potential to 
+avoid the gemcitabine-induced side effects during the treatment of pancreatic 
+cancer.
+
+© TÜBİTAK.
+
+DOI: 10.55730/1300-0152.2630
+PMCID: PMC10387961
+PMID: 37529796
+
+Conflict of interest statement: Conflict of interest The authors declare no 
+conflicts of interest.

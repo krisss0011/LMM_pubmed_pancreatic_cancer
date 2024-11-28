@@ -1,0 +1,55 @@
+1. J Cancer Res Ther. 2024 Jan 1;20(1):199-203. doi: 10.4103/jcrt.jcrt_225_22.
+Epub  2023 Apr 7.
+
+Modified FOLFIRINOX (mFOLFIRINOX) as neoadjuvant therapy and 'salvage' in 
+patients with high risk locally advanced rectal cancers - tolerance and early 
+outcomes.
+
+Prajapati R(1), Ostwal V(1), Srinivas S(1), Engineer R(2), Bhargava P(1), 
+Saklani A(3), D'Souza A(3), Kumar S(4), Peelay Z(1), Manali P(1), Ramaswamy 
+A(1).
+
+Author information:
+(1)Department of Medical Oncology, Tata Memorial Hospital, Homi Bhabha National 
+Institute (HBNI), Mumbai, Maharashtra, India.
+(2)Department of Radiation Oncology, Tata Memorial Hospital, Homi Bhabha 
+National Institute (HBNI), Mumbai, Maharashtra, India.
+(3)Department of Surgical Oncology, Tata Memorial Hospital, Homi Bhabha National 
+Institute (HBNI), Mumbai, Maharashtra, India.
+(4)Department of Radiology, Tata Memorial Hospital, Homi Bhabha National 
+Institute (HBNI), Mumbai, Maharashtra, India.
+
+BACKGROUND: There is limited data with regard to the use of modified 
+5-fluoroural-leucovorin-irinotecan-oxaliplatin (mFOLFIRINOX) in terms of 
+tolerance and enabling total mesorectal excision (TME) of locally advanced 
+rectal adenocarcinomas (LARC) with high-risk characteristics (T4b status, signet 
+ring histology etc) post standard neoadjuvant long course chemoradiation 
+(NACTRT) or short course radiation (SCRT) and chemotherapy.
+MATERIALS AND METHODS: Patients with LARC from January 2018 to December 2020 
+receiving mFOLFIRINOX post NACTRT/SCRT to facilitate TME were evaluated. The 
+primary endpoint was assessment of grade 3 and grade 4 treatment related 
+toxicity and TME rates. Event free survival (EFS), where event was defined as 
+disease progression or recurrence post resection after mFOLFIRINOX, was 
+calculated by Kaplan Meier method.
+RESULTS: Forty-seven patients were evaluated with a median age of 33 years 
+(Range:18-59), 45% T4b status, 96% radiological circumferential margin (CRM) 
+involved (79% CRM positive post NACTRT/SCRT), 43% extramural venous invasion 
+(n=33) and 36% signet ring histology. 62% had received prior NACTRT and 38% had 
+received SCRT with chemotherapy before receiving mFOLFIRINOX. The most common 
+grade 3 and grade 4 treatment related side effects included diarrhoea (7%), 
+anaemia (4%) and infections (4%). Intended duration of mFOLFIRINOX or beyond was 
+completed in 94% of patients. 60% of patients underwent curative local resection 
+with R0 resection rates of 100% (n=28) and pathological complete response rates 
+of 21%. The most common surgeries done were exenterations and abdominoperineal 
+in 22% and 17% patients respectively. With a median follow up of 19 months, 24 
+patients had recurred or progressed for a median EFS of 20 months [95% 
+confidence interval (CI): 15-24].
+CONCLUSIONS: Locally advanced rectal cancers with high-risk characteristics are 
+a niche group of cancers with less-than-optimal outcomes post standard 
+neoadjuvant strategies. mFOLFIRINOX appears to be well tolerated and enables TME 
+in a significant proportion of these patients.
+
+Copyright © 2023 Copyright: © 2023 Journal of Cancer Research and Therapeutics.
+
+DOI: 10.4103/jcrt.jcrt_225_22
+PMID: 38554321 [Indexed for MEDLINE]

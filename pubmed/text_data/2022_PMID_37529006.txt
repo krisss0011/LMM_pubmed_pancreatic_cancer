@@ -1,0 +1,50 @@
+1. Turk J Biol. 2022 Jul 18;46(5):342-360. doi: 10.55730/1300-0152.2622. 
+eCollection 2022.
+
+Palbociclib suppresses the cancer stem cell properties and cell proliferation 
+through increased levels of miR-506 or miR-150 in Panc-1 and MiaPaCa-2 cells.
+
+Rencüzoğullari Ö(1), Arisan ED(2).
+
+Author information:
+(1)İstanbul Kültür University, Science and Literature Faculty, Department of 
+Molecular Biology and Genetics, İstanbul, Turkey.
+(2)Institute of Biotechnology, Gebze Technical University, Gebze, Turkey.
+
+The prognostic characteristics of pancreatic cancer (PC) are determined by the 
+contributing factors from the tumor microenvironment. Leptin is a critical 
+oncogenic factor released by adipocytes as an adipokine into the tumor 
+microenvironment, where it promotes tumor development by activating cancer stem 
+cell (CSC) molecular regulators Notch, Hedgehog, and Wnt/β-catenin signaling. 
+One of the downstream targets of these pathways is CDK4/6 and cyclin D which is 
+controlled by P16 INK4A that is highly mutated in PC. Therefore, the purpose of 
+this study was to determine the effect of a CDK4/6 inhibitor, palbociclib, on 
+Leptin-induced PC cells and to target the Notch, Hedgehog, and Wnt/β-catenin 
+signaling pathways via miR-150, miR-506, and miR-208 modulation. Leptin 
+treatment increased the ability of Panc-1, MiaPaCa-2, and Capan-2 cells to 
+proliferate and decreased the effect of palbociclib. Additionally, tumorspheres 
+were generated from Leptin-treated (Leptin+) and Leptin-untreated (Leptin-) 
+Panc-1 and MiaPaCa-2 cells and transfected with miR-506, miR-150 
+(tumorsuppressor miRNAs), or anti-miR-208 (oncomiR), followed by palbociclib 
+treatment. Forced expression of miR-506 or miR-150 significantly increased the 
+susceptibility of Leptin+ cells to palbociclib treatment by inhibiting colony 
+and tumor spheroid formation, and CD44 expression in Panc-1 and MiaPaCa-2 cells. 
+Additionally, the increased miR-150 expression is more effective at inhibiting 
+N-cadherin, β-catenin, p-GSK3β, Notch, and Wnt5a/b expression in Leptin-/+ 
+Panc-1 and MiaPaCa-2 cells. As a result, palbociclib suppressed the CSC profile 
+induced by leptin treatment, inhibiting both tumorsphere forms and 
+leptin-targeted signaling pathways, thereby disabling the Panc-1 and MiaPaCa-2 
+cells' resistance mechanism. Increased expression of miR-506 or miR-150 and 
+inhibition of miR-208 enhanced sensitivity of Panc-1 and MiaPaCa-2 Leptin-/+ 
+cells to palbociclib treatment. As a result, this study proved that combining 
+inhibitors of CSC molecular regulators with palbociclib improves the success 
+rate of inhibition of PC cell proliferation.
+
+© TÜBİTAK.
+
+DOI: 10.55730/1300-0152.2622
+PMCID: PMC10387936
+PMID: 37529006
+
+Conflict of interest statement: Conflicts of interest The authors declare no 
+conflict of interest.

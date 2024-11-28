@@ -1,0 +1,43 @@
+1. J Natl Cancer Cent. 2023 Oct 11;3(4):306-309. doi: 10.1016/j.jncc.2023.10.001.
+ eCollection 2023 Dec.
+
+Targeted drug delivery systems for pancreatic ductal adenocarcinoma: overcoming 
+tumor microenvironment challenges with CAF-specific nanoparticles.
+
+Su X(1)(2), Wang Z(1)(2), Duan S(1)(2).
+
+Author information:
+(1)Key Laboratory of Novel Targets and Drug Study for Neural Repair of Zhejiang 
+Province, School of Medicine, Hangzhou City University, Hangzhou, China.
+(2)Department of Clinical Medicine, Hangzhou City University, Hangzhou, China.
+
+Pancreatic ductal adenocarcinoma (PDAC) stands as a profoundly heterogeneous and 
+aggressive malignancy, manifesting a discouragingly limited response to 
+conventional therapeutic interventions. Within the intricate tapestry of the 
+tumor microenvironment (TME), cancer-associated fibroblasts (CAFs) emerge as 
+pivotal constituents, wielding the capacity to propel the malignant attributes 
+of neoplastic cells while bolstering their deftness in thwarting treatments. The 
+rapid evolution of nanomedicinal technologies ushers in fresh avenues for 
+therapeutic paradigms meticulously honed to target CAFs. Notably, a recent 
+proposition by Yuan et al. introduces a PDAC treatment strategy metaphorically 
+akin to "shooting fish in a barrel." By adeptly capitalizing on the spatial 
+distribution of the CAF barricade encircling the tumor, this innovative approach 
+orchestrates a metamorphosis of CAFs, transitioning them from impediments to 
+drug delivery into reservoirs of therapeutic agents. The resultant outcome, an 
+augmentation of chemotherapy and immunotherapy efficacy, attests to the 
+transformative potential of this concept. The study not only bequeaths novel 
+insights and methodologies to surmount barriers in drug delivery for tumor 
+treatment but also holds promise in elevating the precision, efficacy, and 
+safety of tailored therapeutic regimens. Within this discourse, we meticulously 
+evaluate Yuan et al.'s research, scrutinizing its merits and limitations, and 
+cast a forward-looking gaze upon the formulation, validation of efficacy, and 
+clinical translation of nanomedicines targeting CAFs.
+
+© 2023 Chinese National Cancer Center. Published by Elsevier B.V.
+
+DOI: 10.1016/j.jncc.2023.10.001
+PMCID: PMC11256602
+PMID: 39036664
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interests.
