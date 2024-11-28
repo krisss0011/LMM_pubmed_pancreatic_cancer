@@ -1,0 +1,54 @@
+1. Research (Wash D C). 2023 Nov 28;6:0282. doi: 10.34133/research.0282. 
+eCollection 2023.
+
+Development and Characterization of Novel FAP-Targeted Theranostic Pairs: A 
+Bench-to-Bedside Study.
+
+Huang W(1), Pang Y(2), Liu Q(3), Liang C(1), An S(1), Wu Q(1), Zhang Y(1), Huang 
+G(1), Chen H(2), Liu J(1), Wei W(1)(2)(3).
+
+Author information:
+(1)Department of Nuclear Medicine, Institute of Clinical Nuclear Medicine, Renji 
+Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai 200127, 
+China.
+(2)Department of Nuclear Medicine and Minnan PET Center, Xiamen Cancer Center, 
+Xiamen Key Laboratory of Radiation Oncology, The First Affiliated Hospital of 
+Xiamen University, School of Medicine, Xiamen University, Xiamen 361003, China.
+(3)Department of Nuclear Medicine, Fudan University Shanghai Cancer Center, 
+Fudan University, Shanghai 200032, China.
+
+Fibroblast activation protein (FAP) is among the most popular targets in nuclear 
+medicine imaging and cancer theranostics. Several small-molecule moieties 
+(FAPI-04, FAPI-46, etc.) are used for developing FAP-targeted theranostic 
+agents. Nonetheless, the circulation time of FAP inhibitors is relatively short, 
+resulting in rapid clearance via kidneys, low tumor uptake, and associated 
+unsatisfactory treatment efficacy. To address the existing drawbacks, we 
+engineered 3 peptides named FD1, FD2, and FD3 with different circulation times 
+through solid-phase peptide synthesis. All the 3 reported peptides bind to human 
+and murine FAP with single-digit nanomolar affinity measured by surface plasmon 
+resonance. The diagnostic and therapeutic potential of the agents labeled with 
+68Ga and 177Lu was assessed in several tumor models exhibiting different levels 
+of FAP expression. While radiolabeled FD1 was rapidly excreted from kidneys, 
+radiolabeled FD2/FD3 have significantly prolonged circulation, increased tumor 
+uptake, and decreased kidney accumulation. Our findings indicated that 
+[68Ga]Ga-DOTA-FD1 positron emission tomography (PET) effectively detected FAP 
+dynamics, whereas [177Lu]Lu-DOTA-FD2 and [177Lu]Lu-DOTA-FD3 exhibited remarkable 
+therapeutic efficacy in FAP-overexpressing tumor models, including pancreatic 
+cancer cell models characterized by abundant stroma. Moreover, a pilot 
+translational investigation demonstrated that [68Ga]Ga-DOTA-FD1 had the 
+capability to identify both primary and metastatic tumors with precision and 
+distinction. In summary, we developed [68Ga]Ga-DOTA-FD1 for same-day PET imaging 
+of FAP dynamics and [177Lu]Lu-DOTA-FD2 and [177Lu]Lu-DOTA-FD3 for effective 
+radioligand therapy of FAP-overexpressing tumors.
+
+Copyright © 2023 Wei Huang et al.
+
+DOI: 10.34133/research.0282
+PMCID: PMC11066877
+PMID: 38706713
+
+Conflict of interest statement: Competing interests: W.W., W.H., and J.L. are 
+co-inventors on a provisional patent application encompassing the technology 
+reported in the manuscript. W.W. is a consultant of Alpha Nuclide (Ningbo) 
+Medical Technology Co., Ltd. All other authors declare that they have no 
+competing interests.

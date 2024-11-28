@@ -1,0 +1,37 @@
+1. Pancreas. 2022 Nov-Dec 01;51(10):1398-1403. doi: 10.1097/MPA.0000000000002197.
+
+Glucagon-Like Peptide 1-Based Therapies and Risk of Pancreatic Cancer in 
+Patients With Diabetes and Obesity.
+
+Krishnan A(1), Hadi Y, Hutson WR, Thakkar S, Singh S.
+
+Author information:
+(1)From the Department of Medicine, Section of Gastroenterology and Hepatology, 
+West Virginia University School of Medicine, Morgantown, WV.
+
+OBJECTIVES: There have been conflicting reports concerning an increased risk of 
+pancreatic cancer (PC) in new users of glucagon-like peptide-1 agonists 
+(GLP-1As). We aimed to explore whether the use of GLP-1A is associated with an 
+increased risk of PC.
+METHODS: A multicenter, retrospective cohort study was conducted using TriNetX. 
+Adult patients with diabetes and/or overweight and obesity who were newly 
+treated with GLP-1A or metformin for the first time between 2006 and 2021 were 
+matched 1:1 using propensity score matching. The risk of PC was estimated using 
+a Cox proportional hazards model.
+RESULTS: A total of 492,760 patients were identified in the GLP-1A and 918,711 
+patients in the metformin group. After propensity score matching, both cohorts 
+(370,490 each) were well matched. During follow-up, 351 patients in the GLP-1A 
+and 956 on metformin developed PC after an exposure lag of 1 year. Glucagon-like 
+peptide-1 agonists was associated with a significantly lower risk of PC (hazard 
+ratio, 0.47; 95% confidence interval, 0.42-0.52).
+CONCLUSIONS: The use of GLP-1A in patients with obesity/diabetes is associated 
+with a lower risk of PC compared with a similar cohort of patients using 
+metformin. Our study findings reassure clinicians and patients with 
+apprehensions about any possible association between GLP-1A and PC.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/MPA.0000000000002197
+PMID: 37099785 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

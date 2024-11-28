@@ -1,0 +1,102 @@
+1. Pancreas. 2022 Oct 1;51(9):1061-1073. doi: 10.1097/MPA.0000000000002170.
+
+Integrated Physiology of the Exocrine and Endocrine Compartments in Pancreatic 
+Diseases: Workshop Proceedings.
+
+Mastracci TL(1), Apte M(2), Amundadottir LT(3), Alvarsson A(4), Artandi S(5), 
+Bellin MD(6), Bernal-Mizrachi E(7), Caicedo A(8), Campbell-Thompson M(9), 
+Cruz-Monserrate Z(10), El Ouaamari A(11), Gaulton KJ(12), Geisz A(13), Goodarzi 
+MO(14), Hara M(15), Hull-Meichle RL(16), Kleger A(17), Klein AP(18), Kopp 
+JL(19), Kulkarni RN(20), Muzumdar MD(21), Naren AP(22), Oakes SA(23), Olesen 
+SS(24), Phelps EA(25), Powers AC(26), Stabler CL(25), Tirkes T(27), Whitcomb 
+DC(28), Yadav D(28), Yong J(29), Zaghloul NA(30), Sander M(31), Pandol SJ(32).
+
+Author information:
+(1)From the ∗Department of Biology, Indiana University-Purdue University 
+Indianapolis.
+(2)Faculty of Medicine and Health, University of New South Wales, Sydney, 
+Australia.
+(3)National Cancer Institute, National Institutes of Health, Rockville, MD.
+(4)Diabetes, Obesity and Metabolism Institute, Mount Sinai Hospital, New York, 
+NY.
+(5)Department of Internal Medicine, Stanford University, California.
+(6)Departments of Pediatrics and Surgery, University of Minnesota Medical 
+School, Minneapolis.
+(7)Department of Medicine, University of Miami Miller School of Medicine and 
+Miami VA Health Care System, Florida.
+(8)Department of Medicine, University of Miami, Florida.
+(9)Department of Pathology, Immunology & Laboratory Medicine, University of 
+Florida, Gainesville.
+(10)Department of Internal Medicine, The Ohio State University Wexner Medical 
+Center, Columbus.
+(11)Department of Medicine, Rutgers The State University of New Jersey, New 
+Brunswick.
+(12)Department of Pediatrics, University of California San Diego, La Jolla.
+(13)Department of Molecular and Cell Biology, Boston University Henry M. Goldman 
+School of Dental Medicine, Massachusetts.
+(14)Division of Endocrinology, Diabetes and Metabolism, Cedars-Sinai Medical 
+Center, Los Angeles, California.
+(15)Department of Medicine, The University of Chicago, Illinois.
+(16)Department of Medicine, VA Puget Sound Health Care System and University of 
+Washington, Seattle.
+(17)Institute of Molecular Oncology and Stem Cell Biology, Ulm University, Ulm, 
+Germany.
+(18)Department of Pathology and Medicine, Johns Hopkins School of Medicine, 
+Baltimore, MD.
+(19)Department of Cellular & Physiological Sciences, University of British 
+Columbia, Vancouver, Canada.
+(20)Department of Medicine, Harvard Medical School, Boston, MA.
+(21)Departments of Genetics and Internal Medicine (Oncology), Yale University 
+School of Medicine, New Haven, CT.
+(22)Department of Medicine, Cedars-Sinai Medical Center, Los Angeles, CA.
+(23)Department of Pathology, University of Chicago, Chicago, IL.
+(24)Department of Gastroenterology and Hepatology, Aalborg University Hospital, 
+Aalborg, Denmark.
+(25)J. Crayton Pruitt Family Department of Biomedical Engineering, University of 
+Florida, Gainesville.
+(26)Division of Diabetes, Endocrinology, and Metabolism, Vanderbilt University 
+Medical Center and VA Tennessee Valley Healthcare System, Nashville.
+(27)Department of Radiology and Imaging Sciences, Indiana University School of 
+Medicine, Indianapolis.
+(28)Department of Medicine, University of Pittsburgh, Pennsylvania.
+(29)Degenerative Diseases Program, SBP Medical Discovery Institute, La Jolla, 
+CA.
+(30)National Institute of Diabetes and Digestive and Kidney Diseases, National 
+Institutes of Health, Bethesda, MD.
+(31)Department of Pediatrics and Department of Cellular & Molecular Medicine, 
+University of California San Diego, La Jolla.
+(32)Division of Gastroenterology, Cedars-Sinai Medical Center, Los Angeles, CA.
+
+The "Integrated Physiology of the Exocrine and Endocrine Compartments in 
+Pancreatic Diseases" Workshop was a 1.5-day scientific conference at the 
+National Institutes of Health (Bethesda, MD) that engaged clinical and basic 
+science investigators interested in diseases of the pancreas. This report 
+summarizes the workshop proceedings. The goal of the workshop was to forge 
+connections and identify gaps in knowledge that could guide future research 
+directions. Presentations were segregated into 6 major themes, including (a) 
+Pancreas Anatomy and Physiology; (b) Diabetes in the Setting of Exocrine 
+Disease; (c) Metabolic Influences on the Exocrine Pancreas; (d) Genetic Drivers 
+of Pancreatic Diseases; (e) Tools for Integrated Pancreatic Analysis; and (f) 
+Implications of Exocrine-Endocrine Crosstalk. For each theme, there were 
+multiple presentations followed by panel discussions on specific topics relevant 
+to each area of research; these are summarized herein. Significantly, the 
+discussions resulted in the identification of research gaps and opportunities 
+for the field to address. In general, it was concluded that as a pancreas 
+research community, we must more thoughtfully integrate our current knowledge of 
+the normal physiology as well as the disease mechanisms that underlie endocrine 
+and exocrine disorders so that there is a better understanding of the interplay 
+between these compartments.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/MPA.0000000000002170
+PMCID: PMC10328394
+PMID: 37078927 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: M.D.B. has received 
+research funding from Viacyte and Dexcom and serves on advisory boards/DSMB 
+membership for Insulet, Vertex, and Ariel Precision Medicine. M.O.G. has served 
+on an advisory board for Nestle Health Science. K.J.G. is a consultant for 
+Genentech and a stockholder of Neurocrine Biosciences. S.A.O. is a cofounder and 
+consultant at OptiKira, LLC (Cleveland, Ohio). All other authors declare no 
+conflict of interest.

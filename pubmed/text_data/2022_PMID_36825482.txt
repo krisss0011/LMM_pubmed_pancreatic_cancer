@@ -1,0 +1,48 @@
+1. Hepatobiliary Pancreat Dis Int. 2023 Feb;22(1):7-13. doi: 
+10.1016/j.hbpd.2022.10.006. Epub 2022 Oct 20.
+
+Conversion therapy in liver transplantation for hepatocellular carcinoma: What's 
+new in the era of molecular and immune therapy?
+
+Jiang C(1), Sun XD(1), Qiu W(1), Chen YG(1), Sun DW(1), Lv GY(2).
+
+Author information:
+(1)General Surgery Center, Department of Hepatobiliary and Pancreatic Surgery, 
+the First Hospital of Jilin University, Changchun 130021, China.
+(2)General Surgery Center, Department of Hepatobiliary and Pancreatic Surgery, 
+the First Hospital of Jilin University, Changchun 130021, China. Electronic 
+address: lvgy@jlu.edu.cn.
+
+BACKGROUND: Hepatocellular carcinoma (HCC) is the sixth most common cancer 
+globally, with limited therapies and unsatisfactory prognosis once in the 
+advanced stages. With promising advances in locoregional and systematic 
+treatments, fast development of targeted drugs, the success of immunotherapy, as 
+well as the emergence of the therapeutic alliance, conversion therapy has 
+recently become more well developed and an effective therapeutic strategy. This 
+article aimed to review recent developments in conversion therapy in liver 
+transplantation (LT) for HCC.
+DATA SOURCES: We searched for relevant publications on PubMed before September 
+2022, using the terms "HCC", "liver transplantation", "downstaging", "bridging 
+treatment" and "conversion therapy."
+RESULTS: Conversion therapy was frequently represented as a combination of 
+multiple treatment modalities to downstage HCC and make patients eligible for 
+LT. Although combining various local and systematic treatments in conversion 
+therapy is still controversial, growing evidence has suggested that multimodal 
+combined treatment strategies downstage HCC in a shorter time, which ultimately 
+increases the opportunities for LT. Moreover, the recent breakthrough of 
+immunotherapy and targeted therapy for HCC also benefit patients with 
+advanced-stage tumors.
+CONCLUSIONS: In the era of targeted therapy and immunotherapy, applying the 
+thinking of transplant oncology to benefit HCC patients receiving LT is a new 
+topic that has shed light on advanced-stage patients. With the expansion of 
+conversion therapy concepts, further investigation and research is required to 
+realize the full potential of conversion treatment strategies, including 
+accurately selecting candidates, determining the timing of surgery, improving 
+the conversion rate, and guaranteeing the safety and long-term efficacy of 
+treatment.
+
+Copyright © 2022 First Affiliated Hospital, Zhejiang University School of 
+Medicine in China. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.hbpd.2022.10.006
+PMID: 36825482 [Indexed for MEDLINE]

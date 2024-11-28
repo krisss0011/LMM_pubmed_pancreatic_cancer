@@ -1,0 +1,59 @@
+1. Semin Oncol. 2022 Dec;49(6):476-481. doi: 10.1053/j.seminoncol.2023.01.007.
+Epub  2023 Feb 2.
+
+Synchronous or metachronous presentation of pancreatic neuroendocrine tumor 
+versus secondary lesion to pancreas in patients affected by renal cell 
+carcinoma. Systematic review.
+
+Persano I(1), Parlagreco E(2), La Salvia A(3), Audisio M(2), Volante M(2), 
+Buttigliero C(2), Scagliotti GV(2), Brizzi MP(2).
+
+Author information:
+(1)Department of Oncology, University Hospital San Luigi Gonzaga, University of 
+Turin, Orbassano, Italy. Electronic address: irene.persano@unito.it.
+(2)Department of Oncology, University Hospital San Luigi Gonzaga, University of 
+Turin, Orbassano, Italy.
+(3)National Center for Drug Research and Evaluation, National Institute of 
+Health (ISS), Rome, Italy.
+
+The simultaneous or metachronous occurrence of pancreatic neuroendocrine tumor 
+(panNET) and renal cell carcinoma (RCC) may represent a rare coincidence or a 
+manifestation of von Hippel-Lindau disease (VHL). These two malignancies share 
+both radiological and cytopathological features, making the differential 
+diagnosis very challenging. In this review, we collected all cases of concurrent 
+diagnosis of localized panNET and RCC, with or without VHL, as reported in the 
+literature to date. We aimed to provide an insight into the differential 
+diagnosis between panNET and RCC pancreatic metastasis with a focus on the 
+optimal therapeutic algorithm depending on the diagnosis. We performed 
+literature research in PubMed library databases for articles about coexisting 
+panNET and RCC published from 2001 to 2018. We selected nine articles with a 
+total of 13 patients, including one treated at our institution. Patients' median 
+age was 49 years and eight out of 13 patients were women. VHL was diagnosed in 
+nine cases. Most patients underwent radical nephrectomy for RCC (9/13) and a 
+clear cell renal carcinoma variant was identified in six cases. The diagnosis of 
+panNET was synchronous with RCC detection in nine cases and metachronous in four 
+cases. The diameter of the pancreatic lesion was >2 cm in six cases. In two 
+cases the panNET was misdiagnosed as metastatic RCC by radiological tests. 
+Somatostatin receptor scanning was performed only in our patient (Octreoscan) 
+showing intense uptake in the pancreatic mass. Endoscopic ultrasound fine needle 
+aspiration of the pancreatic lesion was performed in four patients: in two cases 
+the panNET was confused with metastatic RCC by cytological analysis. Most 
+patients underwent pancreatic surgery (10/13) without histological confirmation. 
+Clear cell panNET was recognized in six cases, while mixed neuroendocrine 
+non-neuroendocrine neoplasm was diagnosed in one patient. Immunohistochemistry 
+(IHC) staining showed positivity to typical neuroendocrine markers (chromogranin 
+A and synaptophysin) in all reported tested cases (8/8). Three patients 
+underwent systemic treatment: two patients received sunitinib and one patient 
+interleukin-2 (IL-2). Other neoplasms were observed in seven patients, of whom 
+six were affected by VHL syndrome. When neoplastic lesions are recognized in 
+both the kidney and pancreas, panNET and RCC pancreatic metastasis are often 
+misdiagnosed due to similar radiological and cytopathological features. An 
+accurate differential diagnosis is crucial and IHC plays a central role in 
+distinguishing the two entities. The therapeutic algorithm may change depending 
+on the diagnosis: while pancreatic RCC metastases benefit from resection, in 
+panNETs and VHL the indication for surgery must be carefully evaluated.
+
+Copyright © 2023 Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.seminoncol.2023.01.007
+PMID: 36759234 [Indexed for MEDLINE]

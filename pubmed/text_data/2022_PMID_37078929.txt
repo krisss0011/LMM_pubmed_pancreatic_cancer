@@ -1,0 +1,39 @@
+1. Pancreas. 2022 Oct 1;51(9):1083-1091. doi: 10.1097/MPA.0000000000002147.
+
+Defining the Optimal Duration of Neoadjuvant Therapy for Pancreatic Ductal 
+Adenocarcinoma: Time for a Personalized Approach?
+
+Puleo A(1), Malla M(2), Boone BA.
+
+Author information:
+(1)From the Division of Surgical Oncology, Department of Surgery.
+(2)Section of Hematology/Oncology, Department of Medicine.
+
+Despite recent advances, pancreatic ductal adenocarcinoma (PDAC) continues to be 
+associated with dismal outcomes, with a cure evading most patients. While 
+historic treatment for PDAC has been surgical resection followed by 6 months of 
+adjuvant therapy, there has been a recent shift toward neoadjuvant treatment 
+(NAT). Several considerations support this approach, including the 
+characteristic early systemic spread of PDAC, and the morbidity often 
+surrounding pancreatic resection, which can delay recovery and preclude patients 
+from starting adjuvant treatment. The addition of NAT has been suggested to 
+improve margin-negative resection rates, decrease lymph node positivity, and 
+potentially translate to improved survival. Conversely, complications and 
+disease progression can occur during preoperative treatment, potentially 
+eliminating the chance of curative resection. As NAT utilization has increased, 
+treatment durations have been found to vary widely between institutions with an 
+optimal duration remaining undefined. In this review, we assess the existing 
+literature on NAT for PDAC, reviewing treatment durations reported across 
+retrospective case series and prospective clinical trials to establish currently 
+used approaches and seek the optimal duration. We also analyze markers of 
+treatment response and review the potential for personalized approaches that may 
+help clarify this important treatment question and move NAT toward a more 
+standardized approach.
+
+Copyright © 2023 The Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/MPA.0000000000002147
+PMCID: PMC10144367
+PMID: 37078929 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

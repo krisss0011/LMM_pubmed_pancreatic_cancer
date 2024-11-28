@@ -1,0 +1,49 @@
+1. Adv Radiat Oncol. 2023 Jul 9;9(1):101314. doi: 10.1016/j.adro.2023.101314. 
+eCollection 2024 Jan.
+
+Initial Observation of Contrast Profiles for 2-Dimensional and 3-Dimensional 
+Magnetic Resonance Imaging Sequences in Magnetic Resonance-Guided Radiation 
+Therapy for Locally Advanced Pancreatic Cancer.
+
+Gill GS(1), Hunt B(1), Zhang R(1), Williams BB(1), Zaki BI(1).
+
+Author information:
+(1)Dartmouth Cancer Center, One Medical Center Drive, Lebanon, New Hampshire.
+
+PURPOSE: In our experience treating locally advanced pancreatic cancer with 
+magnetic resonance-guided radiation therapy (MRgRT), the true-fast imaging with 
+steady-state free precession sequences used to generate both the real-time 
+2-dimensional (2D) magnetic resonance images (MRI; 2D cine) and the pretreatment 
+high-resolution 3-dimensional (3D) MRI impart differing intensities for relevant 
+structures between the 2 scans. Since these variations can confound target 
+tracking selection, we propose that an understanding of the differing contrast 
+profiles could improve selection of tracking structures.
+METHODS AND MATERIALS: We retrospectively reviewed both 2D cine and 3D MRI 
+images for 20 patients with pancreatic cancer treated with MRgRT. At simulation, 
+an appropriate tracking target was identified and contoured on a single 3-mm 
+sagittal slice of the 3D MRI. This sagittal slice was directly compared with the 
+coregistered 7-mm 2D cine to identify structures with notable discrepancies in 
+signal intensity. The 3D MRI was then explored in additional planes to confirm 
+structure identities. For quantitative verification of the clinically observed 
+differences, the pixel intensity distributions of 2D cine and 3D MRI digital 
+imaging and communications in medicine data sets were statistically compared.
+RESULTS: In all patients reviewed, arteries (aorta, celiac, superior mesenteric 
+artery, hepatic artery) appeared mildly hyperintense on both scans. However, 
+veins (portal vein, superior mesenteric vein) appeared hyperintense on 2D cine 
+but isointense on 3D MRI. Biliary structures appeared mildly hyperintense on 2D 
+cine but starkly hyperintense on 3D MRI. The pixel intensity distributions 
+extracted from 2D cine and 3D MRI images were confirmed to differ significantly 
+(2 sample Kolmogorov-Smirnov test; test statistic, 0.40; P < .001).
+CONCLUSIONS: There are significant variations in image intensity between the 
+immediate pretreatment 2D cine compared with the initial planning 3D MRI. 
+Understanding variations of image intensity between the different MRI sequences 
+used in MRgRT is valuable to radiation oncologists and may lead to improved 
+target tracking and optimized treatment delivery.
+
+DOI: 10.1016/j.adro.2023.101314
+PMCID: PMC10801635
+PMID: 38260228
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.

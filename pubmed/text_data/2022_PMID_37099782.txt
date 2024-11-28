@@ -1,0 +1,40 @@
+1. Pancreas. 2022 Nov-Dec 01;51(10):1376-1380. doi: 10.1097/MPA.0000000000002200.
+
+The Impact of Preexisting Psychiatric Disorders on Outcomes After Pancreatic 
+Cancer Surgery.
+
+Perry LM(1), Kleber KT(1), Rajasekar G(2), Nuño M(2), Bold RJ(1).
+
+Author information:
+(1)From the Division of Surgical Oncology, Department of Surgery.
+(2)Division of Biostatistics, Department of Public Health Sciences, University 
+of California Davis, Sacramento, CA.
+
+OBJECTIVES: Comorbid psychiatric illness has been associated with worse outcomes 
+after some major surgical procedures. We hypothesized that patients with 
+preexisting mood disorders would have worse postoperative and oncologic outcomes 
+after pancreatic cancer resection.
+METHODS: This retrospective cohort study analyzed Surveillance, Epidemiology, 
+and End Results patients with resectable pancreatic adenocarcinoma. A 
+preexisting mood disorder was classified if a patient was diagnosed and/or 
+treated with medication approved for depression/anxiety within 6 months before 
+surgery.
+RESULTS: Of 1305 patients, 16% had a preexisting mood disorder. Mood disorders 
+had no impact on hospital length of stay (12.9 vs 13.2 days, P = 0.75), 30-day 
+complications (26% vs 22%, P = 0.31), 30-day readmissions (26% vs 21%, P = 0.1), 
+or mortality (30 days: 3% vs 4%, P = 0.35); only an increased 90-day 
+readmissions rate (42% vs 31%, P = 0.001) was observed. No effect on adjuvant 
+chemotherapy receipt (62.5% vs 69.2%, P = 0.06) or survival (24 months, 43% vs 
+39%, P = 0.44) was observed.
+CONCLUSIONS: Preexisting mood disorders influenced 90-day readmissions after 
+pancreatic resection, but not other postoperative or oncologic outcomes. These 
+findings suggest that affected patients should be expected to have outcomes 
+similar to patients without mood disorders.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/MPA.0000000000002200
+PMCID: PMC10154037
+PMID: 37099782 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

@@ -1,0 +1,36 @@
+1. Radiologia (Engl Ed). 2024 Jan-Feb;66(1):47-56. doi: 
+10.1016/j.rxeng.2023.04.002. Epub 2023 Jun 26.
+
+Irreversible electroporation: Beyond the limits of tumor ablation.
+
+Alonso-González R(1), Abadal Villayandre JM(2), Gálvez Gonzalez E(2), Álvarez 
+Perez MJ(2), Méndez Alonso S(3), de Gregorio Ariza MA(4).
+
+Author information:
+(1)Radiología Vascular Intervencionista, Hospital Universitario Severo Ochoa, 
+Madrid, Spain. Electronic address: rodro.a.g.c@gmail.com.
+(2)Radiología Vascular Intervencionista, Hospital Universitario Severo Ochoa, 
+Madrid, Spain.
+(3)Radiología Vascular Intervencionista, Hospital Universitario Puerta Hierro, 
+Madrid, Spain.
+(4)Radiología Vascular Intervencionista, Clínica Quirón, Zaragoza, Spain.
+
+Irreversible Electroporation (IRE) is a non-thermal tumor ablation technique. 
+High-voltage electrical pulses are applied between pairs of electrodes inserted 
+around and/or inside a tumor. The generated electric current induces the 
+creation of nanopores in the cell membrane, triggering apoptosis. As a result, 
+IRE can be safely used in areas near delicate vascular structures where other 
+thermal ablation methods are contraindicated. Currently, IRE has demonstrated to 
+be a successful ablation technique for pancreatic, renal, and liver tumors and 
+is widely used as a focal therapeutic option for prostate cancer. The need for 
+specific anesthetic management and accurate parallel placement of multiple 
+electrodes entails a high level of complexity and great expertise from the 
+interventional team is required. Nevertheless, IRE is a very promising technique 
+with a remarkable systemic immunological capability and may impact on distant 
+metastases (abscopal effect).
+
+Copyright © 2023 SERAM. Published by Elsevier España, S.L.U. All rights 
+reserved.
+
+DOI: 10.1016/j.rxeng.2023.04.002
+PMID: 38365354 [Indexed for MEDLINE]

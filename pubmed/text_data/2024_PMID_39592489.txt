@@ -1,0 +1,51 @@
+1. J Gastrointest Cancer. 2024 Nov 27;56(1):25. doi: 10.1007/s12029-024-01119-2.
+
+Factors Influencing Immunotherapy Utilization in Stage IV Pancreatic Cancer: 
+Impact of Race and Socioeconomics in the U.S.
+
+Khalid A(1), Faiz Z(2), Shah M(3), Newman E(4), King DA(5), DePeralta D(5), 
+Gholami S(5), Weiss MJ(5), Melis M(4).
+
+Author information:
+(1)Northwell Health, North Shore/Long Island Jewish General Surgery, 300 
+Community Dr., Manhasset, NY, USA. akhalid7@northwell.edu.
+(2)Department of Medicine, Aga Khan University, Karachi, Pakistan.
+(3)Donald and Barbara Zucker School of Medicine at Hofstra/Northwell, New York, 
+NY, USA.
+(4)Northwell Health Lenox Hill Hospital, 100 E 77Th St, New York, NY, USA.
+(5)Northwell Health Cancer Institute, 1111 Marcus Ave, New Hyde Park, NY, USA.
+
+BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC), a highly lethal cancer with 
+a poor prognosis, is expected to become the second deadliest cancer in the 
+United States by 2030. Despite advancements in treatment modalities, the 
+survival rates of patients with PDAC have remained low. Immunotherapy has 
+emerged as a promising treatment for various cancers; however, its utilization 
+in PDAC has been limited due to various challenges, including resistance 
+mechanisms and the advanced stage at which most patients are diagnosed.
+METHODS: We analyzed data from the National Cancer Database (NCDB) from 2010 to 
+2017, focusing on the impact of race, insurance status, and socioeconomic 
+factors among patients with stage IV PDAC using logistic regression analyses.
+RESULTS: Among 109,663 patients with stage IV PDAC, 421 (0.38%) received 
+immunotherapy. The recipients were younger (median age 63 vs. 68 years, 
+p < 0.001) and more likely to be white (87.4% vs. 82.1%). Patients with private 
+insurance or Medicare (p < 0.001), and those earning more than $60 k annually 
+(51.0% vs. 36.4%, p < 0.001) were more likely to receive immunotherapy. 
+Treatment was more likely in academic/research programs than in community cancer 
+programs (53.0% vs. 33.4%, p < 0.001). On multivariate analysis, Black patients 
+had lower odds of receiving immunotherapy than Caucasian patients (OR: 0.74 [95% 
+CI: 0.601-0.882], p = 0.019). Higher income was also a significant predictor of 
+immunotherapy utilization (highest vs. lowest income quartile: OR, 2.228 [95% 
+CI: 1.422-3.491], p < 0.001).
+CONCLUSIONS: This study revealed significant disparities in immunotherapy access 
+for stage IV PDAC based on race, socioeconomic status, and geographic location 
+in the United States, highlighting the need for intervention to promote 
+equitable access to this promising treatment modality.
+
+© 2024. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s12029-024-01119-2
+PMID: 39592489 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflict of Interest: The authors 
+declare no competing interests. Disclosures: None.

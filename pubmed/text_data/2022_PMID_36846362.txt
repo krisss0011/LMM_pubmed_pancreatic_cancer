@@ -1,0 +1,45 @@
+1. RSC Med Chem. 2022 Dec 19;14(2):313-331. doi: 10.1039/d2md00275b. eCollection 
+2023 Feb 22.
+
+Design, synthesis, and biological evaluation of new arjunolic acid derivatives 
+as anticancer agents.
+
+Gonçalves BMF(1)(2), Mendes VIS(1)(2), Silvestre SM(2)(3), Salvador JAR(2)(4).
+
+Author information:
+(1)CHEM4PHARMA, Biocant - Parque Tecnológico de Cantanhede Núcleo 4, Lote 14 
+3060-197 Cantanhede Portugal.
+(2)Center for Neuroscience and Cell Biology Coimbra Portugal.
+(3)CICS-UBI - Health Sciences Research Centre, University of Beira Interior Av. 
+Infante D. Henrique 6200-506 Covilhã Portugal.
+(4)Laboratory of Pharmaceutical Chemistry, Faculty of Pharmacy, University of 
+Coimbra 3000-548 Coimbra Portugal salvador@ci.uc.pt +351 239 488 503 +351 239 
+488 400.
+
+Arjunolic acid (AA) is a pentacyclic triterpenoid with promising anticancer 
+properties. A series of novel AA derivatives containing a pentameric A-ring with 
+an enal moiety, combined with additional modifications at C-28, were designed 
+and prepared. The biological activity on the viability of human cancer and 
+non-tumor cell lines was evaluated in order to identify the most promising 
+derivatives. Additionally, a preliminary study of the structure-activity 
+relationship was carried out. The most active derivative, derivative 26, also 
+showed the best selectivity between malignant cells and non-malignant 
+fibroblasts. For compound 26, the anticancer molecular mechanism of action in 
+PANC-1 cells was further studied and the results showed that this derivative 
+induced a cell-cycle arrest at G0/G1 phase and significantly inhibited the wound 
+closure rate of PANC-1 cancer cells in a concentration-dependent manner. 
+Additionally, compound 26 synergistically increased the cytotoxicity of 
+Gemcitabine, especially at a concentration of 0.24 μM. Moreover, a preliminary 
+pharmacological study indicated that at lower doses this compound did not 
+demonstrate toxicity in vivo. Taken together, these findings suggest that 
+compound 26 may be a valuable compound for the development of new pancreatic 
+anticancer treatment, and further studies are needed to explore its full 
+potential.
+
+This journal is © The Royal Society of Chemistry.
+
+DOI: 10.1039/d2md00275b
+PMCID: PMC9945870
+PMID: 36846362
+
+Conflict of interest statement: There are no conflicts to declare.

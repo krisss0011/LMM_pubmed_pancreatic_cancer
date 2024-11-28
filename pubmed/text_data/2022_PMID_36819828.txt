@@ -1,0 +1,46 @@
+1. Ecancermedicalscience. 2022 Nov 23;16:1475. doi: 10.3332/ecancer.2022.1475. 
+eCollection 2022.
+
+Short-term survival of patients with advanced pancreatic cancer admitted to 
+intensive care unit: a retrospective cohort study.
+
+de Almeida MJ(1), Camandaroba MPG(1), Nassar AP Jr(2), de Jesus VHF(1)(3).
+
+Author information:
+(1)Medical Oncology Department, A.C. Camargo Cancer Center, Rua Prof. Antônio 
+Prudente, 211, São Paulo, SP 01509-010, Brazil.
+(2)Intensive Care Medicine Department, A.C. Camargo Cancer Center, Rua Prof. 
+Antônio Prudente, 211, São Paulo, SP 01509-010, Brazil.
+(3)https://orcid.org/0000-0003-4702-116X.
+
+BACKGROUND: Little is known about the outcomes of patients with advanced 
+pancreatic cancer admitted to the intensive care unit (ICU) due to medical 
+complications. We designed a study to evaluate their short-term (30-day) 
+survival, predictors of short-term survival and chances of additional 
+chemotherapy.
+METHODS: We reviewed all patients with advanced (stage III or IV) pancreatic 
+adenocarcinoma admitted to an ICU in a dedicated Brazilian cancer centre from 
+2009 to 2018 due to medical reasons. We fitted multivariate regression models to 
+identify predictors of 30-day survival and additional systemic chemotherapy.
+RESULTS: The study population consisted of 171 patients. Ninety-four patients 
+(55.0%) had Eastern Cooperative Oncology Group (ECOG) performance status 2-4 and 
+146 (85.4%) had metastatic disease. Most patients (N = 75; 43.9%) were admitted 
+to the ICU during first-line treatment. Median overall survival was 32 days (95% 
+confidence interval (95% CI): 20-49). Survival rate at 30 days was 50.6%. ECOG 
+performance status 2-4 was the only variable associated with lower probability 
+of survival at 30 days in multivariate analysis (odds ratio: 0.28; 95% CI: 
+0.14-0.54; p < 0.001). Overall, 58 patients (33.9%) received additional 
+chemotherapy and among all patients, 13.5% experienced clinical benefit from 
+this treatment.
+CONCLUSION: Patients with advanced pancreatic cancer admitted to the ICU for 
+medical reasons have a dismal prognosis. Early palliative care and refined tools 
+to establish those who would benefit from an ICU trial could help improve 
+patients' care.
+
+© the authors; licensee ecancermedicalscience.
+
+DOI: 10.3332/ecancer.2022.1475
+PMCID: PMC9934886
+PMID: 36819828
+
+Conflict of interest statement: None.

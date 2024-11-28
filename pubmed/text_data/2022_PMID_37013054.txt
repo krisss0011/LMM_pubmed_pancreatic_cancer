@@ -1,0 +1,61 @@
+1. Genes Dis. 2022 Apr 13;10(1):267-283. doi: 10.1016/j.gendis.2022.04.001. 
+eCollection 2023 Jan.
+
+Inhibition of PRMT5 by market drugs as a novel cancer therapeutic avenue.
+
+Prabhu L(1), Martin M(1), Chen L(2)(3), Demir Ö(4), Jin J(1), Huang X(5), 
+Motolani A(1), Sun M(1), Jiang G(6), Nakshatri H(7), Fishel ML(8)(9), Sun S(1), 
+Safa A(1), Amaro RE(4), Kelley MR(8)(9), Liu Y(6), Zhang ZY(2)(3), Lu 
+T(1)(3)(6)(9).
+
+Author information:
+(1)Department of Pharmacology and Toxicology, Indiana University School of 
+Medicine, Indianapolis, IN 46202, USA.
+(2)Chemical Genomics Core Facility, Indiana University School of Medicine, 
+Indiana University School of Medicine, Indianapolis, IN 46202, USA.
+(3)Department of Biochemistry and Molecular Biology, Indiana University School 
+of Medicine, Indiana University School of Medicine, Indianapolis, IN 46202, USA.
+(4)Department of Chemistry and Biochemistry, University of California, San 
+Diego, CA 92093, USA.
+(5)Department of Radiation Oncology, Indiana University School of Medicine, 
+Indianapolis, IN 46202, USA.
+(6)Department of Medical and Molecular Genetics, Indiana University School of 
+Medicine, Indianapolis, IN 46202, USA.
+(7)Department of Medicine, Indiana University School of Medicine, Indianapolis, 
+IN 46202, USA.
+(8)Department of Pediatrics, Herman B Wells Center for Pediatric Research, 
+Indianapolis, IN 46202, USA.
+(9)Indiana University Simon Comprehensive Cancer Center, Indiana University 
+School of Medicine, Indianapolis, IN 46202, USA.
+
+Market drugs, such as Food and Drug Administration (FDA) or European Medicines 
+Agency (EMA)-approved drugs for specific indications provide opportunities for 
+repurposing for newer therapeutics. This potentially saves resources invested in 
+clinical trials that verify drug safety and tolerance in humans prior to 
+alternative indication approval. Protein arginine methyltransferase 5 (PRMT5) 
+overexpression has been linked to promoting the tumor phenotype in several 
+cancers, including pancreatic ductal adenocarcinoma (PDAC), colorectal cancer 
+(CRC), and breast cancer (BC), making PRMT5 an important target for cancer 
+therapy. Previously, we showed that PRMT5-mediated methylation of the nuclear 
+factor (NF)-κB, partially contributes to its constitutive activation observed in 
+cancers. In this study, we utilized an AlphaLISA-based high-throughput screening 
+method adapted in our lab, and identified one FDA-approved drug, Candesartan 
+cilexetil (Can, used in hypertension treatment) and one EMA-approved drug, 
+Cloperastine hydrochloride (Clo, used in cough treatment) that had significant 
+PRMT5-inhibitory activity, and their anti-tumor properties were validated using 
+cancer phenotypic assays in vitro. Furthermore, PRMT5 selective inhibition of 
+methyltransferase activity was confirmed by reduction of both NF-κB methylation 
+and its subsequent activation upon drug treatment. Using in silico prediction, 
+we identified critical residues on PRMT5 targeted by these drugs that may 
+interfere with its enzymatic activity. Finally, Clo and Can treatment have 
+exhibited marked reduction in tumor growth in vivo. Overall, we provide basis 
+for pursuing repurposing Clo and Can as anti-PRMT5 cancer therapies. Our study 
+offers potential safe and fast repurposing of previously unknown PRMT5 
+inhibitors into clinical practice.
+
+© 2022 The Authors. Publishing services by Elsevier B.V. on behalf of KeAi 
+Communications Co., Ltd.
+
+DOI: 10.1016/j.gendis.2022.04.001
+PMCID: PMC10066340
+PMID: 37013054

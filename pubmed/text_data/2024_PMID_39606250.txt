@@ -1,0 +1,52 @@
+1. Front Immunol. 2024 Nov 7;15:1462221. doi: 10.3389/fimmu.2024.1462221. 
+eCollection 2024.
+
+Invention and characterization of a systemically administered, attenuated and 
+killed bacteria-based multiple immune receptor agonist for anti-tumor 
+immunotherapy.
+
+Newman MJ(1).
+
+Author information:
+(1)Indaptus Therapeutics, Inc., New York, NY, United States.
+
+Activation of immune receptors, such as Toll-like (TLR), NOD-like (NLR) and 
+Stimulator of Interferon Genes (STING) is critical for efficient innate and 
+adaptive immunity. Gram-negative bacteria (G-NB) contain multiple TLR, NOD and 
+STING agonists. Potential utility of G-NB for cancer immunotherapy is supported 
+by observations of tumor regression in the setting of infection and Coley's 
+Toxins. Coley reported that intravenous (i.v.) administration was likely most 
+effective but produced uncontrollable toxicity. The discovery of TLRs and their 
+agonists, particularly the potent TLR4 agonist lipopolysaccharide 
+(LPS)-endotoxin, comprising ~75% of the outer membrane of G-NB, suggests that 
+LPS may be both a critical active ingredient and responsible for dose-limiting 
+i.v. toxicity of G-NB. This communication reports the production of killed, 
+stabilized, intact bacteria products from non-pathogenic G-NB with ~96% 
+reduction of LPS-endotoxin activity. One resulting product candidate, Decoy10, 
+was resistant to standard methods of cell disruption and contained TLR2,4,8,9, 
+NOD2 and STING agonist activity. Decoy10 also exhibited reduced i.v. toxicity in 
+mice and rabbits, and a largely uncompromised ability to induce cytokine and 
+chemokine secretion by human immune cells in vitro, all relative to unprocessed, 
+parental bacterial cells. Decoy10 and a closely related product, Decoy20, 
+produced single agent anti-tumor activity or combination-mediated durable 
+regression of established subcutaneous, metastatic or orthotopic colorectal, 
+hepatocellular (HCC), pancreatic, and non-Hodgkin's lymphoma (NHL) tumors in 
+mice, with induction of both innate and adaptive immunological memory (syngeneic 
+and human tumor xenograft models). Decoy bacteria combination-mediated 
+regressions were observed with a low-dose, oral non-steroidal anti-inflammatory 
+drug (NSAID), anti-PD-1 checkpoint therapy, low-dose cyclophosphamide (LDC), 
+and/or a targeted antibody (rituximab). Efficient tumor eradication was 
+associated with plasma expression of 15-23 cytokines and chemokines, broad 
+induction of cytokine, chemokine, innate and adaptive immune pathway genes in 
+tumors, cold to hot tumor inflammation signature transition, and required NK, 
+CD4+ and CD8+ T cells, collectively demonstrating a role for both innate and 
+adaptive immune activation in the anti-tumor immune response.
+
+Copyright © 2024 Newman.
+
+DOI: 10.3389/fimmu.2024.1462221
+PMCID: PMC11599860
+PMID: 39606250 [Indexed for MEDLINE]
+
+Conflict of interest statement: MN is an employee, director and stockholder of 
+Indaptus Therapeutics, Inc.

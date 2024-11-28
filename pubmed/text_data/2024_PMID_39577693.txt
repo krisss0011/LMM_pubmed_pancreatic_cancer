@@ -1,0 +1,74 @@
+1. Clin Nutr ESPEN. 2024 Nov 20:S2405-4577(24)01513-4. doi: 
+10.1016/j.clnesp.2024.11.004. Online ahead of print.
+
+Skeletal muscle is independently associated with grade 3-4 toxicity in advanced 
+stage pancreatic ductal adenocarcinoma patients receiving chemotherapy.
+
+Aberle MR(1), Coolsen MME(2), Wenmaekers G(3), Volmer L(4), Brecheisen R(5), van 
+Dijk D(1), Wee L(6), Van Dam RM(2), de Vos-Geelen J(7), Rensen SS(8), Damink 
+SWMO(9).
+
+Author information:
+(1)Department of Surgery, NUTRIM School of Nutrition and Translational Research 
+in Metabolism, Maastricht University, Maastricht, The Netherlands; Department of 
+Surgery, Maastricht University Medical Center+, Maastricht, The Netherlands.
+(2)Department of Surgery, Maastricht University Medical Center+, Maastricht, The 
+Netherlands; GROW school for oncology and reproduction, Maastricht University, 
+Maastricht, The Netherlands; Department of General, Visceral- and 
+Transplantation Surgery, RWTH Aachen University, Germany.
+(3)Department of Surgery, Maastricht University Medical Center+, Maastricht, The 
+Netherlands.
+(4)GROW school for oncology and reproduction, Maastricht University, Maastricht, 
+The Netherlands.
+(5)Department of Surgery, NUTRIM School of Nutrition and Translational Research 
+in Metabolism, Maastricht University, Maastricht, The Netherlands.
+(6)GROW school for oncology and reproduction, Maastricht University, Maastricht, 
+The Netherlands; Department of Radiotherapy (MAASTRO), Maastricht University 
+Medical Centre+, Maastricht, The Netherlands; Clinical Data Science, Maastricht 
+University, Maastricht, The Netherlands.
+(7)GROW school for oncology and reproduction, Maastricht University, Maastricht, 
+The Netherlands; Department of Medical Oncology, Maastricht University Medical 
+Center+, Maastricht, The Netherlands.
+(8)Department of Surgery, NUTRIM School of Nutrition and Translational Research 
+in Metabolism, Maastricht University, Maastricht, The Netherlands. Electronic 
+address: s.rensen@maastrichtuniversity.nl.
+(9)Department of Surgery, NUTRIM School of Nutrition and Translational Research 
+in Metabolism, Maastricht University, Maastricht, The Netherlands; Department of 
+Surgery, Maastricht University Medical Center+, Maastricht, The Netherlands; 
+Department of General, Visceral- and Transplantation Surgery, RWTH Aachen 
+University, Germany.
+
+BACKGROUND: Patients with advanced-stage pancreatic ductal adenocarcinoma (PDAC) 
+are regularly treated with FOLFIRINOX, a chemotherapy regimen based on 
+5-fluorouracil, irinotecan and oxaliplatin, which is associated with high 
+toxicity. Dosing of FOLFIRINOX is based on body surface area, risking under- or 
+overdosing caused by altered pharmacokinetics due to interindividual differences 
+in body composition. This study aimed to investigate the relationship between 
+body composition and treatment toxicity in advanced stage PDAC patients treated 
+with FOLFIRINOX.
+METHODS: Data from patients treated at the Maastricht University Medical Centre+ 
+between 2012-2020 were collected retrospectively (n=65). Skeletal muscle-, 
+visceral adipose tissue, subcutaneous adipose tissue-, (SM-Index, VAT-Index, 
+SAT-Index resp.) and Skeletal Muscle Radiation Attenuation (SM-RA) were 
+calculated after segmentation of computed tomography (CT) images at the third 
+lumbar level using a validated deep learning method. Lean body mass (LBM) was 
+estimated using SM-Index. Toxicities were scored and grade 3-4 adverse events 
+were considered dose-limiting toxicities (DLTs).
+RESULTS: Sixty-seven DLTs were reported during the median follow-up of 51.4 
+(95%CI 39.2 - 63.7) weeks. Patients who experienced at least one DLT had 
+significantly higher dose intensity per LBM for all separate cytotoxics of 
+FOLFIRINOX. Independent prognostic factors for the number of DLTs per cycle 
+were: sarcopenia (β=0.292; 95%CI 0.013 - 0.065; p=0.013), SM-Index change (% per 
+30 days, β=-0.045; 95%CI -0.079 - -0.011; p=0.011), VAT-Index change (% per 30 
+days, β=-0.006; 95%CI -0.012 - 0.000; p=0.040) between diagnosis and the first 
+follow-up CT scan, and cumulative relative dose intensity >80% (β=-0.315; 95% CI 
+-0.543 - -0.087; p=0.008).
+CONCLUSION: Sarcopenia and early muscle and fat wasting during FOLFIRINOX 
+treatment were associated with treatment-related toxicity, warranting 
+exploration of body composition guided personalized dosing of chemotherapeutics 
+to limit DLTs.
+
+Copyright © 2024 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.clnesp.2024.11.004
+PMID: 39577693

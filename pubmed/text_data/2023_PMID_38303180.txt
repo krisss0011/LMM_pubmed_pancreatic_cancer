@@ -1,0 +1,32 @@
+1. Gan To Kagaku Ryoho. 2023 Dec;50(13):1706-1708.
+
+[Surgical Outcomes and Clinicopathological Analysis of Laparoscopic Distal 
+Pancreatectomy].
+
+[Article in Japanese]
+
+Nakadai E(1), Yanagisawa S, Kataoka M, Nishimura M, Kobayashi S, Okaniwa A, Suda 
+R, Ohno S, Teranaka R, Shindo H, Hirokawa T, Hioki S, Ando H, Kondo H, Kaiho T.
+
+Author information:
+(1)Dept. of Surgery, Kimitsu Chuo Hospital.
+
+SUBJECTS: We first reviewed surgical outcomes and pathological findings of 32 
+patients(laparoscopic group: LDP n=11, open group: ODP n=21)who underwent distal 
+pancreatectomy for pancreatic cancer from January 2018 to October 2022. Then we 
+reviewed long-term outcomes, and recurrence type for 20 patients(LDP: n=5, ODP: 
+n=15)from January 2018 to February 2021.
+RESULTS: LDP group had significantly longer operation time and less blood loss. 
+There was no difference in length of hospital stay, postoperative complications, 
+number of dissected lymph nodes, positive lymph node metastasis rate, and 
+adjuvant chemotherapy rate. Because of high rate of pancreatic stump closure by 
+hand sewing in ODP, postoperative pancreatic fistula rate was higher in ODP than 
+in LDP. The 2-year relapse-free survival rate was 60% in LDP, 33% in ODP, and 
+the 2-year overall survival rate was 60% in LDP, 71% in ODP, and there were no 
+significant differences. As for the type of recurrence, in LDP group, 2 cases of 
+distant metastases and no local recurrence was observed, and in ODP group, 6 
+cases each of local recurrences and distant metastases were observed.
+CONCLUSION: LDP was not inferior to ODP in short and long- term outcomes, 
+safety, curability, and local control ability.
+
+PMID: 38303180 [Indexed for MEDLINE]

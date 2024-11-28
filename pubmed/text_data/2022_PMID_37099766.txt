@@ -1,0 +1,38 @@
+1. Pancreas. 2022 Nov-Dec 01;51(10):1263-1276. doi: 10.1097/MPA.0000000000002163.
+
+Should Positive Cytology Revealed by Intraoperative Lavage Preclude Radical 
+Resection in Resectable Pancreatic Cancer?: A Systemic Review and Meta-analysis.
+
+Li BQ(1), Wang HY, Li L, Jiang B, Ma CL, Yuan CH, Xiu DR.
+
+Author information:
+(1)From the Department of General Surgery, Peking University Third Hospital, 
+Beijing, China.
+
+OBJECTIVES: The aims of this review were to determine whether positive 
+peritoneal lavage cytology (CY+) precludes radical resection in pancreatic 
+cancer and to propose prospections for future studies.
+METHODS: MEDLINE, Embase, and Cochrane Central were searched for related 
+articles. Dichotomous variables and survival outcomes were analyzed with the 
+estimation of odds ratio and hazards ratio (HR), respectively.
+RESULTS: A total of 4905 patients were included, of which 7.8% were CY+. 
+Positive peritoneal lavage cytology was correlated with poor overall survival 
+(univariate survival analysis [HR, 2.35; P < 0.00001]; multivariate analysis 
+[HR, 1.62; P < 0.00001]), poor recurrence-free survival (univariate survival 
+analysis [HR, 2.50; P < 0.00001]; multivariate analysis [HR, 1.84; P < 
+0.00001]), and higher initial peritoneal recurrence rate (odds ratio, 5.49; P < 
+0.00001).
+CONCLUSIONS: Although CY+ predicts poor prognosis and a higher risk of 
+peritoneal metastasis after curative resection, it is not sufficient to preclude 
+curative resection based on the current evidence, and high-quality trials should 
+be conducted to assess the prognostic impact of operation among resectable CY+ 
+patients. In addition, more sensitive and accurate methods to detect peritoneal 
+exfoliated tumor cells and more effective comprehensive treatment for resectable 
+CY+ pancreatic cancer patients are clearly warranted.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/MPA.0000000000002163
+PMID: 37099766 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

@@ -1,0 +1,50 @@
+1. Pancreas. 2022 Oct 1;51(9):1171-1178. doi: 10.1097/MPA.0000000000002171.
+
+Analysis of Clinical Characteristics and Survival in Patients With Functional 
+Neuroendocrine Tumors of Gastrointestinal Origin.
+
+Kaur A(1), Wang S(2), Herbert J(2), Steinberg L(3), Kumar A(1).
+
+Author information:
+(1)From the Department of Hematology-Oncology, Albert Einstein College of 
+Medicine-Jacobi Medical Center.
+(2)Department of Internal Medicine, Albert Einstein College of Medicine-Jacobi 
+Medical Center.
+(3)Department of Hematology-Oncology, Jacobi Medical Center, Bronx, NY.
+
+OBJECTIVES: Functional neuroendocrine tumors (FNETs) are characterized by excess 
+secretion of disease-specific hormones. In this study, we attempted to define 
+survival trends in patients with some of these uncommon tumors.
+METHODS: Using the Surveillance, Epidemiology, and End Results database, 529 
+patients with FNETs (gastrinoma, insulinoma, glucagonoma, VIPoma, and 
+somatostatinoma) were identified. We analyzed patient and tumor characteristics, 
+overall survival, and cancer-specific survival.
+RESULTS: Functional neuroendocrine tumors were found to be more predominant in 
+White patients older than 50 years. Most common FNETs were gastrinoma (56.3%) 
+and insulinoma (23.8%). Most FNETs were found in the pancreas, with the second 
+most common location being the small bowel. Surgery was the primary modality of 
+treatment, used in 55.8% of the cases. Median overall survival was 9.8 years 
+(95% confidence interval [CI], 7.9-11.8) with a median cancer-specific survival 
+of 18.5 years (95% CI, 12.8-24.2). In multivariate analysis, age >50 years 
+(hazard ratio [HR], 2.7; 95% CI, 2.02-3.64), no surgical resection (HR, 1.88; 
+95% CI, 1.43-2.46), metastasis (HR, 3.0; 95% CI, 2.0-4.5), and poor 
+differentiation were associated with poor survival. Site and histology did not 
+have a significant impact on survival (P = 0.82 and 0.57 respectively).
+CONCLUSIONS: Our study highlights the most important prognostic factors for 
+gastrointestinal FNETs.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/MPA.0000000000002171
+PMID: 37078942 [Indexed for MEDLINE]
+
+Conflict of interest statement: Statement of competing interests: Disclosures 
+for author Abhishek Kumar: Stock investment in ABBV, ACADia Pharma, ADMA, 
+Biologics, AGNEUS, AIKIDO, AMGEN, AVEO Pharma, Astrazeneca, Biotelemetry Inc, 
+Bristol Meyer, Bio Path Holdings, BeyondSpring Inc, Cara Therapeutics, ChemBio 
+Diagnostics, Contrafect Corp, Cardiff Oncology, CRISPR Therapeutics, CVS Health, 
+Precision Biosciences, EDITAS Medicine Inc, Five Prime Therapeutics, Globus 
+Medicine Inc, IDEXX Laboratories, Iovance Biosciences, Johnson & Johnson, Eli 
+Lilly, Northweast Bio, PFIZER, POSEIDA Therapeutics, PTC Therapeutics, Spectrum 
+Pharmaceuticals Inc, Viking Therapeutics, and Vertex Pharmaceuticals. The other 
+authors declare no conflict of interest.

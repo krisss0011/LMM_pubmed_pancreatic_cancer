@@ -1,0 +1,27 @@
+1. Gan To Kagaku Ryoho. 2023 Dec;50(13):1537-1539.
+
+[A Case of Early Pancreatic Cancer Diagnosed from the Finding of Partial 
+Pancreatic Parenchymal Atrophy].
+
+[Article in Japanese]
+
+Yu X(1), Matsukuma S, Senyo M, Sato T, Nawata R, Yoshimine S, Tokunou K, Kawaoka 
+T, Fujita Y, Akiyama N, Yokoyama Y, Yamashita Y, Yamamoto S.
+
+Author information:
+(1)Dept. of Surgery, JCHO Tokuyama Central Hospital.
+
+A man in his 80s was referred to our hospital for further examination of partial 
+pancreatic atrophy that was detected incidentally. Various imaging examinations 
+including CT, MRI, and EUS did not reveal any obvious abnormal findings other 
+than the partial pancreatic atrophy. However, cytological examination of serial 
+pancreatic juice aspiration showed atypical cells. The presence of pancreatic 
+intraepithelial carcinoma in the atrophy site was considered, and the patient 
+underwent laparoscopic distal pancreatectomy. Pathological examination of the 
+excised specimen confirmed the presence of high-grade pancreatic intraepithelial 
+neoplasia consistent with the atrophy site, and the patient was diagnosed with 
+pTisN0M0, Stage 0 pancreatic cancer. For the detection of early pancreatic 
+cancer, it is important to be aware of partial pancreatic atrophy on imaging 
+studies.
+
+PMID: 38303333 [Indexed for MEDLINE]

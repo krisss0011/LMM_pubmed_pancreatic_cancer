@@ -1,0 +1,88 @@
+1. Hepatobiliary Surg Nutr. 2023 Apr 10;12(2):192-204. doi: 10.21037/hbsn-22-33. 
+Epub 2022 Sep 22.
+
+Prognostication algorithm for non-cirrhotic non-B non-C hepatocellular 
+carcinoma-a multicenter study under the aegis of the French Association of 
+Hepato-Biliary Surgery and liver Transplantation.
+
+Maulat C(1), Truant S(2)(3), Hobeika C(4), Barbier L(5), Herrero A(6), Doussot 
+A(7), Gagnière J(8)(9), Girard É(10), Tranchart H(11), Regimbeau JM(12), Fuks 
+D(13), Cauchy F(4), Prodeau M(2), Notte A(7), Toubert C(6), Salamé E(5), El 
+Amrani M(2), Andrieu S(14), Muscari F(1), Shourick J(14), Suc B(1).
+
+Author information:
+(1)Department of Digestive Surgery, Hepatobiliary and Pancreatic Surgery and 
+Liver Transplantation Unit, Toulouse University Hospital, Toulouse, France.
+(2)Department of Digestive Surgery and Transplantation, Claude-Huriez, Hospital, 
+CHRU Lille, Lille, France.
+(3)CANTHER laboratory "Cancer Heterogeneity, Plasticity and Resistance to 
+Therapies", Inserm UMR-S1277 Teams "Mucins, Cancer and Drug Resistance", Lille, 
+France.
+(4)Department of Hepato-bilio-pancreatic Surgery and Liver Transplantation, 
+Beaujon Hospital, APHP, Clichy, France.
+(5)Department of Digestive Surgery and Liver Transplantation, Trousseau 
+Hospital, Tours University Hospital, Tours, France.
+(6)Department of Digestive Surgery and Liver Transplantation, Saint Eloi 
+Hospital, Montpellier University Hospital, Montpellier, France.
+(7)Department of Digestive Surgery and Liver Transplantation, Besançon 
+University Hospital, Besançon, France.
+(8)Department of Digestive and Hepatobiliary Surgery, University Hospital of 
+Clermont-Ferrand, Clermont-Ferrand, France.
+(9)U1071 Inserm/Université Clermont-Auvergne, Clermont-Ferrand, France.
+(10)Department of Digestive Surgery and Emergency, CHU Grenoble-Alpes, Grenoble, 
+France.
+(11)Department of Mini-invasive Surgery, Antoine Béclère Hospital, APHP, 
+Clamart, France.
+(12)Department of Digestive Surgery, Amiens Picardie University Hospital and 
+Picardie Jules Verne University, Amiens, France.
+(13)Department of Digestive Surgery, Institut Mutualiste Montsouris, Paris, 
+France.
+(14)Department of Epidemiology, Toulouse University Hospital, Toulouse, France.
+
+Comment in
+    Hepatobiliary Surg Nutr. 2024 Jun 1;13(3):554-556. doi: 
+10.21037/hbsn-24-132.
+    Hepatobiliary Surg Nutr. 2024 Aug 1;13(4):736-738. doi: 
+10.21037/hbsn-24-155.
+
+BACKGROUND: Liver resection and local ablation are the only curative treatment 
+for non-cirrhotic hepatocellular carcinoma (HCC). Few data exist concerning the 
+prognosis of patients resected for non-cirrhotic HCC. The objectives of this 
+study were to determine the prognostic factors of recurrence-free survival (RFS) 
+and overall survival (OS) and to develop a prognostication algorithm for 
+non-cirrhotic HCC.
+METHODS: French multicenter retrospective study including HCC patients with 
+non-cirrhotic liver without underlying viral hepatitis: F0, F1 or F2 fibrosis.
+RESULTS: A total of 467 patients were included in 11 centers from 2010 to 2018. 
+Non-cirrhotic liver had a fibrosis score of F0 (n=237, 50.7%), F1 (n=127, 27.2%) 
+or F2 (n=103, 22.1%). OS and RFS at 5 years were 59.2% and 34.5%, respectively. 
+In multivariate analysis, microvascular invasion and HCC differentiation were 
+prognostic factors of OS and RFS and the number and size were prognostic factors 
+of RFS (P<0.005). Stratification based on RFS provided an algorithm based on 
+size (P=0.013) and number (P<0.001): 2 HCC with the largest nodule ≤10 cm 
+(n=271, Group 1); 2 HCC with a nodule >10 cm (n=176, Group 2); >2 HCC regardless 
+of size (n=20, Group 3). The 5-year RFS rates were 52.7% (Group 1), 30.1% (Group 
+2) and 5% (Group 3).
+CONCLUSIONS: We developed a prognostication algorithm based on the number (≤ or 
+>2) and size (≤ or >10 cm), which could be used as a treatment decision support 
+concerning the need for perioperative therapy. In case of bifocal HCC, surgery 
+should not be a contraindication.
+
+2023 Hepatobiliary Surgery and Nutrition. All rights reserved.
+
+DOI: 10.21037/hbsn-22-33
+PMCID: PMC10129883
+PMID: 37124677
+
+Conflict of interest statement: Conflicts of Interest: All authors have 
+completed the ICMJE uniform disclosure form (available at 
+https://hbsn.amegroups.com/article/view/10.21037/hbsn-22-33/coif). LB receives 
+grant to the institution from the national transplant agency (agence de la 
+biomédecine) for a separate project, and payment for legal expertise in 
+liability cases. LB participates on national RCT on antibiotics in appendicitis 
+(ABAP study) without payment. LB is a past board member of the French 
+association for the study of liver diseases (AFEF), past board member of the 
+French Surgical Association (association francaise de chirurgie), and a past 
+board member of the French Association of HPB Surgery and Transplantation 
+(ACHBT) with no payment. The other authors have no conflicts of interest to 
+declare.

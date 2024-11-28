@@ -1,0 +1,59 @@
+1. Front Endocrinol (Lausanne). 2024 Jan 25;14:1226547. doi: 
+10.3389/fendo.2023.1226547. eCollection 2023.
+
+CHST12: a potential prognostic biomarker related to the immunotherapy response 
+in pancreatic adenocarcinoma.
+
+Liu K(1), Li L(1), Han G(1).
+
+Author information:
+(1)Department of Anesthesiology, Shengjing Hospital of China Medical University, 
+Shenyang, Liaoning, China.
+
+BACKGROUND: Pancreatic adenocarcinoma (PAAD) is characterized by lower 
+immunogenicity with a poor response rate to immune checkpoint inhibitors (ICIs) 
+and exhibits the poorest prognosis of all solid tumors, which results in the 
+highest tumor-related mortality among malignancies. However, the underlying 
+mechanisms are poorly understood. In addition, diverse carbohydrate 
+sulfotransferases (CHSTs), which are involved in the sulfation process of these 
+structures, play an important role in the metastatic spread of tumor cells. 
+Aberrant glycosylation is beginning to emerge as an influencing factor in tumor 
+immunity and immunotherapy. Therefore, it might serve as a biomarker of the 
+immunotherapeutic response in tumors. The purpose of the study was to evaluate 
+the role of CHST12 in PAAD prognosis and its relevance to the immunotherapeutic 
+response.
+METHODS: A comprehensive investigation of the interactions between CHST12 
+expression and the immune microenvironment as well as the clinical significance 
+of CHST12 in PAAD was conducted. Data derived from the Cancer Genome Atlas 
+(TCGA) database were analyzed using univariate and multivariate approaches, the 
+Tumor Immune Estimation Resource (TIMER), and Tumor Immune Dysfunction and 
+Exclusion (TIDE) algorithms. Publicly available datasets were analyzed in this 
+study. These data can be found on websites such as http://www.xiantao.love and 
+https://www.proteinatlas.org. An assessment of the predictive value of CHST12 
+for PAAD prognosis was conducted using univariate and multivariate Cox 
+regression analysis, Kaplan-Meier analysis, and nomograms. The TIMER algorithm 
+calculates the proportions of six types of immune cells. The TIDE algorithm was 
+used to indicate the characteristics of tumors that respond to ICI therapy.
+RESULTS: The mRNA and protein levels of CHST12 showed the opposite trend. CHST12 
+mRNA expression was significantly upregulated in PAAD. According to Cox 
+regression analysis, CHST12 RNA expression acts as a protective factor for 
+overall survival [hazard ratio (HR), 0.617, P < 0.04]. Functional annotation 
+indicated that CHST12-associated differentially expressed genes (DEGs) were 
+related to the signaling activity of receptor tyrosine kinases and the 
+regulation of ubiquitin-protein transferase. These are usually involved in tumor 
+development and may be related to the treatment responses of immune checkpoint 
+inhibitors (ICIs). There was significantly higher CHST12 mRNA expression in PAAD 
+samples than in non-malignant samples.
+CONCLUSIONS: In PAAD, elevated CHST12 mRNA expression might regulate immune cell 
+infiltration into the tumor microenvironment (TME) and may predict clinical 
+outcomes.
+
+Copyright © 2024 Liu, Li and Han.
+
+DOI: 10.3389/fendo.2023.1226547
+PMCID: PMC10850383
+PMID: 38333724 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

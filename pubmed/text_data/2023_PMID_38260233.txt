@@ -1,0 +1,50 @@
+1. Adv Radiat Oncol. 2023 Jul 9;9(1):101312. doi: 10.1016/j.adro.2023.101312. 
+eCollection 2024 Jan.
+
+Safety and Efficacy of Neoadjuvant SABR in Pancreatic Cancer: Effect of Magnetic 
+Resonance Imaging-Guided Respiratory-Gated Adaptive Radiation Therapy.
+
+Song JY(1), Kim YT(2), Ryu JK(2), Lee SH(2), Paik WH(2), Cho IR(2), Kim H(3), 
+Kwon W(3), Jang JY(3), Chie EK(1), Kang HC(1).
+
+Author information:
+(1)Department of Radiation Oncology, Seoul National University Hospital, Seoul 
+National University College of Medicine, Seoul, Republic of Korea.
+(2)Department of Internal Medicine and Liver Research Institute, Seoul National 
+University Hospital, Seoul National University College of Medicine, Seoul, 
+Republic of Korea.
+(3)Department of Surgery, Seoul National University Hospital, Seoul National 
+University College of Medicine, Seoul, Republic of Korea.
+
+PURPOSE: We aimed to evaluate the safety and efficacy of neoadjuvant SABR using 
+magnetic resonance imaging-guided respiratory-gated adaptive radiation therapy 
+(MRgRg-ART) in pancreatic cancer.
+METHODS AND MATERIALS: We performed a single-institution retrospective review in 
+patients with pancreatic cancer who underwent neoadjuvant SABR followed by 
+surgical resection. After neoadjuvant chemotherapy, those considered resectable 
+by the multidisciplinary team received SABR over 5 consecutive days using 
+MRgRg-ART. Factors associated with severe postoperative complications 
+(Clavien-Dindo grade ≥III) and prognostic factors for overall survival were 
+analyzed.
+RESULTS: Sixty-two patients were included in the analysis, with a median 
+follow-up of 10.3 months. The median prescribed dose to the planning target 
+volume was 50 Gy. Fifty-two (85.3%) patients underwent R0 resection, and 11 
+(18.0%) experienced severe postoperative complications. No factors were 
+associated with the incidence of severe postoperative complications. There were 
+3 cases of locoregional recurrence, resulting in a 12-month local control rate 
+of 93.1%. Elevated postoperative carbohydrate antigen 19-9 was significantly 
+associated with poor overall survival in the multivariate analysis (P = .037).
+CONCLUSIONS: Neoadjuvant SABR with 50 Gy using MRgRg-ART delivered to pancreatic 
+cancer resulted in a notable survival outcome with acceptable toxicities. 
+Further studies are warranted to investigate the long-term effects of this 
+method.
+
+© 2023 The Authors.
+
+DOI: 10.1016/j.adro.2023.101312
+PMCID: PMC10801658
+PMID: 38260233
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.

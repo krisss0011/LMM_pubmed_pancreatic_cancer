@@ -1,0 +1,48 @@
+1. Oncol Res. 2023 Feb 3;30(5):211-219. doi: 10.32604/or.2022.026913. eCollection
+ 2022.
+
+Histone deacetylase inhibitors as a novel therapeutic approach for 
+pheochromocytomas and paragangliomas.
+
+Manta A(1), Kazanas S(2), Karamaroudis S(3), Gogas H(2), Ziogas DC(2).
+
+Author information:
+(1)Endocrine Unit, Second Department of Internal Medicine Propaedeutic & 
+Research Institute, Medical School, National and Kapodistrian University of 
+Athens, Attikon University Hospital, Athens, 12461, Greece.
+(2)First Department of Internal Medicine, Medical School, National and 
+Kapodistrian University of Athens, Laikon General Hospital, Athens, 11527, 
+Greece.
+(3)Department of Obstetrics & Gynecology, General Hospital of Elefsina 
+Thriassio, Elefsina, 19600, Greece.
+
+Epigenetic mechanisms, such as DNA methylation and histone modifications (e.g., 
+acetylation and deacetylation), are strongly implicated in the carcinogenesis of 
+various malignancies. During transcription, the expression and functionality of 
+coding gene products are altered following the histone acetylation and 
+deacetylation. These processes are regulated by histone acetyltransferases 
+(HATs) and histone deacetylases (HDACs), respectively. HDAC inhibitors (HDACis) 
+have been developed as promising therapeutic agents, to limit exposure to 
+traditional and toxic chemotherapies and offer more alternatives for some 
+specific malignant diseases with limited options. Mechanistically, these agents 
+affect many intracellular pathways, including cell cycle arrest, apoptosis and 
+differentiation, and their mechanism of action mainly depends on the type of 
+cancer. Currently, five HDACis have been approved for the treatment of several 
+hematological malignancies (e.g., T-cell lymphoma subtypes and multiple 
+myeloma); while, many of them are tested for further therapeutic indications in 
+solid tumors (e.g., colorectal, thyroid, breast, lung and pancreatic cancer). 
+Herein, we review the literature and gather all available evidence, from in 
+vitro and in vivo data to clinical trial results, that recognizes the antitumor 
+activity of HDACis on pheochromocytomas and paragangliomas; and supports their 
+clinical implementation in the treatment of these rare neuroendocrine tumors at 
+metastatic setting.
+
+© 2022 Manta et al.
+
+DOI: 10.32604/or.2022.026913
+PMCID: PMC10207982
+PMID: 37305348 [Indexed for MEDLINE]
+
+Conflict of interest statement: Helen Gogas has received grants and personal 
+fees by Roche, BMS, MSD, Novartis and personal fees by Amgen and Pierre Fabre, 
+outside the submitted work. All other authors declare no conflict of interest.

@@ -1,0 +1,112 @@
+1. Cancer Res Commun. 2022 Nov 2;2(11):1326-1333. doi: 
+10.1158/2767-9764.CRC-22-0072. eCollection 2022 Nov.
+
+A Preclinical and Phase Ib Study of Palbociclib plus Nab-Paclitaxel in Patients 
+with Metastatic Adenocarcinoma of the Pancreas.
+
+Hidalgo M(1), Garcia-Carbonero R(2), Lim KH(3), Messersmith WA(4), 
+Garrido-Laguna I(5), Borazanci E(6), Lowy AM(7), Medina Rodriguez L(8), Laheru 
+D(9), Salvador-Barbero B(10), Malumbres M(11), Shields DJ(12), Grossman JE(13), 
+Huang X(14), Tammaro M(14), Martini JF(14), Yu Y(14), Kern K(14), Macarulla 
+T(15).
+
+Author information:
+(1)Hematology and Medical Oncology, Weill Cornell Medicine, New York, New York.
+(2)Oncology Department, Hospital Universitario 12 de Octubre, Imas12, UCM, CNIO, 
+CIBERONC, Madrid, Spain.
+(3)Department of Medicine, Division of Oncology, Washington University School of 
+Medicine, St. Louis, Missouri.
+(4)School of Medicine, University of Colorado Cancer Center, Aurora, Colorado.
+(5)Department of Oncology, Huntsman Cancer Institute, University of Utah, Salt 
+Lake City, Utah.
+(6)HonorHealth/TGen, Scottsdale, Arizona.
+(7)Department of Surgery, UC San Diego Moores Cancer Center, San Diego, 
+California.
+(8)Hospital Universitario de Fuenlabrada, Fuenlabrada, Madrid, Spain.
+(9)Department of Oncology, The Sidney Kimmel Comprehensive Cancer Center at 
+Johns Hopkins, Baltimore, Maryland.
+(10)School of Biosciences, European Cancer Stem Cell Research Institute, Cardiff 
+University, Cardiff, United Kingdom.
+(11)Cell Division and Cancer Group, Spanish National Cancer Research Centre 
+(CNIO), Madrid, Spain.
+(12)Centers for Therapeutic Innovation, Pfizer Inc, New York, New York.
+(13)Department of Medicine, Beth Israel Deaconess Medical Center, Harvard 
+Medical School, Boston, Massachusetts.
+(14)Pfizer Oncology, San Diego, California.
+(15)Gastrointestinal Cancer Unit, Vall d´Hebrón University Hospital and Vall 
+d´Hebrón Institute of Oncology (VHIO), IOB Quirón, Barcelona, Spain.
+
+PURPOSE: To assess the preclinical efficacy, clinical safety and efficacy, and 
+MTD of palbociclib plus nab-paclitaxel in patients with advanced pancreatic 
+ductal adenocarcinoma (PDAC).
+EXPERIMENTAL DESIGN: Preclinical activity was tested in patient-derived 
+xenograft (PDX) models of PDAC. In the open-label, phase I clinical study, the 
+dose-escalation cohort received oral palbociclib initially at 75 mg/day (range, 
+50‒125 mg/day; modified 3+3 design; 3/1 schedule); intravenous nab-paclitaxel 
+was administered weekly for 3 weeks/28-day cycle at 100‒125 mg/m2. The modified 
+dose-regimen cohorts received palbociclib 75 mg/day (3/1 schedule or 
+continuously) plus nab-paclitaxel (biweekly 125 or 100 mg/m2, respectively). The 
+prespecified efficacy threshold was 12-month survival probability of ≥65% at the 
+MTD.
+RESULTS: Palbociclib plus nab-paclitaxel was more effective than gemcitabine 
+plus nab-paclitaxel in three of four PDX models tested; the combination was not 
+inferior to paclitaxel plus gemcitabine. In the clinical trial, 76 patients (80% 
+received prior treatment for advanced disease) were enrolled. Four dose-limiting 
+toxicities were observed [mucositis (n = 1), neutropenia (n = 2), febrile 
+neutropenia (n = 1)]. The MTD was palbociclib 100 mg for 21 of every 28 days and 
+nab-paclitaxel 125 mg/m2 weekly for 3 weeks in a 28-day cycle. Among all 
+patients, the most common all-causality any-grade adverse events were 
+neutropenia (76.3%), asthenia/fatigue (52.6%), nausea (42.1%), and anemia 
+(40.8%). At the MTD (n = 27), the 12-month survival probability was 50% (95% 
+confidence interval, 29.9-67.2).
+CONCLUSIONS: This study showed the tolerability and antitumor activity of 
+palbociclib plus nab-paclitaxel treatment in patients with PDAC; however, the 
+prespecified efficacy threshold was not met.
+TRIAL REGISTRATION: Pfizer Inc (NCT02501902).
+SIGNIFICANCE: In this article, the combination of palbociclib, a CDK4/6 
+inhibitor, and nab-paclitaxel in advanced pancreatic cancer evaluates an 
+important drug combination using translational science. In addition, the work 
+presented combines preclinical and clinical data along with pharmacokinetic and 
+pharmacodynamic assessments to find alternative treatments for this patient 
+population.
+
+© 2022 The Authors; Published by the American Association for Cancer Research.
+
+DOI: 10.1158/2767-9764.CRC-22-0072
+PMCID: PMC10035387
+PMID: 36970055 [Indexed for MEDLINE]
+
+Conflict of interest statement: M. Hidalgo reports grants from Pfizer during the 
+conduct of the study; personal fees and other from BMS, InxMed, Champions; 
+personal fees from MinKi, Velavigo, Oncomatrix; other from Nelum outside the 
+submitted work; and M. Hidalgo is an independant director in BMS. R. 
+Garcia-Carbonero reports personal fees from AAA, Advanz Pharma, Amgen, Bayer, 
+BMS, HMP, Ipsen, Merck, Midatech, MSD, Novartis, Pharma Mar, Pierre Fabre, 
+Servier and grants from BMS, MSD, Pfizer outside the submitted work. W.A. 
+Messersmith reports other from Pfizer during the conduct of the study. I. 
+Garrido-Laguna reports personal fees from SOTIO, Kanaph, Jazz, OncXer; grants 
+from Novartis (to institution), Bayer (to institution), Bristol Myers-Squibb (to 
+institution), Pfizer (to institution), MedImmune (to institution), Lilly (to 
+institution), Incyte (to institution), GlaxoSmithKline (to institution), Tolero 
+Pharmaceuticals (to institution), BridgeBio Pharma (to institution), Jacobio (to 
+institution), Repare Therapeutics (to institution), and Sumitomo Dainippon 
+Pharma Oncology (to institution) outside the submitted work. E. Borazanci 
+reports other from Pfizer during the conduct of the study; other from BMS, 
+Minneamrita Therapeutics, Merck, Helix Biopharma, and Biontech outside the 
+submitted work; and reports consultancy with Vivacitus (self), TD2 (self), and 
+Nanology (self). M. Malumbres reports grants and personal fees from Pfizer and 
+grants from Eli Lilly outside the submitted work. D.J. Shields is an employee of 
+Pfizer Inc. and holds shares in the company. J.E. Grossman reports other from 
+Agenus outside the submitted work. X. Huang reports personal fees from Pfizer, 
+Inc outside the submitted work. J.-F. Martini reports personal fees from Pfizer 
+Inc and other from Pfizer Inc outside the submitted work. Y. Yu reports other 
+from Pfizer Inc. outside the submitted work. K. Kern reports other from Pfizer 
+Inc outside the submitted work. T. Macarulla reports personal fees from Ability 
+Pharmaceuticals SL, Amgen, Aptitude Health, Basilea Pharma, Baxter, BioLineRX 
+Ltd, Celgene, Eisai, Ellipses, Genzyme, Hirslanden/GITZ, Imedex, Ipsen 
+Bioscience, Inc, Janssen, Lilly, Marketing Farmacéutico & Investigación Clínica, 
+S.L, MDS, Medscape, Novocure, Paraxel, PPD Development, Polaris, QED 
+Therapeutics, Roche Farma, Scilink Comunicación Científica SC, Surface Oncology, 
+and Zymeworks; personal fees and other from AstraZeneca, Incyte, Sanofi-Aventis, 
+Servier outside the submitted work. No disclosures were reported by the other 
+authors.

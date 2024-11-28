@@ -1,0 +1,40 @@
+1. J Chemother. 2024 Apr;36(2):167-178. doi: 10.1080/1120009X.2023.2246785. Epub 
+2023 Aug 21.
+
+Comparative effectiveness of chemotherapy in different histological types of 
+pancreatic cancer: a PSM-based study using the SEER database.
+
+Luo C(1), Fan L(2), Lun W(1), Ma M(3), Liang L(3), Yu C(3).
+
+Author information:
+(1)Department of Gastroenterology, The Sixth Affiliated Hospital, School of 
+Medicine, South China University of Technology, Foshan, China.
+(2)Department of Gastroenterology, The Fifth Affiliated Hospital, Sun Yat-sen 
+University, Zhuhai, China.
+(3)Department of Gastroenterology, The Second School of Clinical Medicine, 
+Zhujiang Hospital, Southern Medical University, Guangzhou, China.
+
+This study aimed to compare the effectiveness of chemotherapy in different 
+histological types of pancreatic cancer using data collected from the 
+Surveillance, Epidemiology, and End Results (SEER) database. Patients who were 
+diagnosed with pancreatic cancer between 2004 and 2015 were selected from the 
+SEER database. Propensity score matching (PSM) was employed to minimize the 
+selection bias. The Kaplan-Meier survival curves and the log-rank test were 
+utilized to compare the overall survival (OS) and cancer-specific survival (CSS) 
+among different groups. Of the 7,653 pancreatic cancer patients, both OS and CSS 
+were higher in the chemotherapy group than those in the non-chemotherapy group 
+(p < 0.001). After PSM, 2381 pairs were generated. The Kaplan-Meier survival 
+curved indicated that both OS and CSS for pancreatic ductal adenocarcinoma 
+(PDAC), pancreatic adenosquamous carcinoma (PASC), and pancreatic 
+mucin-producing adenocarcinoma (PMPAC) (p < 0.001) in the chemotherapy group 
+were superior to those in the non-chemotherapy group, while there was no 
+significant difference in pancreatic mucinous adenocarcinoma (PMAC) 
+(p = 0.2586). Compared with PASC and PMPAC, PDAC exhibited longer OS and CSS. 
+The results of statistical analysis showed that PASC tumors were mainly poorly 
+differentiated, and the majority of patients with PMPAC had distant metastasis. 
+Chemotherapy could prolong pancreatic cancer patients' survival, especially for 
+patients with advanced disease. PMPAC patients had a higher rate of metastasis, 
+accompanying with the worse survival.
+
+DOI: 10.1080/1120009X.2023.2246785
+PMID: 38481380 [Indexed for MEDLINE]

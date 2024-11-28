@@ -1,0 +1,46 @@
+1. Nanomedicine. 2024 Jan;55:102714. doi: 10.1016/j.nano.2023.102714. Epub 2023
+Oct  30.
+
+Exploiting the ferroaddiction of pancreatic cancer cells using Fe-doped 
+nanoparticles.
+
+Lomphithak T(1), Sae-Fung A(2), Sprio S(3), Tampieri A(3), Jitkaew S(4), Fadeel 
+B(5).
+
+Author information:
+(1)Division of Molecular Toxicology, Institute of Environmental Medicine, 
+Karolinska Institutet, Stockholm, Sweden; Department of Clinical Chemistry, 
+Faculty of Allied Health Sciences, Chulalongkorn University, Bangkok, Thailand.
+(2)Department of Clinical Chemistry, Faculty of Allied Health Sciences, 
+Chulalongkorn University, Bangkok, Thailand.
+(3)Institute of Science, Technology and Sustainability for Ceramics-National 
+Research Council (ISSMC-CNR), Faenza, Italy.
+(4)Department of Clinical Chemistry, Faculty of Allied Health Sciences, 
+Chulalongkorn University, Bangkok, Thailand. Electronic address: 
+siriporn.ji@chula.ac.th.
+(5)Division of Molecular Toxicology, Institute of Environmental Medicine, 
+Karolinska Institutet, Stockholm, Sweden. Electronic address: 
+bengt.fadeel@ki.se.
+
+Pancreatic ductal adenocarcinoma (PDAC) is a devastating disease with poor 
+survival rates. Here, we evaluated iron-doped hydroxyapatite (FeHA) as a 
+potential nanomedicine-based approach to combat PDAC. FeHA, in combination with 
+a sublethal dose of the glutathione peroxidase 4 (GPX4) inhibitor RSL3, was 
+found to trigger ferroptosis in KRAS mutant PANC-1 cells, but not in BxPC3 
+cells, while sparing normal human cells (fibroblasts and peripheral blood 
+mononuclear cells). These findings were recapitulated in 3D spheroids generated 
+using PDAC cells harboring wild-type versus mutant KRAS. Moreover, ferroptosis 
+induction by FeHA plus RSL3 was reversed by the knockdown of STEAP3, a 
+metalloreductase responsible for converting Fe3+ to Fe2+. Taken together, our 
+data show that FeHA is capable of triggering cancer cell death in a 
+KRAS-selective, STEAP3-dependent manner in PDAC cells.
+
+Copyright © 2023. Published by Elsevier Inc.
+
+DOI: 10.1016/j.nano.2023.102714
+PMID: 38738528 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in the 
+present paper.

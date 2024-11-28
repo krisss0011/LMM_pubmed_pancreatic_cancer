@@ -1,0 +1,38 @@
+1. Int J Mol Sci. 2024 Nov 13;25(22):12159. doi: 10.3390/ijms252212159.
+
+Select Endocrine Disorders and Exosomes in Early PDAC Diagnosis.
+
+Wlodarczyk B(1), Durko L(1), Walczak K(2), Talar-Wojnarowska R(1), 
+Malecka-Wojciesko E(1).
+
+Author information:
+(1)Department of Digestive Tract Diseases, Medical University of Lodz, 90-153 
+Lodz, Poland.
+(2)Department of Internal Diseases and Nephrodiabetology, Medical University of 
+Lodz, 90-549 Lodz, Poland.
+
+Disturbances in carbohydrate metabolism are suggested to be the early symptoms 
+of pancreatic ductal adenocarcinoma (PDAC). The accumulated data suggests that 
+endocrine function-related biomarkers may represent a breakthrough in the early 
+detection of PDAC. Factors which may predispose one to the development of PDAC 
+are insulin resistance and hyperinsulinemia. Elevated insulin levels induce the 
+onset of carcinogenesis by altering the differentiation and function of islet 
+cells through stimulating growth factors, including insulin-like growth factors 
+(IGFs). Impaired β cell function, along with the impact of PDAC-released factors 
+(e.g., adrenomedullin (ADM), IGF-1, and macrophage inhibitory factor (MIF) on 
+pancreatic islets, may contribute to the induction of diabetes associated with 
+PDAC. Recently, exosomes have attracted worldwide attention due to their role in 
+varied features of cell function, particularly in cancer progression. Exosomes 
+comprise of small extracellular vesicles produced by almost all cells. These 
+vesicles contain a vast array of biomolecules, including proteins and microRNAs. 
+Exosomes participate in cancer growth and promote angiogenesis. They promote 
+tumorigenesis and metastasis, and are associated with the acquisition of cancer 
+cells resistant to chemotherapy. Data have been accumulating recently on the 
+role of exosomes in the rapid recognition, prognosis and potential therapy of 
+pancreatic cancer.
+
+DOI: 10.3390/ijms252212159
+PMCID: PMC11594802
+PMID: 39596226 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.

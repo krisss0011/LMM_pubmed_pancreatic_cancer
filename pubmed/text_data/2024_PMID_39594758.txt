@@ -1,0 +1,52 @@
+1. Cancers (Basel). 2024 Nov 12;16(22):3803. doi: 10.3390/cancers16223803.
+
+Intra-Operative Tumour Detection and Staging in Pancreatic Cancer Surgery: An 
+Integrative Review of Current Standards and Future Directions.
+
+Kotb A(1), Hafeji Z(1), Jesry F(1), Lintern N(1), Pathak S(2), Smith AM(2), 
+Lutchman KRD(3)(4), de Bruin DM(4), Hurks R(5), Heger M(6), Khaled YS(1)(2).
+
+Author information:
+(1)Leeds Institute of Medical Research, University of Leeds, Leeds LS2 9JT, UK.
+(2)The Pancreato-Biliary Unit, St James's University Teaching Hospital, Leeds 
+LS9 7TF, UK.
+(3)Department of Surgery, Amsterdam UMC, Location AMC, 1105 AZ Amsterdam, The 
+Netherlands.
+(4)Department of Biomedical Engineering and Physics, Amsterdam UMC, Location 
+AMC, 1105 AZ Amsterdam, The Netherlands.
+(5)Department of Radiology and Nuclear Medicine, Amsterdam University Medical 
+Center, 1105 AZ Amsterdam, The Netherlands.
+(6)Jiaxing Key Laboratory for Photonanomedicine and Experimental Therapeutics, 
+Department of Pharmaceutics, College of Medicine, Jiaxing University, Jiaxing 
+314001, China.
+
+BACKGROUND: Surgical resection for pancreatic ductal adenocarcinoma (PDAC) 
+entails the excision of the primary tumour and regional lymphadenectomy. This 
+traditional strategy is challenged by the high rate of early recurrence, 
+suggesting inadequate disease staging. Novel methods of intra-operative staging 
+are needed to allow surgical resection to be tailored to the disease's biology.
+METHODS: A search of published articles on the PubMed and Embase databases was 
+performed using the terms 'pancreas' OR 'pancreatic' AND 'intra-operative 
+staging/detection' OR 'guided surgery'. Articles published between January 2000 
+and June 2023 were included. Technologies that offered intra-operative staging 
+and tailored treatment were curated and summarised in the following integrative 
+review.
+RESULTS: lymph node (LN) mapping and radioimmunoguided surgery have shown 
+promising results but lacked practicality to facilitate real-time 
+intra-operative staging for PDAC. Fluorescence-guided surgery (FGS) offers high 
+contrast and sensitivity, enabling the identification of cancerous tissue and 
+positive LNs with improved precision following intravenous administration of a 
+fluorescent agent. The unique properties of optical coherence tomography and 
+ultrasound elastography lend themselves to be platforms for virtual biopsy 
+intra-operatively.
+CONCLUSIONS: Accurate intra-operative staging of PDAC, localisation of 
+metastatic LNs, and identification of extra-pancreatic disease remain clinically 
+unmet needs under current detection methods and staging standards. 
+Tumour-specific FGS combined with other diagnostic and therapeutic modalities 
+could improve tumour detection and staging in patients with PDAC.
+
+DOI: 10.3390/cancers16223803
+PMCID: PMC11592681
+PMID: 39594758
+
+Conflict of interest statement: The authors declare no conflicts of interest.

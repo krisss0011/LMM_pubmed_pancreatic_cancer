@@ -1,0 +1,35 @@
+1. Oncol Rev. 2024 Jan 18;17:11364. doi: 10.3389/or.2023.11364. eCollection 2023.
+
+Metastatic Pancreatic Cancer: Where Are We?
+
+Hernández-Blanquisett A(1)(2), Quintero-Carreño V(1)(3), Martínez-Ávila MC(1), 
+Porto M(1), Manzur-Barbur MC(1)(4), Buendía E(1)(4).
+
+Author information:
+(1)Cancer Institute, Hospital Serena del Mar, Cartagena, Colombia.
+(2)Clinical Oncology, Hospital Serena del Mar, Cartagena, Colombia.
+(3)Pain and Palliative Care Department, Hospital Serena del Mar, Cartagena, 
+Colombia.
+(4)Internal Medicine Department, Hospital Serena del Mar, Cartagena, Colombia.
+
+Pancreatic cancer is one of the most lethal neoplasms worldwide; it is 
+aggressive in nature and has a poor prognosis. The overall survival rate for 
+pancreatic cancer is low. Most patients present non-specific symptoms in the 
+advanced stages, which generally leads to late diagnosis, at which point there 
+is no option for curative surgery. The treatment of metastatic pancreatic cancer 
+includes systemic therapy, in some cases radiotherapy, and more recently, 
+molecular targeted therapies, which can positively impact cancer control and 
+improve quality of life. This review provides an overview of the molecular 
+landscape of pancreatic cancer based on the most recent literature, as well as 
+current treatment options for patients with metastatic pancreatic cancer.
+
+Copyright © 2024 Hernández-Blanquisett, Quintero-Carreño, Martínez-Ávila, Porto, 
+Manzur-Barbur and Buendía.
+
+DOI: 10.3389/or.2023.11364
+PMCID: PMC10830814
+PMID: 38304752
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

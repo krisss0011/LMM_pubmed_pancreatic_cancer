@@ -1,0 +1,49 @@
+1. Biomedicines. 2024 Nov 13;12(11):2596. doi: 10.3390/biomedicines12112596.
+
+Peripheral Eosinophil Count May Be the Prognostic Factor for Overall Survival in 
+Patients with Pancreatic Ductal Adenocarcinoma Undergoing Surgical Treatment.
+
+Ciesielski W(1), Kupryś-Lipińska I(2), Kumor-Kisielewska A(3), Grząsiak O(1), 
+Borodacz J(4), Niedźwiecki S(5), Hogendorf P(1), Durczyński A(1), Strzelczyk 
+J(1), Majos A(1).
+
+Author information:
+(1)General and Transplant Surgery Department, Medical University of Łódź, 90-419 
+Łódź, Poland.
+(2)Internal Medicine, Asthma and Allergy Department, Medical University of Łódź, 
+90-419 Łódź, Poland.
+(3)Department of Pneumology and Allergy, Medical University of Łódź, 90-419 
+Łódź, Poland.
+(4)Students' Scientific Association in General and Transplant Surgery 
+Department, Medical University of Łódź, 90-419 Łódź, Poland.
+(5)Department of Surgical Oncology, Medical University of Łódź, 90-419 Łódź, 
+Poland.
+
+(1) Background: The importance of total eosinophil count in peripheral blood 
+(EOS) as a type 2 inflammation marker is known to be fundamental in asthma, 
+chronic sinusitis, and vasculitis. In cancer, despite their questionable 
+antiproliferative effect, their role remains unclear. Our purpose was to 
+describe the relationship between baseline blood EOS and overall survival (OS) 
+in pancreatic ductal adenocarcinoma (PDAC) patients. (2) Methods: We 
+retrospectively analyzed data from 137 adult patients who underwent surgical 
+treatment for pancreatic ductal adenocarcinoma (PDAC) between the years 2012 and 
+2019. Patients with no recent history of systemic steroid use and without 
+intraoperative metastases were included. Patients were categorized into two 
+groups based on EOS (≥0.1 G/l and <0.1 G/l). Survival outcomes were analyzed 
+using Cox proportional hazards regression models. (3) Results: According to EOS 
+and PDAC stage, median OS values were as follows: in stage I-III, EOS ≥ 0.1 G/l 
+group: 14.5 months, in stage I-III, EOS < 0.1 G/l group: 8.0 months, in stage 
+IV, EOS ≥ 0.1 G/l group: 7.0 months, and in stage IV, EOS < 0.1 G/l group: 5.0 
+months. EOS < 0.1 G/l (vs. ≥0.1 G/l) was an independent prognostic factor for OS 
+in both the uni- and multivariate Cox regression, respectively (HR = 1.48, p = 
+0.035 and HR = 1.57, p = 0.021). (4) Conclusions: Peripheral eosinophilia seems 
+to be a potential independent prognostic factor. Further studies are necessary 
+to confirm this hypothesis, since our findings suggest that type 2 inflammation 
+may be the factor directly or indirectly lengthening the survival of patients 
+with PDAC.
+
+DOI: 10.3390/biomedicines12112596
+PMCID: PMC11591827
+PMID: 39595162
+
+Conflict of interest statement: The authors declare no conflicts of interest.

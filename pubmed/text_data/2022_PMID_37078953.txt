@@ -1,0 +1,43 @@
+1. Pancreas. 2022 Oct 1;51(9):1251-1257. doi: 10.1097/MPA.0000000000002176.
+
+Cytokine-Induced Killer Cell Immunotherapy Combined With Gemcitabine Reduces 
+Systemic Metastasis in Pancreatic Cancer: An Analysis Using Preclinical Adjuvant 
+Therapy-Mimicking Pancreatic Cancer Xenograft Model.
+
+Choi JH(1), Nam GH(2), Hong JM(2), Cho IR(1), Paik WH(1), Ryu JK(1), Kim YT(1), 
+Lee SH(1).
+
+Author information:
+(1)From the Department of Internal Medicine, Liver Research Institute, Seoul 
+National University College of Medicine, Seoul, Republic of Korea.
+(2)GC CELL Corp., Yongin-si, Republic of Korea.
+
+OBJECTIVES: To evaluate the efficacy and safety of cytokine-induced killer (CIK) 
+cell therapy in pancreatic cancer.
+METHODS: An orthotopic murine model of pancreatic cancer and adjuvant 
+therapy-mimicking xenograft murine model that underwent splenectomy was created. 
+Eighty mice were randomized into four groups: the control, gemcitabine alone, 
+CIK alone, and CIK with gemcitabine groups. The tumor growth was monitored using 
+bioluminescence imaging once weekly.
+RESULTS: In the orthotopic murine model, the treatment groups showed a 
+significantly longer survival than the control group (median: not reached vs 
+125.0 days; 95% confidence interval, 119.87-130.13; P = 0.04); however, the 
+overall survival did not differ significantly among the treatment groups (P = 
+0.779). The metastatic recurrence rate and overall survival were also not 
+significantly different among the groups in the adjuvant therapy-mimicking 
+xenograft murine model (P = 0.497). However, the CIK and gemcitabine combination 
+suppressed the metastatic recurrence effectively, with recurrence-free survival 
+being significantly longer in the CIK with gemcitabine group than in the control 
+group (median, 54 days; 95% confidence interval, 25.00-102.00; P = 0.013).
+CONCLUSIONS: The combination of CIK and gemcitabine suppressed systemic 
+metastatic recurrence, with promising efficacy and good tolerability in an 
+adjuvant setting of pancreatic cancer.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/MPA.0000000000002176
+PMID: 37078953 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: G.H.N and J.-MH. are 
+employed by GC CELL Corp. The rest of the authors declare no conflict of 
+interest.

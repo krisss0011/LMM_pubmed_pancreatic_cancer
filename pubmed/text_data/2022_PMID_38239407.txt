@@ -1,0 +1,56 @@
+1. Mater Today (Kidlington). 2023 Jan-Feb;62:33-50. doi: 
+10.1016/j.mattod.2022.11.008. Epub 2022 Dec 8.
+
+Overcoming pancreatic cancer immune resistance by codelivery of CCR2 antagonist 
+using a STING-activating gemcitabine-based nanocarrier.
+
+Wan Z(1), Huang H(1), West RE 3rd(2), Zhang M(1), Zhang B(1), Cai X(1), Zhang 
+Z(1), Luo Z(1), Chen Y(1), Zhang Y(1), Xie W(1), Yang D(1), Nolin TD(2), Wang 
+J(3), Li S(1), Sun J(1).
+
+Author information:
+(1)Center for Pharmacogenetics, Department of Pharmaceutical Science, University 
+of Pittsburgh School of Pharmacy, Pittsburgh, PA, USA.
+(2)Department of Pharmacy and Therapeutics, University of Pittsburgh School of 
+Pharmacy, Pittsburgh, PA, USA.
+(3)Department of Pharmaceutical Sciences and Computational Chemical Genomics 
+Screening Center, University of Pittsburgh School of Pharmacy, Pittsburgh, PA, 
+USA.
+
+STING agonist has recently gained much attention for cancer treatment, but the 
+therapeutic potential of STING agonist is hampered by STING-associated tumor 
+immune resistance. In this work, guided by both bioinformatics and computer 
+modeling, we rationally designed a "one stone hits two birds" nanoparticle-based 
+strategy to simultaneously activate STING innate immune response while 
+eliminating STING-associated immune resistance for the treatment of pancreatic 
+ductal adenocarcinoma (PDAC). We discovered that the ultra-small sized micellar 
+system based on gemcitabine-conjugated polymer (PGEM), which showed superior 
+capacity of penetration in pancreatic tumor spheroid model and orthotopic tumor 
+model, could serve as a novel "STING agonist". The activation of STING signaling 
+in dendritic cells (DCs) by PGEM increased both innate nature killer (NK) and 
+adaptive anti-tumor T cell response. However, activation of STING signaling by 
+PGEM in tumor cells also drove the induction of chemokines CCL2 and CCL7, 
+resulting in immune resistance by recruiting tumor associated macrophage (TAM) 
+and myeloid-derived suppressor cells (MDSCs). Through the combination of 
+computer modeling and experimental screening, we developed a dual delivery 
+modality by incorporating a CCR2 (the receptor shared by both CCL2 and CCL7) 
+antagonist PF-6309 (PF) into PGEM micellar system. Our studies demonstrated that 
+PGEM/PF formulation significantly reduced pancreatic tumor burden and induced 
+potent anti-tumor immunity through reversing the CCL2/CCL7-mediated 
+immunosuppression. Moreover, PGEM/PF sensitized PDAC tumors to anti-PD-1 
+therapy, leading to complete suppression/eradication of the tumors. Our work has 
+shed light to the multi-faceted role of STING activation and provided a novel 
+immunotherapy regimen to maximize the benefit of STING activation for PDAC 
+treatment. In addition, this work paved a new way for bioinformatics and 
+computer modeling-guided rational design of nanomedicine.
+
+DOI: 10.1016/j.mattod.2022.11.008
+PMCID: PMC10795849
+PMID: 38239407
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare the following financial interests/personal relationships which may be 
+considered as potential competing interests: The authors declare the following 
+competing financial interest(s): Song Li serves on the Chief Scientific Officer 
+and holds equity in DUO Oncology. Jingjing Sun is an inventing consultant and 
+equity holder in DUO Oncology.

@@ -1,0 +1,52 @@
+1. Front Oncol. 2024 Nov 8;14:1465283. doi: 10.3389/fonc.2024.1465283.
+eCollection  2024.
+
+Mean platelet volume/platelet count ratio can predict the recurrence-free 
+survival rate of patients after complete resection of gastrointestinal stromal 
+tumors.
+
+Du X(#)(1), Zang X(#)(2), Zhang H(#)(1), Liu L(1), Xu Y(1), Li X(1), Mou R(1), 
+Xu H(2), Zhu J(3), Xie R(1).
+
+Author information:
+(1)Department of Digestive Internal Medicine, Harbin Medical University Cancer 
+Hospital, Harbin Medical University, Harbin, Heilongjiang, China.
+(2)Department of Hepatobiliary and Pancreatic Surgery, Harbin Medical University 
+Cancer Hospital, Harbin Medical University, Harbin, Heilongjiang, China.
+(3)College of Pharmacy, Harbin Medical University, Harbin, Heilongjiang, China.
+(#)Contributed equally
+
+PURPOSE: The aim of this study is to compare mean platelet volume/platelet count 
+ratio (PVPR) and other indicators' predictive abilities. Simultaneously, a new 
+nomogram for predicting recurrence-free survival (RFS) after gastrointestinal 
+stromal tumors (GISTs) R0 resection was developed.
+METHODS: From January 2010 to July 2019, 295 patients with GIST who were 
+operated on at Harbin Medical University Cancer Hospital were retrospectively 
+reviewed. With a 4-year RFS as the end point, using the Kaplan-Meier methods and 
+log rank test, and then conducting Cox regression analysis, we compared and 
+identified meaningful indicators for predicting prognosis. Finally, a nomogram 
+was developed and validated using calibration curves.
+RESULTS: The receiver operating characteristic curve indicated that a cutoff 
+point of 0.044 was the ideal threshold for PVPR, and patients were divided into 
+a high-PVPR group (≤0.044) and a low-PVPR group (>0.044). Kaplan-Meier curves 
+suggested that PVPR>0.044 had obvious associations with better RFS (p < 0.001). 
+In accordance with multivariate analysis, PVPR (>0.044 vs. ≤0.044) (p = 0.005), 
+National Institutes of Health (NIH) risk category (p < 0.001), and Ki-67 (p = 
+0.005) were the independent prognostic indicators of RFS. Tumor size, 
+gastrointestinal bleeding, mitotic index, NIH risk category, CD34, and Ki-67 all 
+exhibited an obvious correlation with PVPR (all p < 0.05). The nomogram's 
+probability of concordance was 0.823, indicating that the nomogram predictions 
+were well calibrated.
+CONCLUSION: In GISTs, RFS can be independently predicted by PVPR. Patients with 
+higher PVPR have better RFS. The nomogram including PVPR could be used to assist 
+clinical treatment decision-making.
+
+Copyright © 2024 Du, Zang, Zhang, Liu, Xu, Li, Mou, Xu, Zhu and Xie.
+
+DOI: 10.3389/fonc.2024.1465283
+PMCID: PMC11581942
+PMID: 39582542
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

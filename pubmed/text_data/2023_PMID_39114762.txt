@@ -1,0 +1,117 @@
+1. Liver Cancer. 2023 Nov 28;13(4):401-412. doi: 10.1159/000535501. eCollection 
+2024 Aug.
+
+Impact of Bevacizumab Being Skipped due to Adverse Events of Special Interest 
+for Bevacizumab in Patients with Unresectable Hepatocellular Carcinoma Treated 
+with Atezolizumab plus Bevacizumab: An Exploratory Analysis of the Phase III 
+IMbrave150 Study.
+
+Kudo M(1), Tsuchiya K(2), Shao YY(3), Finn RS(4), Galle PR(5), Ducreux M(6), 
+Cheng AL(7), Yamashita T(8), Koga H(9), Take R(10), Yamada K(10), Asakawa T(10), 
+Nakagawa Y(10), Ikeda M(11).
+
+Author information:
+(1)Department of Gastroenterology and Hepatology, Kindai University Faculty of 
+Medicine, Osaka, Japan.
+(2)Department of Gastroenterology and Hepatology, Musashino Red Cross Hospital, 
+Tokyo, Japan.
+(3)Department of Oncology, National Taiwan University Hospital, Taipei, Taiwan.
+(4)Division of Hematology and Oncology, Department of Medicine, Jonsson 
+Comprehensive Cancer Center, Geffen School of Medicine at UCLA, Los Angeles, CA, 
+USA.
+(5)Department of Internal Medicine, University Medical Center Mainz, Mainz, 
+Germany.
+(6)Department of Medical Oncology, Gustave Roussy Cancer Center, Paris-Saclay 
+University, Villejuif, France.
+(7)Department of Oncology, National Taiwan University Cancer Center and National 
+Taiwan University Hospital, Taipei, Taiwan.
+(8)Department of Gastroenterology, Kanazawa University Hospital, Kanazawa, 
+Japan.
+(9)Department of Gastroenterology, Kurume University Hospital, Kurume, Japan.
+(10)Chugai Pharmaceutical Ltd, Tokyo, Japan.
+(11)Department of Hepatobiliary and Pancreatic Oncology, National Cancer Center 
+Hospital East, Kashiwa, Japan.
+
+INTRODUCTION: The phase III IMbrave150 study established atezolizumab + 
+bevacizumab as the global standard of care in patients with unresectable 
+hepatocellular carcinoma (HCC). This exploratory analysis examined the impact of 
+bevacizumab interruption due to bevacizumab adverse events of special interest 
+(AESIs).
+METHODS: Patients in IMbrave150 who were randomized to atezolizumab + 
+bevacizumab and received treatment for ≥6 months (to reduce immortal time bias) 
+were included in group A-1 if bevacizumab had ever been skipped due to 
+bevacizumab AESIs or to group A-2 otherwise. Efficacy analyses included overall 
+survival (OS) and progression-free survival (PFS) by whether bevacizumab was 
+skipped (group A-1 vs. A-2). PFS was evaluated per independent review facility 
+(IRF)-assessed Response Evaluation Criteria in Solid Tumours (RECIST) version 
+1.1 and HCC-modified RECIST (IRF-HCC mRECIST). Safety was also evaluated.
+RESULTS: Of the 210 patients who received ≥6 months of atezolizumab + 
+bevacizumab, 69 were assigned to group A-1 and 141 to A-2. At data cutoff 
+(August 20, 2020), hazard ratio (HR) for OS was 1.04 (95% CI: 0.64, 1.69) for 
+group A-1 versus A-2. HR for PFS was 1.07 (95% CI: 0.74, 1.55) per IRF-assessed 
+RECIST 1.1 and 1.10 (95% CI: 0.76, 1.59; 15.5 vs. 9.7 months) per IRF-HCC 
+mRECIST for group A-1 versus A-2. Safety profiles for atezolizumab and 
+bevacizumab were largely similar between groups. More group A-1 patients had 
+grade 3/4 adverse events. A separate analysis investigating the impact of 
+immortal time bias in patients who received ≥3 months of atezolizumab + 
+bevacizumab supported the appropriateness of the ≥6-month landmark analysis.
+DISCUSSION/CONCLUSION: Efficacy was similar between patients who skipped 
+bevacizumab due to bevacizumab AESIs and those who did not. Although this 
+comparison was nonrandomized and exploratory, results suggest that skipping 
+bevacizumab due to bevacizumab AESIs did not considerably impact the efficacy 
+and safety of atezolizumab + bevacizumab.
+
+© 2023 The Author(s). Published by S. Karger AG, Basel.
+
+DOI: 10.1159/000535501
+PMCID: PMC11305667
+PMID: 39114762
+
+Conflict of interest statement: Masatoshi Kudo reports the following conflicts 
+of interest: honoraria payment to self from Bayer, Chugai Pharmaceutical Co. 
+Ltd., Eli Lilly, Eisai, and Takeda; research funding to institution from AbbVie, 
+Chugai Pharmaceutical Co. Ltd., EA Pharma, Eisai, F. Hoffmann-La Roche Ltd, GE 
+HealthCare, Gilead Sciences, Otsuka, Sumitomo Dainippon Pharma, Taiho, and 
+Takeda; and Editor in Chief of Liver Cancer. Kaoru Tsuchiya reports the 
+following conflicts of interest: advisory/consultancy fees to self from Chugai 
+Pharmaceutical Co. Ltd. and Eisai; speakers bureau participation for Chugai 
+Pharmaceutical Co. Ltd., Eisai, Eli Lilly, and Takeda; and research funding to 
+institution from F. Hoffmann-La Roche Ltd. Yu-Yun Shao reports the following 
+conflicts of interest: honoraria from AstraZeneca, Bayer, Bristol Myers Squibb, 
+Eisai, Eli Lilly, F. Hoffmann-La Roche Ltd, Ipsen, Merck, and Ono. Richard S. 
+Finn reports the following conflicts of interest: consulting fees to self from 
+AstraZeneca, Bayer, CStone Pharmaceuticals, Eisai, Eli Lilly, Exelixis, F. 
+Hoffmann-La Roche Ltd., Hengrui, Merck, and Pfizer; research funding to 
+institution from Adaptimmune, Bristol Myers Squibb, Eisai, Eli Lilly, Merck, 
+Pfizer, and F. Hoffmann-La Roche Ltd.; and Editorial Board Member of Liver 
+Cancer. Peter R. Galle reports the following conflicts of interest: consulting 
+fees to self from Adaptimmune, AstraZeneca, Bayer, Boston Scientific, Bristol 
+Myers Squibb, Eisai, Eli Lilly, F. Hoffmann-La Roche Ltd., Guerbet, Ipsen, Merck 
+Sharp & Dohme, and Sirtex Medical; honoraria payment to self from Adaptimmune, 
+AstraZeneca, Bayer, Boston Scientific, Bristol Myers Squibb, Eisai, Eli Lilly, 
+F. Hoffmann-La Roche Ltd., Guerbet, Ipsen, Merck Sharp & Dohme, and Sirtex 
+Medical; advisory fees to self from Adaptimmune, AstraZeneca, Bayer, Boston 
+Scientific, Bristol Myers Squibb, Eisai, Eli Lilly, F. Hoffmann-La Roche Ltd., 
+Guerbet, Ipsen, Merck Sharp & Dohme, and Sirtex Medical; and research funding to 
+institution from Bayer and F. Hoffmann-La Roche Ltd. Michel Ducreux reports the 
+following conflicts of interest: honoraria, consulting fees, or advisory fees to 
+self from Amgen, AstraZeneca, Bayer, Eli Lilly, F. Hoffmann-La Roche Ltd., 
+Ipsen, Merck Serono, Pierre Fabre, and Servier; travel support from Bayer, Eli 
+Lilly, F. Hoffmann-La Roche Ltd., Ipsen, Merck Sharp & Dohme, and Servier; 
+speakers bureau participation for Amgen, Bayer, Eli Lilly, F. Hoffmann-La Roche 
+Ltd., Ipsen, and Merck Serono; and research funding to institution from Bayer 
+and F. Hoffmann-La Roche Ltd. Ann-Lii Cheng reports the following conflicts of 
+interest: research funding to institution from F. Hoffmann-La Roche Ltd. Tatsuya 
+Yamashita reports the following conflicts of interest: speakers bureau 
+participation for Bayer and Chugai Pharmaceutical Co. Ltd. and research funding 
+to institution from F. Hoffmann-La Roche Ltd. Hironori Koga reports the 
+following conflicts of interest: research funding to institution from AbbVie, 
+Chugai Pharmaceutical Co. Ltd., Daiichi Sankyo, and F. Hoffmann-La Roche Ltd. 
+Ryosuke Take, Kyoko Yamada, Takashi Asakawa, and Yuki Nakagawa reports the 
+following conflicts of interest: employment by Chugai Pharmaceutical Co. Ltd. 
+Masafumi Ikeda reports the following conflicts of interest: honoraria to self 
+from Bayer, Chugai Pharmaceutical Co. Ltd., Eisai, Eli Lilly, and Takeda; 
+advisory/consulting fees to self from Chugai Pharmaceutical Co. Ltd., Eisai, Eli 
+Lilly, Merck Sharp & Dohme, and Takeda; and research funding to institution from 
+Bayer, Bristol Myers Squibb, Chugai Pharmaceutical Co. Ltd., Eisai, Eli Lilly, 
+F. Hoffmann-La Roche Ltd., Merck Sharp & Dohme, and Takeda.

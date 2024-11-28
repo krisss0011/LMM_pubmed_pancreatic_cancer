@@ -1,0 +1,44 @@
+1. Biomedicines. 2024 Oct 22;12(11):2419. doi: 10.3390/biomedicines12112419.
+
+Liver Transplantation for the Cure of Neuroendocrine Liver Metastasis: A 
+Systematic Review with Particular Attention to the Risk Factors of Death and 
+Recurrence.
+
+Lai Q(1), Coppola A(2), Mrzljak A(3)(4), Cigrovski Berkovic M(5).
+
+Author information:
+(1)General Surgery and Organ Transplantation Unit, Department of General and 
+Specialty Surgery, Sapienza University of Rome, 00161 Rome, Italy.
+(2)Department of General Surgery, Sapienza University of Rome, 00161 Rome, 
+Italy.
+(3)Department of Gastroenterology and Hepatology, Liver Transplant Center, 
+University Hospital Centre Zagreb, 10000 Zagreb, Croatia.
+(4)University of Zagreb, Department of Medicine, School of Medicine, 10000 
+Zagreb, Croatia.
+(5)University of Zagreb, Faculty of Kinesiology, 10000 Zagreb, Croatia.
+
+BACKGROUND/OBJECTIVES: Neuroendocrine neoplasms (NEN) are heterogeneous 
+entities. Despite considerable advancement in the field, almost 50% of patients 
+have metastatic disease, when liver transplantation (LT) is one of the possible 
+treatments offering a cure in well-selected patients.
+METHODS: The present study aims to systematically review all the literature from 
+2000 onwards on using LT for patients with NEN-LM, with particular attention to 
+the risk factors of death and recurrence.
+RESULTS: LT offers 5-year OS ranging from 52 to 74% and 5-year TFS rates ranging 
+from 39 to 62%, with even better results published from 2009 onwards. The main 
+risk factors for patient deaths are related to unfavorable primary tumor 
+pathology, higher liver involvement, and simultaneous LT and primary resection. 
+Similarly, recurrence is higher related to poor tumor grade and differentiation, 
+and in the case of an older recipient age.
+CONCLUSIONS: Applying uniform criteria and a more in-depth understanding of the 
+relevant prognostic factors contribute to a better selection of candidates for 
+curative LT due to NEN metastases. LT for unresectable or liver-restricted NENs 
+has a relevant place in the treatment algorithm and has achieved excellent 
+results in recent decades, but more international efforts are needed to further 
+improve outcomes.
+
+DOI: 10.3390/biomedicines12112419
+PMCID: PMC11592406
+PMID: 39594986
+
+Conflict of interest statement: The authors declare no conflicts of interest.

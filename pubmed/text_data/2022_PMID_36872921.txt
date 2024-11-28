@@ -1,0 +1,114 @@
+1. Liver Cancer. 2022 Aug 25;12(1):44-56. doi: 10.1159/000525499. eCollection
+2023  Feb.
+
+Hepatic Events and Viral Kinetics in Hepatocellular Carcinoma Patients Treated 
+with Atezolizumab plus Bevacizumab.
+
+Hsu C(1)(2)(3), Ducreux M(4), Zhu AX(5)(6), Qin S(7), Ikeda M(8), Kim TY(9), 
+Galle PR(10), Finn RS(11), Chen E(12), Ma N(13), Hu Y(14), Li L(15), Cheng 
+AL(2)(3).
+
+Author information:
+(1)Graduate Institute of Oncology, National Taiwan University College of 
+Medicine, Taipei, Taiwan.
+(2)Department of Medical Oncology, National Taiwan University Cancer Center, 
+Taipei, Taiwan.
+(3)Department of Oncology, National Taiwan University Hospital, Taipei, Taiwan.
+(4)Department of Medical Oncology, Gustave Roussy Cancer Center, Paris-Saclay 
+University, Villejuif, France.
+(5)Massachusetts General Hospital, Harvard Medical School, Boston, 
+Massachusetts, USA.
+(6)Jiahui International Cancer Center, Jiahui Health, Shanghai, China.
+(7)Department of Medical Oncology, Jinling Hospital Cancer Center, Nanjing, 
+China.
+(8)Department of Hepatobiliary and Pancreatic Oncology, National Cancer Center 
+Hospital East, Kashiwa, Japan.
+(9)Department of Internal Medicine, Seoul National University College of 
+Medicine, Seoul, Republic of Korea.
+(10)Department of Internal Medicine, University Medical Center Mainz, Mainz, 
+Germany.
+(11)Division of Hematology Oncology, Department of Medicine, University of 
+California, Los Angeles, Los Angeles, California, USA.
+(12)Product Development Safety, Roche (China) Holding Ltd, Shanghai, China.
+(13)Product Development Safety, Genentech, Inc., South San Francisco, 
+California, USA.
+(14)Biostatistics, F. Hoffmann-La Roche, Basel, Switzerland.
+(15)Product Development, Roche (China) Holding Ltd, Shanghai, China.
+
+INTRODUCTION: In the Phase 3 IMbrave150 trial (NCT03434379), atezolizumab + 
+bevacizumab demonstrated a clinically meaningful survival benefit over sorafenib 
+in patients with unresectable hepatocellular carcinoma (HCC), including those 
+with hepatitis B virus (HBV) or hepatitis C virus (HCV) infection. We used 
+IMbrave150 data to investigate the safety and risk of viral reactivation or 
+flare in infected patients treated with atezolizumab + bevacizumab or sorafenib.
+METHODS: Patients with unresectable HCC not previously treated with systemic 
+therapy were randomized 2:1 to atezolizumab + bevacizumab or sorafenib. In this 
+exploratory analysis, safety was continually evaluated, including for hepatic 
+adverse events. Patients were monitored for HBV and HCV reactivation and flare 
+at screening, the beginning of Cycles 5 and 9, and at treatment discontinuation.
+RESULTS: Of 501 enrolled patients, 485 were included in the safety population; 
+329 (68%) received atezolizumab + bevacizumab, and 156 (32%) received sorafenib. 
+Overall, 150 (31%) and 58 (12%) patients had HBV and HCV infections, 
+respectively. The safety profiles of atezolizumab + bevacizumab and sorafenib 
+were consistent across patients, regardless of viral infection. Overall, hepatic 
+serious adverse events occurred in 11% of patients receiving atezolizumab + 
+bevacizumab and 8% receiving sorafenib. HBV or HCV reactivation occurred in 2% 
+or 16% of atezolizumab + bevacizumab-treated patients, respectively, versus 7% 
+or 14% with sorafenib. There were no instances of hepatitis flare with 
+atezolizumab + bevacizumab.
+CONCLUSIONS: Atezolizumab + bevacizumab had a similar hepatic safety profile in 
+patients with and without HBV or HCV infection. Viral reactivation rates were 
+similar between arms. Overall, these data support the use of atezolizumab + 
+bevacizumab in patients with HCC and HBV or HCV infection without any special 
+precaution.
+
+Copyright © 2022 by The Author(s). Published by S. Karger AG, Basel.
+
+DOI: 10.1159/000525499
+PMCID: PMC9982337
+PMID: 36872921
+
+Conflict of interest statement: Chiun Hsu received research grants from Bristol 
+Myers Squibb/ONO Pharmaceutical, F. Hoffmann-La Roche, and Ipsen and received 
+honoraria from AstraZeneca, Bayer, Bristol Myers Squibb/ONO Pharmaceutical, 
+Eisai, Eli Lilly and Company, Ipsen, Merck Serono, MSD, Novartis, F. Hoffmann-La 
+Roche, and TTY Biopharm. Michel Ducreux reports a consulting or advisory role; 
+has received honoraria from AstraZeneca, Bayer, F. Hoffmann-La Roche, Amgen, 
+Pierre Fabre, Servier, Ipsen, Merck Serono, and Eli Lilly and Company; has been 
+on a speakers bureau for Bayer, Ipsen, Lilly, Merck Serono, Amgen, and F. 
+Hoffmann-La Roche; has received research funding from Bayer and F. Hoffmann-La 
+Roche; and has received travel or accommodation expenses from Servier, Bayer, 
+MSD, Ipsen, Eli Lilly and Company, and F. Hoffmann-La Roche. Andrew X. Zhu 
+reports a consulting or advisory role for AstraZeneca, Bayer, Eisai, Exelixis, 
+Gilead Sciences, Eli Lilly and Company, Merck, F. Hoffmann-La Roche/Genentech, 
+and Sanofi and has received research funding from Bayer, Bristol Myers Squibb, 
+Eli Lilly and Company, Merck, and Novartis; and is the associate editor for 
+Liver Cancer. Shukui Qin declares no conflict of interests. Masafumi Ikeda is an 
+advisor/board member at AstraZeneca, Eisai Co. Ltd., Eli Lilly Japan, and Takeda 
+Pharmaceuticals; and received honoraria payment from Bayer, Bristol Myers 
+Squibb, Chugai Pharmaceutical Co. Ltd., Eisai Co. Ltd., Eli Lilly Japan, MSD, 
+and Takeda Pharmaceuticals; and is an editorial board member for Liver Cancer. 
+Tae-You Kim reports grants and non-financial support from F. Hoffmann-La Roche, 
+during the conduct of the study. Peter R. Galle reports a consulting or advisory 
+role and received honoraria from AdaptImmune, AstraZeneca, Bayer, Bristol Myers 
+Squibb, Eisai, Ipsen, Eli Lilly and Company, MSD, F. Hoffmann-La Roche, and 
+Sirtex; has been on a speakers' bureau for AstraZeneca, Bayer, Bristol Myers 
+Squibb, Eisai, Ipsen, Eli Lilly and Company, MSD, F. Hoffmann-La Roche, and 
+Sirtex; has received research funding from Bayer and F. Hoffmann-La Roche; has 
+provided expert testimony for Eli Lilly and Company; and has received travel or 
+accommodation expenses from AstraZeneca, Bayer, Bristol Myers Squibb, Eisai, 
+Ipsen, Eli Lilly and Company, and F. Hoffmann-La Roche. Richard S. Finn has 
+served as a consultant with AstraZeneca, Bayer, CStone Pharmaceuticals, Eisai 
+Co. Ltd., Eli Lilly, Merck, Pfizer, and F. Hoffmann-La Roche/Genentech; has 
+received grant/research support to institution from Bristol Myers Squibb, Eisai 
+Co. Ltd., Eli Lilly, Merck, Pfizer, and F. Hoffmann-La Roche/Genentech; and is 
+an editorial board member for Liver Cancer. Ethan Chen is an employee of F. 
+Hoffmann-La Roche. Ning Ma is an employee of F. Hoffmann-La Roche. Youyou Hu is 
+an employee of Genentech. Lindong Li is an employee of Genentech. Ann-Li Cheng 
+has served as a consultant with AstraZeneca, Bristol Myers Squibb, Eisai, Merck 
+Serono, Novartis, Ono Pharmaceutical, Exelixis, Nucleix, IPSEN Innovation, Bayer 
+Healthcare, Merck Sharp Dohme, Genentech, eiGene, CSR Pharma Group, F. 
+Hoffmann-La Roche, and IQVIA; travel support from Bayer Yakuhin, 
+Roche/Genentech, and IQVIA; reports receiving fees for serving on a speakers 
+bureau from Bayer Yakuhin, Novartis, Eisai, Ono Pharmaceutical, and Amgen 
+Taiwan; and is an associate editor for Liver Cancer.

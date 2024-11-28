@@ -1,0 +1,42 @@
+1. Cancers (Basel). 2024 Nov 14;16(22):3825. doi: 10.3390/cancers16223825.
+
+An Overview for Clinicians on Intraductal Papillary Mucinous Neoplasms (IPMNs) 
+of the Pancreas.
+
+Moris D(1), Liapis I(2), Gupta P(1), Ziogas IA(3), Karachaliou GS(4), 
+Dimitrokallis N(5), Nguyen B(1), Radkani P(1).
+
+Author information:
+(1)MedStar Georgetown Transplant Institute, Washington, DC 20007, USA.
+(2)Department of Surgery, University of Alabama at Birmingham, Birmingham, AL 
+35294, USA.
+(3)Department of Surgery, University of Colorado School of Medicine, Aurora, CO 
+80045, USA.
+(4)Division of Gastroenterology, Department of Medicine, Duke University Medical 
+Center, Durham, NC 27710, USA.
+(5)1st Department of Surgery & Organ Transplant Unit, Evangelismos General 
+Hospital, 10676 Athens, Greece.
+
+Currently, there is no reliable method of discerning between low-risk and 
+high-risk intraductal papillary mucinous neoplasms (IPMNs). Operative resection 
+is utilized in an effort to resect those lesions with high-grade dysplasia (HGD) 
+prior to the development of invasive disease. The current guidelines recommend 
+resection for IPMN that involve the main pancreatic duct. Resecting lesions with 
+HGD before their progression to invasive disease and the avoidance of resection 
+in those patients with low-grade dysplasia is the optimal clinical scenario. 
+Therefore, the importance of developing preoperative models able to discern HGD 
+in IPMN patients cannot be overstated. Low-risk patients should be managed with 
+nonsurgical treatment options (typically MRI surveillance), while high-risk 
+patients would undergo resection, hopefully prior to the formation of invasive 
+disease. Current research is evolving in multiple directions. First, there is an 
+ongoing effort to identify reliable markers for predicting malignant 
+transformation of IPMN, mainly focusing on genomic and transcriptomic data from 
+blood, tissue, and cystic fluid. Also, multimodal models of combining biomarkers 
+with clinical and radiographic data seem promising for providing robust and 
+accurate answers of risk levels for IPMN patients.
+
+DOI: 10.3390/cancers16223825
+PMCID: PMC11593033
+PMID: 39594780
+
+Conflict of interest statement: The authors declare no conflicts of interest.

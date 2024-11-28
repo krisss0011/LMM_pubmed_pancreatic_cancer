@@ -1,0 +1,52 @@
+1. Acta Pharm Sin B. 2024 Mar;14(3):1302-1316. doi: 10.1016/j.apsb.2023.11.014. 
+Epub 2023 Nov 10.
+
+Discovery of a potent and highly selective inhibitor of SIRT6 against pancreatic 
+cancer metastasis in vivo.
+
+Xu X(1)(2), Zhang Q(1)(2), Wang X(3), Jin J(4), Wu C(1)(2), Feng L(1)(2)(5), 
+Yang X(1), Zhao M(1)(5), Chen Y(1), Lu S(1), Zheng Z(1), Lan X(6), Wang Y(4), 
+Zheng Y(7), Lu X(5), Zhang Q(1), Zhang J(1)(2).
+
+Author information:
+(1)State Key Laboratory of Medical Genomics, National Research Center for 
+Translational Medicine at Shanghai, Ruijin Hospital, Shanghai Jiao Tong 
+University School of Medicine, Shanghai 200025, China.
+(2)Medicinal Chemistry and BioinformaticsCenter, Shanghai Jiao Tong University 
+School of Medicine, Shanghai 200025, China.
+(3)Department of General Surgery, Huashan Hospital, Cancer Metastasis Institute, 
+Fudan University, Shanghai 200040, China.
+(4)Institute of Immunology and the CAS Key Laboratory of Innate Immunity and 
+Chronic Disease, School of Basic Medicine and Medical Center, University of 
+Science and Technology of China, Hefei 230026, China.
+(5)Department of Assisted Reproduction, Shanghai Ninth People's Hospital, 
+Shanghai Jiao Tong University School of Medicine, Shanghai 200011, China.
+(6)College of Pharmacy, Ningxia Medical University, Yinchuan 750004, China.
+(7)Department of Pancreatic Surgery, Shanghai General Hospital, Shanghai Key 
+Laboratory of Pancreatic Disease, Institute of Pancreatic Disease, Shanghai Jiao 
+Tong University School of Medicine, Shanghai 200080, China.
+
+Pancreatic cancer, one of the most aggressive malignancies, has no effective 
+treatment due to the lack of targets and drugs related to tumour metastasis. 
+SIRT6 can promote the migration of pancreatic cancer and could be a potential 
+target for antimetastasis of pancreatic cancer. However, highly selective and 
+potency SIRT6 inhibitor that can be used in vivo is yet to be discovered. Here, 
+we developed a novel SIRT6 allosteric inhibitor, compound 11e, with maximal 
+inhibitory potency and an IC50 value of 0.98 ± 0.13 μmol/L. Moreover, compound 
+11e exhibited significant selectivity against other histone deacetylases 
+(HADC1‒11 and SIRT1‒3) at concentrations up to 100 μmol/L. The allosteric site 
+and the molecular mechanism of inhibition were extensively elucidated by 
+cocrystal complex structure and dynamic structural analyses. Importantly, we 
+confirmed the antimetastatic function of such inhibitors in four pancreatic 
+cancer cell lines as well as in two mouse models of pancreatic cancer liver 
+metastasis. To our knowledge, this is the first study to reveal the in vivo 
+effects of SIRT6 inhibitors on liver metastatic pancreatic cancer. It not only 
+provides a promising lead compound for subsequent inhibitor development 
+targeting SIRT6 but also provides a potential approach to address the challenge 
+of metastasis in pancreatic cancer.
+
+© 2024 The Authors.
+
+DOI: 10.1016/j.apsb.2023.11.014
+PMCID: PMC10935062
+PMID: 38487000

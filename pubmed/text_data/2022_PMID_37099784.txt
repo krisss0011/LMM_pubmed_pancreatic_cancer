@@ -1,0 +1,40 @@
+1. Pancreas. 2022 Nov-Dec 01;51(10):1388-1397. doi: 10.1097/MPA.0000000000002186.
+
+Preoperative Rapid Weight Loss as a Prognostic Predictor After Surgical 
+Resection for Pancreatic Cancer.
+
+Nishikawa M, Yamamoto J(1), Einama T(2), Hoshikawa M(1), Iwasaki T(2), Nakazawa 
+A(2), Takihara Y(2), Tsunenari T(2), Kishi Y(2).
+
+Author information:
+(1)Department of Gastrointestinal Surgery, Ibaraki Prefectural Central Hospital, 
+Kasama City, Japan.
+(2)From the Department of Surgery, National Defense Medical College Hospital, 
+Tokorozawa.
+
+OBJECTIVE: The aim of the study is to evaluate the influence of cachexia at the 
+time of diagnosis of pancreatic ductal adenocarcinoma (PDAC) on prognosis in 
+patients undergoing surgical resection.
+METHODS: Patients with data on preoperative body weight (BW) change followed by 
+surgical resection during 2008-2017 were selected. Large BW loss was defined as 
+weight loss >5% or >2% in individuals with body mass index less than 20 kg/m2 
+within 1 year preoperatively. Influence of large BW loss, ΔBW defined as 
+preoperative BW change (%) per month, prognostic nutrition index, and indices of 
+sarcopenia.
+RESULTS: We evaluated 165 patients with PDAC. Preoperatively, 78 patients were 
+categorized as having large BW loss. ΔBW was ≤ -1.34% per month (rapid) and > 
+-1.34% per month (slow) in 95 and 70 patients, respectively. The median 
+postoperative overall survival of rapid and slow ΔBW groups was 1.4 and 4.4 
+years, respectively (P < 0.001). In multivariate analyses rapid ΔBW (hazard 
+ratio [HR], 3.88); intraoperative blood loss ≥430 mL (HR, 1.89); tumor size ≥2.9 
+cm (HR, 1.74); and R1/2 resection (HR, 1.77) were independent predictors of 
+worse survival.
+CONCLUSIONS: Preoperative rapid BW loss ≥1.34% per month was an independent 
+predictor of worse survival of patients with PDAC.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/MPA.0000000000002186
+PMID: 37099784 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
