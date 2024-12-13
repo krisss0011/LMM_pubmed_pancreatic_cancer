@@ -1,0 +1,1374 @@
+nature communications
+Article https://doi.org/10.1038/s41467-022-32308-x
+Minimally invasive detection of cancer using
+metabolic changes in tumor-associated nat-ural killer cells with Oncoimmune probes
+Deeptha Ishwar1,2,3,4,6, Rupa Haldavnekar1,2,3,4,6,
+Krishnan Venkatakrishnan1,2,4,5&B oT a n1,3,5
+Natural Killer (NK) cells, a subset of innate immune cells, undergo cancer-
+speci ﬁc changes during tumor progression. Therefore, tracking NK cell activity
+in circulation has potential for cancer diagnosis. Identi ﬁc a t i o no ft u m o r
+associated NK cells remains a challen ge as most of the cancer antigens are
+unknown. Here, we introduce tumor-associated circulating NK cell pro ﬁling
+(CNKP) as a stand-alone cancer diagnos tic modality with a liquid biopsy.
+Metabolic pro ﬁles of NK cell activation as a result of tumor interaction are
+detected with a SERS functionalized OncoImmune probe platform. We showthat the cancer stem cell-associated NK cell is of value in cancer diagnosis.
+Through machine learning, the feature s of NK cell activity in patient blood
+could identify cancer from non-cance ru s i n g5 u Lo fp e r i p h e r a lb l o o dw i t h
+100% accuracy and localization of can cer with 93% accuracy. These results
+show the feasibility of minimally invasiv e cancer diagnostics using circulating
+NK cells.
+Natural killer cells (NK cells), a subpopulation of lymphocytes
+demonstrate spontaneous cytotoxicity towards tumors andviruses
+1. NK cells are part of the innate immune system with an
+essential function as the ﬁrst line of defense against cancer
+development2,3. Moreover, NK cells do not require previous sen-
+sitization to recognize tumors4. As NK cells can discriminate
+between cancerous cells from other healthy cells, the diagnostic
+value of NK cell activity is signi ﬁcant. The ﬁeld of immunotherapy
+has gained momentum in the last few years5–7, but the possibility of
+cancer diagnosis with NK cells has been overlooked. In adults, NKcells account for 5% to 20% of total lymphocytes in circulation
+8.A s
+a result, NK cells will provide a realistic opportunity for cancerdiagnosis. We hypothesize that the presence of tumor will re ﬂect
+in the metabolic pro ﬁle of NK cells as a result of NK cell activation
+during tumor interaction. The signals derived from such anactivated state and quiescent NK cell state in circulation will enable
+accurate cancer diagnosis.
+Cancer heterogeneity, a hallmark of cancer and cancer stem cells
+(CSCs) have a critical activity in tumor initiation, sustained prolifera-tion and maintenance of tumor and help in metastasis. Cancer diag-nosis research has established the importance of CSCs, a highly
+tumorigenic subset of tumor cells demonstrating migration and
+apoptosis resistance
+9. These fundamental building blocks of carcino-
+genesis and cancer evolution are positively correlated to therapeuticfailures, drug resistance, and tumor relapse
+10–12. NK cells show pre-
+ferential cytotoxicity towards CSCs as compared to the differentiatedcounterparts
+13–15. The susceptibility of CSCs towards NK cells is
+attributed to the upregulation of cytotoxicity receptors on NK cellsand their respective ligands of CSCs. Moreover, CSCs enriched afterantiproliferative therapies show increased expression of stress ligandsReceived: 18 August 2021
+Accepted: 25 July 2022
+Check for updates
+1Institute for Biomedical Engineering, Science and Technology (I BEST), Partnership between Ryerson University and St. Michael ’s Hospital, Toronto, ON M5B
+1W8, Canada.2Ultrashort Laser Nanomanufacturing Research Facility, Faculty of Engineering and Architectural Sciences, Ryerson University, 350 Victoria
+Street, Toronto, ON M5B 2K3, Canada.3Nano Characterization Laboratory, Faculty of Engineering and Architectural Sciences, Ryerson University, 350 Victoria
+Street, Toronto, ON M5B 2K3, Canada.4Nano-Bio Interface facility, Faculty of Engineering and Architectural Sciences, Ryerson University, 350 Victoria Street,
+Toronto, ON M5B 2K3, Canada.5Keenan Research Center for Biomedical Science, Unity Health Toronto, Toronto, ON M5B 1W8, Canada.6These authors
+contributed equally: Deeptha Ishwar, Rupa Haldavnekar. e-mail: venkat@ryerson.ca
+Nature Communications |         (2022) 13:4527 11234567890():,;
+1234567890():,;resulting in NK cell sensitization16. Therefore, targeting the signals of
+CSC-associated NK cells may prove to be an effective cancer diagnosticapproach.
+For detection of the rare signals of tumor-associated NK cells in
+circulation, an ultrasensitive sensor is necessary. It is very dif ﬁcult to
+identify tumor-associated NK cells as most cancer antigens areunknown. Currently, there is no diagnostic tool to detect tumor-associated NK cells in circulation. Therefore, a marker-free approachwas necessary. Furthermore, the use of blood samples without cellularisolation was essential to preserve the integrity of the rare signals of NKcell interaction with tumor
+17. The ultrasensitive technique of Surface-
+enhanced Raman scattering (SERS) was adopted as the detectionmethodology. SERS has demonstrated the capability of marker-freediagnosis
+18. SERS interconnects biomolecular chemistry and physics to
+biomolecular functions. Exploration of the complex NK Cell functional
+signatures can be achieved intuitively with SERS19. However, SERS
+nanostructures are well known for signi ﬁcant challenges in achieving
+reproducible and uniform Raman response. One-dimensional and two-dimensional distribution of hot spots suffers from limited densityresulting in inhomogeneous signal distribution and non-reproduciblesignals. Uniform SERS active sites are extremely dif ﬁcult, expensive,
+and time-consuming to produce. To overcome this limitation, wedeveloped a nickel-based metal-semiconductor probe system for thegeneration of stable and reproducible signals. Nickel is an inexpensivecatalyst with numerous critical features, including oxidative additionand easy access to different oxidation states, which are signi ﬁcant in
+the development of metal-semiconductor nano systems
+20–22.T h e s e
+fundamental properties of nickel enable a wide range of applicationsincluding SERS. The plasmonic enhancement of nickel is widelyreported
+23–29in addition to the charge transfer-based enhancement.
+Consequently, the introduction of a hybrid material composed ofnickel and nickel oxide results in not only a signi ﬁcantly improved
+SERS signal but also a signal that can be reproduced, which is extre-mely valuable for cellular diagnostic applications with semiconductor-based nanosensor technologies. Such materials (metal-semi-conductor) will also make it possible for more substances to be can-didates for Raman sensing. Synthesis of large quantities of
+nanomaterial is equally challenging. Here we have demonstrated the
+use of femtosecond laser fabrication methodology, which is amend-able for mass production useful in large-scale research on cellularstructures and intracellular signals. Additionally, for the sensor tobe robust, highly reproducible signals are required. The use of themultiphoton ionization mechanism of ultrashort femtosecondpulsed laser results in uniform production of multi-mode probesthat are highly reproducible. The modern ﬁber-oscillator/ ﬁber-
+ampli ﬁer design of this laser provides high spatial mode quality with
+very low noise performance. The ﬁber ampli ﬁer of this laser minimizes
+variation of energy levels. This results in very stable peak power and
+ionization energy performance resulting in the synthesis of nano-
+particles with minimal distribution and dimension variation.“OncoImmune probe platform ”was synthesized with 3D networks of
+nickel nanoprobes. The shape of the probes was tuned for ultra-sensitive detection.
+In this work, we explore the feasibility of using the signals derived
+from cancer-cell-associated NK cells as well as CSC-associated NK cellsas a stand-alone cancer diagnosis methodology. OncoImmune probeplatform functionalized with SERS capability is introduced for under-taking circulating NK cell pro ﬁling (CNKP) for cancer diagnosis. This is
+achieved by atomic scale narrowing of the probe apices resulting in asubstantial increase in the localized surface plasmon resonance (~650-
+fold enhancement with a limit of detection of up to femtomolar
+(10
+−15M) concentration). This marker-free approach enables the gen-
+eration of the holistic pro ﬁles of the metabolic states of NK cells.
+SERS pro ﬁling of NK cells associated with hard-to-detect cancers
+(triple negative breast cancer, small cell lung cancer, colorectaladenocarcinoma cancer encompassing about 60% of cancer cases) is
+achieved with single-cell sensitivity with highly reproducible signals.CNKP of cancer-cell-associated NK cells and CSC-associated NK cellsdemonstrates well-de ﬁned, distinct, cancer-speci ﬁcs i g n a l s .W e
+experimentally show the preferential targeting of CSCs by NK cells
+compared to cancer cells with a 1.4-fold increase ( p< 0.0001 ttest) in
+activation for CSC-associated NK cells. This also demonstrates that theuse of CNKP of CSC-associated NK cells is useful for cancer diagnosis.The machine learning model trained with SERS signals of NK cellactivity in cell culture can identify cancer from non-cancer with a verysmall amount of peripheral blood (5 µL) without the need for cellular
+isolation with 100% prediction accuracy. Localization of tumor shows aprediction accuracy of up to 93%. As the training data is obtained fromeasy to collect cell-culture, this approach eliminates the disadvantagesof insuf ﬁcient human data for training. By utilizing tumor-associated
+NK cell signals in peripheral blood, CNKP has the potential to improve
+minimally invasive cancer diagnostics.
+Results and discussion
+Prediction of tumor-associated NK cells for cancer diagnosis
+method
+In this study, we report that molecular probing of NK cells has the
+potential to provide diagnostic information for cancer patients. AsCSCs are resistant to antiproliferative therapies and have the ability torepopulate bulk tumor
+30, it is important to identify CSCs. In this study,
+the existence of CSCs was determined by observing changes in NK cell
+expressions. To detect the presence of CSCs, NK cells were selected for
+several reasons. NK cells forming the critical part of the innate immunesystem, are the ﬁrst line of defense against cancer and are responsible
+for the cancer immune surveillance
+3. Additionally, NK cells do not
+require any prior sensitization to recognize tumors4.M o r e o v e r ,
+amongst all immune cells, only NK cells demonstrate preferentialcytotoxicity towards CSCs
+16,31,32. Although CSCs are able to escape
+other immune cells, CSCs cannot escape NK cell surveillance anddemonstrate vulnerability towards NK cells. Therefore, we hypothesizethat the presence of CSCs will naturally activate NK cells with signaturemolecular changes, enabling identi ﬁcation of CSCs and hence the
+presence of cancer. Figure 1illustrates this diagnostic approach. For
+this purpose, NK cells were cocultured with cancer cells as well asCSCs. This led to NK cells exhibiting three phenotypes based on cell-speci ﬁc association. Consistent with this idea, we obtained naïve NK
+cell spectra, cancer-associated NK cell spectra, and CSC-associated NKcell spectra from cell culture. The three phenotypes form the basis forthe distinction of cancer diagnosis in this study. Analysis of SERSspectra of human blood samples based on the similarity to the SERSspectra of NK cell activity using a simple machine learning algorithmwas undertaken. We hypothesize that the Raman signals of NK cellinteraction with cancer cells and CSCs can be detected from patient
+blood. Thus, we ﬁrst cocultured NK cells with cancer cells, CSCs and
+non-cancer cells and collected SERS signals using SERS functionalizedOncoImmune Probe Platform.
+In this study, machine learning (ML) - a sub ﬁeld of arti ﬁcial intel-
+ligence that has evolved rapidly in recent years was adopted for pre-diction. Unlike conventional techniques, ML techniques have thecapabilities of addressing complex problems involving massive com-binatorial spaces or nonlinear processes without incurring massivecomputational costs
+33. We have explored the use of ML by adopting
+the ML approach for cancer diagnosis, to address the complex mole-cular ﬁngerprinting of tumor-associated NK cells for prediction of
+cancer. ML tools have consistently generated, tested, and re ﬁned sci-
+entiﬁcm o d e l s
+34,35. This family of statistics-based methods that can
+make predictions of properties of molecules and materials withoutinvoking computationally demanding electronic structure calculationshas the potential to accelerate a variety of applications in chemical andmolecular sciences including Raman spectroscopy. The spectralArticle https://doi.org/10.1038/s41467-022-32308-x
+Nature Communications |         (2022) 13:4527 2OncoImmune Probe PlatformTraining Data
+Signals of Cancer
+Signals of Non Cancer CSC Associated NK Cell on OncoImmune
+Probe Platform hv SERS
+ Non-Cancer Cell Associated Natural Killer Cell 
+on OncoImmune Probe PlatformCancer cell and Cancer Stem Cell Associated
+Natural Killer Cell 
+Cytotoxicity ReleaseNK CellCSC
+NK CellNon Cancer
+Cell Inhibitory ReceptorNon-Cancer Cell Associated
+Natural Killer Cell Cancer Cell Associated NK cellCancer Stem Cell Associated NK cell
+OncoImmune Probe Pla tform Assisted 
+Single Cell Map &  Raman SpectraMachine Learning Cancer Cell Associated
+Natural Killer CellCancer Stem Cells
+Cancer CellCancer Stem Cell
+Associated
+Natural Killer CellBlood ﬂow 
+Circula ting Natural Killer cells
+Cancer Patient Non Cancer
+Non Cancer CancerOncoImmune Probe Pla tform Assisted 
+Single Cell Map & Raman SpectraCancer Stem Cell
+Associated
+Natural Killer CellNon-Cancer Cell
+Associated
+Natural killer CellDistance to K-means Nearest Group
+0204060
+PLSDA Training Model
+Prediction of Cancer
+Sensitivity (Cancer) 100 %
+Non Cancer Cancer
+OncoImmune Probe Platform-Based
+Cancer Diagnosis with Natural Killer CellsPrediction 
+OncoImmune Probe Platform
+hv
+OncoImmune Probe PlatformSERShvSERSOncoImmune Probe PlatformNon-Cancer Cell
+Associated
+Natural killer CellCancer Stem Cell
+Associated
+Natural Killer Cell
+Non-Cancer Cell
+Associated
+Natural killer CellCancer Stem Cell
+Associated
+Natural Killer CellCancer Non Cancer1.4
+1
+0.6
+0.2
+01
+1AUC 1.0000
+Fig. 1 | Schematic representation of working of circulating natural killer (NK)
+cell pro ﬁling (CKNP) with OncoImmune probe platform. Left panel demon-
+strates training dataset collection with tumor (cancer —purple spectra and CSC-
+associated NK cell —red spectra) and non-cancer-cell-associated NK cell Raman
+proﬁle—green spectra. Middle panel demonstrates model learning. Exploratory
+analysis with K-means clustering was performed. PLSDA (Partial Least SquaresDiscriminant Analysis) was then applied. Right panel depicts schematic of circu-
+lating NK cells interacting with cancer and cancer stem cells. A small volume (5 µl)
+of buffy coat (cancer patient —blue spectra non-cancer —pink spectra) was dropped
+on the OncoImmune probe platform and Raman spectra were obtained. Analysis of
+the spectra based on the similarity of NK cell activity using machine learningalgorithm demonstrated very high accuracy.Article https://doi.org/10.1038/s41467-022-32308-x
+Nature Communications |         (2022) 13:4527 3dataset from co-culture was used to train the machine learning model
+with binary classi ﬁcation (cancer & non-cancer). The supervised model
+successfully classi ﬁed the co-culture data into two clusters. Human
+blood samples of cancer and non-cancer were also classi ﬁed through
+this model.Synthesis characterization of OncoImmune probe platform for
+in-silico detection of cancer
+We successfully synthesized cubiform networks of nickel nanoprobes
+using an ultrafast femtosecond laser. Figure 2a shows a schematic of
+femtosecond laser ablation on nickel substrate generating nickel ions,
+Low pressure nitrogen environment
+Expanding
+Plume
+OncoImmune Probe PlatformNeutral Nickel
+Nickel Ionized NickelSynthesis of
+3-D Nickel Nano-network 
+OxygenNickelMultiphoton Ionization
+NiNi
+NiO
+(f) Raman Characterization - 
+Presence of Nickel and Nickel Oxide(c) Extremely Small Size and Narrow Configuration 
+of Atomic Scale Apices of Nano Probes
+Generating Significant Signal Response(b) 3D Networks of Nano Probes 
+Generating Complex Nanostructures for
+Efficient Trapping and NK Cell Interaction(d) EDX - Presence of Nickel and 
+Nickel Oxide(a)
+Raman Shift [1/cm]1000 1500
+Nano Probe Size (nm)082545
+22
+0-1 1-2 2-3 3-4 4-5102040
+30 Frequency(e) 
+0100 Raman Intensity (arb. units)200
+Fig. 2 | Synthesis and characterization of OncoImmune probe platform for in-
+silico detection of cancer. a Schematic representation of multiphoton ionization
+resulting in the formation of intricate 3D nickel nano network of the Oncoimmune
+probe platform. bHigh-resolution scanning electron microscopy (HRSEM) image
+of the OncoImmune probe platform demonstrating 3D networks of the probesgenerating maze-like sensing platform. Scale bar = 200 nm. cHigh-resolution
+transmission electron microscopy (HRTEM) demonstrating the small size of theprobes. Scale bar = 5 nm ( d) energy dispersive x-ray spectroscopy (EDX) showed the
+presence of nickel and nickel oxide-based probes in the Oncoimmune platform.eProbe size distribution frequency. Samples n= 100 independent particles. For
+particle size calculation, 100 independent particles were measured, and ﬁve inde-
+pendent experiments were performed. fRaman spectra demonstrating the pre-
+sence of nickel and nickel oxide peaks. Raman measurements were taken 10 timesand averaged.Article https://doi.org/10.1038/s41467-022-32308-x
+Nature Communications |         (2022) 13:4527 4neutral species, and nickel radicals. The Yb-doped ultrafast, femtose-
+cond laser pulse consists of high-energy photons that arrive in a near-simultaneous (10
+−15seconds) interval36.H i g hp e a kp o w e rf a c i l i t a t e dt h e
+augmented ablation of the nickel substrate as more than one photon
+can interact simultaneously facilitating direct multiphoton ionization
+(MPI). MPI of the nickel substrate caused excitation of the electronsfrom the valence band to the conduction band. These free electronsacquired more energy by inverse bremsstrahlung (IB) absorption,wherein the electrons acquire more kinetic energy from the incomingphoton
+37. MPI together with IB absorption created an electron ava-
+lanche causing further ionization. As the duration of the pulse is muchshorter than the time taken by nickel electrons to conduct heat, thereis a phase change where the solid nickel becomes a super-heatedliquid. Above, the ablation threshold strong atomization and ioniza-tion of the super-heated liquid occurs and results in explosive boiling
+of the liquid with subsequent vaporization. This phase change caused
+an irreversible breakdown of the nickel crystalline structure into itsconstituent nickel ions, molecules, neutrals, and electrons. The kineticenergy of the ejected ions is considerably high, and the peak kineticenergy of nickel ions is estimated to be around 0.5 KeV
+38. Above and
+around the ablation area, an evaporation layer known as the Knudsenlayer is formed, which contains ions, atoms, and molecules
+39.W i t h
+continuous vaporization, the plume gets supersaturated, and nuclea-tion begins to appear. The presence of background gas altered theexpansion kinetics of the plume and resulted in a change in the shapeand chemical composition of the nanoparticles. Under low-pressure
+nitrogen, two observations were made. First, nitrogen gas increased
+the condensation of vapor and resulted in the formation of smallernanoparticles, as there is less time for nuclear growth. Second, thefaster condensation and the supersaturated plasma increased thepressure within the plume and resulted in cubic-shaped nanoparticleswith sharp edges are formed. Under low-pressure oxygen gas, thetrend was reverse with multi-faceted roughly spherical nano shapesbeing produced with dimensions bigger compared to nanoparticlesmade with low-pressure nitrogen gas
+40. Figure 2b shows scanning
+electron microscopy (SEM) image of synthesized nanoparticles. Sur-face morphology and topography indicate a network of nano-scale
+probes in three-dimensional layered assemblies. Figure 2cs h o w sa
+transmission electron microscopy (TEM) image of the probes showingthe small size of probe with sharp features (Supplementary Figs. 1a –c).
+The small size favors excellent SERS signal. Particle size analysis wasd o n eu s i n gI m a g e Js o f t w a r e .T h em e d i a np a r t i c l es i z ew a s4 . 3 n m(Supplementary Fig. 1d).
+Energy dispersive x-ray spectroscopy (EDX) was done to under-
+stand the chemical composition of the probe containing nickel metalcomponents together with nickel oxide components. Figure 2ds h o w s
+the majority of nickel peaks and an oxygen peak. Figure 2fs h o w s
+Raman characterization of OncoImmune probe sensor with nickel and
+nickel oxide peaks. X-ray photoelectron spectroscopy (XPS) was
+undertaken for analysis of surface functional groups. SupplementaryFigure 2 shows the XPS- O1S,C1S, and Ni2P spectra which provided
+information on the material composition as well as the surface prop-erties of the probes. The peak positions are presented in Supplemen-tary Table 1. On curve ﬁtting of Ni2P spectra with Gaussian function,
+the presence of two spin-orbital regions representing Ni 2 p1/2 at the
+binding energy of 856 eV and Ni 2p 3/2 at the binding energy of 862 eV
+were evident
+41. Shoulder shake-up peaks at higher binding energies
+874 eV and 880 eV were also present. The energy difference of 17 eVbetween the Ni 2p3/2 and Ni 2p1/2 supports the existence of nickel
+oxide (NiO)
+42,43. The curve ﬁtting of O1Sspectra showed four distinct
+p e a k s .T h ep e a ka t5 2 9e Vw a sa s s i g n e dt oc o r el e v e lo fO2-anions. The
+peak at 531 eV was assigned to the lattice Oxygen and the peak at533 eV was assigned to the defective sites within the oxide crystal,adsorbed oxygen or hydroxide groups while the small peak at 534 wasdue to the adsorbed water
+44.T h e C1Sspectra showed peaks at 284 eVassigned to C-C and C –H hydrocarbon states. The peak at 286 eV was
+due to C –OH and C –O bonds while the peak at 288 eV was attributed to
+carbon atoms bound to oxygen with double bond C = O43.
+Molecular level detection with OncoImmune probe platform
+To detect a particular population of NK cells associated with a tumor,
+we require an ultrasensitive sensor capable of detecting minute con-centrations in blood. Therefore, we evaluated the sensitivity of theprobe using the hematologically compatible leukocyte marker R6G(rhodamine 6 G) (Fig. 3a). As shown in Fig. 3b, the peaks at 612 cm
+−1,
+773 cm−1, 1126 cm−1, 1183 cm−1,1 3 1 3 c m−1,1 3 6 3 c m−1, 1513 cm−1and
+1651 cm−1were evident. The detailed Raman assignment is presented in
+Supplementary Table 2. We tested three probes to optimize the sensor.Figure 3e shows TEM images of the three types of probes. We observed
+highest SERS ~ 650-fold with the probes with the smallest size (median
+size 4.3 nm) and sharp cubical geometries. The medium-sized probes
+(median size 5.13 nm) with partially rounded corners demonstrated~450-fold enhancement. The probes with the largest size (median size5.35 nm) with round geometries demonstrated lowest enhancement~430-fold enhancement. Although the size of the probes was instru-mental in increasing the surface area, the probes had a very similarparticle size distribution. Therefore, we hypothesize that the sub-stantial variation in the enhancement was due to the change in thegeometry (Supplementary Fig. 3a, b, e, f)).
+As shown in Fig. 3b, the limit of detection of R6G was done with
+varying concentrations of R6G and their corresponding SERS signal.
+We used 1 × 10
+−6,1×1 0−9,1×1 0−12,1×1 0−15and 1 × 10−18M concentrations
+of R6G. The SERS intensity was observed for all the peaks except atattomolar concentrations. We were able to detect the Raman signal ofthe analyte in femtomolar range which is necessary for the rapiddetection of trace levels of tumor-associated NK cells. The SERSenhancement was substantially increased a combination of differentmechanisms that bring about intense SERS enhancement in the syn-thesized nickel probes (Fig. 3c, d). The interconnected nickel nanop-
+robes geometries were capable of augmenting the electromagneticﬁeld through collective free electron oscillations
+45, at resonant fre-
+quency called localized surface plasmon (LSPR)46,47.M a x w e l l ’se q u a -
+tion for electrical ﬁeld enhancement was solved for a de ﬁned boundary
+condition using FDTD simulation48,49.T h e ﬁnite element simulation
+model was created with ANSYS software to assess the electrical ﬁeld
+strength in the proximity of nickel nanoprobes. The result obtained for5 nm nanoprobes in dielectric medium on irradiation with 532 nmexcitation source and 785 nm excitation source is presented in Sup-plementary Fig. 3a, b. The simulated data shows the average electricalﬁeld enhancement on the surface to be 0.485 eV and 0.461 eV for 532
+and 785 nm excitation, respectively. The electrical ﬁeld enhancement
+at a single hotspot (sharp edges of the cubes) were calculated to be2.73 eV and 2.62 eV at 532 and 785 nm respectively (Supplementary
+Fig. 3a, b). The intensity of enhancement is directly proportional to the
+fourth power of the amplitude of the electric ﬁeld ( E
+elec)i nt h er e g i o n
+of the probes ( EscatαEelec4). Additionally, when the number of probes
+was increased, the electrical ﬁeld enhancement also increased sub-
+stantially (1.4-fold with two probes). Therefore, the presence of hun-dreds of small probes in the laser spot will exponentially improve thesignal. This in addition to the presence of multiplicative chargetransfer resonance has resulted in substantially enhanced SERS.
+The large surface area of the probe surface allows the adsorption
+of molecules on the surface of the probe. R6G was used as analyte toinvestigate SERS activities of nickel nanostructures due to theirexcellent adsorption on the nickel surface
+50. The adsorbed molecule in
+contact with nickel nanoprobes displays charge transfer effect due to
+Herzberg-Teller vibrionic coupling. The wavelength-dependent SERSshows selective enhancement of b2 modes of R6G molecule (Fig. 3d).
+The Herzberg –Teller vibrionic coupling is brought by the interaction
+of excited state (LUMO) of R6G molecule and fermi level electrons inArticle https://doi.org/10.1038/s41467-022-32308-x
+Nature Communications |         (2022) 13:4527 5OncoImmune Probe Platform
+( e ) Configuration of  Probes by 
+          Size & Atomic Scale Narrowing 
+of the Probe Apices Rhodamine 6G
+Small Probes with Atomic Scale 
+Sharp Apices
+Medium Probes with Blunt Apices
+Large Probes with Round Apices(a)
+Median 5.13 nm
+Median 5.35 nmMedian 4.3 nm
+~430 fold SERS with
+Large Probes with Round Apices~450 fold SERS with
+Medium Probes with Blunt Apices~650 fold SERS with
+Small Probes with Atomic Scale Sharp Apices( f ) Rhodamine 6G Raman Enhancement
+Without OncoImmune Probe Pla/g414orm
+773131313631513Raman Intensity (arb. units)Micro Molar
+Nano Molar
+Pico Molar
+Femto Molar
+A/g425o Molar
+800 1000 1200 1400 1600
+Raman Shi/g332 [ 1/cm](b) Detec/g415on Up To Femto Molar Concentra/g415on
+600 900 1200 1500
+Raman Shift [1/cm]hvSERS
+Φ = 5.01 eV
+hv
+Efm
+CouplingΦ = 5.2 - 6.2 eV
+Ess
+Ni
+NiO4LUMO
+HOMOBand Gap 
+3.6 eV
+VBCB
+5.4 eV1.8 eV
+R6G Activation of Multiple SERS Mechanisms
+(c)
+(d)
+Excitation with 532 nmExcitation with 785 nm
+600 900 1200 1500
+Raman Shift [1/cm](g) Multi Wavelength ExcitationRaman Intensity (arb. units)
+Raman Intensity (arb. units)
+00001
+0.75
+0.65
+0.11900
+0
+017000101010101
+y(m) (x10-9 )100
+-100050
+-50
+x(m) (x10-9 )-100 50 0 -50 1002.73
+2.28
+1.83
+1.38
+0.933
+0.485
+0.0362
+Fig. 3 | Molecular level detection with OncoImmune probe platform.
+aSchematic representation of Rhodamine 6G analyte on OncoImmune probe
+platform. bDetection of analyte at femtomolar concentration was achieved with
+nanoprobes with sharp apices (representative spectra at micromolar —maroon,
+nanomolar —red, picomolar —pink, femtomolar —orange, attomolar —yellow.
+Demonstration of multiple SERS mechanisms with ( c) Finite-Difference-Time-
+Domain (FDTD) simulation of Ni probes demonstrating the presence of localizedsurface plasmon resonance and ( d) schematic representation of charge transfermechanism. eTEM images of sharp & cubical, blunt, and round probes with median
+diameter of 4.3 nm, 5.13, and 5.35, respectively. scale bar = 5 nm. fSERS enhance-
+ment with R6G observed with sharp, blunt, and round probes were 650-fold (blue),
+450-fold (orange) and 430-fold(green) enhancement respectively. gWavelength
+dependent SERS at 532(blue) and 785(red) nm demonstrates presence of charge
+transfer. All spectra shown are an average of ﬁve spectra. Source data are provided
+as Source Data File.Article https://doi.org/10.1038/s41467-022-32308-x
+Nature Communications |         (2022) 13:4527 6the nickel51. The net result of this interaction is a broadening of the
+virtual level of the molecule and charge transfer between metal andR6G molecule. As shown in supplementary Figure 3g, charge transfer isalso evident from the UV –V i sa b s o r p t i o ns p e c t r ao fR 6 Gm o l e c u l ew i t h
+nickel nanoprobes compared to pure nickel probes and pure R6G. In
+addition to the plasmonic and charge transfer mechanism, nickelmetal enhances the electromagnetic ﬁeld of NiO by forming a strong
+local electric ﬁeld at Ni/NiO interface. Since the work function of Ni
+(5.01 eV) is much smaller than NiO (5.2-6.2 eV), the electrons aretransferred from nickel to NiO, increasing the negative charge in theinterface close to NiO and equal positive charge in the interface closeto nickel. Metallic Ni in ﬂuence the near band-edge emission of NiO and
+electrons from the interface move to conduction band. This increasedlocal electrical ﬁeld facilitates SERS
+52. Additionally, the nickel nanop-
+robes system has materials with various refractive indices (nickel is
+~1.96, NiO is ~2.8 and air = 1)53. These varying refractive indices allow
+multiple light scattering54and multiplication of Raman photons
+thereby improving Raman enhancement55.
+Additionally, the 3D interconnected networks have a critical
+function in the overall SERS ampli ﬁcation. Multiple SERS active sites
+were introduced due to the presen ce of 3D networks resulting in
+localized surface plasmon resonance at the complex formation56.S E R S
+intensity can be determined by the width of individual interparticlegaps
+57. In this case, the presence of narrow width gaps as well as larger
+w i d t hg a p si se v i d e n ti nt h e3 Ds t r u c t u r e so fp r o b e sa ss h o w ni nt h eTEM. FDTD simulation as per Supplementary Fig. 3c, d demonstrated
+substantial increase in the intensity of LSPR with greater number of hot
+spots. The multiple layers of the 3D nanostructures had dual function —
+ﬁrst to produce plasmonic enhancement and second to adsorb analyte
+molecules resulting effective charge transfer. The multiplicative effectof the plasmonic enhancement due to the localization of light in themultiple layers of ultra-small gaps in the probes and charge transferenhancement resulted in substantially enhanced signal response
+58.
+OncoImmune probe platform assisted trapping and circulating
+natural killer cell pro ﬁling for cancer diagnosis-CNKP
+Human peripheral blood mononuclear cells are composed of a diverse
+array of immune cells, including T cells, NK cells, Dendritic cells, and
+monocytes. We began by demonstrating the OncoImmune probeplatform capacity to discriminate between various types of PBMCs. Asseen in Fig. 4e, the spectra of diverse cell types exhibit unique char-
+acteristic peaks. The spectra are distinguishable because of the distinctRaman shifts observed for different types of cells. The principal com-ponent analysis demonstrated clear clustering of cells into four sepa-rate groups (Fig. 4f). Additionally, the hierarchical cluster analysis
+showed a dendrogram with distinct clustering (Fig. 4g). As a result, we
+determined that NK cells may be recognized from other types ofimmune cells by their distinct characteristic spectra. PCA (Principal
+Component Analysis) was used to characterize NK cells. PCA decreases
+the dimensionality of data by decomposing the Raman spectra math-ematically into primary components. The ﬁrst principal component
+showed a positive association between NK cells and all other cells and anegative correlation between all other cells (Fig. 4h). Using this feature,
+we de ﬁned the NK cell signature ’s strongest peak in the PC1 loading
+spectra (Fig. 4i). Then, PBMCs were mapped using Raman spectro-
+scopy. As seen in Fig. 4j, we were able to successfully demonstrate the
+presence of NK cells in the PBMC mixture. This investigation estab-lished unequivocally that circulating NK cells are capable of generatingdistinct NK cell signature spectra that are highly distinguishable fromall other PBMC spectra and may be utilized as a cancer detection
+marker.
+Next, we investigated the metabolic states of NK cells using NK-92
+cell line and primary NK cells. Figure 4b shows signature Raman
+spectra of NK-92 cell with characteristic bands from carbohydrates,proteins and lipids. Raman assignment of all biological peaks reportedin this study are tabulated in Supplementary Table 3. Noticeable peaks
+are phenylalanine band at 1003 cm
+−1, CH deformation at 1450 cm−1and
+amide I at 1661 cm−1. However, the most distinct bands typical of
+lymphocytes are seen at 1522 cm−1and 1158 cm−1belonging to
+carotenoids59. Carotenoids are robust Raman scatterers and have
+characteristic Raman spectra. The presence of carotenoids in NK cellsis an indication of cytotoxicity and cell surface activation. Otherspectral peaks originate from enzymes in the dense granules within thecytoplasm
+60.F i g u r e 4d demonstrates heatmap of the holistic Raman
+proﬁle of NK cells demonstrating correlated cellular biomolecules.
+Supplementary Figure 4a show the primary NK cell spectra. The Ramanshifts of all major peaks of primary NK cell were identical to NK-92.Additionally, PCA was used to demonstrate the similarity betweenNK92 and primary NK cells. As can be observed from the PCA, the ﬁrst
+three major components were merged into a single cluster for NK92
+and primary NK cells, demonstrating the two cell types ’strong simi-
+larities (Supplementary Fig. 4b).
+NK cell function is dependent on the balance between inhibitory
+and stimulatory signals received through interaction with tumor cells.When the stimulatory signals are more than the inhibitory signals, NKcells mediate the killing of tumor cells. Hence, NK cell cytotoxicity isaffected by the dynamic environment the cell interacts with. Inpatients with cancer, the number of NK cells is increased. However,quanti ﬁcation of NK cells is often a poor indicator of the cause and
+severity of the disease. Therefore, we wanted to analyze the quality ofNK cell by investigating the metabolic state of NK cell to see the
+changes in the tumor microenvironment. In this study, we hypothesize
+that NK cells undergo metabolic changes on interaction with cancercells and CSCs. Our ﬁndings support our hypothesis that NK cells
+faithfully reproduce the changes in tumor cellular environment. Weﬁnd that NK cells change from inactive to active and vice-versa upon
+interaction with cancer cells and CSCs. The holistic analysis of mole-cular properties of the cells was possible due to the ef ﬁcient probe-cell
+interaction. First, the 3D interconnected structures of the OncoIm-mune probe platform entrapped the cells (Fig. 4c). The surface func-
+tionalization permitted cellular contact with the nanoprobes. Aspreviously shown in the XPS analysis, the presence of oxygen con-
+taining groups such as –OH, C –O, C=O, C –OH incorporated on the
+surface of the nanoprobes, instrumental in ef ﬁcient probe-cell
+interaction
+61–63. Substantially enhanced signal response was attrib-
+uted to the ef ﬁcient probe-cell interaction.
+Ultrasensitive detection wit h OncoImmune probe platform
+assisted CNKP
+NK cells have been known for their ability to selectively recognize and
+kill CSCs. However, in circulation, the amount of CSC associated withNK cell is very less. Therefore, we need ultrasensitive sensor that candetect trace levels of tumor-educated NK cells in circulation. Surface-
+enhanced Raman scattering (SERS) was adopted for ultrasensitive
+detection. SERS-based methods, very useful for monitoring intracel-lular proteins and other macromolecules such as lipids and nucleicacids enabled intensive analysis of cellular biochemical composition
+64.
+SERS-based molecular ﬁngerprints at the sub-cellular level will allow
+real-time information in a non-destructive way65. This marker-free
+approach will be useful for the analysis of minute intracellularchanges
+66. Variation in the biomolecular expression can be captured
+by the OncoImmune probe platform very effectively. The ability of thesensor to detect the NK cells even at a single-cell level will enable thedetection of rare CSC-associated NK cell signals in circulation. To showsingle-cell sensitivity of Oncoimmune probe platform Raman spectra
+of NK cells with serial dilution (from 100 NK cells in 10 µl to 1 NK cell in
+10µL) was undertaken (Fig. 5a). As shown in Fig. 5b, the increase in
+Raman intensity was directly proportional to the number of cellscaptured on the sensor. SERS intensity ratio I
+1450/I1485(lipid/DNA),
+I1450/I813(lipid/RNA), and I1450/I1650 (lipid/protein) demonstratedArticle https://doi.org/10.1038/s41467-022-32308-x
+Nature Communications |         (2022) 13:4527 7(a)
+(c)Natural Killer Cell Trapped on the 
+OncoImmune Probe Platform
+Nano Probes−2 −1 0 1 2
+Value0 300Color Key
+and HistogramCount
+Natural Killer CellsOncoImmune  Probe PlatformhvSERS(b)
+Raman Shift [1/cm]1600 1300 1000 700Raman Intensity (arb. units)Dendritic Cells
+Macrophages
+NK Cells
+T CellsT CellsNK Cells
+MacrophagesDendritic CellsPC4
+PC2PC1Dendritic
+CellsMacro
+phagesT Cells NK CellsRaman Intensity (arb. units)
+1366 cm-
+NK cells(e)(f)(g)
+(i)(h)
+Raman Shift [1/cm]1600 1400 1200 1000
+MacrophagesNK Cells
+T Cells
+Dendritic Cells(j)
+PC1 scores(d)
+Raman Intensity (arb. units)
+150
+100
+50
+0Variance Weighted Distance Between Cluster Centres Macrophages Dendritic Cells T Cells NK Cells
+01010101
+-40-20020
+-20
+0
+20
+100500-50
+0101
+Raman Shift [ 1/cm]600 1000 1400 1800
+Fig. 4 | Immune cell pro ﬁling for cancer diagnosis. Circulating natural killer cell
+proﬁling (CNKP) using SERS ( a) Schematic representation of NK Cell on OncoIm-
+mune probe platform ( b) Representative Raman spectra of NK cell demonstrating
+presence of various biomolecules of NK cells ( c) SEM image of NK cell trapped on
+the OncoImmune probe platform. Scale bar = 3 um and 1um respectively ( d)
+Heatmap of the holistic Raman pro ﬁle of NK cells demonstrating correlated cel-
+lular biomolecules. Identi ﬁcation of NK cells from the mixed population of PBMCs
+(e) Representative Raman spectra of various types of PBMCs —dendritic cells (red),macrophages(blue), NK cells(pink) and T cells(purple). Source data are provided as
+Source Data File. fPrincipal component analysis demonstrating clear clusters dif-
+ferentiating the immune cell types ( g) Hierarchical cluster analysis support PCA
+analysis demonstrating unique ﬁngerprints of PBMCs ( h) Score plot of PC1
+demonstrating variation in the signals of NK cells ( i) PC1 loading to de ﬁne signature
+peaks of NK cells for distinction in the mixed population of PBMCs ( j)N Kc e l l
+mapping of the OncoImmune probe platform. Scale bar = 20 μm. Raman mea-
+surements were taken 10 times and averaged.Article https://doi.org/10.1038/s41467-022-32308-x
+Nature Communications |         (2022) 13:4527 8100 cells in 10 μl 50 cells in 10 μl
+10 cells in 10 μl 1 cell in 10 μlRaman Intensity (arb. units)100 cells in 10 μl
+50 cells in 10 μl
+10 cells in 10 μl
+1 cell in 10 μl
+Raman Shift [1/cm]1800 1600 1400 1200 1000 800(a)
+R2 = 0.80 R2 = 0.84Ratio 1450\1485 Ratio 1450\813
+R2 = 0.94Ratio 1450\1650Raman Intensity (arb. units)Raman Intensity (arb. units)Raman Intensity (arb. units)11.21.4
+11.11.2
+1.21.31.4
+(c) Large Area Raman Mapping - Single Cell Sensitivity060808010
+(b)
+Fig. 5 | Single-cell sensitivity of OncoImmune probe platform. a Raman spectra
+of cells at 100 cells per µl (purple), 50 cells per µl (green), 10 cells per µl( c y a n )t o1
+cell per µl (red) cell density. Source data are provided as Source Data File. bRatio
+analysis at I1450/I1650 (lipid/protein) —pink line, I1450/I813 (lipid/RNA) —blue line
+and I1450/I1485 (lipid/DNA) —orange line demonstrated increasing trend with
+increasing concentration (R2 0.94, 0.84, 0.80 respectively). cLarge area mapping —100 cells per µl (purple map), 50 cells per µl (green map), 10 cells per µl (cyan map)
+to 1 cell per µl (red map) of OncoImmune probe platform demonstrating the ability
+to recognize NK cell signals at single-cell level. The gray maps with blue dots are
+schematic representation of cells on OncoImmune probe platform. Raman mea-
+surements were taken 10 times and averaged.Article https://doi.org/10.1038/s41467-022-32308-x
+Nature Communications |         (2022) 13:4527 9increasing trend with increasing concentration for immune cell cap-
+ture across all spectra of different concentrations. The linear regres-sion for the number of immune cells captured by the sensor to theRaman intensity is shown in the ﬁgure from 100 cells to a single cell ( R
+2
+0.80, 0.84 and 0.94 for I1450/I1485,I1450/I813,I1450/I1650 respectively).
+Figure 5c shows the high-resolution single-cell Raman mapping of NK
+cells demonstrating ability to detect cells at single-cell level. Supple-mentary Figure 5a shows TEM images of the platform taken at differentsites and a fair distribution of nanoparticles can be seen. An average of15 particles can be seen per random site ( n= 4, S.D 2.5) (supplementary
+ﬁgure 5b). Additionally, to show the excellent reproducibility, the
+relative standard deviation (RSD) was calculated using two SERS ana-lytes (crystal violet, methyl orange) and patient buffy sample. Byselecting 9 random spots, the RSD was calculated with 1176 cm
+−1,
+1111 cm−1and 1000 cm−1as the reference peak for crystal violet, methyl
+orange and buffy sample, respectively. Supplementary Figure 6 shows
+the uniform signal intensity with an RSD of 3.25 (crystal violet),3.92(methyl orange) and 10.98% (buffy). The high reproducibilityresulted in very low relative standard deviation demonstrating therobustness of this approach.
+Applicability of cancer-associated NK cells for cancer diagnosis
+We collected SERS spectral pro ﬁle data from three cancer-associated
+NK-92 cells (breast carcinoma (MDA-MB231), small cell lung carcinoma(H69-AR) and Colorectal cancer (Colo 205) by co-culturing NK92 withcancer cells for 24 h. After 24 h, 5 µl of the cocultured and tumor-
+associated NK-92 cells were dropped on the OncoImmune platform
+a n dS E R Ss p e c t r a lp r o ﬁle was obtained using 785 nm wavelength.
+Control NK-92 cells were grown separately, and SERS spectra wereobtained at 785 nm for comparison. The control NK-92 spectral pro ﬁle
+for non-cancer-associated NK cells correlated with the previouslyreported SERS spectral pro ﬁles of NK cells
+67,68. Casual observation of
+the SERS spectra of tumor-associated NK cells and non-tumor-associated NK cells show unexpected differences between controla n dt u m o r - a s s o c i a t e dN Kc e l ls p e c t r aa n db e t w e e nt h ed i f f e r e n tcancer-associated NK cells spectra.
+NK cells that are completely devoid of any tumor cell association
+showed characteristic Raman spectra with characteristic bands from
+carbohydrates, proteins, and lipids. This pro ﬁle can be correlated to
+the NK cells in circulation. Figure 4(b) show the signature Raman
+spectra of circulating NK cell. The band at CH deformation at 1450 cm
+−1
+and amide I at 1661 cm−1, amide II band at 1555 cm−1and amide III band
+at 1337 cm−1can be seen. Other spectral features are disul ﬁde bonds
+(S–S) between 500 and 550 cm−1and aromatic amino acids at 1004 cm−1
+(from phenylalanine), 830 cm−1and 854 cm−1(from tyrosine doublets),
+1340 cm−1of tryptophan69.
+The spectral intensity of tumor-associated NK cells was slightly
+altered compared to NK cells which have not associated with tumor
+cells (Fig. 6a). A heatmap of circulating NK cell pro ﬁles indicates a small
+difference in metabolic characteristics between NK cells associatedwith cancer and those not associated with cancer (Fig. 6b). This can be
+due to NK cell recognition of tumor and switching to an active mode.Breast, lung, and colorectal cancers differ in their prognosis andtreatment outcome due to their different signaling mechanisms andmolecular pathways. Consequently, the immune responses varybetween different cancers. Signi ﬁcant changes take place at the cel-
+lular level in NK cell activity with cancer cells as evidenced by the SERSproﬁle. Intracellular changes in NK cells due to upregulation or
+downregulation of proteins are drivers of spectral changes. Onobservation of the SERS pro ﬁle, the major contributing metabolites in
+breast cancer were disul ﬁde stretching proteins (increased), tyrosine
+(decreased), phenylalanine (decreased), nucleic acids (decreased)corresponding to 521 cm
+−1,8 5 4 c m−1, 1000 cm−1and 1662 cm−1,
+respectively. These collective data show that NK cells associated withdifferent cancer types are different (Fig. 7a–c).The association of NK cells with tumor did not result in a homo-
+genous signal as once thought of, rather they are uniquely hetero-genous with distinct subsets. Despite the presence of minordifferences, the principal component analysis (Fig. 6c) did not
+demonstrate clear clustering between cancer and non-cancer-cell-
+associated NK cells. The overlapping clusters can be possibly due tothe immune escape phenomenon exhibited by cancer cells on asso-ciation with NK cells resulting in the signals similar to the non-cancer-associated NK cell
+70. We observed a strong negative correlation on the
+dependence of NK cell SERS signature for diagnostic purpose withcancer cells (Fig. 6e). Since NK cells are preferentially cytotoxic to
+CSCs, we hypothesized that NK cells associated with CSCs could pro-vide a better diagnostic signature when compared with non-cancer-associated NK cell.
+Evaluation of CSC-associated NK cell for cancer diagnosis
+We compared the metabolic pro ﬁle of CSC-associated NK-92 cells. The
+major changes in NK-CSCs metabolites were a signi ﬁcantly decreased
+disulﬁde stretching proteins, relative increase in quantity of nucleic
+acids, decrease in tyrosine and phenylalanine, increase in glycogen andfatty acids and lipids, increase in carotenoids, phospholipids, cytosine,decrease in tryptophan corresponding to 521 cm
+−1,7 8 7c m−1,8 5 4c m−1,
+1000 cm−1,1 0 4 8 c m−1, 1137 cm−1, 1168 cm−1,1 2 6 8 c m−1,1 5 0 9 c m−1,
+1339 cm−1. The decrease in the peak at 520 cm−1of NK cell in association
+with CSCs indicate that NK-CSCs have regulated their Killer immu-noglobulin receptor (KIR) expression, suggesting a possible decrease
+in MHC expression by CSCs. This paves way for increased cytotoxicity.
+The loss or decreased expression of MHC in CSCs is correlated withbetter clinical outcomes and a promising strategy to reverse theimmune escape
+71. The most distinct bands typical of lymphocytes are
+seen at 1522 cm−1and 1158 cm−1belonging to carotenoids59.A sm e n -
+tioned earlier, carotenoids are robust Raman scatterers and havecharacteristic Raman spectra. Dramatic changes in the pro ﬁle of CSC-
+associated NK cells indicated the suitability of CSC-associated NK cellfor further analysis (Fig. 6e). One signi ﬁcant feature of this association
+is that unlike cancer cells, CSCs are unable to escape immune detectionwith NK cell and their association is readily re ﬂected in their tumor
+proﬁle. NK cells have a unique af ﬁnity for CSC as shown by many
+studies where NK cells lyse and kill CSC population in mice. Theobserved spectra show the immune cell stimulated/inhibited statusupon interaction with the cancer cells. Several markers that are indi-cative of lymphocyte activation were identi ﬁed from the spectra. The
+peak at 521 cm
+−1is a disul ﬁde band suggestive of the formation of
+immunoglobulins72. The disul ﬁde bonds are characteristic in Raman
+spectra and appear distinct and separated from other peaks and helpin the conformation of protein. NK cells exhibit immunoglobulinreceptor protein on its surface KIR involved in the education of NK cell.A comparison of a heatmap of circulating NK cell and CSC-associated
+NK cell shows substantial differences in metabolic characteristics
+(Fig. 6f). Principal Component Analysis (Fig. 6g). show clear separation
+of clusters between CSC-associated NK cells and non-tumor-associatedNK cells. K means clustering further con ﬁrmed the formation of clear
+clusters (Fig. 6h).
+NK cells have a major function in tumor control in early stages and
+tumor progression in late stages. NK cells being the ﬁrst line of defect
+against cancer, kill cancer cells without any prior sensitization. The NKcell also has a function in recruiting other immune cells into tumormicroenvironment. Their ability to sense the presence of tumor is byrecognizing the downregulation of MHC class molecule in stressedcells or tumor cells. NK cells preferentially kill these cells that show low
+expression of MHC class 1 receptor. NK cell mimic normal cell behavior
+when they interact with cancer cell (as seen with overlapping principalcomponents) due to their downregulation of MHC class I receptorleading NK cells to believe that cancer cells are a part of self. Thisimmune evasion is the hallmark of the cancer cell. On the other hand,Article https://doi.org/10.1038/s41467-022-32308-x
+Nature Communications |         (2022) 13:4527 10Raman Shift ( 1/cm )3200 2900 2600 1900 1600 1300 1000 700Raman Shift ( 1/cm)3200 2900 2600 1900 1600 1300 1000 700Non Cancer Associated
+Natural Killer Cell
+Cancer Cell Associated
+Natural Killer CellRaman Intensity (arb. units)( a )0204060
+Non Cancer Associated
+Natural Killer CellCancer Cell Associated
+Natural Killer Cell( c)
+PC1PC2PC3
+Cancer Cell Associated
+Natural Killer Cell
+Non Cancer Associated
+Natural Killer Cell−4 −2 0 2 4
+Value0 1500Color Key
+and HistogramCountCirculating Natural Killer Cell Profile 
+Cancer Cell Associated
+Natural Killer CellNon Cancer 
+Associated
+Natural Killer Cell( b )
+Distance to K-means Nearest Group( d )( e )
+Raman Shift ( 1/cm)3200 2900 2600 1900 1600 1300 1000 700Non Cancer Cell Associated
+Natural Killer Cell
+Cancer Stem Cell 
+Associated
+Natural Killer Cell
+Raman Shift ( 1/cm )3200 2900 2600 1900 1600 1300 1000 700
+−4 −2 0 2 4
+Value0 2000Color Key
+and HistogramCount
+Non Cancer Cell 
+Associated
+Natural Killer CellCancer Stem Cell Associated
+Natural Killer CellCirculating Natural Killer Cell Profile 
+Non Cancer Cell 
+Associated
+Natural Killer Cell
+Cancer Stem Cell 
+Associated
+Natural Killer Cell
+PC2PC3( f )
+( g )
+( h )Non Cancer Cell 
+Associated
+Natural Killer CellCancer Stem Cell 
+Associated
+Natural Killer CellPC1 Raman Intensity (arb. units) Raman Intensity (arb. units)Raman Intensity (arb. units)
+0
+-1515
+0-50
+500
+20-20020
+-20
+0-50
+500 50
+-500115001150
+01150
+0105
+Fig. 6 | Variation in the signals of cancer-associated NK cell, CSC-associated NK
+cell and non-cancer-associated NK cell. a Representative Raman spectra of non-
+cancer-cell-associated NK cells (green) and cancer-cell-associated NK cells (purple).
+bHeatmap of cancer-associated NK cell and non-cancer-associated NK cell.
+cPrincipal component analysis shows overlap between the clusters. dDendrogram
+of the distance for K-Means nearest group demonstrated mixed NK Cell associationsignals for cancer and non-cancer. eRepresentative Raman spectra of non-cancer-
+associated NK cell (green) and CSC-associated NK cell(red). fHeatmap of CSC-
+associated NK cell and non-cancer-associated NK cell. gPrincipal component
+analysis shows clear clustering. hThis observation is supported by dendrogram.
+Source data are provided as Source Data File. Raman measurements were taken 10times and averaged.Article https://doi.org/10.1038/s41467-022-32308-x
+Nature Communications |         (2022) 13:4527 11Raman Shift [1/cm]3200 2800 2400 2000 1600 1200 800
+Nucleic Acids Proteins LipidsRaman Shift [1/cm]3200 1600 800Difference Spectra 
+NK Cell with (CSC Associated 
+                           minus Cancer cell associated)
+PC2PC3
+Raman Shift [1/cm]3200 2800 2400 2000 1600 1200 800
+Nucleic Acids Proteins LipidsRaman Shift [1/cm]3200 1600 800PC2PC3(a) (b) (c)
+Raman Shift [1/cm]3200 2800 2400 2000 1600 1200 800Raman Intensity (arb. units)
+Nucleic Acids Proteins LipidsRaman Shift [1/cm]3200 1600 800Raman Intensity (arb. units)
+PC1PC2PC3(e) (f) (g)
+(i) (j)(k)( d )
+(h)
+(l) 
+Small cell Lung CSC
+Associated NK CellsSmall cell Lung cancer cells
+Associated NK Cells
+Colorectal CSC
+Associated NK CellColorectal cancer cells
+Associated NK CellTNBC CSC 
+Associated NK Cell
+TNBC Cancer Cell 
+Associated NK cell
+TNBC Cancer Cell Associated NK cell TNBC CSC Associated NK Cell
+ 
+Small cell Lung CSC
+Associated NK Cells
+Small cell Lung cancer cells
+Associated NK Cells
+Small cell Lung cancer cells Associated NK Cells 
+Small cell Lung CSC Associated NK CellsDifference Spectra NK Cell with (CSC Associated 
+                           minus Cancer cell associated)
+Difference Spectra NK Cell with (CSC Associated                            minus Cancer cell associated)
+Colorectal cancer cells
+Associated NK Cell
+Colorectal cancer cells Associated NK CellColorectal CSC
+Associated NK Cell
+Colorectal CSC associated NK CellTNBC CSC Associated NK Cell
+TNBC Cancer Cell Associated NK cellRaman Intensity (arb. units)Raman Intensity (arb. units) Raman Intensity (arb. units)
+Raman Intensity (arb. units)
+Raman Shift  521[1/cm] Raman Shift  854 [1/cm] Raman Shift 1004 [1/cm]
+Raman Intensity (arb. units)
+Raman Intensity (arb. units)
+Raman Intensity (arb. units)Raman Intensity (arb. units)
+Raman Intensity (arb. units)
+Raman Intensity (arb. units)
+Raman Shift  521[1/cm] Raman Shift  854 [1/cm] Raman Shift 1004 [1/cm]
+Raman Intensity (arb. units)
+Raman Intensity (arb. units)
+Raman Intensity (arb. units)
+Raman Shift 521[1/cm] Raman Shift  854 [1/cm] Raman Shift 1004 [1/cm]03200320
+04000200
+07500250020
+-20
+20
+0
+-20
+-2020 0050
+-50
+PC10 -20 20040
+-40PC1 020-20040
+-40040
+-4000.8
+-0.35
+00.35
+-0.5
+00.4
+-0.4
+Fig. 7 | Variation in the signals of cancer cell and CSC-associated NK Cell.
+aSpectral variation for triple negative breast adenocarcinoma. Pink spectra for
+CSC-associated NK cell, maroon spectra of cancer-cell-associated NK cell.bDifference spectra for breast. cPrincipal component analysis showing clear
+separation of cancer-associated, and CSC-associated NK cells. dTwo tailed ttest of
+distinct peaks in difference spectra demonstrate signi ﬁcant variation. (****mean
+P≤0.0001). eSpectral variation for small cell lung adenocarcinoma. Pink spectra
+for CSC-associated NK cell, maroon spectra of cancer-cell-associated NK cell.
+fDifference spectra for lung. gPrincipal component analysis showing clearseparation of cancer-associated, and CSC-associated NK cells. hTwo tailed ttest of
+distinct peaks in difference spectra demonstrate signi ﬁcant variation. (****mean
+P≤0.0001). iSpectral variation for colorectal cancer. Pink spectra for CSC-
+associated NK cell, maroon spectra of cancer-cell-associated NK cell. jDifference
+spectra for colorectal. kPrincipal component analysis showing clear separation of
+cancer-associated, and CSC-associated NK cells. ltwo tailed t test of distinct peaks
+in difference spectra demonstrate signi ﬁcant variation (****mean P≤0.0001 n=6 0
+independent cell spectra. Source data are provided as Source Data File. Raman
+measurements were taken 10 times and averaged.Article https://doi.org/10.1038/s41467-022-32308-x
+Nature Communications |         (2022) 13:4527 12NK cell on interaction with CSC show separate clustering. Therefore,
+we con ﬁrm that the use of CSC-associated NK cell would be ideal for
+diagnostic purposes. The differences in the CSC-associated NK cell andcancer-associated NK cell spectra are reproducible and signi ﬁcant
+(Fig. 7b, f and j) as seen with t-test. ( P<0 . 0 0 0 1 ) .
+Principal component analysis demonstrated clear clustering of PC
+scores con ﬁrming substantial variation in the signature of breast, lung
+and colon CSC-associated NK cells compared to non-cancer-associatedNK cells (Fig. 7c, g and K). Our results clearly demonstrate the high
+correlation of NK cells with CSCs and NK cell signatures re ﬂecting the
+watchful vigilance of tumors by NK cells. Our results strongly show theplasticity of CSC-associated natural killer cells phenotypes with dif-ferent cancer types of CSCs re ﬂected in the circulation which can be
+useful in cancer diagnosis. Similar to NK-92 cells, SERS spectra of pri-mary NK cells demonstrate a similar pattern on interaction with CSCs
+of breast, lung and colorectal (Supplementary Fig. 4c). Supplementary
+Figure 4d shows the principal component analysis demonstratingclear separation of clusters between CSCs and non-cancer cellsusing the spectra of primary NK cells cocultured with CSCs. This fur-ther established that even primary NK cells demonstrate CSC-speci ﬁc
+activity.
+We also looked at how tumor-associated NK cells in-vitro com-
+pared to the NK cells from real patients. As shown in SupplementaryFigure 7a, the spectra of NK cells from cell culture and patient-derivedNK cells demonstrated similar Raman shifts. (For breast cancer (Sup-plementary Fig. 7a), the wavenumbers for the peaks at 1001 cm
+−1,
+1044 cm−1, 1121 cm−1,1 4 5 0c m−1,1 6 0 6c m−1,2 8 6 3c m−1and 2934 cm−1,f o r
+lung cancer (Supplementary Fig. 7c), the peaks at 975 cm−1,1 0 0 4c m−1,
+1044 cm−1, 1122 cm−1,1 3 1 3 c m−1,1 4 5 0 c m−1,1 5 2 1 c m−1, 1660 cm−1,
+2858 cm−1,2 9 3 2c m−1were seen). As expected, there were variations in
+the intensities of some Raman shifts. Multivariate analysis (principalcomponent analysis) was undertaken. The scatter plot of PC1 Vs PC2 VsPC3 with principal component analysis demonstrated clustering ofboth types of cells in one single cluster for breast cancer as well as forlung cancer (Supplementary Fig. 7d, e). The cells will form separateclusters if there is discrimination observed in the cells with PCA.Therefore, we concluded that the evaluation of tumor-associated NK
+cells in culture and the NK cells of actual cancer patients demonstrated
+strong similarity to one another.
+Prediction of tumor-associated nk cells for cancer diagnosis
+directly with patient blood —without cellular isolation
+Next, we assessed the diagnostic accuracy of CNKP classi ﬁcation by
+collecting SERS spectra from 22 clinical samples obtained fromOntario Tumor Board (OTB). Peripheral blood from cancer patientsdiagnosed by clinical presentation and histopathological diagnosiswas processed to extract the buffy coat layer by density gradientcentrifugation. The patient cohort had three tumor types consisting of
+breast adenocarcinoma ( n= 8), lung carcinoma ( n= 7) and colorectal
+carcinoma ( n= 7) as shown in Supplementary Table 4. 5 µLo fb u f f y
+coat was dropped on the sensor and SERS spectra were taken at785 nm wavelength. Partial least squares regression —discriminant
+analysis was done to discriminate healthy and tumor samples (Fig. 8b).
+Brieﬂy, PLSDA is a supervised machine learning analysis that
+identi ﬁes features that contribute to the most variation. The PLSDA
+models with cross validation was able to discriminate two clusters(R
+2= 0.9) and showed excellent discriminatory power with 100% sen-
+sitivities and speci ﬁcities and correctly predicted the samples as
+healthy or having cancer. We did a principal component analysis toﬁnd if the input data was discrete or not and subsequently the discrete
+dataset from NK cells associated with CSCs were used as training input
+data for the PLSDA analysis. For subsequent training of the algorithm,we used the patient ’s buffy coat cohort as input for validation data. The
+results generated 100% accuracy, 100% precision, 100% speci ﬁcity and
+100% sensitivity and prediction of 1.0, Area under the curve = 1 with R
+2for calibration as 0.99 and R2for prediction as 0.96 (Fig. 8e). In con-
+trast, the training data from NK cells associated with cancer cellsduring training with PLSDA yielded very poor prediction with accuracyof 28%, sensitivity of 9% and speci ﬁcity of 50% showing the predictive
+power of NK cells associated with CSCs as compared to NK cells
+associated with cancer cells (Fig. 8g).
+The molecular analysis of PLSDA provided basis for classi ﬁcation.
+As per Supplementary Fig. 8a, the Variable of importance scores (VIPscores) of vibrational peaks with the VIP score > = 1 were plotted. Morenumber of peaks assigned to nucleic acids as well as proteins wereevident in the VIP score plot. The loadings of latent variables alsodemonstrated that the peaks for nucleic acids, proteins as well as lipidswere responsible for complete clustering without ambiguity for cancervs non-cancer. This also demonstrated the critical features of holisticanalysis of NK cell spectra for accurate cancer diagnosis.
+Localization of cancer using OncoImmune probe platform
+based CNKP directly with patient blood —without cellular
+isolation
+In addition to cancer diagnosis, tumor-associated NK SERS pro ﬁle can
+distinguish healthy and patients with different types of cancer. Unsu-pervised principal component analysis and hierarchical cluster analysiscan unambiguously discriminate healthy or non-cancer-associated NKcells and three individual tumor varieties i.e., breast, lung and color-ectal (Fig. 9a, b) to give tumor speci ﬁc SERS spectral wavenumbers that
+were used as training and validation data inputs for tissue of origin
+algorithms. Supplementary Figure 4e shows Primary NK cells having
+cancer-speci ﬁc behavior. On co-culturing with CSCs of various tumor
+types, clear clustering was observed with principal component analy-sis. Supplementary Figure 9 shows signals of primary NK cells cocul-tured with CSC derived from cancer patients also con ﬁrmed the
+applicability of NK cells for cancer diagnosis. Identi ﬁcation of tumor
+location was possible with molecular analysis of tumor-associated NK(primary) as shown in Supplementary Fig. 10. Using MCR scores andSVM discriminative analysis of the tumor-associated NK cells, weidenti ﬁed sensitivity of 100%, speci ﬁcity of 86%, accuracy 93% and
+precision of 88% for colorectal vs breast cancer and sensitivity of 100%,
+speci ﬁcity of 83%, accuracy 88% and precision of 93% for colorectal vs
+lung cancer and sensitivity of 63%, speci ﬁcity of 72%, accuracy 72% and
+precision of 67% for breast vs lung cancer allowing multilevel diagnosisacross different tumors (Fig. 9d). An accuracy of 86% and 72%
+demonstrated satisfactory results in terms of diagnostic tool for can-cer. The low speci ﬁcity can be attributed to intra tumor variation. Such
+liquid biopsy will radically change the direction of cancer diagnosis formultiple types of cancer on validation in large cohort studies.
+Validation of the differential SERS expression seen in cancer and
+CSC interacted NK cells and healthy NK cells using RT-qPCR and
+glycolysis stress test
+To validate the proposed method of SERS to detect changes in NK cell
+signatures between cancer and CSC interacted NK cells and healthy NKcells, two studies were undertaken. First, we analyzed the relativemRNA expression levels of BCL2 through RT-qPCR. BCL2 (B cell lym-
+phoma 2) gene encodes the BCL2 family of regulatory proteins that is
+responsible for the regulation of apoptosis. BCL2 inﬂuenced tumor-
+associated changes in immune cells favor the downregulation of pro-apoptotic proteins resulting in resistance to NK cell-mediated cellcytotoxicity
+73.T h ee x p r e s s i o no f BCL2 is an activation/proliferation
+marker in the NK cells74. NK cells have increased expression of BCL2 ,
+favouring immune escape by the cancer cells. However, the trend is
+reversed in the presence of CSCs as NK cells have zero or reduced
+expression of BCL2 favouring apoptosis and killing of cancer cells74.
+The results of RT-qPCR, following ANOVA (Analysis of variance), showthat the expression of BCL2 genes was signi ﬁcantly upregulated in NK
+cells cocultured with cancer cells compared to control NK cellsArticle https://doi.org/10.1038/s41467-022-32308-x
+Nature Communications |         (2022) 13:4527 13Patient BloodDiagnosis
+Machine LearningCancer Cell 
+Co-Culture 
+with NK Cells Non Cancer Cell 
+Co-Culture with
+NK Cells
+NK CellCo-Culturewith Cancer Stem Cell
+Tumor Associated NK Cell on OncoImmune
+Probe Platform
+Healthy
+CancerPrediction of CancerPrediction of Cancer
+Cancer Non CancerLV2LV3
+CancerHealthySensitivity (Cancer) 100 %
+Specificity (Cancer) 100%
+Specificity (Blue) Sensitivity (Red)Threshold Cancer Diagnosis using CSC associated N K Cell Profile (Directly from Patient Blood)
+Specificity 100 %              Sensitivity 100 %         Precision 1.0        Accuracy 1.0   R2 for calibration 0.99                        R2 for Prediction 0.96Training Data - CNKP of
+CSC Associated NK Cells
+PC1PC2PC3
+Non Cancer Cell 
+Associated NK Cells
+CSC Associated
+NK CellsTraining Data
+CNKP of Cancer Stem Cell Associated NK Cells Validation with patient blood samples
+Cancer
+Non Cancer
+PC3
+Cancer Cell
+Associated NK CellsNon Cancer Cell 
+Associated NK Cells
+Sensitivity - 9%
+Specificity 50%
+Precision - 0.28
+Accuracy- 0.28( a ) ( b )
+(c) (d)
+(e)
+(g)Non Cancer Associated
+NK Cell Profile
+CSC Associated
+NK cell ProﬁleNK CellCo-Culturewith Cancer Cell
+OncoImmune  Probe Platformhv SERS
+Cancer Diagnosis using Cancer Cell Associated NK Cell Profile 
+Training Data 
+Cancer Cell 
+Associated NK Cells
+Cancer Healthy020
+-20
+050-50050-500
+-20
+-40
+040-20020
+LV1
+AUC 1.0000
+01
+100.20.60.81.01.2
+0.4
+Sample00.20.60.81.01.2
+0.4
+Class Measured
+015
+-15
+0-50
+500-20
+20PC2
+PC100.4
+0.20.60.81
+-0.2
+Sample
+Sensitivity (Cancer-red)
+Specificity (Cancer-blue)
+Threshold (f)
+Fig. 8 | Prediction of tumor-associated NK cells directly with patient blood
+(without cellular isolation) using CNKP for cancer diagnosis. a Schematic
+representation of training data from cell culture (representative Raman spectra —
+non-cancer-associated NK cell -green, csc-associated NK cell —red). Source data are
+provided as Source Data File. bSchematic representation of liquid biopsy.
+cPrediction of tumor-associated NK cell directly from patient blood with CSC-
+associated NK cell pro ﬁle using exploratory training data from csc-associated NKcells ( d) validation with patient blood spectra. eDiagnosis of cancer with 100%
+sensitivity (red) & speci ﬁcity (blue) ( f) PCA of Raman spectra of non-cancer-cell-
+associated NK cells and cancer-cell-associated NK cells showing inability of
+cancer-cell-associated NK cell to provide accurate classi ﬁcation. gSensitivity,
+speci ﬁcity threshold analysis of training data demonstrates poor classi ﬁcation with
+cancer-cell-associated NK cell. Raman measurements were taken 10 times and
+averaged.Article https://doi.org/10.1038/s41467-022-32308-x
+Nature Communications |         (2022) 13:4527 14Patient BloodMachine Learning
+for Prediction of
+Tissue of Origin
+Lung CSC
+Co-Culture with 
+N K Cells Breast CSC 
+Co-Culture with
+N K Cells
+Breast
+Tumor
+Lung
+TumorColorectal CSC
+Co-Culture with 
+N K Cells Profile of Breast CSC
+Associated NK Cell
+Profile of  Lung CSC
+Associated NK Cell
+Profile of Colorectal CSC
+Associated NK CellN K Cell
+Co-Culture
+with
+Cancer Stem Cell
+of various origin
+Colorectal
+Tumor
+Prediction of Colorectal Cancer  and Breast Cancer Prediction of Colorectal Cancer and Lung Cancer
+Colorectal Cancer
+Breast Cancer
+Colorectal CancerBreast Cancer
+Lung CancerLung CancerPrediction of Breast Cancer and Lung Cancer
+Sensitivity 100%
+Specificity 86%
+Accuracy 93%
+Precision 88%Sensitivity 100%
+Specificity 83%
+Accuracy 88%
+Precision 93%Sensitivity 63%
+Specificity 72%
+Accuracy 72%
+Precision 67%Colorectal CSC Associated NK Cell 
+Lung CSC 
+Associated NK Cell Breast CSC
+Associated NK Cell 
+PC1PC2PC3
+Colorectal CSC
+Associated NK CellLung CSC 
+Associated NK CellBreast CSC 
+Associted NK Cell 
+Distance to K-means Nearest Group02 0 40 60( a ) ( b )
+( c )
+( d )Tumor Associated N K Cell on OncoImmune
+Probe Platform
+OncoImmune Probe Platformhv SERS02040
+-20
+-40
+40
+20
+0
+-200
+-202040
+00.51
+-0.5
+-1
+-1.51.5
+0Y Predicted (Colorectal Cancer)
+Class Predicted Lung Cancer
+0.10.30.50.70.91
+00.20.40.60.8
+-0.200.20.40.60.81Class Predicted Lung Cancer
+Fig. 9 | Localization of cancer with Raman pro ﬁle of CSC-associated NK cell.
+Localization of cancer with Raman pro ﬁle of CSC-associated NK cell. aPrincipal
+component analysis and ( b) Hierarchical clustering analysis demonstrated clear
+clustering of breast, lung and colorectal CSC-associated NK cell. cSchematic
+representation of liquid biopsy. Representative Raman spectra of breast (pink),lung (orange), colorectal (green) CSC-associated NK cells. Source data are providedas Source Data File. dClassi ﬁcation between colorectal and breast cancer with 100%
+sensitivity & 86% speci ﬁcity. Classi ﬁcation between colorectal and lung cancer with
+100% sensitivity and 83% speci ﬁcity. Classi ﬁcation between breast and lung cancer
+with 63% sensitivity and 72% speci ﬁcity. Raman measurements were taken 10 times
+and averaged.Article https://doi.org/10.1038/s41467-022-32308-x
+Nature Communications |         (2022) 13:4527 15(P< 0.0001). NK cells cocultured with CSCs showed signi ﬁcant
+downregulation of BCL2 gene expression when compared to control
+NK cells ( P< 0.001). Thus, there is a substantial difference between the
+expression levels of NK cells cocultured with cancer and CSCs. These
+results imply that CSC interacted NK cells are genotypically different
+from cancer interacted NK cells. Next, to compare the results of RT-qPCR with SERS, signature peaks of BCL2 were identi ﬁed, and Raman
+intensity was calculated, and compared with cancer, CSC interactedNK cells and healthy NK cells. As shown in Fig. 10a, b, the Raman
+experiment also demonstrated a similar trend of BCL2 gene expression
+as the conventional RT-qPCR.
+Second, NK cells have to compete with tumor cells in a nutrient-
+depleted environment for glucose and amino acids. NK cells, there-fore, exhibit the ‘Immune Warburg phenomenon ’and metabolic
+switch to aerobic glycolysis
+75–77. In order to investigate the glycolytic
+reprogramming in CSC-associated NK cells, we undertook a glycolysis
+stress test for glycolytic characterization in live NK cells using glyco-lysis assay (ABCAM ab222946). Quanti ﬁcation of glycolysis was
+undertaken as per the manufacturer ’s protocol. The signature peaks at
+866 cm
+−1and 835 cm−1, corresponding to lactate and pyruvate,
+respectively, were used to detect glycolytic reprogramming that givesrise to distinct Raman metabolic signature. The intensity of peaks forglycolysis reprogramming demonstrated the lowest intensity for lung-cancer-associated NK cells. The intensity was higher for breast-cancer-associated NK cells as compared to lung cancer, but it also showedmuch lower intensity as compared to control NK cells. The results of
+these observations are shown in Fig. 10e, f.
+We have successfully demonstrated the feasibility of adopting
+signals re ﬂecting changes in the metabolic pro ﬁle of Natural Killer
+cell (NK cell) during tumor-associated NK cell activation, for cancerdiagnosis. Pro ﬁling of tumor-associated circulating NK cell activity
+(CNKP) was introduced as a pathway for cancer diagnosis withliquid biopsy. Experimental demonstration of dissimilar pro ﬁles
+between cancer-associated NK cells and CSC-associated NK cellswith statistical signi ﬁcance was achieved. This was instrumental in
+demonstration of the crucial function of CSC-associated NK cells incancer diagnosis. Molecular signatures of CNKP were cancer-type
+speci ﬁc. This property of tumor-associated NK cells was in ﬂuential
+in the prediction of tumor location. SERS functionalized OncoIm-mune probe platform with small scaled probes was designed for thismarker-free approach. We achieved ultralow concentrations (up tofemtomolar 10
+−15M of analyte molecules). This was attributed to the
+conﬁguration of probes by narrowing of the atomic scale probe
+apices, instrumental in the improvement of localized surface plas-mon resonance. The 3D arrangements of the nanoprobes ensuredNK cell trapping, critical in signal ampli ﬁcation and transmission.
+Highly reproducible signals were achieved. CNKP of three hard-to-detect cancer-cell lines (triple negative breast adenocarcinoma,
+small cell lung cancer, colorectal adenocarcinoma) was achieved
+with single-cell sensitivity. We were able to identify cancer fromnon-cancer using very small amount of peripheral blood (5 µL) with
+100% prediction accuracy using machine learning model trainedwith SERS signals of NK cell activity in cell culture. Prediction oftumor location achieved prediction accuracy of up to 93%. Thisapproach overcomes lack of patients by using data from easy tocollect cell culture and by identifying the similarity of the featuresof NK cell activity in patient blood (without cell isolation) throughmachine learning. This method also provides a basis for classi ﬁca-
+tion. As cell culture data was used for training, multivariate analysesof cell-culture data provided an explainable basis. Such liquid
+biopsy using OncoImmune probe platform-based SERS has poten-
+tial to radically change the direction of cancer diagnosis for multi-ple types of cancer on validation in large cohort studies. This worksets the stage in advancing the knowledge of tumor-associated NKcells and its use in liquid biopsy.Methods
+Clinical sample acquisition
+This study was conducted in accordance with Ryerson Ethics Board ofRyerson University (REB 2020-275). Informed written consent and
+blood samples from cancer patients were obtained by Ontario Tumor
+Bank (OTB). The buffy coat was extracted by density gradient cen-trifugation. The Details on the clinical features, gender and demo-graphic data are provided in Supplementary Table 4.
+Cell culture
+The primary NK cells (Stem cell technologies) and NK-92 cell line(derived from non-Hodgkin lymphoma) were obtained from AmericanTissue Type Culture Collection (ATCC, USA) and maintained in Alphaminimum essential medium w/o nucleosides (catalog no 36453) with0.2 mM myo-inositol, 0.1 mM 2-mercaptoethanol, 0.02 mM folic acid,
+12.5% horse serum and 12.5% fetal bovine serum. To maintain suf ﬁcient
+proliferation IL-2 (catalog no 78036_c) was added at 150 IU/ml. Cancer-cell lines were similarly obtained from ATCC for breast adenocarci-noma (MDA-MB231), non-small lung carcinoma (H69 AR) and colonadenocarcinoma (Colo 205). Breast-cancer-cell line was maintainedwith DMEM with 10%FBS. The lung and colon cancer-cell lines weremaintained in RPMI 1640 with 10% FBS. All cells were cultured at 37 C in5% CO
+2atmosphere.
+Synthesis of OncoImmune probe platform
+Nickel sheets measuring 2 (w) × 12 (l) × 0.019 (h) inches were purchased
+from McMaster-Carr. The sheets were cut into 2 (l) × 1.5(w) inches
+toﬁt in the laser system. The nickel sheets were supported on
+stand for laser ablation. Femtosecond, Yb-doped ﬁber ampli ﬁed;
+Clark MXR IMPULSE laser was used for the synthesis of nanoparticles.The following parameters were used: laser pulse width —214 fs, repe-
+tition rate —25 MHz, laser wavelength —1030 nm and power —14 W.
+EzCAD2 software was used to design the ablation area. The designof the ablation from the software transferred to the nickel sheetthrough piezoelectric scanner, with a scanning speed of 1 mm/sec.Nitrogen gas and oxygen gas were introduced separately in the abla-tion area using six Master ﬂex tubes secured on square bracket. The
+pressure was kept at 2 bar. The laser pulse interacts with nickel sub-
+strate at 90 degrees and the ablation plume interacted with thebackground nitrogen gas. The diagnostic probes then deposit on thesubstrate.
+Co-culture assays
+NK-92 cells were cocultured with three cancer-cell lines using transwellapparatus (0.4 μm pore size, corning, Lowell, MA). NK-92 cells were
+seeded in the upper insert of 24 well transwell plate. The cancer-celllines were seeded in three separate lower chambers. CSCs were grownseparately prior to the assay in a serum-free media using ultralow low
+attachment plates. Tumor spheroids were veri ﬁed in microscope and
+seeded in a set of other low chambers. After 24 h of co-culture, the NK-92 cells were centrifuged and resuspended in water for SERS analysis.NK cells grown separately without co-culture with cancer-cell lineswere used as control.
+RT-qPCR
+RNA was extracted from the cell pellets by the Trizol /chloroform(Invitrogen) extraction method and resuspended in diethylpyr-ocarbonate (DEPC)-treated water. RNA concentrations and ratios weredetermined photometrically (Nanodrop). The expression levels ofBCL2 were assessed by RT-qPCR using one step PCR (New England
+Biolab E3005G NEB). Primer sequence Forward GGATGCTTTAT and
+reverse GCTTTATTTCATGAG. RT-qPCR reactions were performed on96-well plates (Micro Amp ®Fast Optical 96-well reaction plate with
+barcode; ABI, Foster City, CA, USA). The relative expression levels oftarget genes were expressed as fold-change against housekeepingArticle https://doi.org/10.1038/s41467-022-32308-x
+Nature Communications |         (2022) 13:4527 16Raman Shift [1/cm]1600 1200 800NK Cell
+Cancer cell associated
+NK Cell
+Cancer Stem Cell associated
+NK CellRaman Shift [1/cm]1600 1200 800
+Raman Intensity ( arb.units)
+Raman Intensity ( arb.units)NK CellNK CellCancer cell 
+associated
+NK CellCancer cell 
+associated
+NK CellCSC
+associated
+NK CellCSC 
+associated
+NK Cell( a ) Conventional RTqPCR ( b ) Raman Methodology
+( c ) ( d )Fluorescence Intensity
+Raman IntensitySignature peaks for BCL2Relative BCL-2 Gene Expression (Raman)Relative BCL-2 Gene Expression (RT-qPCR)
+Primary 
+NK CellsBreast tumor
+associated
+NK CellsLung tumor
+associated
+NK CellsPrimary 
+NK CellsBreast tumor
+associated
+NK CellsLung tumor
+associated
+NK Cells( e )( f )51015
+123420
+0250
+90
+1000
+00
+-0.11
+Glycolytic reprogramming (Glycolytic stress test) Glycolytic reprogramming (Raman Intensity)
+Fig. 10 | Validation of the differential SERS expression seen in cancer and CSC-
+associated NK cells and healthy NK cells using RT-qPCR and glycolysis stress
+test. a Conventional RT-qPCR results for quanti ﬁcation of BCL2, n= 3 biologically
+independent experiments, analysis of variance (ANOVA) between cancer-
+associated NK cells, CSC-associated NK cells and control NK cells. bDetection of
+BCL2 expression with Raman methodology demonstrating similar trend withANOVA between cancer-associated NK cells, CSC-associated NK cells and controlNK cells (* P≤0.05, ** P≤0.01, *** P≤0.001, **** P≤0.0001). cRaman spectra of BCL2ampli ﬁed cDNA (red) and unampli ﬁed cDNA (black) ( d) Difference spectra (black)
+generating signature Raman pro ﬁle for BCL2. Source data are provided as Source
+Data File. eGlycolytic reprogramming quanti ﬁcation with glycolysis assay ( f)
+Comparison of glycolytic reprogramming quanti ﬁcation with Raman intensity
+demonstrating similar trends. 20 biologically independent samples were used, and
+Raman measurements were taken 10 times and averaged. For gene expressionanalysis, three independent experiments were performed, and 7 independentexperiments were performed for Raman.Article https://doi.org/10.1038/s41467-022-32308-x
+Nature Communications |         (2022) 13:4527 17gene GAPDH. Statistical analysis (one-way ANOVA) was done using
+Prism graphpad (v.9.2.0) compare the gene expression levels.
+Raman data acquisition
+5μl of buffy coat (blood) and 10 μl of cultured NK-92 cells were
+dropped on the OncoImmune probe platform. After 1 min (to allowtrapping of NK-92 cells in the sensor mesh), Raman spectral scanningwas done at 785 nm wavelength. A minimum of 10 spectra and 3acquisitions were made with laser power at 5 W. The spectra werecollectively saved and processed using Spectragryph soft-ware (V.1.2.9).
+Data analysis
+The NK-92 cell-culture data were given as training data and the spectrafrom buffy coat were given as validation data. Data was collected in
+Excel ﬁles and Partial least squares regression analysis was done after
+doing multivariate analysis. PLSDA analysis was done using PLS Tool-box software (SOLO V 9.0). For the localization of cancer, data frombuffy coat of known patient samples were used to train the algorithm.The statistical analysis for all the results is indicated in the ﬁgure
+legends. All data are represented as mean ± S.D. For SERS analysis twotailed Student ’sttest was performed. P< 0.05 was considered sig-
+niﬁcant. Experimental results were done at least three times, unless
+stated otherwise in ﬁgure legends.
+Reporting summary
+Further information on research design is available in the Nature
+Research Reporting Summary linked to this article.
+Data availability
+Data supporting the ﬁndings of this study are available from the cor-
+responding author upon reasonable request. Source data are provided
+with this paper.
+References
+1. Bugide, S., Janostiak, R. & Wajapeyee, N. Epigenetic mechanisms
+dictating eradication of cancer by natural killer cells. Trends cancer
+4,5 5 3 –566 (2018).
+2 . V i v i e r ,E . ,T o m a s e l l o ,E . ,B a r a t i n ,M . ,W a l z e r ,T .&U g o l i n i ,S .F u n c -
+tions of natural killer cells. Nat. Immunol. 9,5 0 3 –510 (2008).
+3. Smyth, M. J., Hayakawa, Y., Takeda, K. & Yagita, H. New aspects of
+natural-killer-cell surveillance and therapy of cancer. Nat. Rev.
+Cancer 2,8 5 0 –861 (2002).
+4. Morvan, M. G. & Lanier, L. L. NK cells and cancer: you can teach
+innate cells new tricks. Nat. Rev. Cancer 16,7–19 (2016).
+5. Liu, E. et al. Use of CAR-transduced natural killer cells in CD19-
+positive lymphoid tumors. N. Engl. J. Med. 382,5 4 5 –553 (2020).
+6. Myers, J. A. & Miller, J. S. Exploring the NK cell platform for cancer
+immunotherapy. Nat. Rev. Clin. Oncol. 18,8 5–100 (2021).
+7. Goldenson, B. H. & Kaufman, D. S. Into the multiverse of gene edited
+NK cell-based therapeutic strategies. Cell Stem Cell 28,
+2041 –2043 (2021).
+8. Xie, G. et al. CAR-NK cells: A promising cellular immunotherapy for
+cancer. EBioMedicine 59,1 0 2 9 7 5( 2 0 2 0 ) .
+9 . R e y a ,T . ,M o r r i s o n ,S .J . ,C l a r k e ,M .F .&W e i s s m a n ,I .L .S t e mc e l l s ,
+cancer, and cancer stem cells. Nature 414,1 0 5 –111 (2001).
+10. Ebben, J. D. et al. The cancer stem cell paradigm: a new under-
+standing of tumor development and treatment. Expert Opin. Ther-
+apeutic Targets 14,6 2 1 –632 (2010).
+11. Dehghan Esmatabadi, M. J., Movahedi Motlagh, F., Etemadzadeh, A.
+& Hajigholami, S. The most well-known markers of CSCs and theirrole in growth of tumors, drug resistance and metastasis. J. Human
+Genet. Genom. 2, e65253 (2017).12. Larzabal, L. et al. Differential e ffects of drugs targeting cancer stem
+cell (CSC) and non-CSC populations on lung primary tumors andmetastasis. PLoS ONE 8,e 7 9 7 9 8( 2 0 1 3 ) .
+13. Tseng, H.-C. et al. Increased lysis of stem cells but not their differ-
+entiated cells by natural killer cells; de-differentiation or repro-
+gramming activates NK cells. PLoS ONE 5, e11590 (2010).
+14. Batlle, E. & Clevers, H. Cancer stem cells revisited. Nat. Med. 23,
+1124 –1134 (2017).
+15. Zhou, H.-M., Zhang, J.-G., Zhang, X. & Li, Q. Targeting cancer stem
+cells for reversing the rapy resistance: Mechanism, signaling, and
+prospective agents. Signal Transduct. Target. Ther.
+6,1–17 (2021).
+16. Luna, J. I., Grossenbacher, S. K., Murphy, W. J. & Canter, R. J. Natural
+killer cell immunotherapy targeting cancer stem cells. Expert Opin.
+Biol. Ther. 17, 313 (2017).
+1 7 . L e e ,H . ,P a r k ,C . ,N a ,W . ,P a r k ,K .H .&S h i n ,S .P r e c i s i o nc e l l - f r e eD N A
+extraction for liquid biopsy by integrated micro ﬂuidics. NPJ Precis.
+Oncol. 4,1–10 (2020).
+18. Haldavnekar, R., Venkatakrishnan, K. & Tan, B. Non plasmonic
+semiconductor quantum SERS probe as a pathway for in vitrocancer detection. Nat. Commun. 9,1–18 (2018).
+19. Langer, J. et al. Present and future of surface-enhanced Raman
+scattering. ACS nano 14,2 8–117 (2019).
+20. Kim, S., Kim, J., Park, J. & Nam, J. Nonnoble ‐metal ‐based plasmonic
+nanomaterials: recent advanc es and future perspectives. Adv.
+Mater. 30, 1704528 (2018).
+21. Zhang, H. et al. Nickel nanowires combined with surface-enhanced
+r a m a ns p e c t r o s c o p y :a p p l i c a t i o ni nl a b e l - f r e ed e t e c t i o no fc y t o -
+chrome c-mediated apoptosis. Anal. Chem. 91,1 2 1 3 –1216 (2018).
+22. Maccaferri, N. et al. Ultrasensitive and label-free molecular-level
+detection enabled by light phase control in magnetoplasmonicnanoantennas. Nat. Commun. 6,1–9( 2 0 1 5 ) .
+23. Tian, Z.-Q., Ren, B. & Wu, D.-Y. Surface-enhanced Raman scattering:
+from noble to transition metals and from rough surfaces to orderednanostructures. J. Phys. Chem. B 106,9 4 6 3 –9483 (2002).
+24. Chen, J. et al. Plasmonic nickel nanoantennas. Small 7,
+2341 –2347 (2011).
+25. Thaler, J. et al. SERS activity of Co, Ni and Bi nanoparticles. In:
+SBFoton International Opti cs and Photonics Conference (eds Pohl,
+A. & Pataca, D.) 1 –4. (IEEE, 2018).
+26. Bonanni, V. et al. Designer magnetoplasmonics with nickel nano-
+ferromagnets. Nano Lett. 11, 5333 –5338 (2011).
+27. Pirzadeh, Z., Pakizeh, T., Miljkovic, V., Langhammer, C. & Dmitriev, A.
+Plasmon –interband coupling in nickel nanoantennas. Acs Photonics
+1,1 5 8 –162 (2014).
+28. Himstedt, R. et al. Localized surface plasmon resonances of various
+nickel sul ﬁde nanostructures and Au
+–Ni3S2 core –shell nano-
+particles. Chem. Mater. 29,7 3 7 1 –7377 (2017).
+29. He, S., Huang, J., Goodsell, J. L ., Angerhofer, A. & Wei, W. D. Plas-
+monic Nickel –TiO 2heterostructures for visible ‐light ‐driven photo-
+chemical reactions. Angew. Chem. Int. Ed. 58,6 0 3 8 –6041 (2019).
+30. Shibue, T. & Weinberg, R. A. EMT, CSCs, and drug resistance: the
+mechanistic link and clinical implications. Nat. Rev. Clin. Oncol. 14,
+611–629 (2017).
+31. Ames, E. et al. NK cells preferentially target tumor cells with a
+cancer stem cell phenotype. J. Immunol. 195,4 0 1 0 –4019 (2015).
+32. Tallerico, R. et al. Human NK cells selective targeting of colon
+cancer –initiating cells: a role for natural cytotoxicity receptors and
+MHC class I molecules. J. Immunol. 190,2 3 8 1 –2390 (2013).
+3 3 . B u t l e r ,K .T . ,D a v i e s ,D .W . ,C a r t w r i g h t ,H . ,I s a y e v ,O .&W a l s h ,A .
+Machine learning for molecular and materials science. Nature 559,
+547–555 (2018).
+34. Guo, S., Popp, J. & Bocklitz, T. Chemometric analysis in Raman
+spectroscopy from experimental design to machinelearning –based modeling. Nat. Protoc. 16,5 4 2 6 –5459 (2021).Article https://doi.org/10.1038/s41467-022-32308-x
+Nature Communications |         (2022) 13:4527 1835. Meza Ramirez, C. A., Greenop, M., Ashton, L. & Rehman, I. U.
+Applications of machine learning in spectroscopy. Appl. Spectrosc.
+Rev.56,7 3 3 –763 (2021).
+36. Sheetz, K. E. & Squier, J. Ultrafast optics: Imaging and manipulating
+biological systems. J. Appl. Phys. 105, 2 (2009).
+37. Wong, D. M., Bol ’s h a k o v ,A .A .&R u s s o ,R .E .I n Encyclopedia
+of Spectroscopy and Spectrometry 1281 –1287 (Academic
+Press, 2010).
+38. Liu, B., Hu, Z., Che, Y., Chen, Y. & Pan, X. Nanoparticle generation in
+ultrafast pulsed laser ablation of nickel. Appl. Phys. Lett. 90,
+044103 (2007).
+39. Gusarov, A. V. & Smurov, I. Gas-dynamic boundary conditions of
+evaporation and condensation: numerical analysis of the Knudsenlayer. Phys. Fluids 14,4 2 4 2 –4255 (2002).
+40. Gunnarsson, R. Controlling the growth of nanoparticles produced
+in a high-power pulsed plasma. Vol. 1873 (Linköping University
+Electronic Press, 2017).
+41. Chen, Y. S. et al. Microscopic mechanism for unipolarresistive
+switching behaviour ofnickel oxides. J. Phys. D: Appl. Phys. 45,
+065303 (2012).
+42. George, G. & Anandhan, S. Synthesis and characterisation of nickel
+oxide nano ﬁbre webs with alcohol sensing characteristics. RSC
+Adv. 4, 62009 –62020 (2014).
+43. Mansour, A. N. Characterization of NiO by XPS. Surf. Sci. Spectra 3,
+231–238 (1994).
+4 4 . B i e s i n g e r ,M .C . ,P a y n e ,B .P . ,L a u ,L .W .M . ,G e r s o n ,A .&S m a r t ,R .S t .
+C. X-ray photoelectron spectroscopic chemicalstate quanti ﬁcation
+of mixed nickel metal,oxide and hydroxide systems. Surf. Interface
+Anal. 41,3 2 4 –332 (2009).
+45. Lalisse, A., Tessier, G., Plain, J. & Baffou, G. Quantifying the ef ﬁ-
+ciency of plasmonic materials for near- ﬁeld enhancement and
+photothermal conversion. J. Phys. Chem. C 119,
+25518 –25528 (2015).
+46. Jeanmaire, D. L. & Duyne Van, R. P. Surface Raman spectro-
+electrochemistry: I. Heterocycli c, aromatic, and aliphatic amines
+adsorbed on the anodized silver electrode. J. Electroanal. Chem.
+Interfacial Electrochem. 84,1–20 (1977).
+47. King, F. W., Duyne, R. P. & Schatz, G. Theory of Raman scattering by
+molecules adsorbed on electrode surfaces. J. Chem. Phys. 69,
+4472
+–4481 (1978).
+48. Downes, A., Salter, D. & El ﬁck, A. Finite element simulations of tip-
+enhanced Raman and ﬂuorescence spectroscopy. J. Phys. Chem. B
+110,6 6 9 2 –6698 (2006).
+49. Kosuda, K., Bingham, J., Wustholz, K. & Van Duyne, R. In Handbook
+of Nanoscale Optics and Electronics (ed. Wiederrecht, G.) 309
+(Elsevier, 2010).
+50. Ameer, F. S., Pittman, C. U. & Zhang, D. Quanti ﬁcation of resonance
+Raman enhancement factors for Rhodamine 6G (R6G) in water and
+on gold and silver nanoparticles: i mplications for single-molecule
+R6G SERS. J. Phys. Chem. C 117,2 7 0 9 6 –27104 (2013).
+51. Meng, W. et al. SERS and DFT study of crystal violet. J. Mol. Struct.
+1035 ,3 2 6 –331 (2013).
+52. Tang, W. et al. Surface plasmon enhanced ultraviolet emission and
+observation of random lasing from self-assembly Zn/ZnO compo-site nanowires. CrystEngComm 13, 2336 –2339 (2011).
+53. Mahmoud, S. A., Shereen, A. & Mou ’ad, A. T. Structural and optical
+dispersion characterisation of sprayed nickel oxide thin ﬁlms. J.
+Mod. Phys. 2011,( 2 0 1 1 ) .
+54. Alessandri, I. Enhancing Raman scattering without plasmons:
+unprecedented sensitivity achieved by TiO
+2shell-based resonators.
+J. Am. Chem. Soc. 135,5 5 4 1 –5544 (2013).
+55. Bontempi, N., Carletti, L., De Angelis, C. & Alessandri, I. Plasmon-
+free SERS detection of environmental CO 2on TiO 2surfaces.
+Nanoscale 8, 3226 –3231 (2016).56. Futamata, M., Maruyama, Y. & Ishikawa, M. Critical importance of
+the junction in touching Ag particle s for single molecule sensitivity
+in SERS. J. Mol. Struct. 735 –736,7 5–84 (2005).
+57. Schwartzberg, A. M. et al. Unique gold nanoparticle aggregates as a
+highly active surface-enhanced Raman scattering substrate. J. Phys.
+Chem. B 108,1 9 1 9 1 –19197 (2004).
+58. Pilot, R. et al. A review on surface-enhanced Raman scattering.
+Biosensors 9,5 7( 2 0 1 9 ) .
+59. Puppels, G., Garritsen, H., Kummer, J. & Greve, J. Carotenoids
+located in human lymphocyte subpopulations and natural killercells by Raman microspectroscopy. Cytometry: J. Int. Soc. Anal.
+Cytol. 14,2 5 1 –256 (1993).
+60. Sijtsema, N. M. et al. Intracellular reactions in single human
+granulocytes upon phorbol myris tate acetate activation using
+confocal Raman microspectroscopy. Biophys. J. 78,
+2606 –2613 (2000).
+61. Nakagawa, M. et al. Improvement of cell adhesion on poly(L-lactide)
+by atmospheric plasma treatment. J. Biomed. Mater. Res. 77A,
+112–118 (2006).
+6 2 . T e r a o k a ,F . ,N a k a g a w a ,M .&H a r a ,M .S u r f a c em o d i ﬁcation of poly(L-
+lactide) by atmospheric pressure plasma treatment and cellresponse. D e n t .M a t e r .J . 25,5 6 0 –565 (2006).
+6 3 . J a c o b s ,T . ,M o r e n t ,R . ,D eG e y t e r ,N . ,D u b r u e l ,P .&L e y s ,C .P l a s m a
+surface modi ﬁcation of biomedical polymers: in ﬂuence on cell-
+material interaction. Plasma Chem. Plasma Process 32,
+1039 –1073 (2012).
+64. El-Said, W. A., Kim, T.-H., Kim, H. & Choi, J.-W. Analysis of intracel-
+lular state based on controlled 3D nanostructures mediated surfaceenhanced Raman scattering. PLoS ONE 6, e15836 (2011).
+65. Shen, Y., Yue, J., Xu, W. & Xu, S. Recent progress of surface-
+enhanced Raman spectroscopy for subcellular compartment ana-lysis. Theranostics 11, 4872 –4893 (2021).
+66. Huh, Y. S., Chung, A. J. & Erickson, D. Surface enhanced Raman
+spectroscopy and its application to molecular and cellular analysis.Micro ﬂuid Nano ﬂuid6,2 8 5 –297 (2009).
+67. Stefano, M. Raman detection and identi ﬁ
+cation of normal and
+leukemic hematopoietic cells. J. Biophotonics 11.5,
+e201700265 (2018).
+6 8 . A t k i n s ,C .G . ,B u c k l e y ,K . ,B l a d e s ,M .W .&T u r n e r ,R .F .B .R a m a n
+spectroscopy of blood and blood components. Appl Spectrosc. 71,
+767–793 (2017).
+69. Movasaghi, Z., Rehman, S. & Rehman, I. U. Raman spectroscopy
+of biological tissues. Appl. Spectrosc. Rev. 42, 493 –541
+(2007).
+7 0 . L ó p e z - S o t o ,A . ,G o n z a l e z ,S . ,S m y t h ,M .J .&G a l l u z z i ,L .C o n t r o lo f
+metastasis by NK cells. Cancer cell 32,1 3 5 –154 (2017).
+71. Xu, Y. et al. Killer immunoglobulin -like receptors/human leukocyte
+antigen class-I, a crucial immune pathway in cancer. Ann. Transl.
+Med. 8, 244 (2020).
+72. Wese łucha-Birczy ńs k a ,A . ,K o z i c k i ,M . ,C z e p i e l ,J .&B i r c z y ńska, M.
+Raman micro-spectroscopy tracing human lymphocyte activation.Analyst 138,7 1 5 7 –7163 (2013).
+73. Sordo-Bahamonde, C., Lorenzo-Herrero, S., Payer, Á. R., Gonzalez,
+S. & López-Soto, A. Mechanisms of apoptosis resistance to NK cell-mediated cytotoxicity in cancer. IJMS 21,3 7 2 6( 2 0 2 0 ) .
+74. Jiang, S., Munker, R. & Andreeff, M. A. Bcl-2 is expressed in human
+natural killer cells and is regulated by interleukin-2. 15,
+312–317 (1996).
+75. Kornberg, M. D. The immunologic Warburg effect: evidence and
+therapeutic opportunities in autoimmunity. Wiley Interdiscip. Rev.
+Syst. Biol. Med. 12,e 1 4 8 6 –e1486 (2020).
+76. Schafer, J. R. et al. Education-dependent activation of glycolysis
+promotes the cytolytic potency of licensed human natural killercells. J. Allergy Clin. Immunol. 143,3 4 6 –358 (2019).Article https://doi.org/10.1038/s41467-022-32308-x
+Nature Communications |         (2022) 13:4527 1977. Pfeifer, C. et al. Natural killer cell education is associated with a
+distinct glycolytic pro ﬁle.Front. Immunol. 9,3 0 2 0( 2 0 1 8 ) .
+Acknowledgements
+This research has been supported by the Faculty of Engineering and
+Architectural Science Deans Research Fund. NSERC I2IPJ561741-21.Discovery Grant, Idea to Innovation and Alliance Grants of NaturalScience and Engineering Research Council of Canada —134361, 132950.
+Author contributions
+D.I. and R.H. contributed equally. R.H., K.V., and B.T. are inventors of the
+non-invasive technology for cancer diagnosis and prognosis using a
+nanosensor with Raman Spectroscopy used in this paper. D.I. designed
+and synthesized the sensors and performed the experiments. D.I. andR.H. analyzed the data, wrote the manuscript, drew the schematics, and
+created ﬁgures. K.V. and B.T. acquired funding, provided a critical
+review of the manuscript, and edited the manuscript. All authorsapproved the article.
+Competing interests
+The authors declare no competing interests.
+Additional information
+Supplementary information The online version contains supplementary
+material available athttps://doi.org/10.1038/s41467-022-32308-x .
+Correspondence and requests for materials should be addressed to
+Krishnan Venkatakrishnan.Peer review information Nature Communications thanks the other
+anonymous reviewer(s) for their contribution to the peer review ofthis work.
+Reprints and permission information is available at
+http://www.nature.com/reprints
+Publisher ’s note Springer Nature remains neutral with regard to jur-
+isdictional claims in published maps and institutional af ﬁliations.
+Open Access This article is licensed under a Creative Commons
+Attribution 4.0 International License, which permits use, sharing,adaptation, distribution and reproduction in any medium or format, aslong as you give appropriate credit to the original author(s) and thesource, provide a link to the Creati ve Commons license, and indicate if
+changes were made. The images or other third party material in this
+article are included in the article ’s Creative Commons license, unless
+indicated otherwise in a credit line to the material. If material is notincluded in the article ’s Creative Commons license and your intended
+use is not permitted by statutory re gulation or exceeds the permitted
+use, you will need to obtain permission directly from the copyrightholder. To view a copy of this license, visit http://creativecommons.org/
+licenses/by/4.0/ .
+© The Author(s) 2022Article https://doi.org/10.1038/s41467-022-32308-x
+Nature Communications |         (2022) 13:4527 20

@@ -1,62 +1,91 @@
-from Bio import Entrez
 import os
+import time
+import requests
+from bs4 import BeautifulSoup
 
-def download_pubmed_abstracts(query, email, start_year, end_year, max_results_per_year=100, output_folder="text_data"):
-    Entrez.email = email
+# Configuration
+SEARCH_TERM = "pancreatic cancer"
+BASE_SEARCH_URL = "https://pubmed.ncbi.nlm.nih.gov/"
+OUTPUT_FOLDER = "text_data"
+YEARS = [2022, 2023, 2024]
+ARTICLES_LIMIT = 3000
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+}
 
-    # Ensure the output folder exists
-    os.makedirs(output_folder, exist_ok=True)
+os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
-    for year in range(start_year, end_year + 1):
-        print(f"Fetching abstracts for the year {year}...")
+def fetch_search_results(term, year, page):
+    """Fetch search results for a given term, year, and page."""
+    search_url = f"{BASE_SEARCH_URL}?term={term}&filter=dates.{year}%2F1%2F1-{year}%2F12%2F31&page={page}"
+    print(f"Fetching search results for {year}, page {page}...")
+    response = requests.get(search_url, headers=HEADERS)
+    if response.status_code != 200:
+        print(f"Failed to fetch search results for {year}, page {page}. Status code: {response.status_code}")
+        return []
+    
+    soup = BeautifulSoup(response.text, "html.parser")
+    article_links = []
+    for link in soup.find_all("a", class_="docsum-title", href=True):
+        full_link = f"{BASE_SEARCH_URL}{link['href']}"
+        article_links.append(full_link)
+    return article_links
 
-        # Add year-specific filter to the query
-        year_query = f"{query} AND {year}[dp]"
+def fetch_abstract(article_url):
+    """Fetch the abstract from a PubMed article."""
+    print(f"Fetching article: {article_url}")
+    response = requests.get(article_url, headers=HEADERS)
+    if response.status_code != 200:
+        print(f"Failed to fetch article. Status code: {response.status_code}")
+        return None
+    
+    soup = BeautifulSoup(response.text, "html.parser")
+    abstract_section = soup.find("div", class_="abstract-content")
+    if abstract_section:
+        return abstract_section.get_text(strip=True)
+    else:
+        print("No abstract found.")
+        return None
 
-        # Search PubMed
-        handle = Entrez.esearch(db="pubmed", term=year_query, retmax=max_results_per_year)
-        record = Entrez.read(handle)
-        handle.close()
+def save_abstract(content, article_id):
+    """Save the abstract to a text file."""
+    filename = os.path.join(OUTPUT_FOLDER, f"{article_id}.txt")
+    with open(filename, "w", encoding="utf-8") as f:
+        f.write(content)
+    print(f"Saved abstract: {filename}")
 
-        # Get PubMed IDs for the results
-        id_list = record["IdList"]
-        if not id_list:
-            print(f"No papers found for the year {year}")
-            continue
+def scrape_abstracts():
+    total_fetched = 0
+    for year in YEARS:
+        if total_fetched >= ARTICLES_LIMIT:
+            break
 
-        for pubmed_id in id_list:
-            try:
-                # Fetch abstract
-                abstract_handle = Entrez.efetch(db="pubmed", id=pubmed_id, rettype="abstract", retmode="text")
-                abstract = abstract_handle.read()
-                abstract_handle.close()
+        page = 1
+        while total_fetched < ARTICLES_LIMIT:
+            article_links = fetch_search_results(SEARCH_TERM, year, page)
+            if not article_links:
+                break
 
-                # Save the abstract as a .txt file
-                file_path = os.path.join(output_folder, f"{year}_PMID_{pubmed_id}.txt")
-                with open(file_path, "w", encoding="utf-8") as f:
-                    f.write(abstract)
+            for article_url in article_links:
+                if total_fetched >= ARTICLES_LIMIT:
+                    break
 
-                print(f"Saved abstract for PMID {pubmed_id} to {file_path}")
-            except Exception as e:
-                print(f"Error fetching abstract for PMID {pubmed_id}: {e}")
+                article_id = article_url.split("/")[-2]
+                output_file = os.path.join(OUTPUT_FOLDER, f"{article_id}.txt")
+                if os.path.exists(output_file):
+                    print(f"Article {article_id} already processed. Skipping...")
+                    continue
 
-    print(f"Abstracts saved to folder: {output_folder}")
+                abstract = fetch_abstract(article_url)
+                if abstract:
+                    save_abstract(abstract, article_id)
+                    total_fetched += 1
 
-# Example usage
+                time.sleep(1)  # Respect server rate limits
+
+            page += 1
+
+    print(f"Fetched {total_fetched} abstracts. Files saved in {OUTPUT_FOLDER}")
+
 if __name__ == "__main__":
-    # Define the search parameters
-    search_term = "pancreatic cancer AND (treatment OR immunotherapy OR biomarkers)"
-    user_email = "kristijan1996@gmail.com"
-    start_year = 2022
-    end_year = 2024
-    max_results_per_year = 100
-
-    # Run the function
-    download_pubmed_abstracts(
-        query=search_term,
-        email=user_email,
-        start_year=start_year,
-        end_year=end_year,
-        max_results_per_year=max_results_per_year,
-        output_folder="text_data"
-    )
+    scrape_abstracts()

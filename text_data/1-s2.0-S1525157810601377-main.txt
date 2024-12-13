@@ -1,0 +1,699 @@
+Review
+Molecular Genetics of Pancreatic Ductal
+Adenocarcinomas and Recent Implications forTranslational Efforts
+Georg Feldmann and Anirban Maitra
+From The Sol Goldman Pancreatic Cancer Research Center,
+Department of Pathology, Johns Hopkins University School ofMedicine, Baltimore, Maryland
+Pancreatic ductal adenocarcinoma (ie , pancreatic
+cancer) is among the most devastating of human ma-lignancies. It is commonly diagnosed at advanced ,already metastatic , and , hence , incurable stages. De-spite extensive research efforts in recent decades ,pancreatic cancer remains resistant to almost all clin-ically available therapy regimens. Recent advances inour understanding of the underlying pathophysiol-ogy and molecular biology have opened up avenuesfor the development of novel diagnostic and thera-peutic strategies , some of which have shown highlypromising preclinical results and are currently beingtranslated into clinical application. Here in we present areview of recent literature on the molecular genetics ofpancreatic cancer and emphasize clinical implicationsfor the development of novel diagnostic and thera-peutic approaches.
+(J Mol Diagn 2008, 10:111–122; DOI:
+10.2353/jmoldx.2008.070115)
+Pancreatic ductal adenocarcinoma (PDAC), which con-stitutes over 90% of pancreatic cancers in humans, is adevastating and virtually unexceptionally lethal malig-nancy, afflicting an estimated 213,000 individuals world-wide every year. Accounting for more than 33,000 fatal-ities annually in the United States, it represents the fourthmost common cause of cancer-related deaths.
+1Despite
+considerable recent research efforts aimed at better un-derstanding the etiology and underlying pathophysiologyand at the development of novel diagnostic and thera-peutic strategies, this gain in understanding has not yetled to improvement of the overall prognosis of patientssuffering from PDAC.
+2,3Herein we present a review of the
+literature on the molecular genetics of PDAC, with anemphasis on recent data implicating promising noveldiagnostic and therapeutic approaches for preclinicalevaluation and, possibly, subsequent clinical applicationfor the benefit of patients suffering from this dire malady.In the following text the terms pancreatic cancer andPDAC are used synonymously.
+Molecular Abnormalities of Pancreatic Cancer
+Genomic (DNA) Alterations
+Genomic DNA abnormalities frequently found in pancre-
+atic cancers comprise chromosomal aberrations, copynumber changes, activating mutations of oncogenes, aswell as specific silencing mutations of tumor suppressorand caretaker genes, epigenetic silencing, telomeric al-terations, and mutations in mitochondrial DNA (mtDNA).
+Copy Number Aberrations
+Due to chromosomal instability, a common feature ofmost solid tumors, almost every pancreatic cancer har-bors several numerical or structural chromosomal alter-ations revealed by cytogenetic analysis.
+4,5The most
+common numerical changes observed in pancreatic can-cer are losses on chromosomes 6, 12, 13, and 18, as wellas gains on chromosomes 7 and 20; chromosomalbreaks and rearrangements most frequently occur in re-gions involving 1p, 1q, 3p, 6q, 7q, 11p, 17p, and 19q.
+Another technique that is commonly applied to identify
+regions of genomic losses at a “higher resolution” bymeans of polymorphic microsatellite markers is calledallelotyping. In a recent study Iacobuzio-Donahue et al
+Supported by National Institutes of Health grants R01CA113669 and
+R21DK072532, The Sol Goldman Pancreatic Cancer Research Center,and an American Association for Cancer Research-PanCAN award (toA.M.). G.F. was supported by a fellowship grant within the Postdoc-Programme of the German Academic Exchange Service.
+Accepted for publication October 19, 2007.
+Address reprint requests to Dr. Georg Feldmann, Department of Pa-
+thology, Johns Hopkins University School of Medicine, Cancer Research
+Building 2, Room 316, 1550 Orleans Street, Baltimore, MD 21231. E-mail:gfeldma4@jhmi.edu.JMDCME Program
+Journal of Molecular Diagnostics, Vol. 10, No. 2, March 2008
+Copyright © American Society for Investigative Pathology
+and the Association for Molecular Pathology
+DOI: 10.2353/jmoldx.2008.070115
+111analyzed /H1101180 pancreatic cancer xenografts by means of
+386 microsatellite markers.6Allelic losses found most
+commonly involved chromosomal regions 9p, 17p, and
+18q, covering the tumor suppressor genes CDKN2A,
+TP53, and DPC4/SMAD4/MADH4, respectively. Addi-
+tional losses were frequently found in 3p, 4q, 5q, 6q, 8p,12q, 14q, 21q, and 22q. Many of these regions havebeen linked to candidate tumor suppressor genes, eg,the stress-activated protein kinase MKK4 (17p), which
+has been suggested to be involved in metastaticspread,
+7or receptors of the transforming growth factor
+(TGF)- /H9252signaling pathway TGFBR1 (9q), TGFBR2 (3p),8
+and ACVR1B (12q).9Interestingly, allelotype analysis of
+microdissected pancreatic intraepithelial neoplasia (PanIN)samples revealed loss of heterozygosity in several of thechromosomal regions also found in pancreatic cancer,including 9p, 17p, and 18q.
+10,11
+Comparative genomic hybridization (CGH) can be
+used to discover genomic deletions as well as amplifica-tions, providing the potential to uncover both potentialtumor suppressor genes and oncogenes. For CGH, sam-ples of non-neoplastic and tumor cell DNA are labeledwith different dyes and hybridized against each other.Subsequently, the relative ratio of the two dyes indicatesregions of cancer-associated gains or losses. Conven-tional CGH was originally performed using metaphasespreads, with the major drawbacks of relatively low res-olution and frequent difficulties to map precisely the re-gions of genomic amplifications or losses.
+12More re-
+cently, several array-based CGH techniques have beendeveloped, using microarrays that are spotted with bac-terial artificial chromosomes (BAC arrays),
+13cDNAs
+(cDNA microarrays),14or stretches of oligonucleotides
+(representational oligonucleotide microarray analysis),15
+providing a significantly higher resolution than conven-tional CGH (up to 30 kb) and often allowing for precisemapping of deleted or amplified regions and genes in-cluded therein. In the setting of pancreatic cancer, arrayCGH revealed several genomic amplifications, includingC-MYC (8q), EGFR (7p), KRAS22 (12p), AKT2 (19q), and
+AIB1 (20q), as well as deletions, including DPC4/SMAD4/
+MADH4 (18q), CDKN2A (9p), FHIT (3p), and MKK4
+(17p).
+16,17Using the example of thymidylate synthase,
+which has previously been linked to responsiveness to5-fluorouracil treatment, a recent report by Brody et alsuggests that results from studies examining copy num-ber aberrations should be interpreted with particular cau-tion, since copy numbers determined in tumor cells arenot necessarily identical throughout the whole tumor andmight vary over time, in response to chemotherapeuticagents or in metastatic foci as compared to primarytumors.
+18
+Nuclear DNA Mutations: Oncogenes
+Activating point mutations within the KRAS oncogene
+(12p) are present in 80 to 90% of pancreatic cancers,most commonly affecting codon 12 but also 13 or 61.
+19
+The activating mutations abolish the intrinsic GTPaseactivity of KRAS, resulting in constitutive activation ofintracellular signal transduction (Figure 1). Of note,activating KRAS mutations are not only the most fre-
+quently found genetic abnormalities in pancreatic can-cer but also seem to be among the earliest changesobserved in nonmalignant precursor-lesions, alreadybeing present in about 30% of PanIN-1 lesions.
+21,22
+Rare pancreatic cancers with wild-type KRAS usuallyharbor mutations of BRAF.
+23Since both KRAS and
+BRAF function in activating the same Ras/Raf/MAPkinase signaling pathway, it explains why mutations ofthese two genes occur in a virtually exclusive patternand further underscores the extraordinary importanceof this signaling pathway in the genesis of pancreatic
+cancer. Other oncogenes involved in pancreatic cancerinclude CMYC, AKT2, and EGFR. CMYC amplifications and
+concomitant overexpression of CMYC can be detected in50 to 60% of pancreatic cancers,
+17,24providing a potential
+target for the development of future therapeutic options dueto the recent development of compounds specifically inhib-iting Myc signaling.
+25
+Although amplifications of AKT2 are found in less
+than 5% of cases,26the Akt signaling pathway is acti -
+vated in 30 to 40% of pancreatic cancers,27suggest-
+ing additional underlying mechanisms of pathway ac-tivation, eg, loss of PTEN. Specific inhibitors of Akt
+signaling have been described,
+28which might give
+rise to novel therapeutic strategies in the near future.Constitutive activation of the EGFR pathway throughamplification of the EGFR gene or other mechanisms
+has been described in pancreatic cancer.
+16Recent
+approaches were aimed to target this signaling path-way using monoclonal antibodies or small-moleculetyrosine kinase inhibitors.
+29
+Figure 1. The RAS signaling pathway. RAS proteins are transiently activated
+by a wide range of extraneous signals, such as binding of growth factor
+ligands to the cognate growth factor receptor. In its active state, RAS is boundto GTP, and inactivation occurs through guanosine triphosphate-activatingproteins (GAPs), which promote GTP hydrolysis. RAS proteins engage anumber of downstream effector pathways, including RAF-mitogen activatedprotein kinase (RAF-MAPK), phosphoinsositide-3-kinase (PI3K), and RalGDSpathways. The proximal proteins in these signaling cascades, in turn, activatedownstream intermediaries (eg, MEK/ERK, AKT, RAL) that mediate diversecellular functions such as proliferation, cell survival, and cell motility. Onco-genic mutations of the KRAS2 gene, which compromises the intrinsic GTPase
+activity of the encoded protein, render the pathway constitutively active inpancreatic cancer. (Reproduced with permission from the International So-ciety of Gastrointestinal Oncology).
+20112 Feldmann and Maitra
+JMD March 2008, Vol. 10, No. 2Tumor Suppressor Genes
+The cyclin-dependent kinase CDKN2A/p16 on chromo-
+some 9p inhibits cell cycle progression through the
+G1-S checkpoint and constitutes the most frequently
+inactivated gene in pancreatic cancers.19,30More than
+90% of pancreatic cancers show loss of CDKN2A/p16function, which can occur due to homozygous dele-tions (/H11011 40%), mutations with loss of the second allele
+(/H1101140%), or epigenetic silencing by promoter hyper-
+methylation (10 –15%). Interestingly, loss of nuclearp16 protein expression is already observed in 30% ofPanIN-1, in 55% of PanIN-2, and in 71% of PanIN-3lesions.
+31Approximately 30% of homozygous CDKN2A/p16
+mutations also include the MTAP gene, which has re-
+cently been proposed as potential therapeutic tar-get.
+32
+Deleted in pancreatic carcinoma 4 ( DPC4/SMAD4/
+MADH4) on chromosome 18q21 is inactivated in about55% of pancreatic cancers.
+33This is due to mutations in
+one allele and loss of the second allele in about 25% ofcases and due to homozygous mutations in 30% ofcases. Of note, DPC4/SMAD4/MADH4 mutations are very
+rarely observed in other malignancies.
+34Loss of DPC4/
+SMAD4/MADH4 function results in reduced growth inhi-bition and increased proliferation through interferencewith intracellular signaling cascades downstream of cellsurface receptors of the TGF-
+/H9252family (Figure 2). Abro-
+gation of DPC4 function appears to be a rather late eventin the pathogenesis of pancreatic carcinomas, as it is notobserved in the majority of PanIN-3 lesions.
+35
+Third, TP53 on chromosome 17p is inactivated in 50 to
+75% of pancreatic cancers, almost exclusively due tointragenic mutations of one allele in combination with lossof the second allele. Wild-type TP53 induces cell cyclearrest and apoptosis in response to DNA damage, andtherefore loss of TP53 function allows for accumulation ofadditional genetic aberrations. Nuclear accumulation ofmutated TP53 is only observed in advanced PanIN-3lesions, and loss of TP53 function is, like DPC4, consid-ered to be a late event in the pathogenic cascade ofpancreatic cancer development.
+35
+While loss of these three ( CDKN2A, DPC4 and TP53)
+genes is found in the majority of pancreatic cancers,other tumor suppressor genes are inactivated in smallersubsets (/H1102110%) of PDAC, eg, LKB1/STK11 on chromo-
+some 19p,
+36TGF-/H9252R1on 9q, TGF-/H9252R2on 3p, RB1 on
+13q,30and MKK4 on 17p.37Interestingly, MKK4 seems to
+be inactivated specifically in metastatic lesions, suggest-ing that wild-type MKK4 might have the ability to inhibitdevelopment of metastases through a yet unknownmechanism.
+Caretaker Genes
+As opposed to alterations of oncogenes and tumor sup-pressor genes, which both drive the neoplastic processby increasing tumor cell numbers through increased tu-mor cell growth or inhibition of cell death and cell cyclearrest, a third class of genes is commonly involved in thedevelopment of malignant neoplasias, such that whenmutated, they act in a fundamentally different way. Suchgenes are commonly referred to as caretakers or stabilitygenes.
+38Caretaker genes minimize genetic alterations
+during DNA replication so that loss of their function canlead to accumulation of additional mutations in differentother genes.
+39
+The DNA damage repair genes hMLH1 and hMSH2
+are inactivated in a small subset of familial pancreaticcancers, but rarely in sporadic cases,
+40mostly medul -
+lary carcinomas of the pancreas.41These tumors con -
+stitute a separate entity that is important to recognize,since on the one hand they tend to carry a morefavorable prognosis than ductal adenocarcinomasand, on the other hand, they may indicate hereditarynonpolyposis colorectal cancer syndrome, in whichcase patients might benefit from genetic counseling.Medullary carcinomas of the pancreas show a typicalmedullary histology, which is characterized by poordifferentiation, pushing borders, and syncytial growthpattern.
+41,42
+Moreover, a subgroup of pancreatic cancers carries
+mutations in genes of the Fanconi’s anemia DNA repairpathway. Mutations affecting the BRCA2 gene have
+been found in approximately 17% of familial pancreaticcancers,
+43and FANCC and FANCG mutations have
+been described as rare findings in sporadic pancreaticcancers,
+44all of which are thought to be part of the
+Fanconi’s anemia DNA repair pathway. (See Kennedyand D’Andrea
+45and Taniguchi and D’Andrea46for a
+recent review and for a schematic overview of theFanconi’s anemia pathway.)
+Figure 2. The TGF- /H9252signaling pathway. The TGF- /H9252signaling pathway is
+activated by binding of the ligand TGF- /H9252to TGF- /H9252type II receptor at the cell
+surface, which facilitates the recruitment and phosphorylation of type I TGF- /H9252
+receptor. The latter activates the SMAD transcription factors SMAD 2 or 3 by
+phosphorylation, which in turn releases them from the cytoplasmic anchoringprotein SMAD anchor for receptor activation (SARA). The phosphorylated SMAD2/3 proteins complex with SMAD4 and translocate to the nucleus where theymodulate the expression of multiple SMAD target genes. Note that TGF-
+/H9252
+signaling can also occur via SMAD-independent mechanisms (not shown).(Reproduced with permission from the International Society of GastrointestinalOncology).
+20Molecular Genetics of Pancreatic Cancer 113
+JMD March 2008, Vol. 10, No. 2Mutations in Mitochondrial DNA
+As they harbor the enzymatic machinery of the respira-
+tory cycle, mitochondria generally contain higher con-centrations of free radicals, rendering mtDNA more proneto accumulation of genetic alterations. Moreover, mito-chondrial DNA damage repair is overall less effectivethan in the nucleus, and therefore mutations of mtDNAare quite commonly observed in a variety of malignantneoplasias, including pancreatic cancers.
+47,48Although
+mutations in mtDNA most likely do not contribute to PDACpathogenesis but rather represent a bystander effect,they might nevertheless be an interesting diagnostic tar-get. MtDNA is six- to eightfold more abundant in the cellthan nuclear DNA, and thus it might be feasible to use thehigh frequency of mtDNA mutations for the developmentof screening tests for early detection of pancreatic can-cer. A recent study from our own group has demon-strated in principle, that mtDNA mutations can be de-tected by means of a high-throughput mtDNA microarrayof pancreatic juice aspiration samples from patients withpancreatic cancer.
+49It is entirely possible that in the near
+future less expensive and more sensitive methods willbecome available, possibly allowing for screening usingsample materials that are easier and less invasively toobtain, eg, peripheral blood samples, so that ideally evenpatients at average or only slightly increased risk couldbe tested regularly as a tool of secondary prophylaxis.
+Telomere Length Abnormalities
+Physiologically, telomeres, which consist of repeats ofthe sequence motif TTAGGG at the ends of each chro-mosome, confer chromosomal integrity during cell rep-lication and prevent chromosome ends from fusingtogether.
+50Marked telomere shortening can already be
+found in more than 90% of even the lowest grade PanINlesions, so that occurrence of telomere abnormalities areamong the earliest known events in the cascade of pan-creatic cancer development.
+51In the setting of cancer
+progression, telomeres play a role similar to that of care-taker genes in maintaining genomic integrity. It is as-sumed that loss of telomere function might permit subse-quent accumulation of additional genomic changes at thechromosomal level that confer progression toward a fullymalignant phenotype.
+52,53
+Epigenetic Abnormalities
+In addition to intragenic mutations and allelic loss,silencing of tumor suppressor genes through epige-netic mechanisms is a frequent finding in many can-cers.
+54Transcriptional abrogation by epigenetic silenc-
+ing is mediated most commonly by hypermethylation ofCpG islands in promoter regions of tumor suppressorgenes. In pancreatic cancer, epigenetic silencing oftenaffects genes that function as tumor suppressors or areinvolved in key homeostatic pathways, including P16/
+CDKN2A, E-cadherin, retinoic acid-
+/H9252,osteonectin, sup-pressor of cytokine signaling-1, and tumor suppressor in
+lung cancer 1.55,56More recently, promoter hypermethyl-
+ation of human Hedgehog interacting protein was found in
+the majority of examined pancreatic cancer cell lines andprimary tumor samples,
+57potentially contributing to in-
+creased Hedgehog signaling observed in pancreaticcancers. Aberrant DNA methylation occurs already inPanIN-2 and PanIN-3 lesions,
+58and thus diagnostic ex-
+ploitation of this phenomenon, ie, detection of aberrantlymethylated DNA in clinical samples as a strategy for early
+detection of pancreatic cancer, is currently an area of
+active research efforts. For example a recent study wassuccessful in detecting methylation of proenkephalin se-quences in about 60% of pancreatic juice samples ob-tained from pancreatic cancer patients but not fromcontrols.
+59
+Interestingly, promoter hypermethylation, though most
+common, is not the only epigenetic modification involvedin carcinogenesis. More recently it was found that thereverse means of aberrant gene regulation (hypomethy-lation) is also exploited by pancreatic cancer cells, ie,some genes, including maspin, S100P, mesothelin, pros-
+tate stem cell antigen, and claudin-4, can be overex-
+pressed due to promoter hypomethylation.
+60
+Transcriptomic Changes
+Development and better availability of new global geneexpression analysis tools such as serial analysis of geneexpression and oligonucleotide and cDNA microarrays inrecent years have catalyzed an enormous increase in thegeneration of data characterizing abnormalities at thetranscriptional (RNA) level in a variety of human cancers.In particular, several studies were performed to identifygenes that are differentially expressed in pancreatic can-cers as compared to normal, non-neoplastic pancreatictissues.
+61– 68
+Interestingly, six genes—keratin 19, retinoic acid-in-
+duced 3, secretory leukocyte protease inhibitor, stratifin,
+tetraspan 1, and transglutaminase 2—were found to be
+overexpressed by all three techniques (serial analysis ofgene expression and oligonucleotide and cDNA microar-rays). It has yet to be elucidated whether up-regulation ofthese genes is only a bystander phenomenon or is mech-anistically involved in malignant transformation and mightpose a potential target for the development of noveltherapeutic strategies. Moreover, differential gene ex-pression might be used to establish new diagnostic toolssuch as tumor imaging or early detection of pancreaticcancer.
+The tight junction protein claudin 4 was found to be
+overexpressed in PanIN lesions and in fully invasive pan-creatic cancer tissue by microarray analysis, and over-expression was confirmed by immunohistochemistry.
+69
+Radiolabeled anti-claudin 4 antibodies have recentlybeen tested successfully in a preclinical setting as imag-ing tools as well as for therapeutic purposes in murinexenograft models of human pancreatic cancer.
+70,71
+Mesothelin was originally identified by serial analysis of
+gene expression as being overexpressed in pancreatic114 Feldmann and Maitra
+JMD March 2008, Vol. 10, No. 2cancer, and validation by immunohistochemistry re-
+vealed it is almost exclusively expressed in neoplasticcells but not in neighboring nonmalignant tissue.
+72As a
+result of this initial finding, both an experimental tumorvaccine against mesothelin and a conjugated immuno-toxin directed against mesothelin are currently undergo-ing initial evaluation in clinical trials.
+73
+Prostate stem cell antigen, originally thought to be
+restricted to prostatic basal cells and prostate carcino-mas, was found by serial analysis of gene expression tobe expressed in about 60% of pancreatic cancers, butnot in normal, non-neoplastic pancreas tissues.
+61Follow-
+ing up on these findings, prostate stem cell antigen hasthereafter been successfully tested as a potential targetfor immunotherapy
+74as well as for diagnostic imaging in
+murine xenograft models of human pancreatic cancer.71
+Yes-associated protein, the mammalian homologue of
+Yorkie, the main effector of the Hippo pathway, has re-cently found to be overexpressed at the RNA and proteinlevel in pancreatic cancer cells, suggesting a possiblerole of this pathway in pancreatic carcinogenesis,
+75likely
+through interaction with TGF- /H9252signaling.76Survivin, a
+major suppressor of apoptosis, is expressed at the RNAand protein level in low- to high-grade PanIN lesions andfully invasive pancreatic ductal adenocarcinomas in in-creasing levels, but not in neighboring non-neoplastictissue, and it is thought to be involved in carcinogenesisas well as drug resistance.
+77,78It might therefore be a
+promising target both as diagnostic marker for early de-tection as well as for therapeutic intervention.
+Moreover, recently aberrant reactivation of the Hedge-
+hog and Notch signaling pathways, and concomitantoverexpression of their respective target genes, hasbeen described in the majority of pancreatic can-cers.
+7 9–8 2Inhibition of Notch-1 lead to growth inhibition
+and increased apoptosis in pancreatic cancer cell lines in
+vitro,83,84and ligand overexpression has been linked to
+neovascularization in vivo.85To our knowledge, studies
+examining in vivo effects of Notch inhibition, eg, using
+xenograft model systems of pancreatic cancer, are stilllacking at the time of this manuscript’s preparation.
+Hedgehog inhibition with the small molecule smooth-
+ened inhibitor cyclopamine has been found to increasecytotoxic effects of paclitaxel treatment and radiationon pancreatic cancer cells in vitro
+86and to inhibit
+growth of pancreatic cancer xenografts and metasta-ses in vivo.
+79,80,87A simplified, schematic overview of
+the Hedgehog signaling pathway in mammals is givenin Figure 3.
+It has been suggested that reactivation of embryonic
+signaling pathways might be involved in maintaining asubset of cancer cells with stem cell-like properties, ie,putative cancer stem cells. A recent study has describeda subpopulation of CD24
+/H11001, CD44/H11001, and ESA/H11001cells with
+cancer stem cell-like properties, including self-renewaland strikingly enhanced tumorigenic potential in soft agaras well as in athymic mice. Interestingly, this subpopula-tion was also characterized by marked overexpression ofSonic Hedgehog ligand (SHH) by more than 50-fold ascompared to normal tissue, whereas overexpression in“bulk” tumor cells was found to be only about fivefold.
+88Another study by our own group identified a subpopula-tion of aldehyde dehydrogenase-“bright” cells with en-hanced tumorigenic potential that showed increased ex-pression of the Hedgehog target gene Gli1 and were
+diminished by Hedgehog inhibition with cyclopamine.
+87
+Presently, development of new, clinically applicableHedgehog inhibitors is being pursued by several phar-maceutical companies and will hopefully soon be avail-able for trials in a clinical setting.
+Proteomic Abnormalities
+The word proteome denotes the ensemble of proteinssynthesized by a cell or, mutatis mutandis, a certain type
+of cells, eg, pancreatic cancer cells, making up the bulkneoplastic tissue. Studying gene expression differencesat the protein level can in a way be considered as themost straightforward approach, as it bypasses the needto identify possibly different underlying mechanisms, eg,occurrence of intragenic mutations, hetero- or homozy-gous deletions, or epigenetic alterations, as discussedabove.
+The past decade has seen great progress in the de-
+velopment of high-throughput techniques addressingprotein expression changes, including chip-based arraysthat allow determination of a plethora of proteins within a
+Figure 3. The Hedgehog signaling pathway. The Hedgehog (Hh) signaling
+pathway involves a series of inhibitory interactions between secreted ligands,
+cell surface receptors, and cytoplasmic proteins, culminating in the activationof transcription and up-regulation of Hh target genes by the DNA-bindingtranscription factor GLI. The Hh signaling pathway is activated by binding ofHh ligands—Sonic, Desert, or Indian hedgehog (SHH, DHH, IHH)—to the12-transmembrane receptor Patched (PTCH). This interaction releases theinhibitory effects of PTC on the 7-transmembrane smoothened (SMO) recep-tor, and the conformational change with activation that SMO undergoes, inturn, facilitates its inhibition of the cytoplasmic protein Suppressor of Fused(SUFU). SUFU inhibition allows GLI to escape cytoplasmic sequestration, onwhich it undergoes nuclear translocation and activates the transcription ofHh target genes.Molecular Genetics of Pancreatic Cancer 115
+JMD March 2008, Vol. 10, No. 2given liquid sample in parallel, or tissue microarrays,
+enabling examination of expression of selected proteinsin a great number of tissue specimens with antibody-based protocols like immunohistochemistry or immuno-fluorescence in one assay.
+It has become evident from proteomic studies that
+during the multi-stepwise development of pancreaticcancer, changes in the protein expression pattern do notoccur in a random manner but can be grouped into early,intermediate, and late changes, which mirror the step-wise accumulation of genomic alterations as discussedpreviously.
+35(See Feldmann et al89and Singh and
+Maitra90for more detailed reviews of molecular abnor-
+malities observed in precursor lesions of PDAC.) Thisobservation might have direct clinical implications, eg, inthe quest to identify novel tumor markers for early detec-tion. While a protein like prostate stem cell antigen, whichis already secreted by the earliest PanIN-1 lesions, mightbe an extremely sensitive marker for early detection, itmight nevertheless be of limited clinical value due to thecommon occurrence of low-grade PanINs in pancreata ofolder individuals. Detection of mesothelin, which is ex-pressed only in late PanIN-3 lesions and fully invasivecancer tissues, from pancreatic juice could on the otherhand have much more severe prognostic implications.
+Examination of protein expression patterns from pancre-
+atic juice samples using surface-enhanced laser desorptionand ionization mass spectrometry-based protein chips hasled to the discovery of hepatocarcinoma-intestine-pancreas/pancreatitis-associated-protein-1 (HIP/PAP-1) overexpres-sion in pancreatic cancers. It has been shown that individ-uals with high HIP/PAP-1 concentrations /H1102220
+/H9262g/ml had a
+more than 20-fold increased risk of developing pancreaticcancer.
+91Surface-enhanced laser desorption and ioniza -
+tion mass spectrometry has recently successfully beentested to predict pancreatic cancer from patient serumsamples with 78% sensitivity and a specificity of 97%.
+92
+Another experimental approach to determine altered
+protein expression from liquid samples exploits liquid
+chromatography tandem mass spectrometry, which en-ables identification of proteins based on their individ-ual charge/mass ratios. This technique has recentlybeen used to identify 170 genes expressed in pancre-atic juice of patients with pancreatic cancer, includingseveral previously known tumor markers like CEA,MUC1, or HIP/PAP-1.
+93
+Mouse Models of Pancreatic Cancer
+Xenograft Models
+Research aimed at better pathophysiological under-
+standing and development of novel therapeutic strate-gies against pancreatic cancer has long been hamperedby the lack of suitable small animal models that satisfac-torily resemble clinical features of human disease. Tradi-tionally, initial screening of potential new drugs for in vivo
+efficacy is most commonly performed on subcutaneous(athymic nude or SCID) mouse xenograft models, de-rived from either human pancreatic cancer cell lines orprimary cancer tissue specimens, which accurately mir-ror genotypic features of the parental tumors and sus-ceptibility or resistance to anticancer agents even afterserial transplantation.
+94While these in vivo models are
+relatively easy to generate and allow for easy screeningof putative new drugs on several xenograft tumor lines,and thus are undoubtedly of immense value for initialpharmacological studies, they also suffer from some fun-damental drawbacks.
+95,96First, as these xenogenic
+transplantation models lack T cell or both B and T cellresponses, effects of the tumor environment includingimmunological effects are poorly mirrored. Second, asthese models are heterotopic, they do not reflect thephysiological microenvironment in the pancreas, includ-ing anatomical conditions and effects of direct tumorinvasion into neighboring structures, cytokine and che-mokine secretion patterns, vascularization and tumor-induced neoangiogenesis. Third, and related to the firsttwo points, subcutaneous xenografts of pancreatic can-cers hardly ever metastasize, so that mechanisms in-volved in metastatic spread cannot be studied usingthese models, although this is one of the most prominentfeatures of pancreatic cancer in humans that de factodetermines the overall survival.
+Therefore, recent years have seen increasing use of
+orthotopic xenograft models, which are more tedious togenerate but are able to overcome many of these short-comings. They are particularly useful to study drug ef-fects on tumor microenvironment including neoangiogen-esis and metastatic spread.
+87,97Tumor cells are either
+injected directly into the mouse pancreas, often in theform of concentrated tumor cell suspensions containingMatrigel, or alternatively are surgically implanted into themurine pancreas as chunks of primary tumor tissues orxenografts. While the first variant is faster and allowsgeneration of xenografts from cell lines without the needto first grow subcutaneous xenografts, the second tech-nique is more reliable in preventing intraperitoneal leak-age of tumor cells after injection and also allows for theuse of primary tissue samples, thus bypassing the needforin vitro established cell lines.
+Transgenic Mouse Models
+As opposed to subcutaneous or orthotopic xenografts,transgenic mouse models possess the potential to mimichuman disease in a syngeneic system. While they canobviously not represent the whole spectrum of geneticaberrations observed in human pancreatic cancers,these models are of tremendous value for translationalstudies as they also include a syngeneic tumor environ-ment as well as a fully intact immune system. The earliestmodels, described almost two decades ago, used aci-nar-specific elastase promoter to target oncogene ex-pression to the murine pancreas, resulting in neoplasmsof predominantly acinar histogenesis.
+98,99
+The first mouse model most closely resembling his-
+topathological features of human ductal adenocarcinomawas described in 2003.
+100In this model, expression of
+oncogenic KrasG12Dis suppressed by combination with116 Feldmann and Maitra
+JMD March 2008, Vol. 10, No. 2Lox-STOP-Lox (LSL) constructs. Repression is released
+on Cre-mediated excision of the LSL cassettes and sub-sequent recombination. Targeting of transgene expres-sion to the murine pancreas is achieved by expression ofCre recombinase under the control of pancreas-specificpromoters Pdx1 or P48. It is commonly assumed thatPdx1-/P48-double positive cells give rise to virtually allmature cells in the pancreas.
+100 –102During embryonic
+development, expression of Pdx1/PF1 starts around E8.5,and P48/PTF1 expression begins slightly later. All ofthese mice develop ductal lesions resembling humanPanIN lesions, which eventually progress into a fully in-vasive and metastatic adenocarcinoma phenotype in asmall percentage (/H1102110%) of animals. The long latency of6 to 8 months and low frequency suggest the needof additional genetic alterations, likely including theINK4a-Rb or Arf-p53 pathways, whereas the majority ofcells expressing oncogenic Kras
+G12Dalone might un-
+dergo ras-induced senescence and thus fail to accumu-late additional hits required to develop a fully malignantcancer phenotype.
+103Similar to these observations,
+Grippo et al found multifocal acinar cell hyperplasia inEla-Kras
+G12Dmice 1 to 2 months of age. Interestingly, by
+the age of 6 to 18 months, some of these lesions under-went a process the authors referred to as acinar-to-ductalmetaplasia and presented with a more duct-like pheno-type, including expression of CK-19.
+104
+In fact, newer transgenic models have recently been
+described, in that KrasG12Dexpression is directed to the
+pancreas by means of Cre recombinase under the con-trol of a Pdx1 promoter in combination with inhibition ofthe INK4A/Arf or p53 pathways, respectively: LSL-Kras
+G12D;
+INK4a/Arflox/lox;Pdx1-Cre,105LSL-Kras;p53lox/lox;Pdx1-Cre,106
+and LSL-Kras;Trp53R172H;Pdx1-Cre.107Mice with knock-
+out of the INK4a/Arf locus, resulting in loss of both murinep16 and p19 function, develop poorly differentiated car-cinomas very rapidly and start to die before 7 weeks ofage,
+105whereas inhibition of p53 function, either by genetic
+knockout106or by introduction of a dominant negative p53
+allele,107preferentially leads to moderately to well-differen -
+tiated adenocarcinomas. Of note, abrogation of eitherINK4a/Arf or p53 signaling alone in the absence of onco-genic Kras does not lead to the development of pancreaticcarcinomas or associated precursor lesions, underscoringthe crucial importance of Kras signaling in initiating thecascade of events, eventually culminating in a fully malig-nant phenotype during pancreatic carcinogenesis.
+105
+The described models, and especially the latter,107to
+date also represent those recapitulating most closely theclinicopathological characteristics of human pancreaticadenocarcinomas and thus carry enormous potential forfuture translational studies in providing an excellent plat-form for preclinical evaluation of novel drugs and othertherapeutic approaches. Several signaling pathwaysshown to be aberrantly activated in human pancreaticcancers are also found to be turned on in the discussedmouse models, including the Hedgehog and Notch sig-naling pathways. As these pathways can be targeted byusing blocking antibodies or small-molecule inhibitors,for example, it is tempting to speculate whether thera-peutic regimens exploiting blockade of these pathwaysmight have an effect on survival in these preclinical mod-els and might moreover eventually be translated intoapplications in a clinical setting.
+Using a mouse model of TGF-
+/H9251-induced pancreatic can-
+cer previously described by Wagner and colleagues,108a
+recent study from the same group found that pancreaticcarcinomas occurring in C57BL/6-EL-TGF-alpha;Trp53
+/H11002//H11002
+mice induced a distinct immune response including secre-
+tion of proinflammatory cytokines and occurrence of tu-mor-specific regulatory T lymphocytes in the host. Sur-prisingly, tumor-derived cell lines did not form xenografttumors in immunocompetent mice of the same geneticbackground, a finding that is yet to be fully understood.From these results the authors conclude that spontane-ous tumors arising in this mouse model are recognizedby the host immune system and that therefore transgenicmodels might be more suitable than xenografts to evalu-ate certain immunotherapeutic regimens in a preclinicalsetting.
+109
+An immunotherapeutic approach using tumor vaccina-
+tion with tumor/dendritic cell fusion supplemented byinjection of superantigen staphylococcal enterotoxin Bleads to generation of tumor-specific cytotoxic T lympho-cytes and increased survival in a previously describedtransgenic mouse model of acinar cell-type pancreaticcancer overexpressing MUC1,
+110,111which is based on a
+model originally described by Tevethia et al, in whichpancreatic acinar carcinomas are induced by pancreas-specific expression of a transgene containing the N-terminal amino acids 1–127 of large T-cell antigen underthe control of THE elastase-1 promoter.
+112
+In the last few years, several other transgenic mouse
+models targeting different pathways thought to be in-volved in pancreatic carcinogenesis, which allow deeperinsight in underlying etiological and pathogenetic mech-anisms, have been described. Three recent mouse mod-els addressed the role of TGF-
+/H9252signaling in pancreatic
+cancer (see Figure 2 for an overview of the TGF- /H9252path-
+way) by pancreas-specific deletion of either SMAD4113,114or
+TGF-/H9252receptor type II (TGFBR2).115Interestingly, as ob-
+served for interruption of INK4a/Arf and p53 signalingpathways, neither SMAD4 nor TGFBR2 deletion alone is
+sufficient to induce pancreatic neoplasia. However, whencombined with oncogenic Kras
+G12D, development of fully
+malignant carcinomas is enhanced with shorter latenciesthan observed for Kras
+G12Dalone. While mice lacking
+pancreatic TGFBR2 expression in the presence ofKras
+G12Dall develop well-differentiated adenocarcino-
+mas and die of their disease within 200 days, with amedian survival of 59 days,
+115loss of SMAD4 in
+KrasG12D-expressing pancreata leads to development of
+premalignant precursor lesions of intraductal papillarymucinous neoplasm or mucinous cystic neoplasm type,which can progress into fully malignant carcinomas. Forthe latter, median survival of 8 months
+114a n d7t o1 2
+weeks113have been described. TGF- /H9252signaling has pre-
+viously been proposed to mediate epithelial-to-mesen-chymal transition,
+116and in line with this concept, INK4A/
+Arf-null;KrasG12Dmice with wild-type SMAD4 usually
+present with poorly differentiated carcinomas, whereasmice that also lack SMAD4 expression, develop mostlyMolecular Genetics of Pancreatic Cancer 117
+JMD March 2008, Vol. 10, No. 2well- to moderately differentiated pancreatic adenocarci-
+nomas that express epithelial markers such as E-cad-herin or cytokeratin-19.
+Studies examining the role of Hedgehog signaling
+demonstrated that overexpression of the Hedgehog li-gand Sonic Hedgehog (SHH) in the pancreas is sufficientto induce formation of PanIN lesions.
+79Introduction of a
+dominant-active form of the activating Hedgehog tran-scription factor GLI2 (CLEG2) leads to formation of poorlydifferentiated pancreatic carcinomas that lack CK-19 ex-pression in about 30% of PDX1-Cre;CLEG2 mice, whichseem to develop without evidence of PanINs as precur-sor lesions.
+117Of note, combined expression of CLEG2
+and KrasG12Din the murine pancreas results in formation
+of PanIN lesions and pancreatic carcinomas in all studiedmice, with shorter latency and dramatically decreasedoverall survival of only 3 to 8 weeks.
+Overexpression of COX-2 in the pancreas under the
+control of a keratin 5 promoter leads to formation of IPMN-and PanIN-like lesions, enhanced ras signaling, inflam-mation, and fibrosis in a subset of mice.
+118Clerc and
+colleagues described development of pancreatic carci-nomas through acinar-to-ductal transition in three of 20mice overexpressing CCK2/gastrin receptor in pancre-atic acinar cells.
+119
+Other Promising Translational Studies
+Some novel therapeutic strategies that were developedbased on recent advances in our understanding of mo-lecular biology and pathophysiology of pancreatic can-cer are actually on the verge of being tested in the clinicsand might soon be beneficial, if not for all, for at least asubset of patients suffering from PDAC. Targeting aber-rantly reactivated developmental signaling pathways,namely the Hedgehog,
+79,80Notch,84,120and Wnt121,122
+signaling pathways, by means of blocking antibodiesor small-molecule inhibitors are highly promising futuretreatment options in PDAC, as already mentionedabove. These approaches are particularly exciting, asfirst evidence is emerging that at least some of thesestrategies might target distinct subpopulations of can-cer cells with stem cell-like properties
+87,88and could
+therefore carry the potential to overcome developmentof drug resistance and tumor recurrence commonlyobserved today with standard chemotherapy regimensin several malignancies. However, as evaluation oftreatment strategies targeting these pathways has onlyjust begun and, moreover, the concept of cancer stemcells is still highly and controversially discussed in thescientific community, it is not possible yet to give a finaljudgment as to the full therapeutic potential of theseapproaches.
+Multiple immunotherapeutic trials have been per-
+formed in a clinical setting at several institutions, includ-ing our own, with variable success.
+123Overall, immuno-
+therapeutic regimens using monoclonal antibodies haveso far been the most successful approaches. However,tumor vaccination protocols for pancreatic cancer arealso increasingly translated into clinical therapies, someof which showed extremely encouraging initial results. A
+phase I study conducted at our own institution using awhole tumor cell vaccine coadministered with granulo-cyte macrophage– colony-stimulating factor was shownto be safe and potentially effective in patients with earlystage disease.
+124Follow-up phase II clinical trials are
+currently ongoing.
+Another idea is based on the recent observation that
+a small subset of PDAC that carry mutations in theFanconi anemia/BRCA2 pathway is highly sensitive tocross-linking agents such as mitomycin C or cisplatinin vitro and in vivo.
+44,125Although affecting only 5 to
+10% of human PDAC, these findings might soon betranslated into effective chemotherapeutic treatmentregimens for these cases. A phase II clinical trial ispresently underway.
+Overexpression of the chemokine receptor CXCR4 is
+thought to be involved in the development of metastases,possibly through attraction of CXCR4-positive tumor cellsby SDF-1alpha/CXCL12.
+126Moreover, tumor neoangio-
+genesis and growth of subcutaneous murine xenograftscould be inhibited by administration of anti-CXCR4 block-ing antibodies.
+127Therefore, the SDF-1/CXCR4 signaling
+axis might be yet another promising therapeutic target forPDAC in the near future.
+Using in vitro and in vivo model systems, treatment with
+tumor necrosis factor-related apoptosis-inducing ligand
+has been demonstrated to be a valid novel therapeuticstrategy in several solid tumors, including pancreaticcancer, especially when combined with other substancessensitizing cancer cells to tumor necrosis factor-relatedapoptosis-inducing ligand by overcoming resistance toapoptosis.
+128,129This strategy is also most likely soon to
+undergo initial evaluation in a clinical setting.
+Clinical use of several commonly administered cyto-
+toxic chemotherapeutics is often limited by systemic ad-verse effects. Utilization of nanotechnology carries the po-
+tential to minimize these problems, by encapsulating drugsin nanoparticles and via specific delivery to tumor cells bypassive (through enhanced permeation and retention ef-fect) or active targeting (nanoparticles coated with antibod-ies or receptor analogs directed against tumor-specific sur-face antigens), thereby drastically reducing the totalamount of drug needed to achieve a therapeutic re-sponse.
+130Moreover, encapsulation into nanoparticles can
+overcome poor water solubility, a common shortcoming ofmultiple substances being screened as potential drugs. Anexample is curcumin, a plant extract from Curcuma longa,
+which has long been known in traditional Indian medicineand has well-described anti-inflammatory and antineoplas-tic properties in vitro. While promising in vivo results have
+been achieved in animal models of PDAC in that compara-bly huge doses of curcumin could be administered,
+131as
+well as in clinical trials in preventing progression of preneo-plastic colon adenomas,
+132broader application in different
+tumor types has been hampered by poor water solubilityand almost zero resorption from the gastrointestinal tractand systemic bioavailability.
+133,134Nanoencapsulation of
+curcumin has recently been shown to render the drugreadily water soluble while retaining its biological properties118 Feldmann and Maitra
+JMD March 2008, Vol. 10, No. 2in vitro.135,136However, the in vivo efficacy of these new
+formulations has yet to be evaluated.
+Conclusion
+Pancreatic cancer continues to prove resistant against
+most clinically available treatment options to date, and itremains to be one of the worst killers among humanmalignancies. It seems unlikely that potent therapeuticoptions, which would enable us to definitely cure or, moredesirably, prevent all pancreatic cancers, will be avail-able in the near future. However, based on recent ad-vances, as described in this article, there is increasinghope that tenacious research efforts and better under-standing of underlying biological characteristics will fi-nally yield enhanced survival and better quality of life forpatients suffering from this disease. Multimodal strate-gies combining different therapeutic strategies are likelyto have the greatest chance for improvement in the com-ing years.
+Acknowledgments
+We thank Jennifer Parsons-Brumbaugh and Joseph Di-eter for preparation of the illustrations. We apologize tocolleagues whose work could not be cited due to lack ofspace.
+References
+1. American Cancer Society: Cancer Facts & Figures 2007. Atlanta,
+American Cancer Society, 2007
+2. Carpelan-Holmstrom M, Nordling S, Pukkala E, Sankila R, Luttges J,
+Kloppel G, Haglund C: Does anyone survive pancreatic ductal ad-
+enocarcinoma? A nationwide study re-evaluating the data of theFinnish Cancer Registry. Gut 2005, 54:385–387
+3. Jemal A, Siegel R, Ward E, Murray T, Xu J, Smigal C, Thun MJ:
+Cancer statistics, 2006. CA Cancer J Clin 2006, 56:106 –130
+4. Sirivatanauksorn V, Sirivatanauksorn Y, Gorman PA, Davidson JM,
+Sheer D, Moore PS, Scarpa A, Edwards PA, Lemoine NR: Non-random chromosomal rearrangements in pancreatic cancer celllines identified by spectral karyotyping. Int J Cancer 2001,91:350 –358
+5. Griffin CA, Hruban RH, Morsberger LA, Ellingham T, Long PP, Jaffee
+EM, Hauda KM, Bohlander SK, Yeo CJ: Consistent chromosomeabnormalities in adenocarcinoma of the pancreas. Cancer Res1995, 55:2394 –2399
+6. Iacobuzio-Donahue CA, van der Heijden MS, Baumgartner MR,
+Troup WJ, Romm JM, Doheny K, Pugh E, Yeo CJ, Goggins MG,Hruban RH, Kern SE: Large-scale allelotype of pancreaticobiliarycarcinoma provides quantitative estimates of genome-wide allelicloss. Cancer Res 2004, 64:871– 875
+7. Xin W, Yun KJ, Ricci F, Zahurak M, Qiu W, Su GH, Yeo CJ, Hruban
+RH, Kern SE, Iacobuzio-Donahue CA: MAP2K4/MKK4 expression inpancreatic cancer: genetic validation of immunohistochemistry andrelationship to disease course. Clin Cancer Res 2004, 10:8516 – 8520
+8. Goggins M, Shekher M, Turnacioglu K, Yeo CJ, Hruban RH, Kern SE:
+Genetic alterations of the transforming growth factor beta receptorgenes in pancreatic and biliary adenocarcinomas. Cancer Res1998, 58:5329 –5332
+9. Su GH, Bansal R, Murphy KM, Montgomery E, Yeo CJ, Hruban RH,
+Kern SE: ACVR1B (ALK4, activin receptor type 1B) gene mutationsin pancreatic carcinoma. Proc Natl Acad Sci USA 2001, 98:3254 –3257
+10. Luttges J, Galehdari H, Brocker V, Schwarte-Waldhoff I, Henne-
+Bruns D, Kloppel G, Schmiegel W, Hahn SA: Allelic loss is often thefirst hit in the biallelic inactivation of the p53 and DPC4 genes during
+pancreatic carcinogenesis. Am J Pathol 2001, 158:1677–1683
+11. Yamano M, Fujii H, Takagaki T, Kadowaki N, Watanabe H, Shirai T:
+Genetic progression and divergence in pancreatic carcinoma. Am JPathol 2000, 156:2123–2133
+12. Mahlamaki EH, Hoglund M, Gorunova L, Karhu R, Dawiskiba S,
+Andren-Sandberg A, Kallioniemi OP, Johansson B: Comparativegenomic hybridization reveals frequent gains of 20q, 8q, 11q, 12p,and 17q, and losses of 18q, 9p, and 15q in pancreatic cancer.Genes Chromosomes Cancer 1997, 20:383–391
+13. Pinkel D, Segraves R, Sudar D, Clark S, Poole I, Kowbel D, Collins C,
+Kuo WL, Chen C, Zhai Y, Dairkee SH, Ljung BM, Gray JW, AlbertsonDG: High resolution analysis of DNA copy number variation usingcomparative genomic hybridization to microarrays. Nat Genet 1998,20:207–211
+14. Pollack JR, Perou CM, Alizadeh AA, Eisen MB, Pergamenschikov A,
+Williams CF, Jeffrey SS, Botstein D, Brown PO: Genome-wide anal-ysis of DNA copy-number changes using cDNA microarrays. NatGenet 1999, 23:41– 46
+15. Lucito R, Healy J, Alexander J, Reiner A, Esposito D, Chi M, Rodgers
+L, Brady A, Sebat J, Troge J, West JA, Rostan S, Nguyen KC,Powers S, Ye KQ, Olshen A, Venkatraman E, Norton L, Wigler M:Representational oligonucleotide microarray analysis: a high-reso-lution method to detect genome copy number variation. GenomeRes 2003, 13:2291–2305
+16. Holzmann K, Kohlhammer H, Schwaenen C, Wessendorf S, Kestler
+HA, Schwoerer A, Rau B, Radlwimmer B, Dohner H, Lichter P, GressT, Bentz M: Genomic DNA-chip hybridization reveals a higher inci-dence of genomic amplifications in pancreatic cancer than conven-tional comparative genomic hybridization and leads to the identifi-cation of novel candidate genes. Cancer Res 2004, 64:4428 – 4433
+17. Aguirre AJ, Brennan C, Bailey G, Sinha R, Feng B, Leo C, Zhang Y,
+Zhang J, Gans JD, Bardeesy N, Cauwels C, Cordon-Cardo C,Redston MS, DePinho RA, Chin L: High-resolution characterizationof the pancreatic adenocarcinoma genome. Proc Natl Acad Sci USA2004, 101:9067–9072
+18. Brody JR, Hucl T, Gallmeier E, Winter JM, Kern SE, Murphy KM:
+Genomic copy number changes affecting the thymidylate synthase(TYMS) gene in cancer: a model for patient classification to aidfluoropyrimidine therapy. Cancer Res 2006, 66:9369 –9373
+19. Caldas C, Hahn SA, da Costa LT, Redston MS, Schutte M, Seymour
+AB, Weinstein CL, Hruban RH, Yeo CJ, Kern SE: Frequent somaticmutations and homozygous deletions of the p16 (MTS1) gene inpancreatic adenocarcinoma. Nat Genet 1994, 8:27–32
+20. Hruban RH, Maitra A, Schulick R, Laheru D, Herman J, Kern SE,
+Goggins M: Emerging molecular biology of pancreatic cancer. Gas-trointestinal Cancer Res 2007 (in press)
+21. Moskaluk CA, Hruban RH, Kern SE: p16 and K-ras gene mutations
+in the intraductal precursors of human pancreatic adenocarcinoma.Cancer Res 1997, 57:2140 –2143
+22. Hruban RH, Wilentz RE, Kern SE: Genetic progression in the pan-
+creatic ducts. Am J Pathol 2000, 156:1821–1825
+23. Calhoun ES, Jones JB, Ashfaq R, Adsay V, Baker SJ, Valentine V,
+Hempen PM, Hilgers W, Yeo CJ, Hruban RH, Kern SE: BRAF andFBXW7 (CDC4. FBW7, AGO, SEL10) mutations in distinct subsets ofpancreatic cancer: potential therapeutic targets. Am J Pathol 2003,163:1255–1260
+24. Han H, Bearss DJ, Browne LW, Calaluce R, Nagle RB, Von Hoff DD:
+Identification of differentially expressed genes in pancreatic cancercells using cDNA microarray. Cancer Res 2002, 62:2890 –2896
+25. Berg T, Cohen SB, Desharnais J, Sonderegger C, Maslyar DJ, Gold-
+berg J, Boger DL, Vogt PK: Small-molecule antagonists of Myc/Max
+dimerization inhibit Myc-induced transformation of chicken embryo fi-broblasts. Proc Natl Acad Sci USA 2002, 99:3830 –3835
+26. Ruggeri BA, Huang L, Wood M, Cheng JQ, Testa JR: Amplification
+and overexpression of the AKT2 oncogene in a subset of humanpancreatic ductal adenocarcinomas. Mol Carcinog 1998, 21:81– 86
+27. Altomare DA, Tanno S, De Rienzo A, Klein-Szanto AJ, Tanno S,
+Skele KL, Hoffman JP, Testa JR: Frequent activation of AKT2 kinasein human pancreatic carcinomas. J Cell Biochem 2003, 88:470 – 476
+28. Osaki M, Oshimura M, Ito H: PI3K-Akt pathway: its functions and
+alterations in human cancer. Apoptosis 2004, 9:667– 676
+29. Li J, Kleeff J, Giese N, Buchler MW, Korc M, Friess H: Gefitinib
+(“Iressa”. ZD1839), a selective epidermal growth factor receptorMolecular Genetics of Pancreatic Cancer 119
+JMD March 2008, Vol. 10, No. 2tyrosine kinase inhibitor, inhibits pancreatic cancer cell growth, in-
+vasion, and colony formation. Int J Oncol 2004, 25:203–210
+30. Schutte M, Hruban RH, Geradts J, Maynard R, Hilgers W, Rabindran
+SK, Moskaluk CA, Hahn SA, Schwarte-Waldhoff I, Schmiegel W,Baylin SB, Kern SE, Herman JG: Abrogation of the Rb/p16 tumor-suppressive pathway in virtually all pancreatic carcinomas. CancerRes 1997, 57:3126 –3130
+31. Wilentz RE, Geradts J, Maynard R, Offerhaus GJ, Kang M, Goggins
+M, Yeo CJ, Kern SE, Hruban RH: Inactivation of the p16 (INK4A)tumor-suppressor gene in pancreatic duct lesions: loss of intranu-clear expression. Cancer Res 1998, 58:4740 – 4744
+32. Chen ZH, Zhang H, Savarese TM: Gene deletion chemoselectivity:
+codeletion of the genes for p16(INK4), methylthioadenosine phos-phorylase, and the alpha- and beta-interferons in human pancreaticcell carcinoma lines and its implications for chemotherapy. CancerRes 1996, 56:1083–1090
+33. Hahn SA, Schutte M, Hoque AT, Moskaluk CA, da Costa LT, Rozen-
+blum E, Weinstein CL, Fischer A, Yeo CJ, Hruban RH, Kern SE: DPC4,a candidate tumor suppressor gene at human chromosome 18q21.1.Science 1996, 271:350 –353
+34. Schutte M, Hruban RH, Hedrick L, Cho KR, Nadasdy GM, Weinstein
+CL, Bova GS, Isaacs WB, Cairns P, Nawroz H, Sidransky D, CaseroRA Jr, Meltzer PS, Hahn SA, Kern SE: DPC4 gene in various tumortypes. Cancer Res 1996, 56:2527–2530
+35. Maitra A, Adsay NV, Argani P, Iacobuzio-Donahue C, De Marzo A,
+Cameron JL, Yeo CJ, Hruban RH: Multicomponent analysis of thepancreatic adenocarcinoma progression model using a pancreaticintraepithelial neoplasia tissue microarray. Mod Pathol 2003,16:902–912
+36. Sahin F, Maitra A, Argani P, Sato N, Maehara N, Montgomery E,
+Goggins M, Hruban RH, Su GH: Loss of Stk11/Lkb1 expression inpancreatic and biliary neoplasms. Mod Pathol 2003, 16:686 – 691
+37. Su GH, Hilgers W, Shekher MC, Tang DJ, Yeo CJ, Hruban RH, Kern
+SE: Alterations in pancreatic, biliary, and breast carcinomas supportMKK4 as a genetically targeted tumor suppressor gene. Cancer Res1998, 58:2339 –2342
+38. Vogelstein B, Kinzler KW: Cancer genes and the pathways they
+control. Nat Med 2004, 10:789 –799
+39. Friedberg EC: DNA damage and repair. Nature 2003, 421:436 – 44040. Ghimenti C, Tannergard P, Wahlberg S, Liu T, Giulianotti PG, Mosca
+F, Fornaciari G, Bevilacqua G, Lindblom A, Caligo MA: Microsatelliteinstability and mismatch repair gene inactivation in sporadic pan-creatic and colon tumours. Br J Cancer 1999, 80:11–16
+41. Wilentz RE, Goggins M, Redston M, Marcus VA, Adsay NV, Sohn TA,
+Kadkol SS, Yeo CJ, Choti M, Zahurak M, Johnson K, Tascilar M,Offerhaus GJ, Hruban RH, Kern SE: Genetic, immunohistochemical,and clinical features of medullary carcinoma of the pancreas: a newlydescribed and characterized entity. Am J Pathol 2000, 156:1641–1651
+42. Goggins M, Offerhaus GJ, Hilgers W, Griffin CA, Shekher M, Tang D,
+Sohn TA, Yeo CJ, Kern SE, Hruban RH: Pancreatic adenocarcino-mas with DNA replication errors (RER/H11001) are associated with wild-type K-ras and characteristic histopathology. Poor differentiation, asyncytial growth pattern, and pushing borders suggest RER/H11001.A mJPathol 1998, 152:1501–1507
+43. Murphy KM, Brune KA, Griffin C, Sollenberger JE, Petersen GM,
+Bansal R, Hruban RH, Kern SE: Evaluation of candidate genesMAP2K4, MADH4, ACVR1B, and BRCA2 in familial pancreaticcancer: deleterious BRCA2 mutations in 17%. Cancer Res 2002,62:3789 –3793
+44. van der Heijden MS, Yeo CJ, Hruban RH, Kern SE: Fanconi anemia
+gene mutations in young-onset pancreatic cancer. Cancer Res
+2003, 63:2585–2588
+45. Kennedy RD, D’Andrea AD: DNA repair pathways in clinical
+practice: lessons from pediatric cancer susceptibility syndromes.J Clin Oncol 2006, 24:3799 –3808
+46. Taniguchi T, D’Andrea AD: Molecular pathogenesis of Fanconi
+anemia: recent progress. Blood 2006, 107:4223– 4233
+47. Fliss MS, Usadel H, Caballero OL, Wu L, Buta MR, Eleff SM, Jen J,
+Sidransky D: Facile detection of mitochondrial DNA mutations intumors and bodily fluids. Science 2000, 287:2017–2019
+48. Jones JB, Song JJ, Hempen PM, Parmigiani G, Hruban RH, Kern SE:
+Detection of mitochondrial DNA mutations in pancreatic canceroffers a “mass”-ive advantage over detection of nuclear DNA muta-tions. Cancer Res 2001, 61:1299 –130449. Maitra A, Cohen Y, Gillespie SE, Mambo E, Fukushima N, Hoque
+MO, Shah N, Goggins M, Califano J, Sidransky D, Chakravarti A: The
+Human MitoChip: a high-throughput sequencing microarray for mi-tochondrial mutation detection. Genome Res 2004, 14:812– 819
+50. Gisselsson D: Chromosome instability in cancer: how, when, and
+why? Adv Cancer Res 2003, 87:1–29
+51. van Heek NT, Meeker AK, Kern SE, Yeo CJ, Lillemoe KD, Cameron JL,
+Offerhaus GJ, Hicks JL, Wilentz RE, Goggins MG, De Marzo AM,Hruban RH, Maitra A: Telomere shortening is nearly universal in pan-creatic intraepithelial neoplasia. Am J Pathol 2002, 161:1541–1547
+52. Meeker AK: Telomeres and telomerase in prostatic intraepithelial neo-
+plasia and prostate cancer biology. Urol Oncol 2006, 24:122–130
+53. Hackett JA, Greider CW: Balancing instability: dual roles for telom-
+erase and telomere dysfunction in tumorigenesis. Oncogene 2002,21:619 – 626
+54. Baylin SB, Herman JG: DNA hypermethylation in tumorigenesis:
+epigenetics joins genetics. Trends Genet 2000, 16:168 –174
+55. Ueki T, Toyota M, Sohn T, Yeo CJ, Issa JP, Hruban RH, Goggins M:
+Hypermethylation of multiple genes in pancreatic adenocarcinoma.Cancer Res 2000, 60:1835–1839
+56. Sato N, Fukushima N, Maitra A, Matsubayashi H, Yeo CJ, Cameron
+JL, Hruban RH, Goggins M: Discovery of novel targets for aberrantmethylation in pancreatic carcinoma using high-throughput microar-rays. Cancer Res 2003, 63:3735–3742
+57. Martin ST, Sato N, Dhara S, Chang R, Hustinx SR, Abe T, Maitra A,
+Goggins M: Aberrant methylation of the human Hedgehog interact-ing protein (HHIP) gene in pancreatic neoplasms. Cancer Biol Ther2005, 4:728 –733
+58. Fukushima N, Sato N, Ueki T, Rosty C, Walter KM, Wilentz RE, Yeo CJ,
+Hruban RH, Goggins M: Aberrant methylation of preproenkephalin andp16 genes in pancreatic intraepithelial neoplasia and pancreatic ductaladenocarcinoma. Am J Pathol 2002, 160:1573–1581
+59. Fukushima N, Walter KM, Uek T, Sato N, Matsubayashi H, Cameron
+JL, Hruban RH, Canto M, Yeo CJ, Goggins M: Diagnosing pancre-atic cancer using methylation specific PCR analysis of pancreaticjuice. Cancer Biol Ther 2003, 2:78 – 83
+60. Sato N, Maitra A, Fukushima N, van Heek NT, Matsubayashi H,
+Iacobuzio-Donahue CA, Rosty C, Goggins M: Frequent hypomethy-lation of multiple genes overexpressed in pancreatic ductal adeno-carcinoma. Cancer Res 2003, 63:4158 – 4166
+61. Argani P, Rosty C, Reiter RE, Wilentz RE, Murugesan SR, Leach
+SD, Ryu B, Skinner HG, Goggins M, Jaffee EM, Yeo CJ, Cameron
+JL, Kern SE, Hruban RH: Discovery of new markers of cancer
+through serial analysis of gene
+expression: prostate stem cell
+antigen is overexpressed in pancreatic adenocarcinoma. CancerRes 2001, 61:4320 – 4324
+62. Iacobuzio-Donahue CA, Ashfaq R, Maitra A, Adsay NV, Shen-Ong
+GL, Berg K, Hollingsworth MA, Cameron JL, Yeo CJ, Kern SE,Goggins M, Hruban RH: Highly expressed genes in pancreaticductal adenocarcinomas: a comprehensive characterization andcomparison of the transcription profiles obtained from three majortechnologies. Cancer Res 2003, 63:8614 – 8622
+63. Iacobuzio-Donahue CA, Maitra A, Olsen M, Lowe AW, van Heek NT,
+Rosty C, Walter K, Sato N, Parker A, Ashfaq R, Jaffee E, Ryu B,Jones J, Eshleman JR, Yeo CJ, Cameron JL, Kern SE, Hruban RH,Brown PO, Goggins M: Exploration of global gene expression pat-terns in pancreatic adenocarcinoma using cDNA microarrays. Am JPathol 2003, 162:1151–1162
+64. Iacobuzio-Donahue CA, Maitra A, Shen-Ong GL, van Heek T, Ashfaq
+R, Meyer R, Walter K, Berg K, Hollingsworth MA, Cameron JL, YeoCJ, Kern SE, Goggins M, Hruban RH: Discovery of novel tumormarkers of pancreatic cancer using global gene expression tech-nology. Am J Pathol 2002, 160:1239 –1249
+65. Ryu B, Jones J, Blades NJ, Parmigiani G, Hollingsworth MA, Hruban
+RH, Kern SE: Relationships and differentially expressed genes
+among pancreatic cancers examined by large-scale serial analysisof gene expression. Cancer Res 2002, 62:819 – 826
+66. Ryu B, Jones J, Hollingsworth MA, Hruban RH, Kern SE: Invasion-
+specific genes in malignancy: serial analysis of gene expressioncomparisons of primary and passaged cancers. Cancer Res 2001,61:1833–1838
+67. Geng M, Wallrapp C, Muller-Pillasch F, Frohme M, Hoheisel JD,
+Gress TM: Isolation of differentially expressed genes by combining120 Feldmann and Maitra
+JMD March 2008, Vol. 10, No. 2representational difference analysis (RDA) and cDNA library arrays.
+Biotechniques 1998, 25:434 – 438
+68. Crnogorac-Jurcevic T, Efthimiou E, Capelli P, Blaveri E, Baron A,
+Terris B, Jones M, Tyson K, Bassi C, Scarpa A, Lemoine NR: Geneexpression profiles of pancreatic cancer and stromal desmoplasia.Oncogene 2001, 20:7437–7446
+69. Nichols LS, Ashfaq R, Iacobuzio-Donahue CA: Claudin 4 protein
+expression in primary and metastatic pancreatic cancer: support foruse as a therapeutic target. Am J Clin Pathol 2004, 121:226 –230
+70. Michl P, Buchholz M, Rolke M, Kunsch S, Lohr M, McClane B,
+Tsukita S, Leder G, Adler G, Gress TM: Claudin-4: a new target forpancreatic cancer treatment using Clostridium perfringens entero-toxin. Gastroenterology 2001, 121:678 – 684
+71. Foss CA, Fox J, Feldmann G, Maitra A, Iacobuzio-Donahue C, Kern
+SE, Hruban RH, Pomper MG: Radiolabeled anti-claudin 4 and anti-prostate stem cell antigen: initial imaging in experimental models ofpancreatic cancer. Molecular Imaging 2007, 6
+72. Argani P, Iacobuzio-Donahue C, Ryu B, Rosty C, Goggins M, Wilentz
+RE, Murugesan SR, Leach SD, Jaffee E, Yeo CJ, Cameron JL, KernSE, Hruban RH: Mesothelin is overexpressed in the vast majority ofductal adenocarcinomas of the pancreas: identification of a newpancreatic cancer marker by serial analysis of gene expression(SAGE). Clin Cancer Res 2001, 7:3862–3868
+73. Thomas AM, Santarsiero LM, Lutz ER, Armstrong TD, Chen YC,
+Huang LQ, Laheru DA, Goggins M, Hruban RH, Jaffee EM: Mesothe-lin-specific CD8(/H11001) T cell responses provide evidence of in vivocross-priming by antigen-presenting cells in vaccinated pancreaticcancer patients. J Exp Med 2004, 200:297–306
+74. Wente MN, Jain A, Kono E, Berberat PO, Giese T, Reber HA, Friess
+H, Buchler MW, Reiter RE, Hines OJ: Prostate stem cell antigen is aputative target for immunotherapy in pancreatic cancer. Pancreas2005, 31:119 –125
+75. Dong J, Feldmann G, Huang J, Wu S, Zhang N, Comerford SA,
+Gayyed MF, Anders RA, Maitra A, Pan D: Elucidation of a universalsize-control mechanism in Drosophila and mammals. Cell 2007,130:1120 –1133
+76. Guo J, Kleeff J, Zhao Y, Li J, Giese T, Esposito I, Buchler MW, Korc
+M, Friess H: Yes-associated protein (YAP65) in relation to Smad7expression in human pancreatic ductal adenocarcinoma. Int J MolMed 2006, 17:761–767
+77. Bhanot U, Heydrich R, Moller P, Hasel C: Survivin expression in
+pancreatic intraepithelial neoplasia (PanIN): steady increase alongthe developmental stages of pancreatic ductal adenocarcinoma.Am J Surg Pathol 2006, 30:754 –759
+78. Satoh K, Kaneko K, Hirota M, Masamune A, Satoh A, Shimosegawa
+T: Expression of survivin is correlated with cancer cell apoptosis andis involved in the development of human pancreatic duct cell tu-mors. Cancer 2001, 92:271–278
+79. Thayer SP, di Magliano MP, Heiser PW, Nielsen CM, Roberts DJ,
+Lauwers GY, Qi YP, Gysin S, Fernandez-del Castillo C, Yajnik V,Antoniu B, McMahon M, Warshaw AL, Hebrok M: Hedgehog is anearly and late mediator of pancreatic cancer tumorigenesis. Nature2003, 425:851– 856
+80. Berman DM, Karhadkar SS, Maitra A, Montes De Oca R, Gerstenb-
+lith MR, Briggs K, Parker AR, Shimada Y, Eshleman JR, Watkins DN,Beachy PA: Widespread requirement for Hedgehog ligand stimula-tion in growth of digestive tract tumours. Nature 2003, 425:846 – 851
+81. Miyamoto Y, Maitra A, Ghosh B, Zechner U, Argani P, Iacobuzio-
+Donahue CA, Sriuranpong V, Iso T, Meszoely IM, Wolfe MS, HrubanRH, Ball DW, Schmid RM, Leach SD: Notch mediates TGF alpha-induced changes in epithelial differentiation during pancreatic tu-
+morigenesis. Cancer Cell 2003, 3:565–576
+82. Kimura K, Satoh K, Kanno A, Hamada S, Hirota M, Endoh M, Masam-
+une A, Shimosegawa T: Activation of Notch signaling in tumorigenesisof experimental pancreatic cancer induced by dimethylbenzanthra-cene in mice. Cancer Sci 2007, 98:155–162
+83. Wang Z, Zhang Y, Banerjee S, Li Y, Sarkar FH: Notch-1 down-
+regulation by curcumin is associated with the inhibition of cell growthand the induction of apoptosis in pancreatic cancer cells. Cancer2006, 106:2503–2513
+84. Wang Z, Zhang Y, Li Y, Banerjee S, Liao J, Sarkar FH: Down-
+regulation of Notch-1 contributes to cell growth inhibition and apo-ptosis in pancreatic cancer cells. Mol Cancer Ther 2006, 5:483– 493
+85. Buchler P, Gazdhar A, Schubert M, Giese N, Reber HA, Hines OJ,Giese T, Ceyhan GO, Muller M, Buchler MW, Friess H: The Notch
+signaling pathway is related to neurovascular progression of pan-creatic cancer. Ann Surg 2005, 242:791– 800, discussion 800 –791
+86. Shafaee Z, Schmidt H, Du W, Posner M, Weichselbaum R: Cyclo-
+pamine increases the cytotoxic effects of paclitaxel and radiationbut not cisplatin and gemcitabine in Hedgehog expressing pancre-atic cancer cells. Cancer Chemother Pharmacol 2006, 58:765–770
+87. Feldmann G, Dhara S, Fendrich V, Bedja D, Beaty R, Mullendore
+M, Karikari C, Alvarez H, Iacobuzio-Donahue C, Jimeno A, Gab-rielson KL, Matsui W, Maitra A: Blockade of hedgehog signalinginhibits pancreatic cancer invasion and metastases: a new par-adigm for combination therapy in solid cancers. Cancer Res2007, 67:2187–2196
+88. Li C, Heidt DG, Dalerba P, Burant CF, Zhang L, Adsay V, Wicha M,
+Clarke MF, Simeone DM: Identification of pancreatic cancer stemcells. Cancer Res 2007, 67:1030 –1037
+89. Feldmann G, Beaty R, Hruban RH, Maitra A: Molecular genetics of
+pancreatic intraepithelial neoplasia. J Hepatobiliary Pancreat Surg2007, 14:224 –232
+90. Singh M, Maitra A: Precursor lesions of pancreatic cancer: molecu-
+lar pathology and clinical implications. Pancreatology 2007, 7:9 –19
+91. Rosty C, Christa L, Kuzdzal S, Baldwin WM, Zahurak ML, Carnot F,
+Chan DW, Canto M, Lillemoe KD, Cameron JL, Yeo CJ, Hruban RH,Goggins M: Identification of hepatocarcinoma-intestine-pancreas/pancreatitis-associated protein I as a biomarker for pancreatic duc-tal adenocarcinoma by protein biochip technology. Cancer Res2002, 62:1868 –1875
+92. Koopmann J, Zhang Z, White N, Rosenzweig J, Fedarko N, Jagan-
+nath S, Canto MI, Yeo CJ, Chan DW, Goggins M: Serum diagnosisof pancreatic adenocarcinoma using surface-enhanced laser de-sorption and ionization mass spectrometry. Clin Cancer Res 2004,10:860 – 868
+93. Gronborg M, Bunkenborg J, Kristiansen TZ, Jensen ON, Yeo CJ,
+Hruban RH, Maitra A, Goggins MG, Pandey A: Comprehensiveproteomic analysis of human pancreatic juice. J Proteome Res 2004,3:1042–1055
+94. Rubio-Viqueira B, Jimeno A, Cusatis G, Zhang X, Iacobuzio-
+Donahue C, Karikari C, Shi C, Danenberg K, Danenberg PV,Kuramochi H, Tanaka K, Singh S, Salimi-Moosavi H, Bouraoud N,Amador ML, Altiok S, Kulesza P, Yeo C, Messersmith W, EshlemanJ, Hruban RH, Maitra A, Hidalgo M: An in vivo platform for transla-tional drug development in pancreatic cancer. Clin Cancer Res2006, 12:4652– 4661
+95. Kelland LR: Of mice and men: values and liabilities of the athymic
+nude mouse model in anticancer drug development. Eur J Cancer2004, 40:827– 836
+96. Kerbel RS: Human tumor xenografts as predictive preclinical models
+for anticancer drug activity in humans: better than commonly per-ceived— but they can be improved. Cancer Biol Ther 2003,2:S134 –139
+97. Loukopoulos P, Kanetaka K, Takamura M, Shibata T, Sakamoto M,
+Hirohashi S: Orthotopic transplantation models of pancreatic ade-nocarcinoma derived from cell lines
+and primary tumors and dis-
+playing varying metastatic activity. Pancreas 2004, 29:193–203
+98. Ornitz DM, Hammer RE, Messing A, Palmiter RD, Brinster RL: Pan-
+creatic neoplasia induced by SV40 T-antigen expression in acinarcells of transgenic mice. Science 1987, 238:188 –193
+99. Sandgren EP, Luetteke NC, Palmiter RD, Brinster RL, Lee DC: Over-
+expression of TGF alpha in transgenic mice: induction of epithelialhyperplasia, pancreatic metaplasia, and carcinoma of the breast.Cell 1990, 61:1121–1135
+100. Hingorani SR, Petricoin EF, Maitra A, Rajapakse V, King C, Jacobetz
+MA, Ross S, Conrads TP, Veenstra TD, Hitt BA, Kawaguchi Y,Johann D, Liotta LA, Crawford HC, Putt ME, Jacks T, Wright CV,Hruban RH, Lowy AM, Tuveson DA: Preinvasive and invasive ductal
+pancreatic cancer and its early detection in the mouse. Cancer Cell2003, 4:437– 450
+101. Jonsson J, Carlsson L, Edlund T, Edlund H: Insulin-promoter-factor
+1 is required for pancreas development in mice. Nature 1994,371:606 – 609
+102. Krapp A, Knofler M, Ledermann B, Burki K, Berney C, Zoerkler N,
+Hagenbuchle O, Wellauer PK: The bHLH protein PTF1-p48 is es-sential for the formation of the exocrine and the correct spatialMolecular Genetics of Pancreatic Cancer 121
+JMD March 2008, Vol. 10, No. 2organization of the endocrine pancreas. Genes Dev 1998,
+12:3752–3763
+103. Bardeesy N, Sharpless NE: RAS unplugged: negative feedback and
+oncogene-induced senescence. Cancer Cell 2006, 10:451– 453
+104. Grippo PJ, Nowlin PS, Demeure MJ, Longnecker DS, Sandgren EP:
+Preinvasive pancreatic neoplasia of ductal phenotype induced byacinar cell targeting of mutant Kras in transgenic mice. Cancer Res2003, 63:2016 –2019
+105. Aguirre AJ, Bardeesy N, Sinha M, Lopez L, Tuveson DA, Horner J,
+Redston MS, DePinho RA: Activated Kras and Ink4a/Arf deficiencycooperate to produce metastatic pancreatic ductal adenocarci-noma. Genes Dev 2003, 17:3112–3126
+106. Bardeesy N, Aguirre AJ, Chu GC, Cheng KH, Lopez LV, Hezel AF,
+Feng B, Brennan C, Weissleder R, Mahmood U, Hanahan D, Red-ston MS, Chin L, Depinho RA: Both p16(Ink4a) and the p19(Arf)-p53pathway constrain progression of pancreatic adenocarcinoma in themouse. Proc Natl Acad Sci USA 2006, 103:5947–5952
+107. Hingorani SR, Wang L, Multani AS, Combs C, Deramaudt TB, Hru-
+ban RH, Rustgi AK, Chang S, Tuveson DA: Trp53R172H andKrasG12D cooperate to promote chromosomal instability and widelymetastatic pancreatic ductal adenocarcinoma in mice. Cancer Cell2005, 7:469 – 483
+108. Wagner M, Greten FR, Weber CK, Koschnick S, Mattfeldt T, Deppert
+W, Kern H, Adler G, Schmid RM: A murine tumor progression modelfor pancreatic cancer recapitulating the genetic alterations of thehuman disease. Genes Dev 2001, 15:286 –293
+109. Garbe AI, Vermeer B, Gamrekelashvili J, von Wasielewski R, Greten
+FR, Westendorf AM, Buer J, Schmid RM, Manns MP, Korangy F,Greten TF: Genetically induced pancreatic adenocarcinoma ishighly immunogenic and causes spontaneous tumor-specific im-mune responses. Cancer Res 2006, 66:508 –516
+110. Mukherjee P, Ginardi AR, Madsen CS, Sterner CJ, Adriance MC,
+Tevethia MJ, Gendler SJ: Mice with spontaneous pancreatic cancernaturally develop MUC-1-specific CTLs that eradicate tumors whenadoptively transferred. J Immunol 2000, 165:3451–3460
+111. McConnell EJ, Pathangey LB, Madsen CS, Gendler SJ, Mukherjee
+P: Dendritic cell-tumor cell fusion and staphylococcal enterotoxin Btreatment in a pancreatic tumor model. J Surg Res 2002,107:196 –202
+112. Tevethia MJ, Bonneau RH, Griffith JW, Mylin L: A simian virus 40
+large T-antigen segment containing amino acids 1 to 127 and ex-pressed under the control of the rat elastase-1 promoter producespancreatic acinar carcinomas in transgenic mice. J Virol 1997,71:8157– 8166
+113. Bardeesy N, Cheng KH, Berger JH, Chu GC, Pahler J, Olson P,
+Hezel AF, Horner J, Lauwers GY, Hanahan D, DePinho RA: Smad4is dispensable for normal pancreas development yet critical in pro-gression and tumor biology of pancreas cancer. Genes Dev 2006,20:3130 –3146
+114. Izeradjene K, Combs C, Best M, Gopinathan A, Wagner A, Grady
+WM, Deng CX, Hruban RH, Adsay NV, Tuveson DA, Hingorani SR:Kras(G12D) and Smad4/Dpc4 haploinsufficiency cooperate to in-duce mucinous cystic neoplasms and invasive adenocarcinoma ofthe pancreas. Cancer Cell 2007, 11:229 –243
+115. Ijichi H, Chytil A, Gorska AE, Aakre ME, Fujitani Y, Fujitani S, Wright
+CV, Moses HL: Aggressive pancreatic ductal adenocarcinoma inmice caused by pancreas-specific blockade of transforming growthfactor-beta signaling in cooperation with active Kras expression.Genes Dev 2006, 20:3147–3160
+116. Zavadil J, Bottinger EP: TGF-beta and epithelial-to-mesenchymal
+transitions. Oncogene 2005, 24:5764 –5774
+117. Pasca di Magliano M, Sekine S, Ermilov A, Ferris J, Dlugosz AA,
+Hebrok M: Hedgehog/Ras interactions regulate early stages of pan-creatic cancer. Genes Dev 2006, 20:3161–3173
+118. Muller-Decker K, Furstenberger G, Annan N, Kucher D, Pohl-Arnold
+A, Steinbauer B, Esposito I, Chiblak S, Friess H, Schirmacher P,Berger I: Preinvasive duct-derived neoplasms in pancreas of keratin5-promoter cyclooxygenase-2 transgenic mice. Gastroenterology2006, 130:2165–2178
+119. Clerc P, Leung-Theung-Long S, Wang TC, Dockray GJ, Bouisson M,
+Delisle MB, Vaysse N, Pradayrol L, Fourmy D, Dufresne M: Expres-sion of CCK2 receptors in the murine pancreas: proliferation, trans-differentiation of acinar cells, and neoplasia. Gastroenterology 2002,122:428 – 437120. Wang Z, Banerjee S, Li Y, Rahman KM, Zhang Y, Sarkar FH: Down-
+regulation of notch-1 inhibits invasion by inactivation of nuclearfactor-kappaB, vascular endothelial growth factor, and matrix met-alloproteinase-9 in pancreatic cancer cells. Cancer Res 2006,66:2778 –2784
+121. Nawroth R, van Zante A, Cervantes S, McManus M, Hebrok M,
+Rosen SD: Extracellular sulfatases, elements of the wnt signalingpathway, positively regulate growth and tumorigenicity of humanpancreatic cancer cells. PLoS ONE 2007, 2:e392
+122. Zeng G, Germinaro M, Micsenyi A, Monga NK, Bell A, Sood A,
+Malhotra V, Sood N, Midda V, Monga DK, Kokkinakis DM, MongaSP: Aberrant Wnt/beta-catenin signaling in pancreatic adenocarci-noma. Neoplasia 2006, 8:279 –289
+123. Laheru D, Jaffee EM: Immunotherapy for pancreatic cancer: sci-
+ence driving clinical progress. Nat Rev Cancer 2005, 5:459 – 467
+124. Jaffee EM, Hruban RH, Biedrzycki B, Laheru D, Schepers K, Sauter
+PR, Goemann M, Coleman J, Grochow L, Donehower RC, LillemoeKD, O’Reilly S, Abrams RA, Pardoll DM, Cameron JL, Yeo CJ: Novelallogeneic granulocyte-macrophage colony-stimulating factor-se-creting tumor vaccine for pancreatic cancer: a phase I trial of safetyand immune activation. J Clin Oncol 2001, 19:145–156
+125. van der Heijden MS, Brody JR, Dezentje DA, Gallmeier E, Cunning-
+ham SC, Swartz MJ, DeMarzo AM, Offerhaus GJ, Isacoff WH, Hru-ban RH, Kern SE: In vivo therapeutic responses contingent onFanconi anemia/BRCA2 status of the tumor. Clin Cancer Res 2005,11:7508 –7515
+126. Saur D, Seidler B, Schneider G, Algul H, Beck R, Senekowitsch-
+Schmidtke R, Schwaiger M, Schmid RM: CXCR4 expression in-creases liver and lung metastasis in a mouse model of pancreaticcancer. Gastroenterology 2005, 129:1237–1250
+127. Guleng B, Tateishi K, Ohta M, Kanai F, Jazag A, Ijichi H, Tanaka Y,
+Washida M, Morikane K, Fukushima Y, Yamori T, Tsuruo T, KawabeT, Miyagishi M, Taira K, Sata M, Omata M: Blockade of the stromalcell-derived factor-1/CXCR4 axis attenuates in vivo tumor growth byinhibiting angiogenesis in a vascular endothelial growth factor-inde-pendent manner. Cancer Res 2005, 65:5864 –5871
+128. Koschny R, Ganten TM, Sykora J, Haas TL, Sprick MR, Kolb A,
+Stremmel W, Walczak H: TRAIL/bortezomib cotreatment is poten-tially hepatotoxic but induces cancer-specific apoptosis within atherapeutic window. Hepatology 2007, 45:649 – 658
+129. Karikari CA, Roy I, Tryggestad E, Feldmann G, Pinilla C, Welsh K,
+Reed JC, Armour EP, Wong J, Herman J, Rakheja D, Maitra A:Targeting the apoptotic machinery in pancreatic cancers usingsmall-molecule antagonists of the X-linked inhibitor of apoptosisprotein. Mol Cancer Ther 2007, 6:957–966
+130. Macdiarmid JA, Mugridge NB, Weiss JC, Phillips L, Burn AL,
+Paulin RP, Haasdyk JE, Dickson KA, Brahmbhatt VN, Pattison ST,James AC, Al Bakri G, Straw RC, Stillman B, Graham RM, Brahm-bhatt H: Bacterially Derived 400 nm Particles for Encapsulationand Cancer Cell Targeting of Chemotherapeutics. Cancer Cell2007, 11:431– 445
+131. Kunnumakkara AB, Guha S, Krishnan S, Diagaradjane P, Gelovani
+J, Aggarwal BB: Curcumin potentiates antitumor activity of gemcit-abine in an orthotopic model of pancreatic cancer through suppres-sion of proliferation, angiogenesis, and inhibition of nuclear factor-kappaB-regulated gene products. Cancer Res 2007, 67:3853–3861
+132. Cruz-Correa M, Shoskes DA, Sanchez P, Zhao R, Hylind LM,
+Wexner SD, Giardiello FM: Combination treatment with curcuminand quercetin of adenomas in familial adenomatous polyposis.Clin Gastroenterol Hepatol 2006, 4:1035–1038
+133. Cheng AL, Hsu CH, Lin JK, Hsu MM, Ho YF, Shen TS, Ko JY, Lin JT, Lin
+BR, Ming-Shiang W, Yu HS, Jee SH, Chen GS, Chen TM, Chen CA, LaiMK, Pu YS, Pan MH, Wang YJ, Tsai CC, Hsieh CY: Phase I clinical trialof curcumin, a chemopreventive agent, in patients with high-risk orpre-malignant lesions. Anticancer Res 2001, 21:2895–2900
+134. Lao CD, Ruffin MT, Normolle D, Heath DD, Murray SI, Bailey JM,
+Boggs ME, Crowell J, Rock CL, Brenner DE: Dose escalation of acurcuminoid formulation. BMC Complement Altern Med 2006, 6:10
+135. Bisht S, Feldmann G, Soni S, Ravi R, Karikar C, Maitra A, Maitra A:
+Polymeric nanoparticle-encapsulated curcumin (“nanocurcumin”): anovel strategy for human cancer therapy. J Nanobiotechnol 2007, 5:3
+136. Li L, Braiteh FS, Kurzrock R: Liposome-encapsulated curcumin: in
+vitro and in vivo effects on proliferation, apoptosis, signaling, andangiogenesis. Cancer 2005, 104:1322–1331122 Feldmann and Maitra
+JMD March 2008, Vol. 10, No. 2

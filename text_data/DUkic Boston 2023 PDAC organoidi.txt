@@ -1,0 +1,824 @@
+Pancreatic cancer derived 3D
+organoids as a clinical tool toevaluate the treatment response
+Hem D Shukla1*, Tijana Dukic1†, Sanjit Roy1†, Binny Bhandary1,
+Andrew Gerry1, Yannick Poirier2, Narottam Lamichhane2,
+Jason Molitoris1, France Carrier1, Aditi Banerjee3,
+William F. Regine1and Jerimy C. Polf2
+1Division of Translational Radiation Sciences, Department of Radiation Oncology, University of
+Maryland, School of Medicine, Baltimore, MD, United States,2Division of Medical Physics, Department
+of Radiation Oncology, University of Maryland, School of Medicine, Baltimore, MD, United States,
+3Department of Pediatrics, University of Maryland School of Medicine, Baltimore, MD, United States
+Background and purpose: Pancreatic cancer (PC) is the fourth leading cause of
+cancer death in both men and women. The standard of care for patients with
+locally advanced PC of chemotherapy, s tereotactic radiotherapy (RT), or
+chemo-radiation-therapy has shown highly variable and limited success
+rates. However, three-dimensional (3D) Pancreatic tumor organoids (PTOs)
+have shown promise to study tumor response to drugs, and emerging
+treatments under in vitro conditions. We investigated the potential for using
+3D organoids to evaluate the precise radiation and drug dose responses of in
+vivo PC tumors.
+Methods: PTOs were created from mouse pancreatic tumor tissues, and their
+microenvironment was compared to that of in vivo tumors using
+immunohistochemical and immuno ﬂuorescence staining. The organoids and
+in vivo PC tumors were treated with fractionated X-ray RT, 3-bromopyruvate
+(3BP) anti-tumor drug, and combination of 3BP + fractionated RT.
+Results: Pancreatic tumor organoids (PTOs) exhibited a similar ﬁbrotic
+microenvironment and molecular response (as seen by apoptosis biomarker
+expression) as in vivo tumors. Untreated tumor organoids and in vivo tumor
+both exhibited proliferative growth of 6 folds the original size after 10 days,
+whereas no growth was seen for organoids and in vivo tumors treated with 8
+(Gray) Gy of fractionated RT. Tumor organoids showed reduced growth rates of
+3.2x and 1.8x when treated with 4 and 6 Gy fractionated RT, respectively.
+Interestingly, combination of 100 µM of 3BP + 4 Gy of RT showed pronounced
+growth inhibition as compared to 3-BP alone or 4 Gy of radiation alone.
+Further, positive identi ﬁcation of SOX2, SOX10 and TGF bindicated presence
+of cancer stem cells in tumor organoids which might have some role in
+resistance to therapies in pancreatic cancer.
+Frontiers in Oncology frontiersin.org 01
+OPEN ACCESS
+EDITED BY
+Enza Lonardo,
+National Research Council (CNR), Italy
+REVIEWED BY
+Sladjana Zagorac,
+Imperial College London,
+United Kingdom
+Alessandro De Vita,Scienti ﬁc Institute of Romagna for the
+Study and Treatment of Tumors
+(IRCCS), Italy
+*CORRESPONDENCE
+Hem D Shukla
+hdshukla@som.umaryland.edu
+†These authors have contributed
+equally to this work
+SPECIALTY SECTION
+This article was submitted toGastrointestinal Cancers: HepatoPancreatic Biliary Cancers,a section of the journal
+Frontiers in Oncology
+RECEIVED 17 October 2022
+ACCEPTED 29 November 2022
+PUBLISHED 12 January 2023
+CITATION
+Shukla HD, Dukic T, Roy S,
+Bhandary B, Gerry A, Poirier Y,
+Lamichhane N, Molitoris J, Carrier F,
+Banerjee A, Regine WF and Polf JC
+(2023) Pancreatic cancer derived 3D
+organoids as a clinical tool to evaluate
+the treatment response.Front. Oncol. 12:1072774.
+doi: 10.3389/fonc.2022.1072774
+COPYRIGHT
+© 2023 Shukla, Dukic, Roy, Bhandary,Gerry, Poirier, Lamichhane, Molitoris,Carrier, Banerjee, Regine and Polf. This
+is an open-access article distributed
+under the terms of the Creative
+Commons Attribution License (CC BY).The use, distribution or reproduction
+in other forums is permitted, provided
+the originalauthor(s) and the copyright owner(s)are credited and that the original
+publication in this journal is cited, in
+accordance with accepted academicpractice. No use, distribution orreproduction is permitted which does
+not comply with these terms.TYPE Original Research
+PUBLISHED 12 January 2023
+DOI10.3389/fonc.2022.1072774Conclusions: PTOs produced a similar microenvironment and exhibited similar
+growth characteristics as in vivo tumors following treatment, indicating their
+potential for predicting in vivo tumor sensitivity and response to RT and
+combined chemo-RT treatments.
+KEYWORDS
+pancreatic cancer, 3D organoids, chemotherapy, chemo-radiation therapy, radiation,
+treatment response
+Introduction
+Pancreatic cancer is the fourth most lethal cancer in the
+United States. The current standard of care for resected patients
+consists of stereotactic radiation therapy (RT), chemotherapy or
+chemo-RT, and despite extensive research and development of
+new treatment regimens, 5-year survival remains at < 8%.
+Pancreatic cancer patients receiving RT, chemotherapy or
+chemo-RT are most commonly prescribed a regimen based on
+guidelines for similar tumors with similar histology and stage, as
+published by the National Comprehensive Cancer Network ( 1–
+4). These guidelines are based on large-scale phase III clinical
+trials used to study and quantify overall treatment response and
+outcomes for the entire population of patients with similar
+tumor characteristics, with a limited role for incorporating
+genetic pro ﬁling or molecular information. Variations in
+tumor and normal tissue response to radiation have long been
+known ( 5–8) with considerable progress over the last 10 –15
+years in understanding clinical manifestations and biologic
+mechanisms of both tumor response and normal tissue
+toxicities (acute and late).
+Several factors in ﬂuence and complicate a patient ’s
+likelihood of tumor respo nse to RT or development of
+associated normal tissue toxicities. These complex factors are
+related to physics (total dose, dose per fraction and volume
+irradiated, and dose homogeneity), combined with use of
+concomitant chemotherapy and/or surgery, patient
+characteristics (age, environmental factors, hemoglobin levels,
+and comorbid conditions) ( 9,10). Furthermore, variations in
+patient sensitivity to RT and combined chemo-RT have been
+investigated, with the ﬁrst report in 1975 of ﬁbroblasts from one
+patient being 3× more sensitive than those from a cohort of
+normal donors ( 11). Several subsequent studies showed
+differential in vitro radiosensitivity in primary cancer cell
+culture ( 12–16). This has led to a large amount of research
+into development of biomarkers and models that can predict
+sensitivity of individual patients ’tumors to RT, chemotherapy,
+and chemo-RT, including standard 2D in vitro cell survival
+studies and 3D xenograft models ( 17–18).
+In addition, the study and use of 3D patient-derived tumor
+organoid models to study tumor response to existing andemerging treatment regimens have grown substantially in
+recent years ( 19). Tumor Derived Organoids delineate more
+accurate response than cancer cell lines under 2D conditions in
+terms of reiterating the in vivo environment, and amenable for
+easier manipulation and high throughput screening than
+xenografts model that takes longer time to achieve. Thus,
+development of precision medicine approach customized to
+individual patients could be more promising by adapting to an
+appropriate platform such as bioengineered matrix that has the
+ability to reproduce patient responses to treatment ( 20). There
+has also been development of ﬂoating spheroid culture model
+that allowed 3-D culture of cancer cells, however this organoid
+system lacked matrix attachment and showed variable growth
+pattern ( 21). Matrigel based 3D culture system is routinely used
+for organoid growth and manipulation, however, it lacks de ﬁned
+composition and exhibits batch to batch variation ( 22).
+Furthermore, hydrogels like p olyethylene glycol which are
+synthetic polymers, offer excellent elasticity in the control of
+their physicochemical properties ( 23), however, these hydrogels
+are less biocompatible than hydrogels based on natural
+materials. Recently 3D collagen-based scaffold culture system
+has also been used with zebra ﬁsh model combined with the use
+of patient-derived primary cultures to examine trabectedin
+response in undifferentiated pleomorphic sarcoma which has
+shown clinical promise ( 24). In recent report, collagen-based
+scaffolds model has been successfully established to study
+pathophysiological features of oropharyngeal squamous cell
+carcinoma and it has been used to understand drug-resistance
+processes ( 25). These developments have been driven by the
+limited ef ﬁcacy in translating results derived from 2D in vitro cell
+cultures into positive clinical outcomes ( 26,27). While
+beneﬁting from simplicity and relative ease of use, 2D cultures
+lack the ability to reproduce the diversity of cellular
+organization, extracellular microenvironment, and cellular
+contact and signaling pathways found within the tumor ( 28–
+32). Patient-derived organoid models have shown the ability to
+accurately model in vivo tumors, reproducing the heterogeneous
+tissue and cellular microenvironments while maintaining genetic
+and phenotypic pro ﬁles of the original tumors from which they
+were derived ( 27).The majority of 3D organoid studies have
+focused primarily on tumor response to chemotherapy and otherShukla et al. 10.3389/fonc.2022.1072774
+Frontiers in Oncology frontiersin.org 02targeted treatment agents ( 19,33). A few studies have
+investigated RT and chemo-RT responses in 3D tumor
+organoids derived from glioblastoma ( 34), head and neck ( 35,
+36), and rectal/colorectal ( 37–39) tumors.
+Although several studies have outlined the development and
+use of pancreatic tumor organoids (PTO) derived from mouse or
+human cells ( 28,29,40–42) and these reports have mainly
+focused on the general response of PTO organoids andindividual patient sensitivity to current and emerging
+chemotherapy, molecular, and immunotherapy methods. To
+date, few studies have been published on the applicability of
+3D organoids for modeling the response of pancreatic cancer to
+RT and combined chemo-RT. Here we report on an initial
+feasibility study of PTO organoids and their ability to accurately
+reproduce the responses to fractionated RT and chemo-RT of
+thein vivo tumors from which they were derived. PTO
+organoids were created from mouse pancreatic tumors, and
+the microenvironments of the PTO organoids were compared
+to excised in vivo tumor tissues. Responses of the PTO organoids
+were compared to the responses of in vivo tumors to treatment
+with fractionated x-ray RT. In addition, to illustrate the potential
+of PTO organoids to determine tumor sensitivity to multiple
+treatments, the responses of the PTO organoids to 3-
+bromopyruvate (3BP) and combined 3BP-RT treatments were
+studied and compared PTO responses to RT alone.
+Materials and methods
+Subcutaneous tumor xenografts
+After animal protocol approval from our institution ’sO fﬁce
+of Animal Welfare Assurance (IACUC Protocol #1019006), 6 –7-
+week-old C57Bl/6 mice were subcutaneously implanted with
+pancreatic tumors derived from Panc2 cells in the right ﬂank. A
+full description of the subcutaneous tumor generation can be
+found in the Supplemental Materials. This included 20 mice in
+which to study the growth of untreated (control; n= 10) and RT-
+treated ( n= 10) in vivo tumors. Tumor tissues from untreated
+control animals were used to produce PTO organoids.
+Generation and propagation of mouse
+tumor derived organoids
+The full procedure for organoid production can be found in
+the Supplemental Materials. In brief, animals were euthanized
+with CO 2when the tumor size reached 1.2 –1.5 cm. Tumors were
+excised and washed with cold DMEM/F12 medium and
+processed for organoid production as described earlier ( 33,
+43). The ﬁnely minced tumor tissues were digested in Tissue
+Digestion Cocktail (Collagenase IV (3.75 ml), Dispase (3.75 ml)
+and DNase I (1 mg/ml) in DMEM/F12 (22.2 ml) with 15 mMHEPES) for 20 min. The digested tissue fragments were allowed
+to settle by gravity for 5 min and supernatant was carefully
+removed and passed through 70 µm strainer. The pass through
+was discarded and tissues and ductal fragments were collected in
+10 ml chilled DMEM/F12 in 15 ml sterile falcon tube.
+Subsequently, tubes were centrifuged at 300 X g for 5 min.
+Pellet was suspended into 25 µl chilled Matrigel and mixed 5-8
+times with cold pipette tip and cultured as dome in prewarmed24 well plate. The plates with Matrigel domes were then
+incubated at 37°C for 10 minutes with 5% CO2, and 0.5 mL
+pancreatic cult media containing 2.5 ng/ml recombinant EGF,
+2.5 ng/ml FGF, (R&D Systems), 2% v/v vitamin B27, 200 mg/ml
+ALK5 inhibitor, 0.021 mg/ml gastrin, 81.5 mg/ml N-
+acetylcysteine, 122 mg/ml Nicotinamide, 1:1000 Y-27632
+(Rho-kinase inhibitor) (Sigma) in 100 ml DMEM/F12
+GlutaMAX (ThermoFisher Scienti ﬁc, Waltham, MA). For
+coculturing, t cancer associated ﬁbroblasts (CAF) were isolated
+from tumor tissues and cultured in 60 mm cell culture dish in
+DMEM/F12 media with 5% FBS. After completion of the three
+passaging CAF were mixed with organoids in 1:4 ratio and
+cultured in Matrigel dome in DMEM/F12 minimal media
+lacking noggin, TGF- binhibitor and vitamin B27.
+The organoid culture was maintained in the incubator for 3-
+4 days to allow organoids to grow. On day four the plates were
+treated, and organoid growth was monitored using an EVOS cell
+imaging system (ThermoFisher Scienti ﬁc; Waltham, MA) at 4x
+magni ﬁcation under bright- ﬁeld light condition for 10 days
+following treatment.
+In vivo radiation treatment
+In vivo tumors on mouse ﬂanks were irradiated at ~2.5 Gy/
+min using the Small Animal Radiation Research Platform
+(SARRP; Xstrahl; Suwanee, GA) operating at 220 kVp, 0.15-
+mm Cu ﬁltration (0.6-mm Cu half-value layer), and 13 mA.
+Mice were irradiated sequentially, placed in groups of 3 on the
+SARRP ’s robotic stage using a bilateral anterior –posterior/
+posterior –anterior (AP/PA) treatment geometry with the
+standard 10-mm collimation at a source-to-axis distance of
+35 cm. The stage was ﬁrst translated from one animal to the
+next to deliver the AP treatment ﬁeld, then the gantry was
+rotated from 0° to 180° and the PA ﬁeld delivered to each mouse.
+Irradiation times were calculated using CT scans from
+representative animals in the SARRP treatment planning
+system and veri ﬁed using a mouse-mimicking plastic phantom
+and a pinpoint ionization chamber (IBA; Louvain-La-Neuve,
+Belgium) cross-calibrated with the National Institute of
+Standards and Technology (NIST) –traceable Farmer chamber.
+Twenty mice (n = 20) with ﬂank tumors were divided into
+two treatment groups with ten mice (N = 10) per group: 1)
+control (no treatment), and 2) 8 Gy RT. The in vivo tumors on
+the mice ﬂanks were treated with fractionated X-ray RT to a totalShukla et al. 10.3389/fonc.2022.1072774
+Frontiers in Oncology frontiersin.org 03dose of 8 Gy. The RT was delivered in 2 Gy fractions on
+subsequent days.
+Treatment of organoids with anti-tumor
+drugs and RT
+For the RT treatment delivery, the co-cultured organoids
+were irradiated at 2.3 Gy/min using an Xrad 320 biological
+irradiator (Precision X-Ray; Madison, CT) operating at 320 kVp,
+2-mm Al ﬁltration, and 13 mA (1-mm Cu half-value layer).
+Samples were placed at 50-cm source-to-surface distance on a
+foam surface to eliminate backscatter. Organoids were irradiated
+in an AP direction, creating ge ometric conditions closely
+matching those used for reference dosimetry. Irradiators for
+both in vivo tumor and organoids irradiations were calibrated
+using a NIST-traceable PTW TN30013 Farmer-type ionization
+chamber and a PTW Unidose electrometer (PTW Freiburg;
+Breisgau, Germany) following the American Association of
+Physicists in Medicine (AAPM) Task Group 61 in-air
+calibration protocol for X-ray irradiators ( 44).
+To evaluate proliferation and response of organoids to
+fractionated RT, organoids were treated with doses of either 4, 6
+or 8 Gy. Irradiation treatments were delivered in fractions of 2 Gy/
+fraction, with one fraction delivered per day on subsequent days
+until the entire dose was delivered. Moreover, to study effect of
+drug 3BP treatment, organoids were treated with 100 µM
+concentration (IC50) for 24 hours and growth response was
+monitored and recorded by bright ﬁeld imaging. In addition, to
+study the combinatorial dose response of 3BP with RT, organoids
+were ﬁrst treated with 100 µM of 3BP for 24 hours, followed by 4
+Gy RT (delivered in two fractions as described above).
+After all treatments, the media was changed, and organoids
+were allowed to grow for 10 days. For each treatment, ﬁve (n=5)
+organoids were studied. RT and drug induced changes in
+organoids morphology was recorded once a day (every 24
+hours) for 10 days after chemo treatment or delivery of the
+ﬁnal fraction of RT treatment using bright ﬁeld imaging obtained
+at 4× and 10× magni ﬁcation with an EVOS microscope
+(ThermoFisher Scienti ﬁc, Waltham, MA).
+Hematoxylin and eosin staining
+H e m a t o x y l i na n de o s i n( H & E) staining of treated and
+untreated organoids was performed after organoids were ﬁxed
+with 10% formalin for 24 hours at room temperature and
+washed with milliQ water before treatment with Vector
+Hematoxylin QS (H-3404-100; Vector Laboratories;
+Burlingame, CA) and Eosin Y (HT110116; MilliporeSigma;
+Burlington, MA). Organoids with Matrigel were rinsed with
+ethanol and then MilliQ water between each staining phase.Images were captured with EVOS microscopy at 4× and 10×
+magni ﬁcation under bright ﬁeld.
+Immuno ﬂuorescence and imaging
+Organoids were grown in 24 well plates in 50% Matrigel
+(untreated or treated as described above) were ﬁxed in 10%
+formalin for 12 hours, washed with 1× PBS for three times, and
+treated with 0.2% triton x-100 in 1× PBS for 5 minutes. The
+triton x-100 was removed and incubated with blocking reagent
+(5% goat serum, 1% bovine serum albumin) in 1× PBS for 1
+hour. The blocking reagent was removed, and the tumor tissues
+and organoids were incubated with either: 1) a primary antibody
+anti-mouse vimentin (Biolegend, USA) in a 1:100 dilution, or 2)
+with primary antibody anti-rabbit cleaved caspase-3 (Cell
+Signaling Technology; Danvers, MA) in a 1:300 dilution in a
+cold room overnight. The next day, the antibody was removed
+and washed with 1× twin-buffered saline tween (TBST) for 5
+minutes each for three times. Tumor tissues and organoids were
+incubated with ﬂuorescently labeled secondary antibody Alexa
+ﬂuor 488 (ThermoFisher Scienti ﬁc; Waltham, MA) in a 1:400
+dilution. After washing with 1× TBST, incubated with Hoechst
+dye 1 mg/mL for 15 minutes and washed with 1× PBS for three
+times. Finally, 1× PBS was added to the labeled organoids, and
+ﬂuorescence images were acquired with green and 4 ′,6-
+diamidino-2-phenylindole (DAPI) acquisition ﬁelds.
+Co-staining of pancreatic
+tumor organoids with aSMA and
+vimentin antibodies
+The pancreatic tumor organoids were passaged as described
+previously. The immuno ﬂuorescence staining was performed as
+follows; The organoids were ﬁxed in tissue ﬁxation buffer
+containing formalin solution, 10% neutral buffer overnight
+(Sigma Chemical, USA). The following day, the ﬁxing was
+stopped, and organoids were washed with 1 X PBS 3 times for
+5 minutes each. Subsequently, organoids were treated with 0.2%
+Triton X-100 followed by blocking with 5% goat serum with 1%
+BSA for 1 hour. We used aSMA primary antibodies, rabbit
+polyclonal unconjugated at 1:100 dilution (ABclonal, USA) andAlexa ﬂuor 594 conjugated anti-Vimentin (mouse) at 1:300
+dilution for overnight in 1:5 dilution in blocking buffer. After
+completion of the incubation, primary antibodies were removed,
+and organoids were washed as described above. In addition,
+Alexa ﬂuor 488 rabbit secondary a ntibody (ThermoFisher
+Scienti ﬁc, USA) was used at 1:300 dilution for 1 hour to detect
+unconjugated aSMA. Images were captured using EVOS
+Microscope (ThermoFisher Scienti ﬁc, USA) under
+dark condition.Shukla et al. 10.3389/fonc.2022.1072774
+Frontiers in Oncology frontiersin.org 04Analysis of tumors and tumor organoids
+response to drugs and radiation treatment
+Tumor tissues from 8 untreated control animals were
+resected and digested and processed for organoid culture, we
+observed growth in about 24 hours and passaged after four
+days. Once organoids reached 100 mmi ns i z et h e yw e r et r e a t e d
+as follows ( Figure 1 )(1): irradiation with different doses of (4,
+or 8 Gy) RT ( 2); 100 µM of 3BP; and 3) combined 4 Gy RT and
+100 µM 3BP anti-cancer drug. Untreated organoids were
+considered as control. Five (n=5) organoids for each group
+were imaged using an EVOS imaging system every day for 10
+days starting after chemo or the ﬁnal RT treatment fraction.
+T h es i z eo ft h eo r g a n o i d sw a sd e t e r m i n e da st h ea r e a( A=
+length × width) of a rectangula r box placed around the edges of
+the organoids ( Supplemental Material Figure S2 ). The average
+growth rate factor of organoids was calculated as size on a
+speci ﬁed day (N) divided by the size on day 0, for untreated
+(control), and for treatment response, the volume of treatedorganoids was recorded as 0 day at ﬁrst day of treatment, and
+after 10 days of treatment it wa s recorded as N and the relative
+growth was calculated as g= (N/0).
+Forin vivo experiment, twenty mice with tumors were
+randomized into two treatment groups of ten (n=10) mice
+each ( 1): no treatment (controls); and ( 2) fractionated RT to a
+total dose of 8 Gy (2 Gy/fraction, 1 fraction/per day x 4 days).
+Following treatment, the sizes of in vivo tumors were measured
+every day for 10 days. Tumor size was determined in terms of
+volume using the formula: V = [W2x L]/2, where V is tumor
+volume, W is tumor width, and L is tumor length, each measured
+using electronic calipers ( 45).
+Statistical analyses
+The response of the organoids to each type of treatment was
+determined from the difference in growth of the control
+A B
+D EC
+FIGURE 1
+Schematic diagram showing radiation and drug treatment in tumor organoids. (A)production of tumor organoids from in vivo tumor. (B)Tumor
+tissues resected from mouse ﬂanks were digested and used to grow 3D PDAC organoids. (C)Mice with ﬂank tumors were randomized to either
+control or 8-Gy irradiation groups, and 3D organoids were randomized to control, irradiation only (4, 6,or 8 Gy), 3BP only, or 4 Gy irradiation +
+3BP treatment groups. Treatment response was determined by measuring the size of (D)in vivo ﬂank tumors with calipers and (E)organoids
+using bright- ﬁeld microscopy imaging for 10 days following treatment.Shukla et al. 10.3389/fonc.2022.1072774
+Frontiers in Oncology frontiersin.org 05organoids and the organoids subjected to a given type of
+treatment. Since each comparison involved only two data
+groups [ ( 1) control and ( 2)] individual treatment type], the
+statistical signi ﬁcance of the difference between the average size
+of untreated control organoids and individual treatment type
+organoids was calculated using an unpaired one-sided student t-
+test ( Pvalue) ( 46). Differences in average organoid size were
+considered signi ﬁcant for P< 0.05 and considered highly
+signiﬁcant for P< 0.01.Results
+Growth and molecular characterization
+of pancreatic tumor organoids
+To establish and characterize the preclinical PDAC organoid
+model, we ﬁrst performed an initial evaluation of the shape and
+growth of the untreated control organoids. As shown in Figure 2 ,
+PDAC organoids initially developed as dense spheroids and
+A
+B
+DC
+FIGURE 2
+(A)Growth characterization of pancreatic tumor organoids. Top: Bright- ﬁeld images of organoids on days 0, 5, and 10; 2 (B): H&E staining of
+tumor organoids on days 0, 5, and 10. Scale bar = 1000 µm; Figure 2 (C)(2&3): Growth inhibition in tumor organoids treated with 10 and 100
+µM of 5 FU as compared to control (2C1); 2 (D): (2 &3) Growth inhibition in tumor organoids treated in combination of 10 & 100 µM of 5 FU
+with 8 Gy RT as compared to control (2D-1).Shukla et al. 10.3389/fonc.2022.1072774
+Frontiers in Oncology frontiersin.org 06grew into an asymmetric and m oderately loose aggregate
+spheroid over 10 days ( Figure 2A ,1-3). In the untreated
+control samples, ﬁbrotic outgrowth of the PDAC organoids
+could be seen as early within 24 hours of incubation at 37°C,
+with a rapid, ﬁbrotic cellular outgrowth over the 10 days of
+observation. The H & E staining of the organoids further
+illustrates the extent of the aggressive ﬁbrotic outgrowth of
+pancreatic tumor organoids ( Figure 2B , 1-3). The full extent of
+the growth of the organoids ’dense central cores as well as the
+growth of the ﬁbrotic arms (combining with outward cellular
+growth of other organoids) were found in day 5 and 10. This is
+especially apparent in the H&E-stained organoids, where they
+exhibited aggressive growth and proliferation of the dense cores.
+In addition, tumor organoids showed signi ﬁcant growth
+inhibition when treated with 5-FU (10 and 100 µM) alone
+(Figure 2C , 1-3), or in combination with 6 Gy of RT
+(Figure 2D , 1-3).
+As shown in Figure 3 , we again observed that both in vivo
+tumor tissues and organoids displayed the strong ﬁbrotic growth
+features that is characteristic of pancreatic cancer similar to that
+seen in Figure 2 showing similar aggressive growth in tissues and
+3D growing organoids. It was noticeable that tumor tissues and
+tumor derived organoids shared the same microenvironment,
+and IHC images showed expression of TGF- b(Figures 3A ,B),
+anda-SMA ( Figures 3C ,D) as their expression was monitored
+using immuno ﬂuorescence. Moreover, we also observed
+expression of vimentin in tumor tissues and organoids
+indicates the presence of cancer associated ﬁbroblasts
+(Figures 3E ,F). The similar observation was revealed when
+PDAC organoids were co-cultured with tumor ﬁbroblast and
+after co-staining presence of vimentin in CAF (red stain) and
+aSMA was identi ﬁed in cancer associated ﬁbroblasts ( Figure 3F ;
+Supplementary Figure 8 ). However, the PDAC organoids alone,
+showed absence of ﬂuorescence signal suggesting absence of
+ﬁbroblast cells ( Supplementary Figure S1 ) in the organoids. Thisindicates the importance of cellular components in the
+pancreatic tumor microenvironment which have been shown
+to affect PDAC resistance to radiation therapy.
+To evaluate the radiation response in tumor organoids
+proliferation and in vivo tumor growth, organoids and tumor
+were treated with 8 Gy radiation in two fractions. The results
+indicated the tumor-derived organoids and in vivo tumors
+exhibited similar growth rates over the 10 days. Whereasgrowth inhibition in both organoids and in vivo tumors was
+observed in the treated group after day four, and inhibition was
+consistent ( Figure 4 ). The mechanism of growth inhibition is
+due to the upregulation of cleaved caspase-3 ( Figures 5A ,C). The
+tumor derived organoids were compared with untreated control
+(Figures 5B ,D). Additional experiments demonstrated SOX10
+and SOX2 (stem cell markers) expression in tumor organoids
+indicated may have some role in radiation and chemotherapy
+resistance in pancreatic cancer ( Supplementary Figures S6 ,S7).
+Radiation treatment response of PDAC
+organoids to different doses of RT
+The response of organoids to different doses of radiation was
+recorded as the change in average organoid growth factor
+following radiation treatment. The dense central cores of the
+4-Gy RT treated organoids showed reduced growth up to day 8
+compared to the untreated cont rol organoids. A statistical
+signiﬁcance was found after 6 days of treatment and the
+organoid growth was inhibited for the full 10 days of
+observation following treatment. Furthermore, 6- and 8-Gy of
+RT treatment demonstrated limited growth at 0-6 days
+incubation ( Figure 6 ;Supplementary Figure S2 ,S3). In fact, 8-
+Gy of fractionated RT exhibited a decrease in area (GF < 1) after
+6 days post treatment. Both 6- and 8-Gy RT treated organoids
+showed a statistically signi ﬁcant ( P< 0.05) reduction in growth
+A
+BDE
+FC
+FIGURE 3
+Expression of a-SMA, TGF band Vimentin markers in mouse pancreatic tumor tissues and tumor derived organoids. Immuno ﬂuorescence
+images of (top row) in vivo tumor tissues, and (bottom row) organoids indicating the expression of the biomarkers (A, B) TGF- b,(C, D) a-SMA,
+(E, F) vimentin costaining in red, and aSMA in green indicating the presence of cancer associated ﬁbroblasts in both the organoids and the in
+vivo tumors they were derived from. Scale bar represents 200 µm.Shukla et al. 10.3389/fonc.2022.1072774
+Frontiers in Oncology frontiersin.org 07FIGURE 4
+Comparison of radiation treatment response in vivo tumor, and tumor derived organoids. Data points represent average of all samples for a
+given treatment group, and error bars are 1s standard deviation of sample values.
+AB
+D C
+FIGURE 5
+Expression of caspase 3 an apoptotic marker in vivo tumor tissues and organoids. (A), untreated control and after treating with 100 µM 3-BP (C);
+Tumor organoids untreated (B), and after treating with 100 µM 3-BP antitumor drug (D).Shukla et al. 10.3389/fonc.2022.1072774
+Frontiers in Oncology frontiersin.org 08factor (compared to untreated control), and the growth
+inhibition was highly signi ﬁcant ( P< 0.01) after 8 days post
+treatment. As illustrated by H & E staining, organoid growth wasnoticeably inhibited 10 days post treatment. The ﬁbrotic cellular
+outgrowth of the tumor organoids was greatly reduced
+compared to control organoids following 6 and 8 Gy of
+fractionated RT ( Figure 6 ).
+Impact of 3BP anticancer drug alone,
+and in combination with RT on
+pancreatic tumor organoid growth
+Tumor organoids were treated with either 4 Gy RT, 3BP, or a
+combination of 4 Gy RT + 3BP to monitor the impact of
+different treatment response ( Figure 6 ;Supplementary Figure
+S4,S5). The results demonstrated 100 µM of 3BP treatment
+(sublethal dose) signi ﬁcantly inhibited the dense organoid cores
+growth ( Supplementary Figure S4 ), as compared to control
+organoids. Notably, 4 Gy of radiation treatment signi ﬁcantly
+reduced organoid growth factor compared to controls after 8
+days. Interestingly, when tumor organoids were treated with a
+combination of 100 µM of 3BP with 4 Gy of radiation, the
+growth factor of the organoids was signi ﬁcantly inhibited with
+an overall GF < 1.0 after 10 days ( Figure 7 ).
+There were signi ﬁcant noticeable differences in growth
+inhibition in 3BP only treated, and combined 3BP + 4 Gy RT
+treated organoids, and differences in growth inhibition in both
+treatment modalities were statistically signi ﬁcant after 2 days
+post treatment, and highly signi ﬁcant after 8 days posttreatment. Therefore, it is envisaged to conclude that
+combined treatment of 3BP and radiation was more effective
+in killing tumor organoids than the individual treatment for thetumors grown for this investigation.
+Discussion
+The 3D tumor organoids used in present investigation, were
+derived from subcutaneous mouse tumor might be relevant for
+studying patient response to RT or chemo-RT. The current study
+demonstrated that organoids derived from the mouse tumor
+tissues recapitulate drug and radiation response similar to in
+vivo tumor (41,47,48). Therefore, this study provides an initial
+indication of the potential use of PDAC tumor organoids as a
+model to study and predict patient response to treatment ( 49). In
+this study, tumor organoids exhibited growth rate characteristics
+similar to those of untreated and RT-treated in vivo tumors. H&E
+staining and imaging of tumor organoids and corresponding
+tumor tissues con ﬁrmed that organoids also showed the
+presence of dense ﬁbrotic structures resembling to in vivo
+tumors ( 50). In addition, treated tumor organoids showed the
+presence of the same apoptosis biomarkers (cleaved caspase 3) as
+treated in vivo tumors, indicating that the organoids responded to
+treatment in a similar manner. The corollary studies on patient-
+derived tumor organoids which also reported activation of cleaved
+caspase 3 in chemotherapy (paclitaxel and carboplatin) treated
+tumor organoids and in vivo tumors ( 51,52).
+This study provided an initial indication that PDAC tumor
+organoids exhibit cellular microenvironments similar to those of
+FIGURE 6
+Radiation response of pancreatic tumor organoids (PTO) treated with different doses of RT.Top: Average growth factor de ﬁned as organoid size
+on a speci ﬁed day divided by organoid size on day 0. Organoids were irradiated with 0 (control), 4, 6, and 8 Gy of radiation over 10 days post
+treatment. Bottom panel: H&E-stained images of control, 6, and 8 Gy treated organoids on day 10, illustrating sharp decrease in organoid
+outgrowth after irradiation. Error bars represents 1s standard deviation about the average value.Shukla et al. 10.3389/fonc.2022.1072774
+Frontiers in Oncology frontiersin.org 09thein vivo tumors from which they were derived and that
+organoid response to treatment is similar to that of in vivo
+tumors ( 43). We believe these initial similarities justify further
+research into producing and con ﬁrming the presence of other
+therapeutically important components of the pancreatic tumor
+microenvironment, such as c ollagen, hyaluronic acid,
+endothelial cells, and immune cells, and to study the
+importance of these components to PDAC response to RT,
+chemotherapy, and Immunotherapy ( 47,48). The presence of
+SOX2 and SOX10 cancer stem cell markers in pancreatic tumor
+derived organoids delineates role of cancer stem cells in therapy
+resistance in pancreatic cancer ( Supplementary Figure S6 ,S74)
+(53). Continued work into the engineering and characterization
+of the full microenvironment of the organoids will help to
+produce a model that accurately predicts the response of the
+organoids derived from an individual tumor (e.g., from patient
+biopsy samples) as a means of predicting a patient ’s response to
+available treatment regimens prior to treatment. Modeling of the
+full tumor microenvironment would provide a wide range of
+tumor features in the preclinical organoid model that can be
+studied in the development of future pancreatic cancer therapies.
+This study, to the best of our knowledge, represents the ﬁrst
+investigation of differential responses of PDAC organoids to
+fractionated RT, and combination of radiation with 3BP
+antitumor drug. Our results demonstrate the potential for usingPDAC-derived organoids to study the sensitivity of an in vivo
+tumor to a wide range of treatment regimens such as fractionated
+RT, chemotherapy, and combined chemo-RT. The dose response
+study showed that tumor organoids could tolerate 4 Gy offractionated RT and exhibited only slightly reduced growth
+compared to untreated controls ( Figure 7 ). Further, after
+treatment with 6 and 8 Gy RT, the tumor organoids initially
+grew very slowly, with growth completely inhibited beyond day 6
+following treatment. Interestingly, 8 Gy of fractionated RT was
+also effective in completely inhibiting in vivo tumor growth in
+animals, both in our study and as reported by Mahmood et al.
+(45). We also studied the differential treatment responses of PDAC
+organoids to 3BP antitumor drug and a combination of 3BP and 4
+Gy RT. The combination treatment of 100 µM of 3BP with 4 Gy
+RT produced nearly the same reduction in tumor organoid growth
+after 4 days as treatment of the organoids with 6 or 8 Gy RT alone
+and showed a near-complete inhibition of growth up to day 10.
+The 3D tumor organoid has shown promise as an in vitro
+model to predict treatment response to RT and
+chemotherapeutic drug in an ef ﬁcient and cost-effective
+process. Pancreatic tumor tissues and PBMC from a patient
+could be used to produce 3D pancreatic organoids with
+microenvironments similar to those of the patient ’s tumor and
+used to test the response to a wide range of available radiation,
+chemotherapy, immunotherapy, and combination therapies ( 54,
+55). This could provide a method to determine the most effective
+therapies on an individual patient basis. In present investigation,
+we have demonstrated the applicability of pancreatic tumor
+derived organoid to predict radiation and drug treatmentresponse, which is analogous to in vivo tumor response.
+However, this study also has some limitations, mainly
+simulating the same tumor microenvironment and dense
+ﬁbrotic stroma present in vivo .
+FIGURE 7
+Combined treatment response of pancreatic tumor organoids treated with 3-BP+ radiation.Untreated control (pink bars), 4 Gy radiation treated
+(yellow bars), 3-BP drug treated (Green triangle), and combined 4 Gy + 3-BP treated (blue triangle) over 10 days post treatment. Error barsrepresent 1s standard deviation about the average value. Average growth rate factor, de ﬁned as the organoid size on a speci ﬁed day divided by
+the size on day 0.Shukla et al. 10.3389/fonc.2022.1072774
+Frontiers in Oncology frontiersin.org 10Data availability statement
+The original contributions presented in the study are
+included in the article/ Supplementary Material . Further
+inquiries can be directed to the corresponding author.
+Author contributions
+HS and JP: Conceptualization, review, editing, writing original
+draft, supervision. WR, NL and AB: Conceptualization, review,
+editing. TD, SR, BB, AG: Formal analysis, data curation,
+performed the experiments, analyzed the data. YP: Biostatistics.
+JM and WR: Conceptualization. All authors contributed to the
+article and approved the submitted version.
+Funding
+This work was funded by a Research Seed Grant provided by
+the Department of Radiation Oncology, University of Maryland
+School of Medicine, and William & Ella Owens Medical
+Research Foundation to HS.
+Acknowledgments
+We thank Dr Nancy Knight for their helpful discussions in
+developing these studies an d with preparation of the
+manuscript. Some images in this manuscript were producedusing the services of the University of Maryland School of
+Medicine ’s Confocal Microscopy Core, (UMGCCC) Baltimore
+MD, USA. We would like to thank Joe Mauban for his gracious
+and patient help with using the Confocal Microscopy
+equipment and with setting up the imaging protocols for
+this study.
+Conﬂict of interest
+The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could
+be construed as a potential con ﬂict of interest.
+Publisher ’s note
+All claims expressed in this article are solely those of the
+authors and do not necessarily represent those of their af ﬁliated
+organizations, or those of the publisher, the editors and the
+reviewers. Any product that may be evaluated in this article, or
+claim that may be made by its manufacturer, is not guaranteed
+or endorsed by the publisher.
+Supplementary material
+The Supplementary Material for this article can be found
+online at: https://www.frontiersin. org/articles/10.3389/
+fonc.2022.1072774/full#supplementary-material
+References
+1. National Comprehensive Cancer Network. Cancer guidelines . Available at:
+https://www.nccn.org/professiona ls/physician_gls/default.aspx (Accessed
+03/03/2022).
+2. Al –Hawary MM, Francis IR, Chari ST, Fishman EK, Hough DM, Lu DS, et al.
+Pancreatic ductal adenocarcinoma radio logy reporting template: consensus
+statement of the society of abdominal radiology and the american pancreaticassociation. Gastroenterology (2014) 146(1):291 –304. doi: 10.1053/
+j.gastro.2013.11.004
+3. Ferrone CR, Marchegiani G, Hong TS, Ryan DP, Deshpande V, McDonnell
+EI, et al. Radiological and surgical implications of neoadjuvant treatment withFOLFIRINOX for locally advanced and borderline resectable pancreatic cancer.Ann Surg (2015) 261:12 –7. doi: 10.1097/SLA.0000000000000867
+4. Macedo FI, Ryon E, Maithel SK, Lee RM, Kooby DA, Fiedls RC, et al. Survival
+outcomes associated with clinical and pathological response following neoadjuvant
+FOLFIRINOX or gemcitabine/nab –paclitaxel chemotherapy in resected pancreatic
+cancer. Ann Surg (2019) 270(3):400 –13. doi: 10.1097/SLA.0000000000003468
+5. Hulthusen H. Experiences on the tolerance limit for X –rays and their useful
+application for the prevention of injuries. Radiotherapy (1936) 57:254 –69.
+6. Malone ER, Oliva M, Sabatini PJB, Stockley TL, Siu LL. Molecular pro ﬁling
+for precision cancer therapies. Genome Med (2020) 12(1):8. doi: 10.1186/s13073 –
+019 –0703 –1
+7. Berger MF, Mardis ER. The emerging clinical relevance of genomics in cancer
+medicine. Nat Rev Clin Oncol (2018) 15:353 –65. doi: 10.1038/s41571 –018 –0002 –68. Hu C, Dignam JJ. Biomarker –driven oncology clinical trials: Key design
+elements, types, features, and practical considerations. JCO Precis Oncol (2019) 3:1 –
+12. doi: 10.1200/PO.19.00086
+9. Burnet NG, Wurm R, Nyman J, Peacock JH. Normal tissue radiosensitivity –
+how important is it? Clin Oncol (R. Coll Radiol) (1996) 8:25 –34. doi: 10.1016/
+S0936-6555(05)80035-4
+10. Hölscher T, Bentzen SM, Baumann M. In ﬂuence of connective tissue
+diseases on the expression of radiation side effects: a systematic review.Radiother. Oncol J Eur Soc Ther Radiol Oncol (2006) 78:123 –30. doi: 10.1016/
+j.radonc.2005.12.013
+11. Bentzen SM, Overgaard J. Patient –to–
+Patient variability in the expression of
+radiation –induced normal tissue injury. Semin Radiat. Oncol (1994) 4:68 –80. doi:
+10.1016/S1053-4296(05)80034-7
+12. Leong T, Borg M, McKay M. Clinical and cellular radiosensitivity in
+inherited human syndromes. Clin Oncol (R. Coll Radiol) (2004) 16:206 –9. doi:
+10.1016/j.clon.2004.01.011
+13. Plowman PN, Bridges BA, Arlett CF, Hinney A, Kingston JE. An instance of
+clinical radiation morbidity and cellular radiosensitivity, not associated withataxia –telangiectasia. Br J Radiol (1990) 63:624 –8. doi: 10.1259/0007-1285-63-
+752-624
+14. Taylor AM, Harnden DG, Arlett CF, Harcourt SA, Lehmann AR, Stevens S,
+et al. Ataxia telangiectasia: a human mutation with abnormal radiation sensitivity.Nature (1975) 258(258):427 –9. doi: 10.1038/258427a0Shukla et al. 10.3389/fonc.2022.1072774
+Frontiers in Oncology frontiersin.org 1115. Woods WG, Byrne TD, Kim TH. Sensitivity of cultured cells to gamma radiation
+in a patient exhibiting marked in vivo radiation sensitivity. Cancer (1988) 62:2341 –5. doi:
+10.1002/1097-0142(19881201)62:11<2341::AID-CNCR2820621114>3.0.CO;2-W
+16. Loef ﬂer JS, Durante M. Charged particle therapy –optimization, challenges
+and future directions. Nat Rev Clin Oncol (2013) 10:411 –24. doi: 10.1038/
+nrclinonc.2013.79
+17. Pasch CA, Favreau PF, Yuah AE, Babiarz CP, Gillete AA, Sharick JT, et al.
+Translational cancer mechanisms and therapy patient –derived cancer organoid
+cultures to predict sensitivity to chemotherapy and radiation. Clin Cancer Res
+(2019) 25(17):5376 –5387. doi: 10.1158/1078 –0432.CCR –18–3590
+18. Yee C, Dickson KA, Muntasir MN, Ma Y, Marsh DY. Three –dimensional
+modelling of ovarian cancer: From cell lines to organoids for discovery and
+personalized medicine. Front Bioengineering Biotechnol (2022) 10:8369.
+doi:10.3389/fbioe.2022.8369
+19. Tatullo M, Marrelli B, Benincasa C, Aiello E, Makeeva I, Zavan B, et al.
+Organoids in translational oncology. J Clin Med (2020) 9:2774. doi: 10.3390/
+jcm9092774
+20. Osuna de la Peña D, Trabulo SMD, Collin E, Liu M, Sharma S, Tatari M, et al.
+Bioengineered 3D models of human pancreatic cancer recapitulate in vivo tumour
+biology. Nat Commun (2021) 12(1):5623. doi: 10.1038/s41467-021-25921-9
+21. Nath S, Devi GR. Three –dimensional culture systems in cancer research:
+Focus on tumor spheroid model. Pharmacol Ther (2016) 163:94 –108. doi: 10.1016/
+j.pharmthera.2016.03.013
+22. Gjorevski N, Sachs N, Manfrin A, Giger S, Bragina ME, Ordóñez-Morán P,
+et al. Designer matrices for intestinal stem cell and organoid culture. Nature (2016)
+539(7630):560 –4. doi: 10.1038/nature20168
+23. Loessner D, Stok KS, Lutolf MP, Hutmacher DW, Clements JA, Rizzi SC.
+Bioengineered 3D platform to explore cell –ECM interactions and drug resistance
+of epithelial ovarian cancer cells. Biomaterials (2010) 31:8494 –506. doi: 10.1016/
+j.biomaterials.2010.07.064
+24. De Vita A, Recine F, Miserocchi G, Pieri F, Spadazzi C. The potential role of
+the extracellular matrix in the activity of trabectedin in UPS and l –sarcoma: evidence
+from a patient –derived primary culture case series in tridimensional and zebra ﬁsh
+models. J Exp Clin Cancer Res (2021) 40:165. doi: 10.1186/s13046-021-01963-1
+25. Miserocchi G, Cocchi C, De Vita A, Liverani C, Spadazzi C, Calpona S, et al.
+Three –dimensional collagen –based scaffold model to study the microenvironment
+and drug –resistance mechanisms of oropharyngeal squamous cell carcinomas.
+Cancer Biol Med (2021) 18(2):502 –16. doi: 10.20892/j.issn.2095 –3941.2020.0482
+26. Jensen C, Teng Y, Agrawal M, Kumar Deshmukh S, Gurbani D. Is it time to
+start transitioning from 2D to 3D cell culture? front. Mol Biosci (2020) 7:33. doi:
+10.3389/fmolb.2020.00033
+27. Edmondson R, Jenkins Broglie J, Adcock AF, Yang L. Three –dimensional
+cell culture systems and their applications in drug discovery and cell –based
+biosensors. Assay Drug Dev Technol (2014) 12(4):207 –18. doi: 10.1089/
+adt.2014.573
+28. Balak JR A, Juksar J, Carlotti F, Lo Nigro A, de Koning EJP. Organoids from
+the human fetal and adult pancreas. Curr Diab. Rep (2019) 19:160. doi: 10.1007/
+s11892-019-1261-z
+29. Kim S, Choung S, Sun RX, Ung N, Hashemi N, Fong EJ, et al. Comparison of
+cell and organoid –level analysis of patient –derived 3D organoids to evaluate tumor
+cell growth dynamics and drug response. SLAS Discovery (2020) 25:744 –54. doi:
+10.1177/2472555220915827
+30. Imamura Y, Mukohara T, Shimono Y, Funakoshi Y, Chayahara N, Toyoda
+M, et al. Comparison of 2D –and 3D –culture models as drug –testing platforms in
+breast cancer. Oncol Rep (2015) 33:1837 –43. doi: 10.3892/or.2015.3767
+31. Karolak A, Poonja S, Rejniak KA. Morphophenotypic classi ﬁcation of tumor
+organoids as an indicator of drug exposure and penetration potential. PloS Comput
+Bio(2019) 15:e1007214. doi: 10.1371/journal.pcbi.1007214
+32. Stock K, Estrada M, Vidic S, Gjerde K, Rudisch A, Santo VE, et al.
+Capturing tumor complexity in vitro : Comparative analysis of 2D and 3D tumor
+models for drug discovery. Sci Rep (2016) 6:28951. doi: 10.1038/srep28951
+33. Neal JT, Li X, Zhu J, Giangarra V, Grzeskowiak CL, Ju J, et al. Organoid
+modeling of the tumor immu ne microenvironment. Cell (2018) 175:1972 –
+1988.e16. doi: 10.1016/j.cell.2018.11.021
+34. Hubert CG, Rivera M, Spangler LC, Wu Q, Mack SC, Prager BC, et al. A
+three –dimensional organoid culture system derived from human glioblastomas
+recapitulates the hypoxic gradients and cancer stem cell heterogeneity of tumorsfound In vivo .Cancer Res (2016) 76:2465 –
+77. doi: 10.1158/0008-5472.CAN-15-
+240235. Affolter A, Lammert A, Kern J, Scherl C, Rotter N. Precision medicine gains
+momentum: Novel 3D models and stem cell –based approaches in head and neck
+cancer. Front Cell Dev Biol (2021) 9:666515. doi: 10.3389/fcell.2021.666515
+36. Driehuis E, Kolders S, Spelier S, Lõhmussaar K, Willems SM, Devriese LA,
+et al. Oral mucosal organoids as a potential platform for personalized cancertherapy. Cancer Discovery (2019) 9:852 –71. doi: 10.1158/2159-8290.CD-18-1522
+37. Yao Y, Xu X, Yang L, Zhu J, Wan J, Shen L, et al. Patient –derived organoids
+predict chemoradiation responses of locally advanced rectal cancer. Cell Stem Cell
+(2020) 26:17 –26.e6. doi: 10.1016/j.stem.2019.10.010
+38. Pasch CA, Favreau PF, Yueh AE, Babiarz CP, Gillette AA, Sharick JT, et al.
+Patient –derived cancer organoid cultures to predict sensitivity to chemotherapy and
+radiation. Clin Cancer Res (2019) 25:5376 –87. doi: 10.1158/1078-0432.CCR-18-3590
+39. Ganesh K, Wu C, Sawyers CL, Smith JJ. A rectal cancer organoid platform to
+study individual responses to chemoradiation. Nat Med (2019) 25:1607 –14. doi:
+10.1038/s41591-019-0584-2
+40. Tiriac H, Belleau P, Engle DD, Plenker D, Desche ̂nes A, Somerville TDD,
+et al. Organoid pro ﬁling identi ﬁes common responders to chemotherapy in
+pancreatic cancer. Cancer Discovery (2018) 8(9):1112 –29. doi: 10.1158/2159-
+8290.CD-18-0349
+41. Tsang ES, Tempero MA. Therapeutic targets in the pancreatic
+adenocarcinoma microenvironment: past challenges and opportunities for thefuture. J Cancer Metastasis Treat (2021) 7:33. doi: 10.20517/2394-4722.2021.22
+42. Spector I, Zilberstein Y, Lavy A, Nagler A, Genin O, Pines M. Involvement
+of host stroma cells and tissue ﬁbrosis in pancreatic tumor development in
+transgenic mice. PloS One (2012) 7:e41833. doi: 10.1371/journal.pone.0041833
+43. Öhlund D, Handly –Santana A, Bif ﬁG, Elyada E, Almeida AS, Ponz –Sarvise
+M, et al. Distinct populations of in ﬂammatory ﬁbroblasts and myo ﬁbroblasts in
+pancreatic cancer. J Exp Med (2017) 214:579 –96. doi: 10.1084/jem.20162024
+44. Ma CM, Coffey CW, DeWerd LA, Liu C, Nath R, Seltzer SM, et al. American
+Association of physicists in medicine. AAPM protocol for 40 –300 kV x –ray beam
+dosimetry in radiotherapy and radiobiology. Med Phys (2001) 28:868
+–93. doi:
+10.1118/1.1374247
+4 5 . M a h m o o dJ ,S h u k l aH D ,S o m a nS ,S a m a n t aS ,S i n g hP ,K a m l a p u r k a rS ,e ta l .
+Immunotherapy, radiotherapy, and hyperthe rmia: A combined therapeutic approach in
+pancreatic cancer treatment. Cancers (2018) 10:469. doi: 10.3390/cancers10120469
+46. Mishra P, Singh U, Pandey CM, Mishra P, Pandey G. Application of
+student ’st–test, analysis of variance, and covariance. Ann Card Anaesth. (2019)
+22:407 –11. doi: 10.4103/aca.ACA_94_19
+47. Lee SH, Hu W, Matulay JT, Silva MV, Owczarek TB, Kim K, et al. Tumor
+evolution and drug response in patient –derived organoid models of bladder cancer.
+Cell(2018) 173:515 –28. doi: 10.1016/j.cell.2018.03.017
+48. Driehuis E, van Hoeck A, Moore K, Kolders S, Francies HE, Gulersonmez
+MC, et al. Pancreatic cancer organoids recapitulate disease and allow personalizeddrug screening. Proc Natl Acad Sci U S A. (2019) 116(52):26580 –90. doi: 10.1073/
+pnas.1911273116
+49. Tuveson D, Clevers H. Cancer modeling meets human organoid technology.
+Science (2019) 364:952 –5. doi: 10.1126/science.aaw6985
+50. Huang L, Holtzinger A, Jagan M, BeGora M, Lohse I, Ngai N, et al. Ductal
+pancreatic cancer modeling and drug screening using human pluripotent stem cell
+and patient –derived tumor organoids. Nat Med (2015) 21(11):1364 –71. doi:
+10.1038/nm.3973
+51. Tanaka C, Furihata K, Naganuma S, Ogasawara M, Yoshioka R, Taniguchi
+H, et al. Establishment of a mouse model of pancreatic cancer using humanpancreatic cancer cell line S2 –013 –derived organoid. Hum Cell (2022) 35(2):735 –
+44. doi: 10.1007/s13577-022-00684-7
+52. Tamura H, Higa A, Hoshi H, Hiyama G, Takahashi N, Ryufuku M, et al.
+Evaluation of anticancer agents using patient –derived tumor organoids
+characteristically similar to source tissues. Oncol Rep (2018) 40(2):635 –46. doi:
+10.3892/or.2018.6501
+53. Di Carlo C, Brandi J, Cecconi D. Pancreatic cancer stem cells: Perspectives
+on potential therapeutic approaches of pancreatic ductal adenocarcinoma. World J
+Stem Cells (2018) 10(11):172 –82. doi: 10.4252/wjsc.v10.i11.172
+54. Kim J, Koo BK, Knoblich JA. Human organoids: model systems for human
+biology and medicine. Nat Rev Mol Cell Biol (2020) 21:571 –84. doi: 10.1038/
+s41580-020-0259-3
+55. Cosper PF, Abel L, Lee YS, Paz C, Kaushik S, Nickel KP, et al. Cancers
+patient derived models to study head and neck cancer radiation response. Cancers
+(Basel) (2020) 12(2):419. doi: 10.3390/cancers12020419Shukla et al. 10.3389/fonc.2022.1072774
+Frontiers in
+Oncology frontiersin.org 12

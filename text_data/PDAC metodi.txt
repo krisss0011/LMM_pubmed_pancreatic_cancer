@@ -1,0 +1,2300 @@
+1
+Lee YE, et al. J Immunother Cancer 2023;11:e006130. doi:10.1136/jitc-2022-006130Open access  
+Synergistic therapeutic combination 
+with a CAF inhibitor enhances CAR-  
+NK-  mediated cytotoxicity via reduction 
+of CAF-  released  IL- 6
+Young Eun Lee,1,2 Ga- Yeon Go,1 Eun-  Young Koh,3 Han-  Na Yoon,1 Minkoo Seo,4 
+Seung-  Mo 
+Hong,5 Ji Hye Jeong,3 Jin- Chul Kim,6 Duck Cho,7,8 Tae Sung Kim,2 
+Song Cheol Kim,9 Eunsung Jun,3,9 Mihue Jang     1,10
+To cite: Lee YE, Go G-  Y, Koh E-  Y, 
+et al.
+  Synergistic therapeutic 
+combination with a CAF inhibitor 
+enhances CAR-  NK- media
+ted 
+cytotoxicity via reduction of CAF-
+ released 
+IL- 6.
+ Journal 
+for ImmunoTherapy of Cancer 2023;11:e006130. doi:10.1136/jitc-2022-006130
+ ►Additional supplemental 
+material is published online only. To view, please visit the journal online (http://
+ dx. doi. org/ 10. 
+1136/  jitc- 2022-  006130).
+YEL,
+ G- YG and E-  YK contributed 
+equally.
+Accepted 06 F
+ebruary 2023
+For numbered affiliations see 
+end of article.
+Correspondence to
+Dr Mihue Jang;  
+ mihue@  kist. re. kr
+Professor Song Cheol Kim;  
+ drksc@  amc.  seoul.  kr
+Professor Eunsung Jun;  
+ eungsungjun@  amc.  seoul.  krOriginal research
+© Author(s) (or their 
+employer(s)) 2023. Re-  use 
+permitted under CC BY-  NC. No 
+commercial re-  use. See rights 
+and permissions.
+ Published by 
+BMJ.
+ABSTRACT
+Background  Cancer-  associated fibroblasts (CAFs) in the 
+tumor microenvironment (TME) contribute to an impaired 
+functionality of na
+tural killer (NK) cells that have emerged 
+as a promising therapeutic modality. The interaction between CAFs and NK cells within the TME exerts major inhibitory effects on immune responses, indicating CAF-
+ 
+targeted therapies as potential targets for effective NK-  
+mediated cancer killing.Methods
+ To overcome CAF-  induced NK dysfunction,
+ we 
+selected an antifibrotic drug, nintedanib, for synergistic therapeutic combination. To evaluate synergistic therapeutic efficacy, we established an in vitro 3D Capan2/patient-
+ derived CAF spheroid model or in vivo mixed 
+Capan2/CAF tumor xenograft model.
+ The molecular 
+mechanism of NK-  mediated synergistic thera
+peutic 
+combination with nintedanib was revealed through in vitro experiments. In vivo therapeutic combination efficacy was subsequently evaluated. Additionally, the expression score of target proteins was measured in patient-
+ derived tumor 
+sections by the immunohistochemical method.Results
+ Nintedanib blocked the platelet-  derived growth 
+factor receptor 
+β (PDGFRβ) signaling pathway and 
+diminished the activation and growth of CAFs, markedly reducing CAF-
+ secreted IL-  6. Moreover
+, coadministration 
+of nintedanib improved the mesothelin (MSLN) targeting chimeric antigen receptor-
+ NK- mediated tumor killing 
+abilities in CAF/tumor spheroids or a xenograft model.
+ 
+The synergistic combination resulted in intense NK infiltration in vivo. Nintedanib alone exerted no effects, whereas blockade of IL-
+ 6 trans-  signaling ameliorated the 
+function of NK cells.
+ The combination of the expression of 
+MSLN and the PDGFRβ+- CAF population area, a potential 
+prognostic/thera
+peutic marker, was associated with 
+inferior clinical outcomes.Conclusion
+ Our strateg
+y against PDGFRβ+- CAF-  
+containing pancreatic cancer allo
+ws improvements in the 
+therapy of pancreatic ductal adenocarcinoma.
+BACKGROUND
+Pancreatic ductal adenocarcinoma (PDAC) is a devastating lethal malignancy with limited available therapeutic options.
+1 PDAC features 
+a massive desmoplastic stroma with a mixture of cancer cells, cancer-  associated fibro-
+blasts (CAFs), extracellular matrix (ECM) proteins, endothelial cells, and immune WHAT IS ALREADY KNOWN ON THIS TOPIC
+ ⇒NK cells have emerged as a promising therapeutic 
+modality for cancer immunotherapy, as they play a key role in recognizing and killing various types of cancers cells in the first-
+ line defense. Despite the 
+benefits in harnessing NK cells for cancer trea
+t-
+ment, cancer-  associated fibroblasts (CAFs)in the 
+tumor microenvironment contribute to the impaired functionality 
+of NK cells. Particularly, CAF-  secreted 
+soluble mediators interfere with NK-  mediated tu
+-
+mor killing, leading to a poor therapeutic response against cancers. While numerous combinations of CAF-
+ targeting a
+gents with immunotherapies have 
+been developed until now, however, there are still challenges for overcoming the CAF-
+ mediated im
+-
+munosuppressive effects on NK cells.
+WHAT THIS STUDY ADDS
+ ⇒Wediscovered that in PDGFRβ+ CAFs, high amounts 
+of IL-  6 were secreted via PDGFRβ
+-mediated sig-
+nal transduction; consequently, paracrine IL-  6 
+attenua
+ted the NKcytotoxic function through inhi-
+bition of pSTAT3-  mediated activa
+ting receptors. 
+Furthermore, we revealed that nintedanib inhibited CAF-
+ derived IL-  6, rescued NK function,
+ and showed 
+significantly enhanced tumor killing efficacyin vitro and in vivo.
+HOW THIS STUDY MIGHT AFFECT RESEARCH, 
+PRACTICE OR POLICY
+ ⇒Based on our work, the combination of expression 
+of MSLN and the PDGFRβ+ population, as well as 
+the combination of expression of MSLN and the IL-
+ 6+population, wereinvolved in unfavorable clin-
+ical outcomes with poor overall survival in PDAC. Therefore, our novel combination of MSLN-
+ targeted 
+CAR-  NK and nintedanibcould provide a promising 
+therapeutic option for the trea
+tment of patients with 
+PDAC tumors. on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from 2
+Lee YE, et al. J Immunother Cancer 2023;11:e006130. doi:10.1136/jitc-2022-006130Open access  
+cells.2 3 Along with ECM remodeling, tumor stiffness, and 
+chemoresistance, CAFs are major immunosuppressive 
+players contributing to tumor progression and metas-tasis.
+4 5 CAFs are highly involved in immune evasion by 
+promoting the secretion of various immunosuppressive molecules such as cytokines, chemokines, and growth factors
+6–8 and CAFs influence the infiltration, phenotype, 
+and function of immune cells within the tumor micro-environment (TME) directly or indirectly.
+9 10 CAFs in 
+PDAC are a heterogeneous stromal population, sorted into three major distinct subtypes with different roles in tumor progression and immunity
+11–13; myofibrotic CAFs 
+(myCAFs), inflammatory CAFs (iCAFs), and antigen presenting CAFs (apCAFs).
+14 15 Among them, myCAFs 
+exhibit a matrix-
+ producing contractile phenotype with 
+high expression of alpha-
+ smooth muscle actin (
+α-SMA) 
+and low expression of interleukin (IL)-
+ 6, 
+whereas iCAFs 
+show elevated expression of IL-
+ 6 along with an immuno
+-
+modulating secretome. Despite the distinct CAF subtypes with different molecular markers, myCAFs and iCAFs are dynamically interconvertible according to their loca-tion and microenvironment cues.
+16 Apart from classical 
+myCAFs and iCAFs, apCAFs show antigen-
+ presenting 
+capacities.
+Natural 
+killer (NK) cells are cytotoxic effector cells 
+that are able to diminish damaged, virus-
+ infected, or 
+malignant cells, independent of antigen processing and presentation.
+17 18 NK cells play critical roles in tumor 
+immunosurveillance, triggering antimetastatic func-tions through multiple killing mechanisms. Moreover, allogeneic NK cells, which are critically beneficial to the manufacturing process, allow their clinically scalable ‘off-
+ the-
+ shelf
+’ production without an additional gene 
+editing process.19 20 Despite the benefits in harnessing 
+NK cells for solid cancer treatment, CAF-
+ secreted 
+soluble mediators such as IL-
+ 6, prostaglandin E2 (PGE2), 
+indoleamine-
+ pyrrole 2,3-
+ dioxygenase (IDO), matrix 
+metalloproteinases, 
+and transforming growth factor-β 
+(TGF-β) interfere with NK-
+ mediated tumor killing, 
+exerting poor therapeutic response against cancers.21 22 
+For instance, CAF-
+ driven PGE2 paracrinally suppresses 
+the expression of NK activating receptors, NKp44, NKp30, and NKG2D, resulting in the functional impair -
+ment of NK cells.
+21 In a TGF-β-dependent manner, high 
+levels of CAF-
+ secreted IL-
+ 6 promote PDAC metastasis 
+via ST
+AT3 activation and induction of NK dysfunction.23 
+Thus, the direct or indirect interaction between CAFs and NK cells within the TME exerts major inhibitory effects on immune responses, indicating CAF-
+ targeted therapies 
+as potential targets for effective cancer treatment.
+Anti-
+ CAF therapies have been accessed by augmenting 
+antitumor immunity
+, including many approaches that 
+target classical CAF markers, intracellular signaling components, and chemokine ligand-
+ receptor axis.24 
+Primarily, the direct depletion of a CAF subset has been attempted by targeting specific surface markers in various ways. For instance, genetic depletion of fibroblast-
+ activation protein (F
+AP) exhibited reduced tumor progression, causing rapid hypoxic necrosis of both cancer and stromal cells, and TME modulation.
+25 
+Likewise, elimination of FAP+ CAFs by DNA vaccination 
+or FAP-
+ reactive chimeric antigen receptor (CAR)-
+ T cells 
+was accompanied by increased infiltration 
+of CD8+ T 
+cells within the TME, improving anticancer efficacy.26–28 
+Besides CAF-
+ depleting approaches, recent studies have 
+explored the effects of combinations of drugs targeting CAF activation pathways or CAF-
+ derived molecules.29 
+For example, administration of AMD3100, a chemo-kine receptor antagonist targeting the CXCL12-
+ CXCR4 
+axis diminished F
+AP+ CAF-  mediated immunosuppres -
+sion via the induction of rapid T cell accumulation and acted synergistically with anti-
+ PD-
+ L1 immunotherapy
+.29 
+Accordingly, anti-
+ CAF therapies influence 
+the infiltra-
+tion of cytotoxic immune cells with therapeutic benefits, ultimately dictating the success of immunotherapies. Despite the development of numerous combinations of CAF-
+ targeting agents with immunotherapies, there are 
+still challenges for overcoming CAF-
+ mediated immuno
+-
+suppressive effects on NK cells. Therefore, in this study, we investigated a promising therapeutic combination to improve NK-
+ mediated cytotoxicity through the effective 
+depletion of CAFs.
+METHODS
+In
+ vivo studies
+All animal care and experiments were performed according to the guidelines of the Institutional Animal Care and Use Committees of KIST (KIST-
+ 2020-
+ 049). 
+For in vivo experiments, Capan2-
+ Luc cells at a density 
+of 2×106 cells or a mixture of Capan2-  Luc cells and CAF 
+cells at a 2:1 ratio were subcutaneously injected 
+into 
+each mouse. When tumors reached an average volume of 100 mm
+3, mice were randomly divided into six groups 
+and treated under various conditions. Tumor-
+ bearing 
+mice were administrated three times with 1×107 CAR-  NK 
+cells 
+or 2
+ mg/kg 
+nintedanib or both per mice. CAR-
+ NK 
+cells or nintedanib were intravenously or orally adminis
+-
+trated, respectively. Tumor sizes were measured regularly using a caliper, and tumor volumes were calculated as length×(width)
+2×0.5. To visualize Capan2-  Luc tumor cells, 
+in vivo luciferase images in isoflurane-
+ anesthetized mice 
+were obtained by intravenous injection of a substrate solu
+-
+tion (Promega) using an IVIS spectrum imaging system (Perkin-
+ Elmer
+, Norwalk, Connecticut, USA). Tumors and 
+other normal organs of mice were scarified and paraffin-
+ 
+embedded blocks were prepared for further experiment.
+For histological obser
+vation, H&E staining was 
+performed in deparaffinized sections according to general procedures. Formalin-
+ fixed, paraffin-
+ embedded 
+tissue sections were immunohistochemically stained for anti-
+ IL-
+ 6 (1:800, cat no. ab6672, abcam), anti-
+ mesothelin 
+(MSLN) 
+(1:80, clone 5B2, cat no. MA511918, Invit-
+rogen, Carlsbad, California, USA), anti-
+ platelet-
+ derived 
+growth factor receptor 
+β (PDGFRβ) (1:200, clone L48, 
+cat no. BS1290, Bioworld, St Louis, Missouri, USA) and  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from 3
+Lee YE, et al. J Immunother Cancer 2023;11:e006130. doi:10.1136/jitc-2022-006130Open access
+anti- CD56 (1:100, clone CD564, cat no. NCL-  L-  CD56-  504, 
+Novocastra, Leica Biosystems, Illinois, USA) using an 
+OptiView DAB immunohistochemical (IHC) Detection Kit on a BenchMark XT automatic immunostaining device 
+(Ventana Medical Systems, Tucson, Arizona, USA) 
+according to the manufacturer’s instructions. IL-
+ 6, MSLN, 
+PDGFR
+β, and CD56 staining images were scanned using 
+a vs200 Research Slide Scanner (Olympus) and analyzed using the HALO platform (V.3.1.1076, Indica Labs, New Mexico, USA).
+Clinicopathological characteristics of patients
+Each patient had a follow-
+ up 
+period of at least 5 years, and 
+medical records were retrospectively reviewed for clinico-pathological characteristics including age, sex, operation method and pathological findings (tumor size, tumor differentiation, T stage, and N stage). Survival analysis using the Kaplan-
+ Meier method with the log-
+ rank test was 
+per
+formed using the SPSS V.21.0 (IBM).
+IHC staining and scoring in human tissuesPancreatic, gastric, and liver cancer tissues that were pathologically diagnosed as carcinoma were delivered from the Bio-
+ resource 
+center (BRC No. 2018-
+ 13(167)). 
+For histological analysis, H&E staining was per
+formed 
+in deparaffinized sections according to general proce-dures. Formalin-
+ fixed, paraffin-
+ embedded tissue sections 
+were immunohistochemically stained for anti-
+ PDGFR
+β 
+(1:200, clone Y92, cat no. 1469-
+ 1, Epitomics, California, 
+USA), anti-
+ MSLN (1:20, clone 5B2, cat no. MA5-
+ 11918, 
+Invitrogen), 
+and anti-
+ IL-
+ 6 (1:50, 
+cat no. ab6672, Abcam, 
+Cambridge, UK) using an OptiView DAB IHC Detec-tion Kit on a BenchMark XT automatic immunostaining device (Ventana Medical Systems, Tucson, Arizona, USA) according to the manufacturer’s instructions. A patholo-gist specialized in pancreatic cancer reviewed the slides and scored the degree of staining intensity from 0 to 3. PDGFRβ and IL-
+ 6 
+staining images were scanned using a 
+vs200 Research Slide Scanner (Olympus) and analyzed using the HALO platform (V.3.1.1076, Indica Labs, New Mexico, USA).
+RESULTS
+Nintedanib, an antifibrotic drug that preferentially targets PDGFRβ, inhibited the proliferation of patient-derived PDAC CAFsTo select an antifibrotic drug as a promising candidate for combinatorial treatment in NK-
+ mediated immu
+-
+notherapy, we tested three chemical drugs that can attenuate pulmonary fibrosis: nintedanib, SOM230, and metformin.
+30 FDA-  approved nintedanib is a triple-  
+angiokinase 
+inhibitor that blocks the tyrosine kinase 
+activities of fibroblast growth factor receptor (FGFR), vascular endothelial growth factor receptor (VEGFR), and PDGFR.
+31 32 SOM230, a somatostatin analog, binds 
+somatostatin receptors and inhibits collagen deposi-tion via reduced expression of profibrotic mediators such as TGF-β and connective tissue growth factor.
+33 34 
+Metformin used for the treatment of type 2 diabetes is a potent adenosine monophosphate-
+ activated protein 
+kinase (AMPK) activator that also reduces TGF-
+β-induced 
+fibrosis.35 36 Accordingly, to test their antifibrotic function, 
+we evaluated the viability of patient-
+ derived PDAC CAFs 
+in the presence of nintedanib, SOM230, and metformin, respectively
+, in a dose-
+ dependent manner (
+figure
+ 
+1A). 
+We tested each of the five types of CAFs isolated from fresh PDAC specimens (online supplemental figure S1 and table S1). Intriguingly, we observed that treatment with nintedanib led to a reduced growth of CAFs with half inhibitory concentration (IC) 
+50 values ranging from 
+9.76 to 40.84
+ µM, 
+depending on the CAF subtype. Like-
+wise, we found that treatment with nintedanib resulted in a gradual decrease in the expression of classical CAF markers, such as FAP and α-SMA, and was associated with an increment in cell death (figure
+ 
+1B–D). To unveil the 
+molecular targets of nintedanib in patient-
+ derived 
+PDAC 
+CAFs, we evaluated the phosphorylation status of three putative targets, including PDGFRβ, VEGFR2, and FGFR1 in the presence of nintedanib (figure
+ 
+1E). We detected 
+that nintedanib mainly inhibited the PDGFRβ-medi-ated signaling pathway in CAFs with strong reduction of pPDGFRβ expression (figure
+ 
+1E). We confirmed that 
+treatment of nintedanib inhibited PDGF ligand-
+ induced 
+CAF proliferation (
+figure
+ 
+1F). Furthermore, PDGFβ 
+knock-
+ out (K.O) CAFs had a minor effect on cellular cell 
+death under nintedanib treatment (
+figure
+ 
+1G,H).
+Nintedanib preferentially inhibited the proliferation of CAFs compared with that of cancer cells via PI3K/AKT and MAPK/ERK signal pathwaysTo test the inhibitory effect of nintedanib on cancer cells, we treated PDAC cancer cells, including MIA PaCa-
+ 2 and 
+Capan2, with nintedanib in a dose-
+ dependent manner 
+(
+figure
+ 
+2A). Interestingly, we observed that nintedanib 
+showed moderated inhibition of the viability of cancer cells compared with that of CAFs (figures
+ 
+1A and 2A). More-
+over, we detected that two major PDGF-
+ mediated PI3K 
+and MAP kinase signaling pathways were strongly inhib
+-
+ited in CAFs but not in Capan2 cancer cells, suggesting the prominent inhibitory effects of nintedanib on CAFs (figure
+ 
+2B). We also found that nintedanib-
+ treated CAFs 
+exhibited 
+a dose-
+ dependent 
+decrease in the phosphory-
+lation of both AKT and ERK. We further confirmed the prominent inhibitory effects of nintedanib in CAFs in a Capan2-
+ CAF coculture spheroid system using live cell 
+imaging (
+figure
+ 
+2C). When we produced cancer spher -
+oids without CAFs using four different PDAC cell lines (Capan2, AsPC-
+ 1, P
+ANC-
+ 1, and MIA PaCa-
+ 2), we detected 
+that Capan2 cells formed regular and round-
+ shaped 
+spheroids with strong expression of collagen I (online supplemental figure S2). Hereafter
+, we used Capan2 
+cells for further experiments. For visualization, we trans-duced the expression of a GFP- and RFP-
+ encoding genes 
+in Capan2 and CAF cells, respectively
+. As expected, we 
+found that CAFs were significantly reduced in spheroid  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from 4
+Lee YE, et al. J Immunother Cancer 2023;11:e006130. doi:10.1136/jitc-2022-006130Open access  
+Figure 1  The selection of an antifibr otic drug for the depletion of patient-  derived CAFs. (A) Cell viability was evaluated in five 
+CAFs derived fr
+om patients with PDAC under treatment with nintedanib, SOM230, and metformin, respectively, as potential 
+CAF-
+ inhibiting drugs. Data wer
+e obtained from N=3 per each group. (B) Nintedanib-
+ induced CAF cell death was validated by 
+the level of cleaved caspase-
+ 3 using wester
+n blot experiments. (C) Nintedanib in CAF_12 lowered the expression of classical 
+CAF markers in a dose-
+ dependent manner
+. (D) Nintedanib-
+ induced CAF cell death was observed using an optical micr
+oscope. 
+(E) Putative molecular targets in response to nintedanib were accessed using western blot analysis. (F) The viability of CAF_12 
+in response to treatment with PDGF ligands was tested in the presence or absence of nintedanib. (*p<0.05, ****p<0.0001) (G, H) Nintedanib-
+ induced CAF cell death was not af
+fected in PDGFRβ K.O CAF cells achieved using CRISPR/Cas9.(*p<0.05) CAF , 
+cancer-
+ associated fibr
+oblast; PDAC, pancreatic ductal adenocarcinoma; PDGFRβ, platelet-
+ derived gr
+owth factor receptor β. on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from 5
+Lee YE, et al. J Immunother Cancer 2023;11:e006130. doi:10.1136/jitc-2022-006130Open access
+Figure 2  Pr ominent inhibitory effect of nintedanib in PDAC CAFs compared with cancer cells. (A) Cell viability was evaluated 
+in cancer cells under treatment with nintedanib. (B) Nintedanib-
+ tr
+eated CAFs exhibited decreased phosphorylation of AKT and 
+ERK, members of the two major PDGF-
+ mediated signaling pathways. Repr
+esentative images were shown from one of three 
+independent experiments. (C, D) Using a Capan2-
+ CAF cocultur
+e spheroid system, live cell imaging was conducted in the 
+presence or absence of nintedanib. Prior to coculture, GFP and RFP were introduced into Capan2 and CAF_12, respectively, 
+for visualization. Quantitative data were obtained from N=5 per each group. P values were determined using one-
+ way ANOV
+A 
+followed by multiple comparison test. (*p<0.05, **p<0.01, ***p<0.001, ****p<0.0001) (E) Annexin V influx was measured on RFP expressing CAF cells to determine apoptotic death. Images from mock (N=861) and nintedanib (N=487) groups were visualized 24
+ hours post-
+ tr
+eatment. P values were analyzed statistically using the unfired t-
+ test. (****p<0.0001) (F
+, G) 3
+ µM nintedanib was 
+added in CAF and Capan2, and then transcriptomic analysis was conducted in each sample (N=2). The number of dif
+ferentially 
+expressed genes (DEGs) with a fold change (FC) ≥2
+ and p<0.05 is shown in V
+enn diagram (F). The number of DEGs according 
+to gene ontology enrichment (G). (H) Total expression of PDGFRβ on CAFs and Capan2 was accessed by a western blot experiment. ANOVA, analysis of variance; CAF , cancer-
+ associated fibr
+oblast; PDGFRβ, platelet-
+ derived gr
+owth factor receptor β. on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from 6
+Lee YE, et al. J Immunother Cancer 2023;11:e006130. doi:10.1136/jitc-2022-006130Open access  
+co- cultures in the presence of nintedanib, as indicated 
+by 
+the relative signal intensity (figure
+ 2D
+). We further 
+investigated whether the fluorescence signal reduction 
+in CAFs under nintedanib treatment was associated with cell death of CAFs by measurement of annexin V influx in the dead cells (figure
+ 
+2E). An increase in the annexin 
+V signal inversely correlated with a decrease in the RFP signal from CAFs.
+Consistent with our observations using live cell 
+imaging, next-
+ generation sequencing (NGS) revealed
+ 
+that the CAF group (nintedanib-
+ treated CAFs vs
+ 
+mock-
+ treated CAFs) had 902 differentially expressed
+ 
+genes (DEGs) with a fold change (FC)≥ 2
+ 
+and p<0.05, 
+whereas the cancer group (nintedanib-
+ treated
+ 
+Capan2 vs mock-
+ treated 
+Capan2) had 192 DEGs 
+(figure
+ 2F
+). In particular, we found that the DEGs 
+in the CAF group, which were involved in cell cycle, DNA repair, and cell death, were significantly down-regulated compared with those in the cancer group, indicating the prominent effect of nintedanib on CAFs (figure
+ 
+2G). Additionally, we revealed that 
+CAFs had a stronger expression of PDGFRβ  than of 
+Capan2, showing the preferential inhibitory effect of nintedanib on CAFs (figure
+ 
+2H and online supple-
+mental figure S3).
+Nintedanib ameliorated NK-mediated cytotoxicity with 
+elevated expression of activating receptors against cancerGiven the CAF-
+ depleting 
+effects of nintedanib, we eval-
+uated whether NK-
+ mediated killing efficacy under treat
+-
+ment of nintedanib would be improved in a cancer-
+ CAF 
+mixed spheroid coculture. Using a 3D coculture system, we investigated the direct cytotoxic activity of NK 
+cells (figure
+ 3A,B
+). Interestingly, we observed that 
+at an effector (E) to target (T) ratio of 0.5:1, the time-
+ 
+course experiments showed a robust NK-
+ driven cancer 
+killing 
+effect when combined with nintedanib treatment 
+(figure
+ 
+3A). We also confirmed the inhibitory effects on 
+CAFs in the presence of nintedanib (figure
+ 
+3B). Without 
+NK92 cells, there was no cancer killing, even in the presence of nintedanib (figure
+ 
+3C). Moreover, the total 
+number of NK cells did not change after NK-
+ mediated 
+killing (online supplemental figure S4). Mono or double spheroids were used as a control (
+figure
+ 
+3D–F and online 
+supplemental figure S4). We also measured annexin V influx in the dead cells of GFP-
+ Capan2 (online supple
+-
+mental figure S4).
+Next, we found that nintedanib alone did not affect 
+the NK cell activities because of no differences in the expression of natural cytotoxicity receptors such as NKp30, NKp44, and NKp46 and the activating marker CD69 in NK92 cells (figure
+ 
+3G and online supplemental 
+figure S5). We reason that NK cells had a low expres-sion of PDGFRβ, leading to a lower inhibitory signal of nintedanib in NK cells (online supplemental figure S6). However, nintedanib influenced NK92 cells in the 3D cocultured cells. We noticed that NK cell-
+ activating recep
+-
+tors were significantly upregulated on NK92 cells in the presence of nintedanib beyond exerting their cytotoxic function (figure 
+ 3H
+ and online supplemental figure S5). 
+Similarly, we found that peripheral blood mononuclear cell-
+ derived NK (PBNK) cells exhibited an enhanced 
+NK cytotoxic function and activation in the presence of nintedanib 
+(figure
+ 3I,J
+ and online supplemental figure 
+S7).
+Conditioned media from nintedanib-treated CAFs rescued 
+functional impairment of NK cells via a significant reduction of CAF-secreted IL-6To reveal the underlying mechanism of the effect of nintedanib on the NK-
+ promoting 
+function in the 
+NK-
+ spheroid 
+cocultures only, we assessed the impact of 
+nintedanib-
+ treated conditioned media (CM) on PBNK 
+cells alone. W
+e observed that the expression of activating 
+receptors, such as DNAX accessory molecule (DNAM-
+ 1, 
+CD226), NKp30, NKp44, NKp46, and NKG2D was elevated on nintedanib-
+ treated CM (
+figure
+ 4A
+). Consequently, 
+the impaired NK function was rescued with enhanced NK-
+ mediated cytolysis (
+figure
+ 
+4B). Next, we analyzed the 
+CAF-
+ released secretome relative to CAF-
+ mediated immu
+-
+noregulatory functions. We found that CAFs released large amounts of cytokines and growth factors in the control, whereas treatment with nintedanib particularly inhib-ited the release of cytokines, such as IL-
+ 6 and IL-
+ 8, and 
+growth factors, such as PDGF receptor/ligands (online supplemental figure S8) and 
+figure
+ 
+4C,D). Among them, 
+we observed a strong reduction in CAF-
+ released 
+IL-
+ 6 
+in 
+the presence of nintedanib, inferring the potential role of IL-
+ 6 in NK dysfunction (
+figure
+ 
+4C). Consistent with the 
+reduced secretion of IL-
+ 6, the level of both IL-
+ 6 mRNA 
+and protein was significantly decreased in response to treatment 
+with nintedanib in CAFs (figure
+ 4E,F
+). We also 
+found that PDGF ligands, such as PDGF-
+ AB and PDGF-
+ BB 
+that bind to PDGFR
+β, induced the secretion of IL-
+ 6 in 
+CAFs, 
+confirming the molecular target of nintedanib 
+(figure
+ 
+4G).
+Next, we examined the relation between the CAF-
+ derived 
+production of IL-
+ 6 and NK cell dysfunction, and tested the 
+impact of IL-
+ 6 in cancer or NK cells. W
+e stably generated 
+NanoLuc luciferase-
+ expressing Capan2 (Capan2-
+ Luc) 
+cells for a luminescence-
+ based tumor killing assay
+. 
+Despite no differences in the viability of Capan2-
+ Luc cells 
+alone, the exogenously IL-
+ 6-
+ pretreated NK cells impeded 
+their tumor killing efficacies (
+figure
+ 
+5A–C). We further 
+confirmed that blockade of IL-
+ 6 using anti-
+ IL-
+ 6 antibody 
+in nintedanib-
+ treated CM in NK cells prior to coculture 
+significantly enhanced the expression of NK activating receptors, such as NKp30, NKp46, NKG2D and DNAM-
+ 1 
+(
+figure
+ 
+5D). Thus, we concluded that CAF-
+ derived IL-
+ 6 
+trans-
+ signaling attenuated the activation of NK cells. W
+e 
+further identified that direct treatment of IL-
+ 6 in PBNK 
+induced activation of ST
+AT3, rather than AKT and ERK 
+(figure
+ 
+5E), whereas the addition of anti-
+ IL-
+ 6 antibody 
+led to inhibition of pST
+AT3 (figure
+ 
+5E). Additionally, 
+anti-
+ IL-
+ 6 antibody-
+ treated CM or nintedanib-
+ treated CM 
+inhibited 
+activation of STAT3 signaling on PBNK cells  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from 7
+Lee YE, et al. J Immunother Cancer 2023;11:e006130. doi:10.1136/jitc-2022-006130Open access
+Figure 3  Nintedanib impr oved the NK-  mediated cancer killing thr ough the upregulated activation of markers. (A, B) To test 
+the effect of nintedanib on NK-
+ driven cytolysis, NK92 cells wer
+e incubated in the Capan2-
+ CAF spher
+oid system with or without 
+3
+ µM nintedanib, and the r
+elative intensities were measured in a time-
+ dependent course based on fluor
+escence live cell imaging. 
+(C) Cancer-
+ CAF spher
+oids only, in the presence or absence of nintedanib. (D–F) Each single cell-
+ type spher
+oid with or without 
+NK92 was used as a control. (G–J) The direct or indirect effect of nintedanb on NK cytotoxic function was evaluated according 
+to coculturing condition. Incubation with NK92 (G, H) and primary NK cells (I, J), respectively. Nintedanib ameliorated the function of NK cells only in Capan2-
+ CAF spher
+oid condition. P values were determined using one-
+ way ANOV
+A followed by 
+multiple comparison test. *p<0.05, **p<0.01, ***p<0.001, ****p<0.0001. ANOVA, analysis of variance; CAF , cancer-
+ associated 
+fibr
+oblast; NK, natural killer. on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from 8
+Lee YE, et al. J Immunother Cancer 2023;11:e006130. doi:10.1136/jitc-2022-006130Open access  
+Figure 4  Nintedanib-  tr eated CAFs exhibited a significant reduction in CAF-  derived IL-  6, consequently r escuing NK inhibition. 
+(A, B) To reveal a NK-
+ pr
+omoting role on treatment with nintedanib (Nib), the impact of nintedanib-
+ tr
+eated condition media (CM) 
+was evaluated through the expression of NK activating markers (A) or NK-
+ mediated killing ef
+ficacy (B), respectively. p values 
+were determined using one-
+ way ANOV
+A followed by multiple comparison test. *p<0.05, **p<0.01, ***p<0.001, ****p<0.0001. 
+Quantitative data were obtained from N=4 per each group. (C, D) Human cytokine array (C) and growth factor array 
+(D), respectively, were conducted in the presence or absence of nintedanib to analyze the CAF-
+ r
+eleased secretome. (E, F) The 
+level of IL-
+ 6 mRNA (****p<0.0001.) (E) or pr
+otein (F) is shown under treatment with nintedanib in CAFs. (G) Stimulation of PDGF 
+ligands, such as PDGF-
+ AB and PDGF-
+ BB in CAFs induced the secr
+etion of IL-
+ 6. Quantitative data wer
+e obtained from N=3 per 
+each group. (**p<0.01, ***p<0.001) ANOVA, analysis of variance; CAF , cancer-
+ associated fibr
+oblast; NK, natural killer; PBNK, 
+peripheral blood mononuclear cell-
+ derived NK; PDGF
+, platelet-
+ derived gr
+owth factor. on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from 9
+Lee YE, et al. J Immunother Cancer 2023;11:e006130. doi:10.1136/jitc-2022-006130Open access
+Figure 5  CAF-  secr eted IL-  6 impeded NK cytotoxic function. (A–C) The ef fect of exogenous treatment with IL-  6 in Capan2-  
+Luc cells alone (A) and in cocultur
+e of Capan2-
+ Luc with PBNK (B) or NK92 (C). For the luminescence-
+ based tumor killing 
+assay
+, nanoLuc luciferase-
+ expr
+essing Capan2 (Capan2-
+ Luc) cells wer
+e generated. (**p<0.01) (B, C) PBNK or NK92 cells were 
+cocultured with Capan2-
+ Luc cells at a 10:1 or 2:1 ratio for 24
+ hours. (****p<0.0001) (D) The ef
+fect of the suppression of IL-
+ 
+6 on the activation of NK cells was investigated in the cocultur
+e of Capan2 with PBNK. Prior to coculture, PBNK cells were 
+pretreated with CM from mock-, nintedanib-, and nintedanib plus αIL-
+ 6-
+ tr
+eated CAFs for 24
+ hours. CAF-
+ derived IL-
+ 6 attenuated 
+the activation of NK cells. (E) IL-
+ 6-
+ mediated signal transduction pathways in PBNK wer
+e validated under the treatment of IL-
+ 
+6 (100
+ ng/mL) with or without anti-
+ IL-
+ 6 antibody (100
+ ng/mL) for 2
+ hours. (F) PBNK cells in the pr
+esence or absence of αIL-
+ 
+6 
+were incubated with CM from mock-, and nintedanib-
+ tr
+eated CAFs for 2 h, and then the activation of STAT3 was detected by 
+western blotting analysis. (G) Expression of CD69 on Jurkat T cells on treatment of CAF-
+ derived CM in the pr
+esence or absence 
+of nintedanib. Quantitative data were obtained from N=4 per group. (****p<0.0001) CAF , cancer-
+ associated fibr
+oblast; CM, 
+conditioned media; NK, natural killer; PBNK, peripheral blood mononuclear cell-
+ derived NK. on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from 10
+Lee YE, et al. J Immunother Cancer 2023;11:e006130. doi:10.1136/jitc-2022-006130Open access  
+(figure  5F). To confirm the effect of IL-  6 on NK cells, 
+we evaluated the expression of IL-
+ 6 receptors, including 
+IL-
+ 
+6Rα (CD126) and gp130 (CD130), on NK cells respon-
+sible for IL-
+ 6 
+signaling transduction (online supplemental 
+figure S9).37 IL- 6 binds to membrane-  bound IL-  6R α or 
+soluble IL-
+ 
+6Rα, and subsequently binds to the signal 
+transduction receptor subunit gp130, triggering IL-
+ 6-
+ 
+induced signaling activation.38 Based on flow cytometry 
+analysis, gp130 was ubiquitously expressed on NK, cancer, 
+and CAFs; however, expression of IL-
+ 6R
+α was limited to a 
+small population of NK cells (online supplemental figure S9). Notably, it is necessary to measure soluble IL-
+ 6R
+α 
+from cell culture media, being generated using alterna-tive RNA splicing or proteolytic cleavage. Taken together, the suppression of CAF-
+ derived IL-
+ 6 via treatment with 
+nintedanib might rescue the impairment of NK cytotoxic function by elevating the expression of NK activating receptors 
+following the suppression of STAT3 signaling. 
+Next, we tested the impact of IL-
+ 6 signaling on Jurkat T 
+cells for broad therapeutic application of IL-
+ 6 blockade 
+(
+figure
+ 
+5G). Notably, CAF-
+ derived CM induced CD69 as 
+an activation marker on Jurkat T cells, while nintedanib-
+ 
+treated 
+CM inhibited CD69 activation. Further investiga-
+tions are required to determine the clinical impacts of IL-
+ 6 blockers on primar
+y T cells.
+Nintedanib triggered the synergistic cytotoxicity of MSLN-targeted CAR-NK against MSLN-positive PDACTo maximize the synergistically therapeutic combination of nintedanib against PDAC, we first generated CAR-
+ NK 
+cells 
+targeting MSLN-
+ positive 
+Capan2 cancer cells. For 
+synergistic therapeutic combination of CAR-
+ NK, we 
+chose MSLN as a promising tumor antigen. MSLN is highly 
+expressed in several solid neoplasmas, including 
+pancreatic cancer, and its selective expression on malig-nant cells indicates a promising biomarker for targeted therapy.
+39 40 First, we confirmed that only low expression 
+of MSLN was observed in CAFs by flow cytometry anal-ysis (online supplemental figure S10). For targeting the MSLN tumor antigen, we introduced a 4-
+ 1BB (CD137; 
+TNFRSF9)-
+ dependent second generation of CAR 
+construct carr
+ying murine SS1 scFv into NK92 cells.40 41 
+We then validated the MSLN-
+ dependent tumor killing 
+efficacy 
+of CAR-
+ NK 
+cells using FACS and live cell imaging 
+(online supplemental figure S11). To optimize the in vitro NK-
+ mediated cytotoxic function, we added nintedanib 
+in 
+the coculture of MSLN-
+ targeted 
+CAR-
+ NK 
+and spher -
+oids (2:1; figure
+ 
+6A,B). As expected, treatment with 
+nintedanib significantly induced the CAR-
+ NK-
+ mediated 
+cytotoxic function in vitro. Prior to therapeutic studies, we generated an in vivo tumor xenograft model, in which luciferase-
+ overexpressing Capan2 cells were subcutane
+-
+ously injected in the presence or absence of CAFs (online supplemental figure S12). Due to the limited availability of the orthotopically implanted cancer-
+ bearing mice model, 
+we generated a cancer:CAF mixed xenograft tumor via subcutaneous 
+injection of cancer/CAF mixture cells to 
+investigate the effect of CAFs in vivo.42 We observed that the Capan2-
+ Luc:CAF-
+ mixed xenograft tumor exhibited 
+higher 
+proliferation compared with the Capan2 alone 
+xenograft tumor, implying the tumor-
+ promoting effects 
+of CAFs. Consistent with the obser
+vation in our in vitro 
+functional tests, combinatory treatment with nintedanib achieved synergistic cytotoxic effects of CAR-
+ NK in 
+Capan2-
+ Luc:CAF-
+ mixed xenograft mice (
+figure
+ 
+6C–F 
+and online supplemental figure S13). Notably, we found that treatment of CAR-
+ NK 
+without nintedanib did not 
+suppress tumor growth in vivo, preserving the dysfunc-tion of CAR-
+ NK in CAF-
+ rich solid tumors (
+figure
+ 
+6D,E). 
+However, 34 days after treatment, combination-
+ treated 
+tumors seemed to recur; however
+, the optimal tumor 
+reduction in the combinatory treatment group was confirmed (figure
+ 
+6D,E). Thus, combinatory-
+ treated 
+tumors were excised for further investigation in ex vivo experiments when optimal tumor reduction was reached. W
+e noticed that nintedanib-
+ treated groups had signifi
+-
+cantly reduced CAF populations in H&E-
+ stained tumor 
+sections, 
+which positively correlated with the expression of 
+PDGFRβ (online supplemental figure S13). In addition, tumor-
+ infiltrating CAR-
+ NK cells were highly increased in 
+the nintedanib-
+ treated tumor sections, resulting in the 
+acquired loss of the expression of MSLN due to CAR-
+ 
+NK-
+ mediated tumor killing (
+figure
+ 
+6F and online supple-
+mental figure S13). Next, we evaluated off-
+ target toxicity 
+through obser
+vation of histological changes in dissected 
+normal organs or measurement of various blood param-eters, all of which showed no significant differences between groups (online supplemental figure S14).
+Next, we examined PBNK-
+ derived CAR (CAR-
+ PBNK)-
+ 
+mediated cancer killing using patient-
+ derived or cancer 
+cell line-
+ derived 
+organoids that are suitable for clinical 
+study of CAR-
+ NK. 
+To mimic the patient TME within organ-
+oids, we established patient (Og-
+ AMC-
+ 363)- 
+or cancer 
+cell line (AsPC1_XO)-
+ derived organoid/CAF co-
+ culture 
+systems by adding patient-
+ derived CAFs (online supple
+-
+mental figure S15). We assessed CAR-
+ PBNK-
+ mediated 
+cancer 
+killing on nintedanib treatment using a mCherry-
+ 
+expressing patient-
+ derived organoid/CAF co-
+ culture 
+system 
+(figure
+ 6G
+). Consistent with the observations in 
+the in vivo experiment, nintedanib treatment reinforced CAR-
+ PBNK-
+ mediated cancer killing in the organoid/CAF 
+co-
+ culture 
+system. To further confirm the therapeutic 
+effect on IL-
+ 6 signaling inhibition for NK-
+ based immu
+-
+notherapy, we investigated the efficacy of CAR-
+ PBNK 
+cells with 
+co-
+ treatment 
+of IL-
+ 6R blocking 
+antibody (tocili-
+zumab), which binds to the soluble and transmembrane form of IL-
+ 6Rs.43 To test the potential of an alternative 
+combination IL-
+ 6R blocking antibody (tocilizumab) treat
+-
+ment for synergistic CAR-
+ NK-
+ mediated cancer killing, 
+tocilizumab was co-
+ incubated with CAR-
+ PBNK cells in the 
+organoid/CAF co-
+ culture system (online supplemental 
+figure 
+S16). Remarkably, the combinatory treatment with 
+tocilizumab exhibited a significant increase in CAR-
+ NK-
+ 
+mediated killing. Thus, NK-
+ based immunotherapy with 
+IL-
+ 6 blockade suggests a promising therapeutic strategy 
+for effective cancer treatment. on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from 11
+Lee YE, et al. J Immunother Cancer 2023;11:e006130. doi:10.1136/jitc-2022-006130Open access
+Figure 6  Optimal combination of MSLN-  CAR-  NK and nintedanib exhibited significant tumor killing in vitr o and in vivo. (A, 
+B) The CAR-
+ NK-
+ mediated cytotoxic function was significantly enhanced against MSLN-
+ positive Capan2 under tr
+eatment with 
+nintedanib (N=3). (****p<0.0001) (C) The scheme of the in vivo experiment for the combination of CAR-
+ NK and nintedanib. For 
+therapeutic studies, Capan2-
+ Luc alone or a mixtur
+e of Capan2-
+ Luc and CAF was subcutaneously injected into mice. (D, E) For 
+therapeutic evaluation, the gr
+owth of each tumor (N=4) was monitored through size measurement using a caliper (*p<0.05) (D) or 
+through visualization of the in vivo luminescence signal using the IVIS spectrum imaging system (E). (F) Histological analysis and 
+IHC staining were conducted in excised tumor sections. (**p<0.01) (G) Synergistic cancer effect of CAR-
+ PBNK with nintedanib, 
+based on a patient-
+ derived or
+ganoid/CAF co-
+ cultur
+e system. CAF , cancer-
+ associated fibr
+oblast; CAR, chimeric antigen 
+receptor; MSLN, mesothelin; NK, natural killer; IHC, immunohistochemical. on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from 12
+Lee YE, et al. J Immunother Cancer 2023;11:e006130. doi:10.1136/jitc-2022-006130Open access  
+The expression of MSLN positively correlated with the 
+PDGFRβ-positive population area, while the combination of the expression of MSLN and PDGFRβ
++ CAFs was associated 
+with poor clinical outcomesWe investigated the potential associations between MSLN and PDGFRβ for a potential combinatorial immuno-therapy. We performed immunohistochemistry (IHC) staining to score the expression of MSLN and PDGFRβ in normal and PDAC tumor sections, respectively (online supplemental figure S17 and figure
+ 
+7A). Based on IHC 
+staining, we evaluated the association of MSLN and PDGFRβ with clinical outcomes in patients with PDAC (figure
+ 
+7B and online supplemental tables S2,S3).
+We found that the MSLN-
+ high 
+group of tumors was 
+significantly associated with inferior overall survival (OS). However, neither the PDGFRβ-high group nor the combination-
+ high 
+group was associated with prom-
+ising survival outcomes. We observed similar survival rates when we used public transcriptomic data from the Cancer Genome Atlas (TCGA; online supplemental figure S18). Nintedanib directly inhibited phosphoryla-tion of PDGFRβ, resulting in cell death in CAFs. Thus, we speculated that the PDGFRβ-positive area within the TME might be associated with poor survival outcomes rather than the expression degree of PDGFRβ. Subsequently, we analyzed the percentage of the PDGFRβ-positive popula-tion area occupied within the TME, but not based on the intensity of the expression of PDGFRβ (figure
+ 
+7C). We 
+detected that PDGFRβ PA varied widely from 0.57% to 32.67% between 43 patient-
+ derived 
+tumor sections, and 
+was classified into a low or high group according to the area percentage (%; figure
+ 
+7C and online supplemental 
+table S3). Importantly, we found that the combination of the expression of MSLN and PDGFRβ PA exhibited a significantly lower OS with unfavorable clinical outcomes (figure
+ 7D
+). According to our observation (figure
+ 4C
+) 
+of strong secretion of IL-
+ 6 from PDGFR
+β-positive CAFs, 
+we further tested the clinical association of IL-
+ 6 or the 
+combination of MSLN and IL-
+ 6 in patient-
+ derived tumor 
+sections. Interestingly
+, based on the PA of IL-
+ 6, IL-
+ 6 P
+A 
+alone and the combination of IL-
+ 6 
+PA with MSLN within 
+the TME were positively associated with poor survival (figure
+ 
+7E–G). TCGA data also showed that IL-
+ 6 at the 
+RNA level was significantly associated with poor sur
+vival 
+outcomes (online supplemental figure S18).
+We further performed IHC staining on patient-
+ derived 
+tumor 
+sections diagnosed with liver and gastric cancer 
+(online supplemental figure S19). Interestingly, both MSLN and PDGFRβ were strongly detected on gastric tumor sections (online supplemental figure S19). Thus, this combination can serve as a potential prognostic or therapeutic marker for the treatment of PDAC or other solid tumors (online supplemental figure S20).
+DISCUSSION
+PDGF-
+ PDGFR axis signals are implicated in the prog
+-
+ress of diverse diseases. PDGFs, as a family of four cysteine-
+ 
+knot-
+ 
+type growth factors (PDGF-
+ 
+A, PDGF-
+ 
+B, 
+PDGF-
+ C, and PDGF-
+ D) are potent mitogens that control 
+the proliferation and sur vival of cancer cells and fibro-
+blasts.44 45 Isoforms of PDGF bind to two receptors, 
+PDGFRα and PDGFRβ, inducing different homodi-meric and heterodimeric complexes, which in turn exert multiple downstream signaling.
+45 46 Autocrine PDGF-  
+induced signaling is activated in certain type of carci
+-
+nomas, such as gliomas, sarcoma and leukemia, whereas paracrine activation of cancer-
+ derived PDGFs triggers 
+the recruitment of stromal cells, such as fibroblasts and vascular endothelial cells.
+46 Notably, cancer-  secreted 
+PDGF-
+ BB 
+contributes to stromal resistance by protecting 
+fibroblasts from hydrogen peroxide-
+ dependent cell 
+damage.47 Furthermore, the degree of CAF infiltration 
+has been strongly correlated with the strength of PDGF-
+ 
+PDGFR axis-
+ mediated signal transduction.48 Thus, the 
+PDGF-
+ PDGFR axis is an important regulator in TME 
+modulation, ser
+ving as a promising therapeutic target 
+for cancer treatment. In this study, we demonstrated that nintedanib, as an antifibrotic drug, significantly inhib-ited the expression of pPDGFRβ in PDAC-
+ derived CAFs 
+via the PI3K/AKT and MAPK/ERK signaling pathways. T
+reatment with nintedanib led to a strong reduction in 
+the secretion of IL-
+ 6, consequently causing cell death. 
+Moreover
+, PDGF-
+ AB 
+or PDGF-
+ BB 
+induced the secretion 
+of IL-
+ 6 in CAFs. In addition, nintedanib exhibited mild 
+inhibitor
+y effects on Capan2 cancer or NK cells alone. 
+The differential effect of nintedanib according to cell type might be related to the level of expression of PDGFBRβ. Resting or IL-
+ 2-
+ activated 
+human NK cells express neither 
+PDGFRα nor PDGFRβ. Indeed, on our IL-
+ 2 and IL-
+ 15-
+ 
+supplemented 
+culture conditions, the surface expres-
+sion of PDGFRβ was barely detectable in NK92 and PBNK cells. However, a recent study showed that IL-
+ 15-
+ 
+stimulated NK cells specifically induced the expression of PDGFR
+β, contributing to long-
+ term NK sur
+vival, which, 
+however, did not affect the function of NK cells.49 Taken 
+together, further investigations regarding the expression of PDGFRβ in NK cells are needed for the development of effective cancer treatments through PDGFRβ-targeted CAFs.
+In our study, we revealed that the expression of MSLN 
+was positively correlated with the proportion of PDGFRβ
++ 
+CAFs, and associated with unfavorable clinical outcomes. Reportedly, MSLN, a glycosylphosphatidylinositol-
+ 
+anchored cell sur
+face glycoprotein is highly detectable 
+in pancreatic cancers and various other tumors, while its expression is limited to normal mesothelial cells of the pleura, peritoneum, and pericardium.
+40 The high expres-
+sion of MSLN in tumors has been associated with poor clinical outcomes and shown to be involved in tumor cell proliferation, migration, and metastasis.
+50 However, the 
+expression of MSLN in human PDAC remains contro-versial, in that two studies revealed an association with unfavorable clinical outcomes.
+51 However, another study 
+showed no correlation with cancer aggressiveness.39 In 
+our study, 12 of 43 tumor sections had strong expression  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from 13
+Lee YE, et al. J Immunother Cancer 2023;11:e006130. doi:10.1136/jitc-2022-006130Open access
+Figure 7  The combination of expr ession of MSLN and population of PDGFRβ+ CAFs was associated with inferior clinical 
+outcomes and poor overall survival (OS). (A) Based on IHC staining intensity, the expression score of MSLN and PDGFRβ 
+was measured in patient-
+ derived tumor sections. The degr
+ee of staining intensity was scored and sorted into a low or high 
+group. (B) Analysis of OS according to the score of target expression. Survival rates were determined using the Kaplan-
+ Meier 
+method accor
+ding to MSLN, PDGFRβ, and the combination of MSLN and PDGFRβ; MSLN-
+ low (N=23), high (N=20); PDGFR
+β-
+low (N=16), high (N=27); MSLN+PDGFRβ-low (N=29), high (N=14). (C) Using the vs200 research slide scanner, the PDGFRβ+ 
+population area (PA, %) was quantified and grouped into a low or high group; PDGFRβ PA-
+ low (N=28), high (N=15). (D) Survival 
+rates wer
+e analyzed according to the combination of MSLN and PDGFRβ PA; MSLN+PDGFRβ PA-
+ low (N=25), high (N=18). 
+(E) The IL-
+ 6 P
+A was quantified and grouped into a low and high group; IL-
+ 6 P
+A-
+ low (N=22), high (N=21). (F) Analysis of OS 
+accor
+ding to the score of the IL-
+ 6 P
+A. (G) Survival rates were analyzed according to the combination of MSLN and IL-
+ 6 P
+A; 
+MSLN+IL-
+ 6 P
+A-
+ low (N=22), high (N=21). N indicates the number of clinical specimens. CAF
+, cancer-
+ associated fibr
+oblast; IHC, 
+immunohistochemical; MSLN, mesothelin; PDGFRβ, platelet-
+ derived gr
+owth factor receptor β. on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from 14
+Lee YE, et al. J Immunother Cancer 2023;11:e006130. doi:10.1136/jitc-2022-006130Open access  
+of MSLN (score 3), and showed a significant association 
+between MSLN positivity and reduced OS. In contrast, there was no relationship between the expression of PDGFRβ and clinical outcomes. Rather than PDGFRβ intensity scores, the combination of the degree of the PDGFRβ
++ PA and the expression of MSLN clearly exhib-
+ited inferior clinical outcomes, serving as a potential target of therapeutic interest.
+In summary, we identified the novel combinatory 
+immunotherapeutics of MSLN-
+ targeted CAR-
+ NK 
+and nintedanib, which inhibited the proliferation of PDGFR
+β+ CAFs, eventually leading to enhanced CAR-  NK 
+cell infiltration, activation, and killing efficacy
+. Depletion 
+of PDGFRβ+ CAFs by treatment with nintedanib led to a 
+significant reduction in CAF-
+ secreted 
+IL-
+ 6 
+through the 
+ERK and AKT multiple signal pathways; in which para-crine IL-
+ 6 led to the abrogation of the NK cell-
+ mediated 
+cytotoxic function. 
+Intriguingly, the IL-
+ 6-
+ induced activa
+-
+tion of STAT3 might function as an oncogenic pathway in NK cells, resulting in the reduced expression of NK activating receptors. Taken together, our therapeutic approach of combining MSLN-
+ targeted CAR-
+ NK and 
+nintedanib 
+might improve patient outcomes especially in 
+stroma-
+ rich cancers by efficiently modulating the TME.
+Author affiliations
+1Medicinal Materials Research Center, Biomedical Research Division, Korea Institute 
+of Science and Technology, Seoul, Korea (the Republic of)
+2Department of Life Sciences, College of Life Sciences and Biotechnology, Korea 
+University, Seoul, Korea (the Republic of)
+3Department of Convergence Medicine, Asan Institute for Life Sciences, University 
+of Ulsan College of Medicine and Asan Medical Center, Seoul, Korea (the Republic 
+of)
+4Corporate Research & Development Center, UCI therapeutics, Seoul, Korea (the 
+Republic of)
+5Department of Pathology, Asan Medical Center, University of Ulsan College of 
+Medicine, Seoul, Korea (the Republic of)
+6Natural Product Research Center, Institute of Natural Products, Korea Institute of 
+Science and Technology, Gangneung, Korea (the Republic of)
+7Department of Health Sciences and Technology, Samsung Advanced Institute for 
+Health Sciences and Technology (SAIHST), Sungkyunkwan University, Seoul, Korea (the Republic of)
+8Department of Laboratory Medicine and Genetics, Samsung Medical Center, 
+Sungkyunkwan University, Seoul, Korea (the Republic of)
+9Division of Hepato-  Biliar y and Pancreatic Surgery, Department of Surgery, 
+University of Ulsan College of Medicine, Asan Medical Center, Seoul, Korea (the Republic of)
+10KHU-  KIST Department of Converging Science and Technology, Kyung Hee 
+University, Seoul, Korea (the Republic of)
+Acknowledgements
+ The authors thank the 
+Asan Medical Center for their expert 
+technical assistance with in vivo experiments.
+Contributors
+ MJ conceived the stud
+y. G-
+ YG,
+ YEL, TSK, JCK, and H-
+ NY designed 
+and performed the in vitro and in vivo experiments.
+ MS cultured primary NK cells. 
+EJ, S-
+ MH,
+ and EYK conducted a cohort study of patients. SCK established patient-
+ 
+derived CAFs.
+ JHJ conducted organoid-
+ based experiments.
+ DC provided materials, 
+including GE-
+ feeder cells and a baboon envelope vector
+. MJ wrote the original draft. 
+MJ, YEL, and EJ wrote the manuscript, with contributions and review by all other 
+authors. MJ, EJ, and SCK accepts full responsibility for the work and/or the conduct of the study, had access to the data, and controlled the decision to publish.
+Funding
+ This work was supported by the Na
+tional Research Foundation of Korea 
+Grant funded by the Korean Government (grant number: 2020R1C1C1006421, 
+2020M3A9I4038662, and 2020M3A9I4038667) and by Korea Institute of Science and Technology (grant number: 2E32331 and 2V09550). This research was also supported by Korea Drug Development Fund funded by Ministry of Science and 
+ICT, Ministry of Trade, Industry, and Energy, and Ministry of Health and Welfare (RS-
+ 2022-
+ 00166088,
+ Republic of Korea). This study was supported by a grant 
+(grant number: 2021IP0020-
+ 1) from 
+Asan Institute for Life Sciences, Asan Medical 
+Center. This work was also supported in part by Samsung Research Funding and Incubation Center of Samsung Electronics under Project Number SRFC-
+ TC2003-
+ 02.
+Competing interests
+ None dec
+lared.
+Patient consent for publication
+ Not a
+pplicable.
+Ethics approval
+ This stud
+y complied with the Declaration of Helsinki and was 
+reviewed and approved by the Institutional Review Board (IRB) of Asan Medical Center (IRB No. 2015-
+ 0480,
+ 2018-
+ 0745,
+ 2018-
+ 0710).
+ Patients who underwent 
+surgery for cancer were enrolled in this study, and informed consent was obtained before taking part in the study. Pancreatic, gastric, and liver cancer tissues that were pathologically diagnosed as carcinoma were delivered from the Bio-
+ resource 
+center (BRC No.
+ 2018-
+ 13(167)).
+Pro
+venance and peer review
+ Not commissioned; externally peer reviewed.
+Data av
+ailability statement
+ Da
+ta are available on reasonable request.
+Supplemental material
+ This content has been supplied by the author(s).
+ It has 
+not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been peer-
+ reviewed.
+ Any opinions or recommendations discussed are solely those 
+of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and responsibility arising from any reliance placed on the content. Where the content includes any translated material, BMJ does not warrant the accuracy and reliability of the translations (including but not limited to local regulations, clinical guidelines, terminology, drug names and drug dosages), and is not responsible for any error and/or omissions arising from translation and adaptation or otherwise.
+Open access
+ This is an open access artic
+le distributed in accordance with the 
+Creative Commons Attribution Non Commercial (CC BY-
+ NC 4.0) license,
+ which 
+permits others to distribute, remix, adapt, build upon this work non-
+ commercially
+, 
+and license their derivative works on different terms, provided the original work is 
+properly cited, appropriate credit is given, any changes made indicated, and the use is non-
+ commercial.
+ See http://creativecommons.org/licenses/by-nc/4.0/.
+ORCID iDMihue Jang http://orcid.org/0000-0002-2135-2983
+REFERENCES
+ 1 Kleef f J, Korc M, Apte M, et al. Pancreatic cancer. Nat Rev Dis 
+Primers 2016;2:16022. 
+ 2
+ Ligorio M, Sil S, Malagon-
+ Lopez J, 
+et al. Stromal microenvironment 
+shapes the intratumoral architecture of pancreatic cancer. Cell 
+2019;178:160–75. 
+ 3
+ Chu GC, Kimmelman AC, Hezel AF
+, et al. Stromal biology of 
+pancreatic cancer. J Cell Biochem 2007;101:887–907. 
+ 4
+ Jacobetz MA, Chan DS, Neesse A, 
+et al. Hyaluronan impairs vascular 
+function and drug delivery in a mouse model of pancreatic cancer. Gut 2013;62:112–20. 
+ 5
+ Olivar
+es O, Mayers JR, Gouirand V, et al. Collagen-
+ derived pr
+oline 
+promotes pancreatic ductal adenocarcinoma cell survival under nutrient limited conditions. Nat Commun 2017;8:16031. 
+ 6
+ Hilmi M, Nicolle R, Bousquet C, 
+et al. Cancer-
+ associated fibr
+oblasts: 
+accomplices in the tumor immune evasion. Cancers (Basel) 2020;12:2969. 
+ 7
+ Knops AM, South A, Rodeck U, 
+et al. Cancer-
+ associated fibr
+oblast 
+density, prognostic characteristics, and recurrence in head and neck squamous cell carcinoma: a meta-
+ analysis. 
+Front Oncol 
+2020;10:565306. 
+ 8
+ Per
+eira BA, Vennin C, Papanicolaou M, et al. Caf subpopulations: a 
+new reservoir of stromal targets in pancreatic cancer. Trends Cancer 2019;5:724–41. 
+ 9
+ Mhaidly R, Mechta-
+ Grigoriou F
+. Role of cancer-
+ associated fibr
+oblast 
+subpopulations in immune infiltration, as a new means of treatment in cancer. Immunol Rev 2021;302:259–72. 
+ 10
+ Linar
+es J, Marín-
+ Jiménez JA, Badia-
+ Ramentol J, 
+et al. Determinants 
+and functions of cafs secretome during cancer progression and therapy. Front Cell Dev Biol 2020;8:621070. 
+ 11
+ Moncada R, Barkley D, W
+agner F , et al. Integrating microarray-
+ based 
+spatial transcriptomics and single-
+ cell RNA-
+ seq r
+eveals tissue 
+architecture in pancreatic ductal adenocarcinomas. Nat Biotechnol 2020;38:333–42.  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from 15
+Lee YE, et al. J Immunother Cancer 2023;11:e006130. doi:10.1136/jitc-2022-006130Open access
+ 12 Hosein AN, Huang H, W ang Z, et al. Cellular heterogeneity during 
+mouse pancreatic ductal adenocarcinoma progression at single-
+ cell 
+r
+esolution. JCI Insight 2019;5:e129212. 
+ 13
+ Elyada E, Bolisetty M, Laise P
+, et al. Cross-
+ 
+species single-
+ 
+cell 
+analysis of pancreatic ductal adenocarcinoma reveals antigen-
+ 
+pr
+esenting cancer-
+ associated fibr
+oblasts. Cancer Discov 
+2019;9:1102–23. 
+ 14
+ Ohlund D, Handly-
+ Santana A, Bif
+fi G, et al. Distinct populations of 
+inflammatory fibroblasts and myofibroblasts in pancreatic cancer. J 
+Exp Med 2017;214:579–96. 
+ 15
+ Boyd LNC, Andini KD, Peters GJ, 
+et al. Heterogeneity and 
+plasticity of cancer-
+ associated fibr
+oblasts in the pancreatic tumor 
+microenvironment. Semin Cancer Biol 2022;82:184–96. 
+ 16
+ Bif
+fi G, Oni TE, Spielman B, et al. Il1-
+ Induced JAK/ST
+AT signaling 
+is antagonized by TGFβ to shape CAF heterogeneity in pancreatic ductal adenocarcinoma. Cancer Discov 2019;9:282–301. 
+ 17
+ Guerra N, T
+an YX, Joncker NT, et al. NKG2D-
+ deficient mice 
+ar
+e defective in tumor surveillance in models of spontaneous 
+malignancy. Immunity 2008;28:571–80. 
+ 18
+ Imai K, Matsuyama S, Miyake S, 
+et al. Natural cytotoxic activity of 
+peripheral-
+ blood lymphocytes and cancer incidence: an 11-
+ year 
+follow-
+ up study of a general population. 
+Lancet 2000;356:1795–9. 
+ 19
+ Shimasaki N, Jain A, Campana D. Nk cells for cancer immunotherapy
+. Nat Rev Drug Discov 2020;19:200–18. 
+ 20
+ Curti A, Ruggeri L, Parisi S, 
+et al. Larger size of donor alloreactive 
+NK cell repertoire correlates with better response to NK cell immunotherapy in elderly acute myeloid leukemia patients. Clin Cancer Res 2016;22:1914–21. 
+ 21
+ Li T
+, Yang Y , Hua X, et al. Hepatocellular carcinoma-
+ associated 
+fibr
+oblasts trigger NK cell dysfunction via PGE2 and IDO. Cancer Lett 
+2012;318:154–61. 
+ 22
+ Sun C, Sun H, Zhang C, 
+et al. Nk cell receptor imbalance and NK cell 
+dysfunction in HBV infection and hepatocellular carcinoma. Cell Mol Immunol 2015;12:292–302. 
+ 23
+ Huang H, Zhang Y
+, Gallegos V, et al. Targeting TGFβr2-
+ 
+mutant 
+tumors exposes vulnerabilities to stromal TGFβ blockade in pancreatic cancer. EMBO Mol Med 2019;11:e10515. 
+ 24
+ Geng X, Chen H, Zhao L, 
+et al. Cancer-
+ associated fibr
+oblast (CAF) 
+heterogeneity and targeting therapy of cafs in pancreatic cancer. Front Cell Dev Biol 2021;9:655152. 
+ 25
+ Kraman M, Bambr
+ough PJ, Arnold JN, et al. Suppression of 
+antitumor immunity by stromal cells expressing fibroblast activation protein-
+ 
+alpha. Science 2010;330:827–30. 
+ 26
+ Duperr
+et EK, Trautz A, Ammons D, et al. Alteration of the tumor 
+stroma using a consensus DNA vaccine targeting fibroblast activation protein (FAP) synergizes with antitumor vaccine therapy in mice. Clin Cancer Res 2018;24:1190–201. 
+ 27
+ Loef
+fler M, Krüger JA, Niethammer AG, et al. Targeting tumor-
+ 
+associated fibr
+oblasts improves cancer chemotherapy by increasing 
+intratumoral drug uptake. J Clin Invest 2006;116:1955–62. 
+ 28
+ Lo A, W
+ang L-
+ CS, Scholler J, 
+et al. Tumor-
+ Pr
+omoting desmoplasia 
+is disrupted by depleting FAP-
+ expr
+essing stromal cells. Cancer Res 
+2015;75:2800–10. 
+ 29
+ Feig C, Jones JO, Kraman M, 
+et al. Targeting CXCL12 from FAP-
+ 
+expr
+essing carcinoma-
+ associated fibr
+oblasts synergizes with anti-
+ 
+PD-
+ L1 immunotherapy in pancr
+eatic cancer. Proc Natl Acad Sci U S 
+A 2013;110:20212–7. 
+ 30
+ Kolb P
+, Upagupta C, Vierhout M, et al. The importance of 
+interventional timing in the bleomycin model of pulmonary fibrosis. Eur Respir J 2020;55:1901105.  31  Hilber g F , Roth GJ, Krssak M, et al. Bibf 1120: triple angiokinase 
+inhibitor with sustained receptor blockade and good antitumor 
+efficacy. Cancer Res 2008;68:4774–82. 
+ 32
+ Richeldi L, Costabel U, Selman M, 
+et al. Efficacy of a tyrosine 
+kinase inhibitor in idiopathic pulmonary fibrosis. N Engl J Med 2011;365:1079–87. 
+ 33
+ Borie R, Fabr
+e A, Prost F , et al. Activation of somatostatin receptors 
+attenuates pulmonary fibrosis. Thorax 2008;63:251–8. 
+ 34
+ T
+ug T, Kara H, Karaoglu A, et al. The effect of octreotide, an analog of 
+somatostatin, on bleomycin-
+ induced interstitial pulmonary fibr
+osis in 
+rats. Drug Chem Toxicol 2013;36:181–6. 
+ 35
+ Cheng D, Xu Q, W
+ang Y , et al. Metformin attenuates silica-
+ induced 
+pulmonary fibr
+osis via AMPK signaling. J Transl Med 2021;19:349. 
+ 36
+ Li S-
+ X, Li C, Pang X-
+ R, 
+et al. Metformin attenuates silica-
+ induced 
+pulmonary fibr
+osis by activating autophagy via the AMPK-
+ mtor 
+signaling pathway
+. Front Pharmacol 2021;12:719589. 
+ 37
+ Hibi M, Murakami M, Saito M, 
+et al. Molecular cloning 
+and expression of an IL-
+ 6 signal transducer
+, gp130. Cell 
+1990;63:1149–57. 
+ 38
+ Reeh H, Rudolph N, Billing U, 
+et al. Response to IL-
+ 6 trans- and 
+IL-
+ 6 classic signalling is determined by the ratio of the IL-
+ 6 r
+eceptor 
+α to gp130 expression: fusing experimental insights and dynamic modelling. Cell Commun Signal 2019;17:46. 
+ 39
+ Le K, W
+ang J, Zhang T, et al. Overexpression of mesothelin 
+in pancreatic ductal adenocarcinoma (PdaC). Int J Med Sci 2020;17:422–7. 
+ 40
+ Lv J, Li P
+. Mesothelin as a biomarker for targeted therapy. Biomark 
+Res 2019;7:18. 
+ 41
+ Kelly RJ, Shar
+on E, Pastan I, et al. Mesothelin-
+ tar
+geted agents 
+in clinical trials and in preclinical development. Mol Cancer Ther 2012;11:517–25. 
+ 42
+ Hutton C, Heider F
+, Blanco-
+ Gomez A, 
+et al. Single-
+ cell analysis 
+defines a pancr
+eatic fibroblast lineage that supports anti-
+ tumor 
+immunity
+. Cancer Cell 2021;39:1227–44. 
+ 43
+ T
+anaka T, Narazaki M, Kishimoto T. Interleukin (IL-
+ 6) immunotherapy
+. 
+Cold Spring Harb Perspect Biol 2018;10:a028456. 
+ 44
+ Bartoschek M, Pietras K. Pdgf family function and pr
+ognostic value 
+in tumor biology. Biochem Biophys Res Commun 2018;503:984–90. 
+ 45
+ Heldin CH. T
+argeting the PDGF signaling pathway in tumor 
+treatment. Cell Commun Signal 2013;11:97. 
+ 46
+ Andrae J, Gallini R, Betsholtz C. Role of platelet-
+ derived gr
+owth 
+factors in physiology and medicine. Genes Dev 2008;22:1276–312. 
+ 47
+ W
+erth C, Stuhlmann D, Cat B, et al. Stromal resistance of 
+fibroblasts against oxidative damage: involvement of tumor cell-
+ secr
+eted platelet-
+ derived gr
+owth factor (PDGF) and 
+phosphoinositide 3-
+ kinase (PI3K) activation. 
+Carcinogenesis 
+2008;29:404–10. 
+ 48
+ T
+ejada ML, Yu L, Dong J, et al. Tumor-
+ Driven paracrine platelet-
+ 
+derived gr
+owth factor receptor alpha signaling is a key determinant 
+of stromal cell recruitment in a model of human lung carcinoma. Clin Cancer Res 2006;12:2676–88. 
+ 49
+ Ma S, T
+ang T, Wu X, et al. PDGF-
+ 
+D-
+ 
+pdgfrβ signaling enhances IL-
+ 15-
+ 
+mediated human natural killer cell survival. 
+Proc Natl Acad Sci U S A 
+2022;119:e2114134119. 
+ 50
+ Hilliar
+d TS. The impact of mesothelin in the ovarian cancer tumor 
+microenvironment. Cancers (Basel) 2018;10:277. 
+ 51
+ Einama T
+, Kamachi H, Nishihara H, et al. Co-
+ Expr
+ession of 
+mesothelin and CA125 correlates with unfavorable patient outcome in pancreatic ductal adenocarcinoma. Pancreas 2011;40:1276–82.  on December 29, 2023 by guest. Protected by copyright. http://jitc.bmj.com/ J Immunother Cancer: first published as 10.1136/jitc-2022-006130 on 27 February 2023. Downloaded from  
+Online supplemental materials for 
+ 
+Synergistic therapeutic combination with a CAF inhibitor enhances CAR-
+NK-mediated cytotoxicity via reduction of CAF-released IL-6 
+ 
+Young Eun Lee†, Ga-Yeon Go†, Eun-Young Koh†, Han-Na Yoon, Minkoo Seo, Seung-Mo 
+Hong, Ji Hye Jeong, Jin-chul Kim, Duck Cho, Tae Sung Kim, Song Cheol Kim*, Eunsung 
+Jun*, and Mihue Jang*  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YESupplemental methods 
+Isolation and characterization of CAFs from human tumor tissues.  
+Fresh tumor tissues were obtained from surgical specimens of patients diagnosed with PDAC, 
+which were immediately soaked in RPMI640 media (Sigma-Aldrich Corp, St. Louis, 
+MO, USA), and transferred to the laboratory within 30 min. Tumor tissues were rinsed with 
+phosphate-buffered saline (PBS) in a clean bench, minced into < 2 mm3 fragments, and 
+digested with 0.1 % (W/V) collagenase type 1 (Gibco, Grand Island, NY, USA) at 37°C for 
+20 min. The resulting fragments were centrifuged at 200 × g for 5 min, washed with PBS, 
+plated onto DMEM media (11965-092, Gibco) containing 10% fetal bovine serum (FBS) 
+(10270-098, Gibco) and 1% penicillin/ streptomycin (15140-122, Gibco), and allowed to 
+adhere.1 After incubation of cultured cells with the anti-human EpCAM-FITC antibody 
+(clone 9C4, Biolegend, San Diego, CA, USA), EpCAM negative cells were sorted using the 
+BD FACS Canto™ II system  (BD Biosciences, SJ, California, USA), followed by culturing, 
+while fibroblasts were maintained in DMEM media containing 10% FBS and 1% penicillin/ 
+streptomycin at 37 °C in a humidified atmosphere with 5% CO 2. For the characterization of 
+CAFs, FACS analysis was performed with the following antibodies; anti-human EpCAM-
+FITC (Clone 9C4, Biolegend), anti-human FAP-PE (Clone 427819, R&D Systems, 
+Minneapolis, MN, USA), anti-human ɑ-SMA- APC (Clone 1A4, R&D Systems), anti-human 
+IL6-PE/Cyanine7 (clone MQ2-13A5, Biolegend ), anti-human CD126 (IL6R )-PE (clone 
+UV4 , Biolegend), anti-human CD130 (gp130)-APC (clone 2E1B02, Biolegend), anti-human 
+Mesothelin- PE (clone 420411, R&D Systems), IgG1 Alexa Fluor® 488-conjugated antibody 
+(clone 11711, R&D Systems), IgG1κ Isotype -PE antibody (clone MOPC-21, Biolegend), 
+IgG1κ Isotype -PE/Cyanine7 antibody (clone RTK2071, Biolegend), IgG 2A Isotype-Alexa 
+Fluor® 647-conjugated antibody (clone 20102, R&D Systems), and IgG 2A Isotype- PE 
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YEantibody (clone 54447, R&D Systems). For intracellular staining of CD126 (IL6R ), the 
+cells were permeabilized with eBioscience™ IC Fixation Buffer (Invitrogen™ 00 -8222-49) 
+and eBioscience™ Permeabilization Buffer  (10X) (Invitrogen™ 00 -8333-56) before 
+incubation with antibodies.   
+ 
+Cell culture  
+Capan2 and MIA PaCa- 2 were cultured in McCoy’s 5A medium (Welgene, Daegu, Korea) 
+and Dulbecco’s Modified Eagle’s Medium (DMEM, Welgene), respectively, supplemented 
+with 10 % FBS (Welgene) and 1 % antibiotic antimycotic solution (Welgene). Patient-
+derived CAF cells were maintained in RPMI 1640 medium (Welgene) supplemented with 10 % 
+FBS (Welgene) and 1 % antibiotic antimycotic solution (Welgene). NK92 cells were 
+purchased from the American Type Culture Collection (ATCC, USA). NK92 cells were 
+grown in minimum essential medium (MEM) α (Gibco) supplemented with 20 % FBS 
+(Gibco), 10 × MEM vitamin solution (Gibco), 0.1 mM 2-mercaptoethanol (Gibco), 1 % 
+penicillin/streptomycin (Gibco), and rh IL-2 (R&D systems; 200 IU/mL) at 37 °C under a 
+humidified atmosphere with 5 % CO 2. Frozen PBMCs, which were purchased from Lonza 
+Inc. (Walkersville, MD, USA), were used for PBNK expansion. PBNK cells were expanded 
+with 100 Gy-irradiated K562 feeder cells for 2-3 weeks according to our previous protocol.2 
+In this study, membrane-bound IL-18/21-overexpressiong K562 feeder cells were used.3  
+ 
+Selection of anti-fibrotic drugs 
+Nintedanib (S1010, Selleck chemicals LLC, Houston, TX, USA), SOM230 (24092, Cayman 
+Chemical, Ann Arbor, MI, USA) and Metformin (PHR1084, Sigma-Aldrich, USA) were 
+purchased from the regarding vendors. Nintedanib, SOM230, or Metformin was added to 
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YEeach five types of CAFs at the indicated concentrations for 72 h. Nintedanib was also used in 
+Capan2 and M IA PaCa2 cancer cells under the same conditions. Percentage of cell 
+proliferation on CAFs in response to different treatment conditions was evaluated using the 
+EZ-Cytox cell viability assay kit (DoGenBio, Seoul, Korea) 72 h post treatment according to 
+the manufacturer’s instructions. 10 ng/ml of PDGF -AA and/or PDGF-BB (PeproTech, USA) 
+were treated to evaluate viability in the presence or absence of nintedanib. Additionally, the 
+morphology of CAFs under treatment with nintedanib was visualized by optical microscopy 
+(Olympus, Tokyo, Japan).  
+ 
+Western blot analysis  
+Cell lysates containing a protease inhibitor cocktail (Roche, Mannheim, Germany) were 
+electrophoresed on SDS-PAGE gels and separated proteins were then transferred to 
+nitrocellulose membranes. Membranes were blocked with 5 % skimmed milk in Tris-buffered 
+saline (TBS-T, 0.1 % Tween-20) for 1 h at 25 °C, and then incubated with the primary 
+antibodies against FAP (Abcam, Cambridge, UK), a-SMA (Proteintech, Rosemont, IL, USA), 
+pPDGFR β (CST, Danvers, MA, USA), PDGFR β (CST), pVEGFR2 (CST), VEGFR2 (CST), 
+pFGFR1 (CST), FGFR1 (CST), pAKT (CST), AKT (CST), pERK (CST), ERK (CST), IL-6 
+(abcam), cleaved Caspase-3 (CST), β-actin (Santa Cruz Biotechnology, CA, USA), and 
+HSP90 (Santa Cruz Biotechnology) overnight at 4 °C. Membranes were washed and then 
+incubated with horse radish peroxidase (HRP) conjugated, species-specific secondary 
+antibody at 25 °C, and then rewashed. For protein detection, HRP signals were visualized 
+using ChemiDoc (Bio-Rad, Hercules, CA, USA), followed by detection using the 
+chemiluminescence method (Bio-Rad). Full western blots are shown in online supplemental 
+figure S21and S22.  
+   
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YEViability test on PDGFR β K.O CAFs  
+For generation of PDGFR β K.O CAFs, 400 pmol of each PDGFR β-targeting sgRNAs were 
+mixed with 24.4 pmol of spCas9 (IDT, USA) for 20min at room temperature to make Cas9 
+RNP solution. CAF cells treated with Cas9 RNP solution (online supplemental table S5) were 
+electroporated at 1700 V for 20ms and one pulse using a Neon Electroporator (Invitrogen, 
+USA). For viability tests , K.O cells were treated with 3 μM of nintedanib in the presence or 
+absence of 10 ng/ml of PDGF ligand AB and BB for 72 h at 37 °C. Viability was analyz ed 
+using an EZ-Cytox cell viability assay k it according to the manufacturer`s instructions.  
+ 
+Measurement of annexin V influx  
+RFP-CAF cells or GFP-Capan2 cells were seeded in µ-slide 8 well (ibidi, USA). Next day, 
+cells were washed with PBS buffer and then nintedanib was incubated at the indicated 
+concentration. To analy ze the apoptotic efficacy, RFP-CAF cells were stained with annexin 
+V-BUV395 (BD) and visualiz ed using a LionheartFX automated live cell microscope 
+(BioTek, Bad Friedrichshall, Germany) at 24h post-treatment. GFP-Capan2 cells were 
+stained with annexin V-APC (Biolegend), and then flow cytometry was performed on a 
+Cytoflex (Beckman Coulter) and data were analyzed using FlowJo (BD). 
+  
+Harvesting conditioned media from CAF  
+CAF cells were cultured with or without nintedanib for 72 h at 37 °C under a humidified 
+atmosphere with 5 % CO 2. Then, conditioned media were harvested by removing cells. 
+ 
+T cell activation analysis 
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YEJurkat T cells were incubated in the conditioned media from CAF in the presence or absence 
+of nintedanib for 6 h. Then, cells were harvested and washed with PBS buffer. Cells were 
+stained with CD69-APC (FN50) antibody. The CD69 expression was assessed by 
+flowcytometry. 
+ 
+Formation of tumor-CAF coculture spheroids  
+Capan2 cells and CAF cells were seeded at a ratio of 1:1 in 96-well Black/Clear Round 
+Bottom Ultra-Low Attachment Spheroid Microplates (Corning, NY, USA) and centrifuged at 
+1350 rpm for 3 min. Cells were then incubated for 24 h at 37 °C under a humidified 
+atmosphere with 5 % CO 2. For evaluation of NK-mediated killing, NK92 or PBNK cells were 
+subsequently incubated at the indicated E:T ratios after formation of tumor-CAF spheroids.  
+ 
+Live cell imaging  
+For visualization, GFP- and RFP-carrying lentiviruses were transduced in Capan2 and CAFs, 
+respectively. Then, Capan2-CAF spheroids were cocultured with NK92 cells in the presence 
+or absence of nintedanib. Each mono spheroid (Capan2 or CAF only, respectively) and 
+double co-culture (CAF spheroid-NK92 or Capan2 spheroid-NK92, respectively) were tested 
+as controls. Real-time fluorescence images were obtained at 37 °C under a humidified 
+atmosphere with 5 % CO 2, using a LionheartFX automated live cell microscope. For time-
+dependent NK-mediated killing, images were captured at 4 h intervals for 48 h. Image 
+processing and relative intensity or area calculation were performed using the Gen5 Software 
+(BioTeck). 
+    
+Next-generation sequencing (NGS) analysis  
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YEFor transcriptomic analysis, CAF and Capan2 were treated with 3 µM nintedanib or not, 
+respectively. At 72 h post treatment, total RNA was extracted from each indicated group of 
+cells. The whole transcriptome sequencing and data analysis were performed by E-Biogen 
+Inc. (Seoul, Korea). DEGs were analyzed using the FC value of 2 and a p-value of < 0.05.  
+ 
+NK functional studies  
+To conduct flow cytometric analysis, NK92 or PBNK cells were incubated in the presence or 
+absence of nintedanib either in in-vitro  spheroid coculture system or alone. After harvest at 
+24 or 48 h, cells were stained in PBS containing 0.5 % BSA and 0.05 % azide. For 
+intracellular staining, cells were fixed and permeabilized using cytofix/cytoperm (BD 
+Biosciences). Dead cells were excluded by staining with the LIVE/DEAD Fixable Dead 
+Viability Dye (Thermo Fisher Scientific, Cleveland, OH, USA). The antibodies used in this 
+study were purchased from Biolegend: NKp30-PerCP/Cy5.5 (P30-15), NKp44-APC (P44-8), 
+NKp46- PE/Dazzle™ 594 (9E2), CD69 -PE/Cy7 (FN50), DNAM-1- Brilliant Violet 421™ 
+(11A8), and Perforin-PE (dG9). NKG2C-Alexa Fluor® 700 (134591) was purchased from 
+R&D Systems. Flow cytometry was performed on a Cytoflex (Beckman Coulter) and data 
+were analyzed using FlowJo (BD). To test the flow cytometry-based cancer killing efficac y, 
+propodium iodide- (PI, Invitrogen, Carlsbad, CA, USA) or 7-aminoaactinomycin D- (7-AAD, 
+Biolegend) stained dead cells were analyzed in the NK-excluded population.   
+     For assessment of NK-mediated cytotoxicity, NanoLuc luciferase-expressing Capan2 
+cells were co-cultured with PBNK or CAR-NK cells under treatment conditions that included 
+nintedanib, IL-6, and anti- IL-6 antibody for 24 h. After washing, a cytotoxicity assay was 
+performed using the Nano-Glo® Luciferase Assay System (Promega, Madison, WI, USA).  
+  
+Lentivirus production and transduction  
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YEFor construction of a second generation CAR-expressing plasmid, each DNA fragment 
+encoding the SFFV promoter and CAR including SS1 scFv was synthesized from 
+Cosmo Genetech (Seoul, Korea), respectively. The GFP-expressing DNA fragment was 
+obtained from PCR amplification using specific primers. Three DNA fragments were inserted 
+into an EcoR1/EcoRV (NEB, USA)-cut pCDH lentivirus vector (Addgene, Cambridge, MA, 
+USA, #72266) using the NEBuilder HiFi DNA assembly kit (NEB, Ipswich, MA, USA).  
+     For the generation of genetically engineered NK cells, CAR expressing shuttle ve ctor, 
+psPAX2 packaging vector, and Baboon envelope vector were transfected on HEK293T cells4. 
+Lentiviral supernatants were collected at 24 and 48 h, and then the virus was concentrated 
+using the Lenti-X concentrator (TaKaRa, Tokyo, Japan). NK92 cells were transduced with 
+MOI 100 of MSLN-CAR lentivirus. MSLN-CAR-expressing NK92 were sorted by a MA900 
+Cell Sorter (SONY, Toyko, Japan).  
+    
+Human cytokine and growth factor arrays  
+For human cytokine and growth factor arrays, CAF cells were treated in the presence or 
+absence of 3 µM nintedanib, and then, their conditioned media were harvested after 48 or 72 
+h. Analysis of human cytokines and growth factors was performed using the Human Cytokine 
+array C3 (RayBiotech, Atlanta, GA, USA) and Human Growth factor array C1 (Raybiotech), 
+respectively, according to the manufacturer’s instructions. Membranes were detected using 
+ChemiDoc.  
+ 
+Quantitative real-time (qRT) PCR  
+CAF cells were incubated in the presence or absence of nintedanib, and then total RNA was 
+extracted using an RNeasy mini kit (QIAGEN, Hilden, Germany) and reverse-transcribed 
+into cDNA using a SuperiorScript III Reverse Transcriptase (Thermo Fisher Scientific) as per 
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YEthe manufacturer’s protocols. qRT PCR was performed on a StepOnePlus Real -Time PCR 
+System (Applied Biosystems, Foster City, CA, USA) using SYBR Green Master Mix 
+(Roche). Specific amplicons were obtained using specific target primers. Primers used in 
+qRT-PCR are listed in online supplemental table S4.  
+ 
+Analysis of hematological toxicity 
+Blood of mice was taken from the abdominal vein. This procedure was performed in 
+triplicate. For chemical analysis, 500 μL  of blood was centrifuged for 15 min at 3000 rpm 
+and 4 °C, and the plasma was carefully transferred to collection tubes. The levels of aspartate 
+aminotransferase (AST), alanine aminotransferase (ALT), total protein (TP), blood urea 
+nitrogen (BUN), and creatinine (Cr) were analyzed using the Advia 120 Hematology analyzer 
+(Bayer Healthcare, Myerstown, PA, USA).5 
+ 
+Establishment and characterization of human PDAC organoid   
+To generation of luciferase-expressing organoids, a AsPC1 cell line containing the luciferase 
+gene (AsPC1_luc cell line) was subcutaneously transplanted into nude mice, and then, the 
+organoid was generated using tumor tissue from mice xenografts. The generated organoid 
+was named ASPC1_XO. For establishment of a fluorescence tagged PDAC organoid, a 
+patient-derived organoid (Og-AMC-363) was electroporated using the Neon™ 
+electroporation system (Invitrogen) according to the manufacturer's instructions.6 Briefly, 
+Og-AMC-363 was electroporated with pLentiGuide-puro-mCherry (Addgene, #117986) and 
+selected by puromycin-containing (1 ug/ml) media. The selected organoids were sorted 
+following expression of mcherry by FACS Aria (BD Bioscience, San Jose, CA, USA) and 
+seeded in BME. To determine the characterization of the generated organoids, they were 
+examined by histology (H&E) and morphology (bright field image).7 mCherry expression of 
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YEOg-AMC-363 was confirmed by fluorescence microscopy, and whole exome sequencing 
+(WES) analysis was performed. ASPC1_XO was treated with luciferin (BioVison, No.7902-1, 
+Milpitas, CA, USA), and the luminescence signal was determined using a VICTOR3™ 
+instrument (PerkinElmer, Waltham, MA, USA ). 
+ 
+CAR -PBNK-mediated killing, based on a PDAC organoid/CAFs co-culture system  
+To generate the co-culture model based on organoids, PDAC organoid with CAFs and PBNK 
+(or CAR- PBNK) were cultured at a 1:1:4 ratio (PDAC organoid; 5x103cells/100ul, CAFs; 
+5x103 cells/100ul, PBNK: 2x104 cells/100ul).8 The mixture was suspended in PDAC 
+organoid culture media containing IL-2 (200 IU/ml) and seeded on a 96-well plate, under 
+various conditions including nintedanib and anti- IL-6R blocking antibody (MedChemExpress, 
+USA) for 48 h. Bright field- or fluorescence images were obtained using Eclipse Ts2 (Nikon 
+Instruments, Tokyo, Japan) at 10x magnification. To evaluate CAR-PBNK efficacy on the 
+co-culture model based on PDAC organoids, the viability of ASPC1_XO and Og-AMC-363 
+was determined by luminescence and fluorescence, respectively. In brief, relative 
+luminescence unit (RFU) of the luciferin-treated ASPC1_XO was measured using 
+VICTOR3™ (PerkinElmer). The fluorescence of Og -AMC-363 was imaged by an IVIS® 
+instrument (PerkinElmer). The ROI of images was analyzed using the Living Image® 4.7.2 
+software and calculated after subtracting the background signal.9 To analyze the CAR- PBNK 
+efficacy, the luminescence or fluorescence signals of the residual organoids were measured 
+under different conditions based on the ROIs or RFU. 
+ 
+The transcriptomic-based public data set of pancreatic cancer  
+Transcriptomics data of pancreatic cancer in the TCGA database were downloaded from the 
+cBioportal database (https://cbioportal-
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YEdatahub.s3.amazonaws.com/paad_tcga_pan_can_atlas_2018.tar.gz.). For Kaplan –Meier 
+survival analysis, the 177 patient cohort from the PanCancer dataset was divided into two 
+groups depending on the level of expression of MSLN, PDGFRβ  and IL-6.10  
+ 
+Statistical analysis 
+All data represent the mean and standard error of the mean from at least three independent 
+experiments. Survival analysis using the Kaplan-Meier method with the log-rank test was 
+performed using the Statistical Package for the Social Sciences (SPSS) version 21.0 (IBM 
+Corp., Armonk, NY, USA). The p-value was derived from one-way ANOVA followed by 
+multiple comparison tests using the GraphPad prism 9 software (San Diego, CA, USA). A P-
+value <0.05(*), <0.01 (**), < 0.001(***), or < 0.0001(***) was considered statistically 
+significant. NS indicates not significant. 
+ 
+References 
+1. Kim MJ, Kim MS, Kim SJ, et al. Establishment and characterization of 6 no vel patient-derived 
+primary pancreatic ductal adenocarcinoma cell lines from Korean pancreatic  cancer patients. 
+Cancer Cell Int. 2017;17:47. doi: 10.1186/s12935- 017-0416-8. 
+2. Lee YE, Yuk CM, Lee M, et al. Facile discovery of a therapeuti c agent for NK-mediated 
+synergistic antitumor effects using a patient-derived 3D platform. Biomater Sc i. 2022;10(3):678-691. 
+doi: 10.1039/d1bm01699g. 
+3. Thangaraj JL, Phan MT, Kweon S, et al. Expansion of cytotoxic natural kill er cells in multiple 
+myeloma patients using K562 cells expressing OX40 ligand and membrane-bound IL-18  and IL-21. 
+Cancer Immunol Immunother. 2022;71(3):613-625. doi: 10.1007/s00262- 021-02982 -9. 
+4. Girard-Gagnepain A, Amirache F, Costa C, et al. Baboon envelope pseu dotyped LVs outperform 
+VSV-G-LVs for gene transfer into early-cytokine-stimulated and resting HSCs.  Blood. 
+2014;124(8):1221-31. doi: 10.1182/blood- 2014-02-558163.  
+5. Jun E, Kim SC, Lee CM, et al. Synergistic effect of a drug loaded ele ctrospun patch and systemic 
+chemotherapy in pancreatic cancer xenograft. Sci Rep. 2017;7(1):12381.  doi: 10.1038/s41598- 017-
+12670 -3. 
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YE6. Martens YA, Xu S, Tait R, et al. Generation and validation of APOE knoc kout human iPSC-
+derived cerebral organoids. STAR Protoc. 2021;2(2):100571. doi: 10.1016/j.xpr o.2021.100571. 
+7. Seino T, Kawasaki S, Shimokawa M, et al. Human Pancreatic Tumor Organoids Reveal  Loss of 
+Stem Cell Niche Factor Dependence during Disease Progression. Cell Stem C ell. 2018;22(3):454- 467 
+e6. doi: 10.1016/j.stem.2017.12.009. 
+8. Schnalzger TE, de Groot MH, Zhang C, et al. 3D model for CAR-mediated c ytotoxicity using 
+patient-derived colorectal cancer organoids. EMBO J. 2019;38(12). doi: 10 .15252/embj.2018100928. 
+9. Luli S, Di Paolo D, Perri P, et al. A new fluorescence-based optical imaging method to non-
+invasively monitor hepatic myofibroblasts in vivo. J Hepatol. 2016;65 (1):75-83. doi: 
+10.1016/j.jhep.2016.03.021. 
+10. Butera A, Roy M, Zampieri C, et al. p53-driven lipidome influenc es non-cell-autonomous 
+lysophospholipids in pancreatic cancer. Biol Direct. 2022;17(1):6. doi: 10.1186/s13 062-022-00319 -9. 
+ 
+ 
+ 
+ 
+ 
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YE 
+ 
+Supplemental Figure 1. Characterization of PDAC-derived CAFs. (a) Optical images 
+showing primary fibroblasts cultured from tumor tissues of patients with PDAC. Scale bars 
+indicate 250 µm. (b) Representative FACS profiling was conducted to confirm the CAF 
+population. FAP and EpCAM were used as fibroblast and epithelial cell markers, respectively.  
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YE 
+Supplemental Figure 2. Spheroid formation of pancreatic cancer cell lines. (A) Optical 
+images exhibiting the spheroid morphology of different cancer cells, including Capan2, 
+AsPC-1, PA NC-1, and Mia PaCa-2 at a density of 1 × 105 cells/well. (B) The expression of 
+Collagen Ⅰ was detected in a Capan2 spheroid, as indicated by green fluorescence.  
+ 
+ 
+ 
+ 
+ 
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YE 
+Supplemental Figure 3. Putative molecular targets in response to nintedanib on Capan2 and 
+NK cells were assessed using western blot analysis. 
+ 
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YE 
+Supplemental Figure 4. (A) NK92 cells were tested in the presence or absence of nintedanib, 
+respectively. (B) Number of NK92 cells after co-culture. (C ) Annexin V influx was measured 
+on GFP-Capan2 cells to determine apoptotic death.  
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YE 
+Supplemental Figure 5. Expression of activating receptors on NK92 cells under nintedanib 
+treatment. 
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YE 
+Supplemental Figure 6. Surface expression of PDGFR β on NK cells. To test the level of 
+expression of PDGFR β on NK cells, flow cytometry was conducted on NK92 and PBNK 
+cells. 
+ 
+ 
+Supplemental Figure 7. Expression of activating receptors on PBNK cells under nintedanib 
+treatment.  
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YE 
+ 
+Supplemental Figure 8. Analysis of CAF-released secretome upon treatment with 
+nintedanib. CAFs were treated with or without 3 µM nintedanib, and CAF-derived 
+conditioned media (CM) were harvested 48 h (A) or 72 h (B) post treatment, respectively. 
+Subsequently, human cytokine (A) and growth factor (B) proteins were detected in CM.     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YE 
+ 
+Supplemental Figure 9. Expression of IL-6 receptors in NK cells and CAFs, analyzed by 
+flow cytometry. For detection of membrane-bound and soluble IL-6Rα, intercellular staining 
+was performed.   
+ 
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YESupplemental Figure 10. Expression of MSLN on CAFs was evaluated by flow cytometry. 
+ 
+Supplemental Figure 11. Generation of MSLN-targeted CAR-NK. (A) GFP-NK and CAR-
+NK vector constructs. (B) The expression of SS1 scFv-carrying CAR was confirmed using 
+FACS analysis. (C) The antigen-dependent cell killing of CAR-NK was tested in a coculture 
+with K562 or MSLN+ K562 cells, respectively. Cancer killing efficacy was evaluated using 
+an Annexin-V/PI staining kit. (D) Time-dependent tumor killing of GFP-NK or CAR-NK was 
+conducted in an in-vitro  Capan2-CAF spheroid system. For live cell imaging, GFP-
+expressing Capan2 cells were used and the cancer area was quantified from the GFP 
+fluorescence signal in an automated live cell microscope using the Gen5 Software.  
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YE 
+ 
+Supplemental Figure 12.  Comparison of tumor growth in tumor- and tumor/CAF-bearing 
+xenograft mice. Capan2-Luc alone or a mixture of Capan2-Luc and CAF was subcutaneously 
+injected into immune-deficient NSG mice, respectively. For monitoring tumor growth, the in-
+vivo luminescence signal from Capan2-Luc cells was detected by an intravenous injection of 
+substrate on each xenograft mouse using the IVIS imaging system.   
+ 
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YE 
+Supplemental Figure 13. (A) The tumor tissues in each treatment group were obtained at 34 
+d post tumor implantation. Combinatory treatment with nintedanib achieved synergistic 
+cytotoxic effects of CAR-NK in Capan2-Luc:CAF-mixed xenograft mice. (B,C) Histolog ical 
+analysis and IHC staining were conducted in excised tumor sections. The IHC staining tissues 
+were scanned with a VS200 slide scanner and the stained areas were quantified using the 
+HALO platform.  
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YE 
+Supplemental Figure 14. Off-tumor toxicity was determined through histological analysis 
+and evaluation of hematologic parameters. (A) Histological observations in H&E-stained 
+normal tissues, including the heart, kidney, liver, lung, and spleen obtained from each group. 
+(B) Various hematological parameters were measured in the blood of mice. BUN: blood urea 
+nitrogen, TP: total protein, AST: aspartate aminotransferase, ALT: alanine aminotransferase, 
+CREA: creatinine. 
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YE 
+Supplemental Figure 15. Characterization of (A) patient- or (B) cancer cell line-derived 
+organoids. 
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YE 
+Supplemental Figure 16. Synergistically combinatory therapeutic effects in the cancer cell 
+line-derived organoid/CAF co-culture system. The cell killing of CAR-PBNK was assessed  
+under nintedanib treatment or IL-6R blocking antibody (tocilizumab) in a luciferase-
+expressing organoid/CAF co-culture system. Organoid, CAF, and CAR-PBNK were co-
+cultured at the ratio of 1:1:4. Organoid killing efficacy was evaluated by detection of the 
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YEluminescence signal 
+ 
+Supplemental Figure 17. Expression of MSLN and PDGFR β on tumor and normal tissues in 
+patient-derived pancreatic cancer. H&E and IHC staining were conducted on tumor (A) and 
+normal tissues (B). (A) Based on IHC staining intensity, the expression score was classified 
+from 0 to 3, with the degree of intensity being regrouped into low and high. (B) Expression of 
+MSLN and PDGFR β on normal tissues. Size bars indicate 200, 50, and 20 µ m at 40×, 100×, 
+and 200× magnification, respectively.  
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YE 
+Supplemental Figure 18. Survival analysis related with the mRNA expression of MSLN, 
+PDGFR β, and IL-6 in pancreatic cancer tissues based on cBioportal public data. On the 
+cBioportal site (http://www.cbioportal.org), the PanCancer data set was divided into three 
+groups according to the mRNA expression of MSLN, PDGFR β, and IL-6, and the overall 
+survival was analyzed based on the level of expression; MSLN-Low (N = 79), High (N = 98); 
+PDGFR β- Low (N = 41), High (N = 136) ; IL-6-Low (N = 81), High (N = 96). N indicates the 
+number of samples.  
+ 
+ 
+ 
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YE 
+Supplemental Figure 19. Expression of MSLN and PDGFR β on tumor tissues in patient-
+derived liver and gastric cancer, respectively. For detection of each marker, IHC staining wa s 
+performed on tumor sections from two independent clinical specimens. For histological 
+observation, H&E staining was independently conducted in the same sections. As expected, 
+MSLN was mainly expressed in tumor cells, whereas PDGFRβ was expressed in the stromal 
+region. Size bars indicate 200, 50, and 20 µm at 40×, 100×, and 200× magnification, 
+respectively. 
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YEBMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YE 
+Supplemental Figure 21. Full western blots used in the main figures.    
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YE 
+Supplemental Figure 22. Full western blots used in online supplemental figure S3. 
+ 
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YESupplemental Table 1.  Clinical information of patient derived cancer-associated fibroblasts 
+(CAFs). DPS; distal pancreatectomy and splenectomy, PDAC; Pancreas ductal 
+adenocarcinoma, LVI; Lympho-vascular Invasion, PNI; Peri-neural Invasion, LN; Lymph 
+node 
+ 
+ID Pathologic finding 
+Operatio
+n Patholog
+y Tumor 
+size 
+(cm) Tumor 
+diff-
+erentiation LVI PNI LN 
+metastasi
+s No of NL 
+metastasis TNM 
+stage 
+CAF_11 DPS PDAC 2.6 moderate positive positive positive 2 T2N1M
+0 (IIB) 
+CAF_12 DPS PDAC 2.8 moderate negativ
+e positive negative 0 T2N0M
+0 (IB) 
+CAF_13 DPS PDAC 6.1 moderate positive positive positive 1 T3N1M
+0 (IIB) 
+CAF_16 DPS PDAC 3.7 moderate positive positive negative 0 T2N0M
+0 (IB) 
+CAF_22 DPS PDAC 4.5 moderate positive positive positive 2 T3N0M
+0 (IIA) 
+ 
+ 
+Supplemental Table 2.  Clinico-pathological characteristics of enrolled patients. PD; 
+pancreaticoduodenectomy, TPS; total  pancreatectomy  with splenectomy, DPS; distal 
+pancreatectomy with splenectomy 
+Factors Values 
+ Age (y) Avg. ± SD (range) 60.4±9.5 (32 -78) 
+ Sex (Female/Male) N (%) 12/31 (27.9%/72.1%) 
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YE Operation and Pathologic findings 
+  PD/DPS/TPS N (%) 18/23/2 (41.9% /53.5%/4.6%) 
+  Turmo size (cm) Avg. ± SD (range) 3.5±1.6 (1.4-9.0) 
+  Differentiation 
+(wel/mod/por) N (%) 4/34/5 (9.3%/79.1%/11.6%) 
+  T stage (T1/T2/T3/T4) N (%) 4/27/10/2 (9.3%/62.8%/23.3%/4.6%) 
+  N stage (N0/N1/N2) N (%) 18/19/6 (41.9%/44.2%/13.9%) 
+ 
+ 
+Supplemental Table 3. Expression score based on the IHC staining intensity and the area of 
+expression of PDGFRβ and IL-6 in tumor tissues. The intensity of expression for MSLN and 
+PDGFRβ was analyzed by the pathologist who was specialized in pancreatic cancer, and 
+scored on a scale from 0 to 3; MSLN-score 0 (N = 16), score 1 (N = 7), score 2 (N = 8) , score 
+3 (N = 12); PDGFR β-score 0 (N = 0), score 1 (N = 6), score 2 (N = 10), score 3 (N = 27). 
+After scanning of each slide with the VS200 research slide scanner, the staining range of 
+PDGFRβ and IL-6 was automatically quantified. 
+ID MSLN_Score  PDGFRβ_Score  PDGFRβ _PA (%)  IL-6_PA (%) 
+PDAC_01  1 3 15.11 17.6 
+PDAC_02  0 2 4.85 6.85 
+PDAC_03  1 1 0.57 20.78 
+PDAC_04  0 3 28.76 12.65 
+PDAC_05  0 3 6.58 10.65 
+PDAC_06  0 3 15.91 14.20 
+PDAC_07  3 3 12.84 10.28 
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YEPDAC_08  3 3 3.77 19.31 
+PDAC_09  3 3 32.67 21.79 
+PDAC_10  2 1 2.46 11.07 
+PDAC_11  3 2 2.98 64.72 
+PDAC_12  0 3 17.20 19.34 
+PDAC_13  1 1 1.23 25.65 
+PDAC_14  2 3 4.12 21.58 
+PDAC_15  2 2 5.71 19.66 
+PDAC_16  0 2 4.51 20.42 
+PDAC_17  3 3 18.08 27.16 
+PDAC_18  0 3 13.55 23.16 
+PDAC_19  0 3 7.28 4.91 
+PDAC_20  0 2 3.55 29.16 
+PDAC_21  2 3 5.09 23.45 
+PDAC_22  3 3 4.33 11.67 
+PDAC_23  0 3 13.99 9.69 
+PDAC_24  2 2 8.83 16.28 
+PDAC_25  0 2 9.52 7.58 
+PDAC_26  3 3 4.66 16.37 
+PDAC_27  3 3 1.48 11.01 
+PDAC_28  0 3 6.47 11.15 
+PDAC_29  2 3 10.78 16.51 
+PDAC_30  1 3 3.60 30.80 
+PDAC_31  2 2 4.64 13.22 
+PDAC_32  3 2 2.44 10.15 
+PDAC_33  3 3 7.73 16.01 
+PDAC_34  0 3 10.21 9.06 
+PDAC_35  3 3 4.06 13.66 
+PDAC_36  3 3 12.35 25.09 
+PDAC_37  1 1 3.43 6.78 
+PDAC_38  1 1 9.41 10.85 
+PDAC_39  1 2 2.79 8.74 
+PDAC_40  0 3 12.14 10.71 
+PDAC_41  0 1 2.37 10.60 
+PDAC_42  0 3 14.50 9.05 
+PDAC_43  2 3 15.70 26.01 
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YE 
+Supplemental Table 4. List of primers used for qRT-PCR analysis 
+Target  Forward primer  Reverse primer  
+IL-6 AATTCGGTACATCCTCGACGG TTGGAAGGTTCAGGTTGTTTTCT 
+18s GCCTGAGAAACGGCTACCA GTCGGGAGTGGGTAATTTGC 
+Supplemental table 4 List of primers used for qRT-PCR analysis. 
+ 
+ 
+Supplemental Table 5. Sequence of sgRNA targeting PDGFRβ  
+sgRNA Sequence Reverse primer 
+A CCCGGTCAAGGACACATGGC 
+B GGTGGACTATGTGCCCATGC 
+C ACTACGTTCCCTCTGGTGGG 
+D TGAGCACGTTCCTAGCCGCC 
+E AGATTCCCTCCTGACCAGTG 
+ 
+BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any relianceSupplemental material placed on this supplemental material which has been supplied by the author(s) J Immunother Cancer
+ doi: 10.1136/jitc-2022-006130:e006130. 11 2023;J Immunother Cancer, et al. Lee YE

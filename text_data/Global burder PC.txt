@@ -1,0 +1,272 @@
+Creative Commons licenses: This is an Open Access article distributed under the terms of the Creative Commons  
+Attribution-NonCommercial-ShareAlike 4.0 International (CC BY -NC -SA 4.0). License (http://creativecommons.org/licenses/by-nc-sa/4.0/).Corresponding author:
+Prof. Giuseppe LippiSection of Clinical BiochemistryUniversity Hospital of Verona
+Piazzale LA Scuro 10
+37134 Verona, ItalyPhone: +39 045 8124308Fax: +39 045 8122970
+E-mail: giuseppe.lippi@univr.it1Section of Clinical Biochemistry, University of Verona, Verona, Italy 
+2Service of Clinical Governance, Provincial Agency for Social and Sanitary Services, 
+Trento, Italy 
+Submitted: 6 August 2019
+Accepted: 14 September 2019 
+Arch Med Sci 2020; 16 (4): 820–824
+DOI: https://doi.org/10.5114/aoms.2020.94845
+Copyright © 2020 Termedia & Banach The global burden of pancreatic cancer
+Giuseppe Lippi1, Camilla Mattiuzzi2
+Abstract
+Introduction: We provide here an overview on current worldwide epidemiol-
+ogy of pancreatic malignancies, obtained from Global Health Data Exchange 
+(GHDx) and World Health Organization (WHO) repositories.Material and methods: Electronic searches for collecting information on pan-creatic cancer epidemiology were performed in official repositories of GHDx and WHO, and retrieved data were then analyzed. Results: Overall, 447 665 new cases of  pancreatic cancer were recorded 
+around the world in 2017 (58.6 per million), with global prevalence of 49.8 per million and 441 083 deaths (57.7 per million). Incidence, prevalence and mortality increased by 55%, 63% and 53% during the last 25 years. Pancreatic cancer accounts for 1.8% of all cancers, causing 3.9% of all cancer disability- adjusted life years (DALYs) and 4.6% of all cancer deaths. No sex differences can be observed for incidence, prevalence and mortality, whilst DALYs are marginally higher in men. Incidence, prevalence and mortality follow a simi-lar age-related trend, with gradual escalation after 30 years of age, reaching the highest burden after 80 years of age. The DALYs peak between 55 and 74 years, and then decline. The epidemiologic burden is positively associated with socio-demographic status. The largest burden of pancreatic cancers is observed in the East and Asia Pacific region, whilst the lowest is found in the Middle East and North Africa. Pancreatic cancer deaths are expected to increase by ~1.97-fold by the year 2060. Conclusions: Although pancreatic cancer remains relatively infrequent, its 
+clinical, societal and economic burden is noteworthy. Future projections sug-gest that its burden may double during the next 40 years.
+Key words: pancreatic cancer, epidemiology, prevalence, mortality.
+Introduction
+The generic term pancreatic cancer includes a class of malignancies 
+originating from the exocrine or endocrine tissue of the pancreas. Pan-
+creatic adenocarcinoma is the most common form, representing approx-
+imately 85% of cases, followed by other less frequent types of exocrine cancers such as squamous cell carcinomas, adenosquamous carcinomas, 
+signet ring cell carcinomas, undifferentiated carcinomas and undifferen-
+tiated carcinomas with giant cells [1]. Pancreatic neuroendocrine tumors 
+(PanNET) develop instead from the endocrine tissue of the organ, and 
+usually represent < 5% of all pancreatic malignancies [2].
+Pancreatic cancer is still considered one of  the  most lethal malig-
+nancies, since it remains silent (i.e., does not cause suggestive signs or Clinical research
+GastroenterologyThe global burden of pancreatic cancerArch Med Sci 4, June / 2020 821symptoms) for a  rather long time. Then, when 
+patients become symptomatic, the  cancer has usually reached an advanced and very frequently incurable stage. According to the American Cancer Society (ACS) [3], the overall 5-year survival rate 
+for pancreatic cancer is dramatically low, approxi-
+mating 9%. Notably, 97% of patients with distant cancer (i.e., stage IV) are expected to die after  
+5 years from diagnosis, whilst the 5-year survival rates of those with localized (stage 0, I, and IIA) or regional (stage IIB and III) cancers are ~34% and ~12%, respectively. The most important risk fac-tors for pancreatic cancer include tobacco smoke (nearly 25% of pancreatic malignancies are proba-bly due to cigarette smoking), obesity (body mass index (BMI) ≥ 30 km/m
+2), chemicals exposure 
+(especially to benzene, petrochemicals pesticides and certain dyes), diabetes, pancreatitis, Helico-bacter pylori infection, as well as some inherited diseases such as hereditary breast and ovarian cancer (HBOC) syndrome, familial atypical multi-ple mole melanoma (FAMMM) syndrome, familial pancreatitis, hereditary non-polyposis colorectal cancer (HNPCC) syndrome and Peutz-Jeghers syn-drome [4, 5].
+Since pancreatic cancer prevention and man-
+agement need to be based on quality information, so that effective healthcare policies can be estab-lished, we provide here an  overview on current worldwide epidemiology of pancreatic cancer.
+Material and methods
+Recent data on pancreatic cancer epidemiology 
+were retrieved from Global Health Data Exchange (GHDx), a  large worldwide repository of  health-  
+related information maintained by the  Institute for Health Metrics and Evaluation  [6]. The  Glob-al Burden of  Diseases, Injuries, and Risk Factors Study 2017 (GBD 2017) database encompasses thoughtful analysis of  disease burden and mor -
+tality of 354 different human pathologies from 195 different countries and territories, between the  years 1990 and 2017  [7]. The  epidemiologic information originates prevalently from survey and surveillance data, admission and outpatient records, health insurance claims and literature studies, accounting for nearly 69 000 scientific sites [7]. These sources can be accessed with in-teractive citation tools from the GHDx database, 
+where citations for specific GBD components are 
+available. Epidemiologic data are finally estimated 
+with the  Bayesian meta-regression method Dis-
+Mod-MR 2.1.
+A specific electronic search was conducted in 
+GHDx for the  specific condition (“Cause”) “pan-creatic cancer” [International Classification of Dis-
+eases (ICD) codes C25-C25.9, Z85.07, including all 
+primary or metastatic malignant tumor involving the pancreas]. The query was then complement-
+ed by selecting additional epidemiologic variables such as “metric” (i.e., “number”), “measure” (i.e., 
+“incidence”, “prevalence”, “DALYs” AND “deaths”), 
+“year” (i.e., “1992” AND “1997” AND “2002”  
+AND “2007” AND “2012” AND “2017”), “Age” (“Un-der 20” AND “20 to 24” AND “25 to 29” AND “30 to 34” AND “35 to 39” AND “40 to 44” AND “45 to 
+49” AND “50 to 54” AND “55 to 59” AND “60 to 64” 
+AND “65 to 69” AND “70 to 74” AND “75 to 79” AND “80 plus”), “sex” (i.e., “male” AND “female”) and “Lo-
+cation” (“SDI Regions” OR “WB Regions”). The year 
+2017 was selected for obtaining the current epide-
+miologic picture, since it is the last searchable year 
+in the GHDx database. Data on mortality projec-tion were instead obtained from the World Health 
+Organization (WHO) database  [8]. The  data re-
+trieved from the electronic searches were import-ed into a Microsoft Excel file (Microsoft, Redmond, 
+WA, US), and then analyzed with Microsoft Excel 
+and MedCalc statistical software (MedCalc Soft-ware, Ostend, Belgium). 
+The  study was performed in accordance with 
+the Declaration of Helsinki, under the terms of rel-
+evant local legislation. Ethics board approval is 
+unnecessary at the  local institution (University of Verona) for articles based on free scientific da-
+tabase searches.
+Results
+Global epidemiology
+The burden of pancreatic cancer during the past 
+25 years is shown in Figure 1. A total of 447 665 new cases of  pancreatic cancer were recorded 
+around the world in 2017 (58.6 cases per million inhabitants), with global prevalence of  380  582 
+cases (49.8 cases per million inhabitants) and 
+441  083 deaths (57.7 per million inhabitants). 
+Overall, incidence, prevalence and mortality have 
+increased by 55%, 63% and 53% during the last 25 years. Pancreatic cancer currently accounts  
+Figure 1. Worldwide incidence, prevalence, cause- 
+specific disability-adjusted life years (DALYs) and mortality of pancreatic cancer during the last 25 years60
+55
+5045
+40
+35
+30
+25
+1992 1997 2002 2007 2012 2017
+Time [years]Per million
+ Prevalence        Incidence        DeathsGiuseppe Lippi, Camilla Mattiuzzi822 Arch Med Sci 4, June / 2020Figure 2. Worldwide incidence, prevalence, cause- 
+specific disability-adjusted life years (DALYs) and 
+mortality of pancreatic cancer in different age rangesTable I. Worldwide incidence, prevalence, cause-specific disability-adjusted life years (DALYs) and mortality of pan-
+creatic cancer in the two sexes
+Sex Incidence†Prevalence†Deaths†DALYs†
+Men 61 55 59 3711
+Women 57 45 56 3542
+OR (95% CI) 1.07 (0.75–1.54) 
+p = 0.7131.22 (0.82–1.81)
+p = 0.3181.05 (0.73–1.52)
+p = 0.7801.05 (1.00–1.10)
+p = 0.047
+†Per million.
+Table II. Incidence, prevalence, cause-specific disability-adjusted life years (DALYs) and mortality of pancreatic cancer in areas with different socio-demographic index (SDI) values
+SDI Incidence†Prevalence†Deaths†DALYs†
+Low 13 10 13 753
+Low-middle 21 16 22 1424
+Middle 37 27 39 3160
+High-middle 75 59 77 5988
+High 185 176 172 11 012
+†Per million.30
+2520
+15
+10
+50Percentage
+ Incidence         DALYs         Prevalence         Deaths< 2020–2425–2930–3435–3940–4445–4950–5455–5960–6465–6970–7475–79≥ 80
+for 0.79% of  all-cause global mortality, with  
+a  1.80-fold increase having occurred during the 
+last 25 years (was 0.44% in 1992). Among all ma-lignancies, pancreatic cancer is the  14
+th for inci-
+dence (1.8% of all cancers), the 27th for prevalence 
+(0.4% of all cancers), but is the 9th cause of DALYs 
+(3.9% of all cancers) and the  6th cause of death 
+(4.6% of all cancers). According to the GBD 2017 Disease and Injury Incidence and Prevalence Col-
+laborators, 66% pancreatic cancer patients are in 
+primary therapy or the controlled phase, 24% are in the metastatic stage, whilst 10% are in the termi-
+nal stage [7]. The DALYs for pancreatic cancer have 
+also constantly increased during the last 25 years, from 4.64 million (0.18% of all DALYs) in 1992 to 9.08 million in 2017 (0.36% of  all DALYs; 2-fold  
+increase).Gender and age epidemiology
+The worldwide sex distribution of  pancreatic 
+cancer is shown in Table I. Basically, no statistical-
+ly significant differences can be observed in terms 
+of  incidence, prevalence and mortality, whilst the  DALYs value is higher in men than in wom-
+en with borderline statistical significance (+4.8%, 
+p = 0.047). 
+The age distribution of pancreatic cancer in each 
+age range is shown in Figure 2. Incidence, preva-
+lence and mortality follow a  similar trend, char -
+acterized by a gradual escalation after the age of   
+30 years, reaching the highest burden in subjects aged 80 years or older (> 20% of cases for all these 
+three epidemiologic measures). The  age-related DALYs seem to follow a different trend, with a peak 
+between 55 and 74 years (~58% of all DALYs for 
+pancreatic cancer), and then declining afterwards. 
+Socio-demographic epidemiology
+The incidence, prevalence, DALYs and mortality 
+of pancreatic cancer in the different socio-demo-
+graphic areas are shown in Table II. All epidemio-
+logic measures gradually increase in parallel with SDI, and a  highly significant exponential correla-
+tion can also be found between SDI rank and inci-
+dence (r  = 0.993; p < 0.01), prevalence (r  = 0.986; 
+p < 0.01), DALYs (r  = 0.999; p < 0.01) and mortality 
+(r  =  0.996; p  <  0.01). The  incidence, prevalence,  
+DALYs and mortality of pancreatic cancer in the dif-
+ferent worldwide regions are shown in Figure 3. 
+The trend of all these four epidemiologic measures is extensively overlapping, with a  higher burden 
+of pancreatic cancer recorded in the East and Asia Age [years]The global burden of pancreatic cancerArch Med Sci 4, June / 2020 823Figure 3. Incidence, prevalence, cause-specific dis-
+ability-adjusted life years (DALYs) and mortality of pancreatic cancer in different geographic areas
+Figure 4. Future trends of mortality for all causes, all types of cancers and pancreatic cancers Pacific region (34.5–37.2% of  all cases), followed 
+by Europe and Central Asia (27.9–30.5% of all cas-
+es), whilst the  lowest burden is found in Middle 
+East and North Africa (always < 5% of all cases).
+Future projections
+The projection of global mortality for the years 
+2016–2060 according to WHO data is finally shown 
+in Figure 4. Notably, all-cause mortality will proba-
+bly rise by ~1.80-fold during the next 40 years but, even more importantly, all-cancer and pancreatic 
+cancer deaths are expected to both exhibit a larg-
+er increase, of approximately 2.08- and 1.97-fold, respectively. The  total number of  pancreatic can-
+cer deaths will hence likely exceed 730  000 in 
+2060, exhibiting a virtually linear increase during the next 40 years (r  = 0.996; p = 0.004).
+Discussion
+The results of  this first combined analysis 
+based on GHDx [6] and WHO [7] databases, which are the  two most comprehensive and reliable 
+healthcare data repositories around the  world, 
+attest that pancreatic cancer is still a remarkable 
+cause of  clinical, social and economic burden 
+worldwide, and that its burden seems more fre-quently associated with some specific epidemio-
+logic variables. 
+The current statistics, and especially WHO 
+projections, demonstrate that the burden of this malignancy is expected to dramatically increase 
+in the  next 40 years, following a  nearly linear relationship. This will ultimately lead to double 
+pancreatic cancer mortality by the year 2060, ap-
+proximating a death rate of > 72 cases per mil-
+lion. Unlike previous reports showing a  slightly 
+higher burden of  pancreatic cancer in the  male sex [9], we found that sex differences are seem-
+ingly minimal and mostly not statistically sig-nificant (Table I). A  marginally higher value of  
+DALYs was found in men compared to women, 
+but the  overall difference was modest (+4.8%). We also originally demonstrated that the  geo-
+graphical distribution of pancreatic cancer pres-
+ents some paradigmatic trends, displaying es-pecially a  strong and positive relationship with 
+the  socio-demographic status. All the  epide-
+miologic indices were strongly correlated with the  SDI rank (correlations always  >  0.98 and  
+p-values always  <  0.01), thus suggesting that 
+preventive and diagnostic strategies will be more effectively implemented in countries with medi-um to high socio-demographic status. Notably, 
+prevalence and mortality in middle-to-high SDI 
+countries were ~9-fold  (odds ratio (OR)  =  8.6; 95% confidence interval (95% CI): 4.8–15.3; p < 0.001) and ~7-fold (OR = 6.7; 95% CI: 4.1–
+10.9; p < 0.001) higher than in middle-to-low SDI 
+countries, respectively. A larger burden of pancre-atic malignancies could also be observed in East 
+Asia and Pacific, as well as in Europe and Central 
+Asia regions, whilst the epidemiologic impact in Middle East and North Africa remained extremely modest. Overall, the prevalence and death rate 
+of pancreatic cancer in the East Asia and Pacific 
+region were ~28-fold (OR = 27.6; 95% CI: 17.6–43.3; p < 0.001) and ~20-fold (OR = 20.5; 95% CI: 
+13.5–31.2; p < 0.001) higher than in Middle East 
+and North Africa, respectively.
+Although our analysis of age distribution con-
+firms previous evidence obtained from different sources and showing that the epidemiologic burden gradually increases with ageing (and displays a  modest inflection before the age of  
+80 years) [9], we originally observed that the DALYs  40
+353025201510
+5
+0Percentage
+East Asia & Pacific
+Europe & Central Asia
+Latin America & Carribean Middle East & North AfricaNorth AmericaSouth Asia
+Sub-Saharan Africa
+ World population          Global mortality          
+ Cancer deaths          Pancreatic cancer deaths2.2
+2.01.81.61.41.21.0Variation [ratio]
+Time [years]2010 2020 2030 2040 2050 2060 2070 Incidence         DALYs         Prevalence         DeathsGiuseppe Lippi, Camilla Mattiuzzi824 Arch Med Sci 4, June / 2020value is more accentuated in the age range of 
+55–74 years (~58% of  all DALYs for pancreatic 
+cancer), then gradually declines and stabiliz-
+es in very elderly persons (i.e., in those aged  
+80 years or older) (Figure 2). Since DALYs are 
+a well-known societal measure of disability hin-
+drance in the general population, this evidence 
+would actually mean that pancreatic cancer 
+seemingly poses the largest healthcare and soci-etal burden in middle age people. The exact rea-
+son why the DALYs value declines after the age 
+of 65 years remains unclear, although evidence has been provided that the prognosis of this ma-
+lignancy is consistently worse in the elderly, due 
+to the presence of many comorbidities, organ 
+dysfunctions and the lack of specific treatments 
+in older patients [10].
+In conclusion, disease epidemiology is a main-
+stay for establishing appropriate and timely healthcare interventions aimed at limiting the bur -
+den and mortality of human pathologies [11, 12]. 
+According to our analysis, the current worldwide 
+epidemiology of  pancreatic cancer highlights an alarming scenario. Although pancreatic cancer 
+remains a relatively rare malignancy (1.8% of all 
+cancers), its clinical, societal and economic bur -
+den is noteworthy (3.9% of all DALYs for cancers), and its mortality rate is even higher (4.6% of all cancers). Future projection attests that the  cur -
+rent burden may even double in the next 40 years. Therefore, healthcare policies especially focused on prevention and early diagnosis of  pancreatic 
+cancer should be reinforced or redefined, as sug-
+gested elsewhere  [13]. Additional investments 
+should then be allocated for identifying early di-
+agnostic, prognostic and recurrence biomarkers (e.g., liquid biopsy) [14], as well as for developing 
+more effective therapies aimed at improving both 
+the volume and quality of life in patients with this highly lethal malignancy [15].
+Conflict of interest
+The authors declare no conflict of interest.
+References
+1. Haeberle L, Esposito I. Pathology of pancreatic cancer. 
+Transl Gastroenterol Hepatol 2019; 4: 50.
+2. Salaria SN, Shi C. Pancreatic neuroendocrine tumors. Surg Pathol Clin 2016; 9: 595-617.
+3. American Cancer Society. Survival Rates for Pancreatic Cancer. Available at: https://www.cancer.org/cancer/pancreatic-cancer/detection-diagnosis-staging/survival-  
+rates.html (Accessed: 18.07.2019).
+4. McGuigan A, Kelly P , Turkington RC, Jones C, Coleman HG ,  
+McCain RS. Pancreatic cancer: a review of clinical diag-nosis, epidemiology, treatment and outcomes. World  
+J Gastroenterol 2018; 24: 4846-61.5. Capasso M, Franceschi M, Rodriguez-Castro KI, et al. Epi demiology and risk factors of pancreatic cancer. Acta 
+Biomed 2018; 89: 141-6.
+6. Institute for Health Metrics and Evaluation. Global Health Data Exchange. Available at: http://ghdx.health-data.org/gbd-results-tool (Accessed: 18.07.2019).
+7. GBD 2017 Disease and Injury Incidence and Prevalence Collaborators. Global, regional, and national incidence, prevalence, and years lived with disability for 354 dis-eases and injuries for 195 countries and territories, 1990-2017: a systematic analysis for the Global Burden of Disease Study 2017. Lancet 2018; 392: 1789-858.
+8. World Health Organization. Projections of mortality and causes of  death, 2016 to 2060. Available at: https://www.who.int/healthinfo/global_burden_disease/pro-jections/en/ (Accessed: 18.07.2019).
+9. Rawla P , Sunkara T, Gaduputi V . Epidemiology of  pan-creatic cancer: global trends, etiology and risk factors. World J Oncol 2019; 10: 10-27.
+10. Higuera O, Ghanem I, Nasimi R, Prieto I, Koren L, Feliu J. Management of pancreatic cancer in the elderly. World  
+J Gastroenterol 2016; 22: 764-75.
+11. Niklas A, Flotyńska A, Puch-Walczak A, et al. Prevalence, awareness, treatment and control of  hypertension in the adult Polish population – Multi-center National Pop-ulation Health Examination Surveys – WOBASZ studies. Arch Med Sci 2018; 14: 951-61.
+12. Söz G, Karakaya Z. The evaluation of geriatric patients who presented with trauma to the emergency depart-ment. Arch Med Sci 2019; 15: 1261-8.
+13. Cooperman AM, Iskandar ME, Wayne MG, Steele JG. Pre-vention and early detection of pancreatic cancer. Surg Clin North Am 2018; 98: 1-12.
+14. Yadav DK, Bai X, Yadav RK, et al. Liquid biopsy in pan-creatic cancer: the beginning of a new era. Oncotarget 2018; 9: 26900-33.
+15. O’Hayer KM, Brody JR. Personalized therapy for pancre-atic cancer: do we need better targets, arrows, or both? Discov Med 2016; 21: 117-23.

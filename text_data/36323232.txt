@@ -1,0 +1,1 @@
+Metabolic disruption is a mainstay of cancer therapy, prompting research aimed at identifying novel metabolic targets. Despite strong effects observed in culture, three recent studies found pancreatic tumors are refractory to disruption of the metabolic enzyme GOT2, revealing complex interactions within the tumor microenvironment that bypass its conventional metabolic roles.

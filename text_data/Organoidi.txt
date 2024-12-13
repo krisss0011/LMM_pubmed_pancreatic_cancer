@@ -1,0 +1,2703 @@
+REVIEW Open Access
+Organoid based personalized medicine:
+from bench to bedside
+Yaqi Li1,2†, Peiyuan Tang3†, Sanjun Cai1,2, Junjie Peng1,2and Guoqiang Hua3,4*
+Abstract
+Three-dimensional cultured organoids have become a powerful in vitro research tool that preserves genetic,
+phenotypic and behavioral trait of in vivo organs, which can be established from both pluripotent stem cells and
+adult stem cells. Organoids derived from adult stem cells can be established directly from diseased epithelium and
+matched normal tissues, and organoids can also be genetically manipulated by CRISPR-Cas9 technology.
+Applications of organoids in basic research involve the modeling of human development and diseases, including
+genetic, infectious and malignant diseases. Importantly, accumulating evidence suggests that biobanks of patient-
+derived organoids for many cancers and cystic fibrosis have great value for drug development and personalized
+medicine. In addition, organoids hold promise for regenerative medicine. In the present review, we discuss the
+applications of organoids in the basic and translational research.
+Keywords: Organoids, Stem cells, Disease modeling, Biobanks, Personalized medicine
+Background
+Two-dimensional (2D) cultured cell lines have been the
+main in vitro research tool for the past decades. Cell
+lines are relatively cheap, easy to handle and can be ap-
+plied to multiple experimental techniques. However, the
+establishment of a cell line is time-consuming and
+involves extensive genetic and phenotypic adaption to
+culture conditions. Thus, most cell lines are derived
+from tumors or have acquired oncogenic potential
+in vitro , while matching normal cells are usually lacking.
+The main problem of cell lines is the homogeneity of
+the cells, short of differentiated cell types in the original
+tissue. These problems limit the use of cell lines in per-
+sonalized medicine and make them less suited to tissue
+physiology research requiring differentiated cell types. In
+cancer research, the preclinical research model that canphenocopy tumor heterogeneity is highly needed for re-
+search on the mechanisms of cancer progression and ac-
+quired drug resistance. In 1953, the first patient-derived
+xenograft (PDX) models were successfully established
+(Toolan 1953 ). In this model, primary tumor tissue is
+transplanted into immune-deficient mice, while tumor
+structure and the relative proportion of tumor cells and
+stromal cells are largely preserved (Byrne et al. 2017 ).
+Thus, PDXs better retain the complexity and heterogen-
+eity of the parental tumor than do cell lines, but estab-
+lishment is still inefficient and early tumors are hard to
+establish (John et al. 2011 ). Besides, genetic manipula-
+tions cannot be carried out, and high-throughput ana-
+lyses are expensive and hampered by complex logistics.
+Last decade has witnessed a booming development of
+three-dimensional (3D) cell culture technologies. The
+advent of organoids avoids many of the disadvantages
+associated with cell lines and PDX. An organoid is char-
+acterized as a 3D structure, grown from stem and pro-
+genitor cells and consisting of variant organ-specific cell
+types, that self-organize via cell differentiation and
+spatially restricted lineage commitment (Clevers 2016 ).
+© The Author(s). 2020 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ .
+The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/ ) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.* Correspondence: guoqianghua@fudan.edu.cn
+†Yaqi Li and Peiyuan Tang contributed equally to this work.
+3Institute of Radiation Medicine, Fudan University Shanghai Cancer Center,
+Shanghai 200032, China
+4Cancer institute, Fudan University Shanghai Cancer Center, Shanghai
+230032, China
+Full list of author information is available at the end of the articleLiet al. Cell Regeneration            (2020) 9:21 
+https://doi.org/10.1186/s13619-020-00059-zOrganoids can be grown from two types of cells: (i)
+pluripotent stem cells (PSCs), such as embryonic stem
+cells (ESCs) and induced pluripotent stem cells (iPSCs),
+or (ii) adult stem cells (ASCs) (Clevers 2016 ;Rookmaaker
+et al. 2015 ). Organoids are proved amenable to all stand-
+ard laboratory techniques, as well as to genetic modifica-
+tion (Drost et al. 2017 ;Drost et al. 2015 ;Schwank et al.
+2013 ). Organoids can be fast expanded, cryopreserved
+and applied to high-throughput analyses. Though orga-
+noid cultures cannot mimic interactions with vasculature
+and stroma, organoids are a promising research model
+bridging the gap between cell lines and PDXs (Fig. 1)
+(Drost 2018 ; Sachs and Clevers 2014 ).
+PSCs-derived organoids
+Since cell lines of ESCs and iPSCs were established, re-
+searchers began to apply insights to induce these stem
+cells to generate differentiated cell types (Chen et al.
+2014 ; Cherry 2012 ). Yoshiki Sasai and colleagues firstly
+dug deeper by questioning whether such an in vitro
+model could mimic in vivo development and thus devel-
+oped methods to culture brain, retina and pituitary
+structures ‘in a dish ’(Eiraku 2012 ; Eiraku et al. 2008 ).
+Later, iPSCs-derived organoids from optic cup, intestine,
+stomach, liver, lung, thyroid and kidney, were followed(Chen et al. 2017 ;Kurmann et al. 2015 ;McCracken et al.
+2014 ;McCracken et al. 2011 ;Nakano et al. 2012 ;Takasato
+et al. 2015 ;Takebe et al. 2013 ). Of note, each germ layer
+(endoderm, mesoderm, and ectoderm) is represented
+among this set of organs.
+Typically, iPSCs are expanded and subsequently differ-
+entiated through a multi-step protocol that moves to-
+wards a fully differentiated structure, and specific
+cocktails of growth factors are required for each step
+(Fig. 2). The differentiation process usually takes about
+2-3 months, which depends on the specific type of organ
+(McCracken et al. 2011 ). The structure of iPSCs-derived
+organoids is complex and may contain mesenchymal, as
+well as epithelial and endothelial components. Because
+differentiation protocols recapitulate development
+in vitro , iPSCs-derived organoids are excellent models
+for studying development (Takasato et al. 2015 ), genetic
+diseases (Freedman et al. 2015 ), and infectious disease
+(Garcez et al. 2016 ).
+Another air-liquid interface (ALI) method was intro-
+duced allowing for the preservation of both epithelium
+and matched in vitro stromal microenvironment (Neal
+et al. 2018 ). The ALI method employs a Boyden
+chamber-like structure where primary tissue is seeded in
+ECM (extracellular matrix) gel in an inner TranswellTM
+Fig. 1 Comparison of cell lines, patient-derived xenografts and organoids. Cell lines have low cost, are easy to handle and can be applied to
+multiple experimental techniques. PDXs preserve tumor heterogeneity and tumor-stromal interactions. PDOs can be derived from both epithelial
+cancer cells and normal epithelium and cultured in an extracellular matrix (ECM) -providing basement membrane extractLiet al. Cell Regeneration            (2020) 9:21 Page 2 of 33dish which is exposed to air to enhance oxygenation
+(DiMarco et al. 2014 ;Li et al. 2014 ;Ootani et al. 2009 ).
+Culture medium is added to the outer dish and can dif-
+fuse through the permeable TranswellTMinto the inner
+dish (Fig. 3). ALI method has been applied in PSCs-
+derived organoid culture lately. Koike and colleagues
+(Koike et al. 2019 ) reported the continuous patterning
+and dynamic morphogenesis of hepatic, biliary and pan-
+creatic structures, invaginating from ALI culture of an-
+terior and posterior gut spheroids differentiated from
+human PSC. Adapted ALI culture of human cerebral
+organoids (Giandomenico et al. 2019 ) and neocortical
+organoid (Qian et al. 2020 ) derived from PSCs were also
+developed.
+ASCs-derived organoids
+Complementary to PSCs-derived organoids that recap-
+itulate development in vitro , ASCs-derived organoids
+model adult tissue repair (Clevers 2016 ) and can be
+established only from regenerative tissue compartments.
+In 1987, researches began to explore 3D-culture byculturing primary cells on a reconstituted basement
+membrane from Engelbreth-Holm-Swarm (EHS) tumor
+(Li et al. 1987 ;Shannon et al. 1987 ). Li and colleagues
+found mammary epithelial cells cultured on EHS matrix
+could form ducts, ductules, and lumina and resemble
+secretory alveoli. Shannon and colleagues cultured adult
+rat type II cells on EHS matrix with feeder layer cells
+(mainly fibroblasts) and revealed that cell-matrix interac-
+tions help type II cells preserve their original cubical
+shape and morphological characteristics of variable dif-
+ferentiated cells. Exploration based on ASCs-derived 3D
+culture has been led to a new stage.
+Two decades later, ASCs-derived organoids were suc-
+cessfully developed from Lgr5-positive intestinal stem
+cells in culture conditions modeling the stem cell niche
+of intestine (Sato et al. 2011 ;Sato et al. 2009 ). By provid-
+ing the Wnt agonist R-spondin, epidermal growth factor
+(EGF), and the bone morphogenetic protein (BMP) in-
+hibitor Noggin, and embedding the cells in an extracel-
+lular matrix (ECM) -providing basement membrane
+extract (WENR method, Wnt3a+EGF+Noggin+R-
+Fig. 2 Culture strategy and applications of pluripotent stem cell (PSC)-derived organoids. PSCs-derived organoids can be differentiated toward
+each of the three germ layers (endoderm, mesoderm, and ectoderm) under specific differentiation signals. PSCs-derived organoids can be applied
+to studying development, genetic diseases, and infectious diseaseLiet al. Cell Regeneration            (2020) 9:21 Page 3 of 33spondin-1), Lgr5-positive stem cells are able to self-
+organize, proliferate and form differentiated crypt-villus-
+like organoids (Fig. 4a, b). Since then, by modifying
+cocktails of growth factors and cell isolation procedures,
+cultures of patient-derived organoids (PDOs) have been
+successfully established for various human tissues by bi-
+opsy or resection, including the esophagus (Sato et al.
+2011 ), stomach (Bartfeld et al. 2015 ), colon (van de
+Wetering et al. 2015 ), liver (Broutier et al. 2017 ;Hu et al.
+2018 ;Huch et al. 2015 ), pancreas (Boj et al. 2015 ), saliv-
+ary gland (Nanduri et al. 2014 ), fallopian tube (Kessler
+et al. 2015 ), ovary (Hill et al. 2018 ;Kopper et al. 2019 ),
+prostate (Gao et al. 2014 ;Karthaus et al. 2014 ), breast
+(Sachs et al. 2018 ), airway (Sachs et al. 2019 ), taste buds
+(Ren et al. 2014 ), endometrium (Turco et al. 2017 ), kid-
+ney (Schutgens et al. 2019 ), bladder (Lee et al. 2018 ),
+thyroid (Saito et al. 2018 ), biliary tract (Saito et al. 2019 ),
+oral mucosa (Driehuis et al. 2019a ) and glioblastoma
+(Jacob et al. 2020 ) (Fig. 5, Table 1).
+A counterintuitive phenomenon is found that normal
+epithelium organoids often outgrow tumor organoids,
+which, in some instances, can be prevented by using
+cancer-specific selection methods. For example, tumor
+organoids from colorectal cancer (CRC) can be select-
+ively expanded upon withdrawal of Wnt3a and R-
+Spondin1. Nearly all CRCs harbor activating mutations
+in the Wnt pathway or fusion of RSPO(R-spondin-1)
+genes, allowing for the expansion of cancer cells without
+Wnts and R-spondins, while normal epithelial cells ar-
+rest (Nusse 2017 ;Sato et al. 2011 ;Seshagiri et al. 2012 ;van
+de Wetering et al. 2015 ). Another approach to culture
+tumor cells selectively is to stabilize wild-type P53 by
+adding the MDM2 inhibitor Nutlin-3 (Drost et al. 2015 ).
+Tumor cells are not affected by Nutlin-3 due to a loss ofTP53 (Olivier et al. 2010 ), while normal cells in culture
+present cell cycle arrest and death, allowing for the se-
+lection of tumor cells.
+In general, PDOs using WENR method can be de-
+rived from any epithelium of normal tissues as well
+as malignant or otherwise diseased tissues within ap-
+proximately 7 days after embedding the cells into
+ECM matrix (Fig. 3c; Fig. 5). PDOs can be expanded
+long term and cryopreserved while remaining genetic-
+ally stable, making organoids an ideal tool for disease
+modeling. In addition, this type of organoid culture
+allows the direct parallel expansion of diseased cells
+and matched normal cells from individual patients,
+which allows for the generation of living tumor orga-
+noid biobank and facilitates its potential application
+in personalized therapy (Fig. 6). However, to date,
+nearly all PDOs types represent only the epithelial
+parts of organs, and there is an absence of stroma,
+nerves, and vasculature.
+Adopting ALI method, researchers can generate
+ASCs-derived organoids from various murine tissues
+including small intestine, colon, stomach, and pan-
+creas (Li et al. 2014 ;Ootani et al. 2009 ), then extend-
+ing to culture clinical tumor samples (Neal and Kuo
+2016 ; Neal et al. 2018 ), accurately recapitulating stem
+cell populations and their multi-lineage differentiation.
+The ALI model preserves tumor microenvironment
+with tumor parenchyma and stroma, including func-
+tional tumor infiltrating lymphocytes (TILs), providing
+a promising model for immunotherapy research for
+patients with cancer (Neal et al. 2018 ).
+In the remainder of this review, we will discuss how
+PSCs-derived organoids and ASCs-derived organoids are
+applied in basic and translational research.
+Fig. 3 Comparison of different culture methods for adult stem cells-derived organoids. In the WENR method, epithelial organoids are derived
+from tumor biopsies directly in Matrigel with cocktail growth factors, with long-term expansion but no tumor micro environment. In the air-liquid
+interphase (ALI) method, tumor biopsies are cultured in ALI in the entire tumor microenvironment as a cell suspension of all cell types, including
+immune cells and other non-epithelial cell types, but with limited expansionLiet al. Cell Regeneration            (2020) 9:21 Page 4 of 33Organoids for basic research
+Tissue physiology
+Organoids as a research tool for stem cell biology
+Organoids is an ideal in vitro tool for the identification
+of novel stem cell markers, and the study of physio-
+logical phenomena requiring the coculture of multiple
+cell types. Lgr5+ cells located at the crypt base was veri-
+fied as the real intestinal stem cells (Barker et al. 2007 ).
+Enlightened by the finding that Lgr5+intestinal stem
+cells can undergo thousands of cell divisions in vivo ,
+Sato and colleagues (Sato et al. 2011 ;Sato et al. 2009 )successfully established the epithelial organoids from a
+single Lgr5+ stem cell, which are also known as “mini-
+guts ”. Wnt signals, Notch signals, EGF signals and BMP
+signals together contribute the stem cell niche homeo-
+stasis (Clevers 2013 ). Other stem cell biomarkers have
+been explored to initiate intestinal organoid cultures, in-
+cluding CD24 (von Furstenberg et al. 2011 ), EphB2 (Jung
+et al. 2011 ), and CD166+/GRP78 (Wang et al. 2013 ).
+Mini-guts contain multiple differentiated cell types. Rap-
+idly dividing, transit-amplifying (TA) daughter cells de-
+rived from Lgr5+cells can differentiate to enterocytes,
+Fig. 4 Morphology of several types of human adult stem-cell organoids. aA schematic diagram showing the growth pattern of organoids.
+Typically, isolated cells or functional aggregates are embedded in extracellular matrix domes and cultured in media with essential niche factors.
+They gradually build tissue-like 3D structures within 1-2 weeks. bBright-field image of a typical murine small intestinal organoid culture. cBright-
+field image and HE staining image of typical human normal colon epithelium, adenoma and adenocarcinoma organoidsLiet al. Cell Regeneration            (2020) 9:21 Page 5 of 33Paneth cells, goblet cells, enteroendocrine cells, tuft cells,
+and the M cells that cover Peyer ’s patches (Clevers
+2013 ),contributing to the study of physiology of crypt-
+villus axis. Lendeboom and colleagues (Lindeboom et al.
+2018 ) applied a multi-omics framework on stem cell-
+enriched and enterocytes-enriched mouse intestinal
+organoids to reveal multiple layers of gene expression
+regulation contributing to lineage specification and plas-
+ticity of intestine and found that Hnf4g as a major driver
+of enterocyte differentiation. As another example, Beu-
+mer and colleagues (Basak et al. 2017 ;Beumer et al.
+2018 ) used organoids to study the effect of growth fac-
+tors on hormone expression in enteroendocrine cells
+after establishing a protocol to obtain enteroendocrine
+cells in organoids. In organoids, hormones in enteroen-
+docrine cells were differentially expressed based on the
+presence or absence of BMP4. This finding was then
+studied in a mouse model, and it was found that the
+BMP gradient along the crypt-villus axis in vivo dictates
+a switch in expressed hormones in enteroendocrine cells
+that migrate up this BMP gradient. Beumer and his col-
+leagues (Beumer et al. 2020 ) further constructed an
+organoid-based platform for functional studies of human
+enteroendocrine cells, which can be induced by transient
+expression of NEUROG3 . By using single-cell mRNA se-
+quencing and mass-spectrometry, they revealed differ-
+ences of human enteroendocrine cells with mice, andseveral secreted products were identified and validated
+by functional experiments.
+The mini-gut culture approach has been applied to the
+generation of organoids derived from the epithelial com-
+partments of a variety of murine and human tissues of
+ecto-, meso- and endodermal origin, and promotes the
+study of stem cell biology of other tissues except for in-
+testine. For example, long-term expanding organoids
+modeling mature pyloric epithelium can be efficiently
+generated from single Lgr5+stem cells located at the
+base of pyloric glands (Barker et al. 2010 ). Later, Strange
+and colleagues (Stange et al. 2013 ) discovered that Troy+
+chief cells can spontaneously dedifferentiate to act as
+multipotent epithelial stem cells in vivo , particularly
+upon damage. Importantly, single Troy+chief cells can
+initiate long-term expanding gastric organoids, contain-
+ing various cell types of corpus glands. The finding fur-
+ther confirms Troy+chief cells ’role as “reserve ”stem
+cells upon challenge of tissue homeostasis.
+Organoids for generation of specific cell types
+Organoid culture allows for the generation of specific
+cell types that were previously impossible in 2D cultures.
+For example, hepatocytes can be successfully established
+and expanded in organoid culture (Hu et al. 2018 ;Peng
+et al. 2018 ). Based on adult bile duct-derived bipotent
+progenitor organoids (Huch et al. 2015 ), culture
+Fig. 5 Timeline of adult stem cells (ASCs)-derived organoids developmentLiet al. Cell Regeneration            (2020) 9:21 Page 6 of 33Table 1 Comparison of the conditioned media requirements for the patient-derived organoids culture of respective cancer types
+brain head and
+neckthyroid breast airway ovary prostate bladder kidney esophagus stomach liver pancreas colon
+B27 B27 B27 B27 B27 B27 B27 — B27 B27 B27aB27 B27 B27
+— NACE NACE NACE NACE NACE NACE — NACE NACE NACE NACE NACE NACE
+— NICO NICO NICO NICO NICO NICO — NICO NICO — NICO NICO NICO
+— EGF EGF EGF EGF EGF EGF EGF EGF EGF EGF EGF EGF EGF
+— RSPO RSPO RSPO — RSPO RSPO —— RSPO RSPO RSPO RSPO RSPO
+— Noggin Noggin Noggin — Noggin Noggin —— Noggin Noggin — Noggin Noggin
+— A83-01 A83-01 A83-01 A83-01 A83-01 A83-01 — A83-01 A83-01 A83-01 A83-01 A83-01 A83-01
+— FGF10 — FGF10 — FGF10 FGF10 —— FGF10 FGF10 FGF10 FGF10 —
+— FGF2 gastrin —— FGF2 FGF2 —— gastrin gastrin gastrin gastrin gastrin
+—— SB202190 SB202190 — SB202190 SB202190 —— SB202190 — HGF — SB202190
+N2 Forskolin — Neuregulin
+1—— DHT DHT — N2 — N2 — N2
+human insulin PGE2 — Y27632 — PGE2 Y27632 Y27632 —— — forskolin PGE2 PGE2
+2-
+mercaptoethanolCHIR99021 Wnt3a ——— —— — Wnt3a Wnt3a Wnt3a Wnt3a —
+(Jaffe et al. 2019 ) (Driehuis et al.
+2019b )(Neal et al.
+2018 )(Sachs et al.
+2018 )(Sachs et al.
+2019 )(Hill et al.
+2018 )(Chua et al.
+2014 )(Lee et al.
+2018 )(Schutgens
+et al. 2019 )(Sato et al.
+2011 )(Yan et al.
+2018 )(Nuciforo
+et al. 2018 )(Driehuis et al.
+2019c )(Sato et al.
+2011 )
+aB27 without vitamin A is needed for culture of stomach organoid
+Abbreviation :NACE N-acetylcysteine, NICO Nicotinamide, RSPO R-spondin-1, PGE2 Prostaglandin E2, DHT DihydrotestosteroneLiet al. Cell Regeneration            (2020) 9:21 Page 7 of 33conditions were developed that supported the growth of
+human hepatocyte organoids. The organoids proliferate
+greatly after transplanting into mice (Hu et al. 2018 ).
+The resulting hepatocytes maintained its original physio-
+logical functions, including secreting cytoplasmic glyco-
+gen particles, forming bile canaliculi, and expressing
+albumin and cytochrome P450 enzymes. Based on orga-
+noid culture system of hepatocytes, Peng and colleagues
+(Peng et al. 2018 ) described a unique effect of tumor ne-
+crosis factor- α, a cytokine essential for liver regeneration
+and found that the addition of regeneration-enhancing
+cytokines in facilitating the in vitro expansion of cell
+types that are otherwise difficult to culture. As another
+example, Yin and colleagues (Yin et al. 2014 )showed
+modulation of Wnt and Notch signaling in intestinal
+organoids to direct lineage differentiation into mature
+enterocytes, goblet cells and Paneth cells. Specifically,
+the combination of IWP-2 (Inhibitor of Wnt Production
+2; Wnt pathway inhibitor) and VPA (valproic acid;
+Notch activator) specifically induced enterocyte differen-
+tiation, presumably by combining the effects of both in-
+hibitors, in which IWP-2 induced enterocytedifferentiation while VPA suppressed the differentiation
+of Lgr5+ stem cells toward secretory cell types. The
+combination of DAPT (Notch inhibitor) and CHIR
+(chicken immunoglobulin-like receptor; GSK3 βinhibi-
+tor) mainly induced Paneth cell differentiation, and the
+combination of IWP-2 and DAPT primarily induced
+goblet cell differentiation. These methods provide new
+tools for the study and application of multiple intestinal
+epithelial cell types.
+Organoids as a genetically stable in vitro research tool
+Organoids can be established from a single cell, which
+makes it possible to study the mutational status of single
+stem cells. The gradual accumulation of genetic muta-
+tions in stem cells throughout life is related to a variety
+of age-related diseases, including cancer. In this way,
+Blokzijl and colleagues (Blokzijl et al. 2016 ) were able to
+unveil mutation rates and patterns in normal stem cells
+throughout life by whole-genome sequencing (WGS)
+analysis (with peripheral blood as a reference for germ-
+line mutations). Interestingly, the mutation rate, with
+around 40 novel mutations per year per stem cell, was
+Fig. 6 Applications of adult stem cells-derived organoids. aOrganoids derived from normal tissue are useful for studying physiology. For disease
+modeling, organoids can be genetically engineered to model genetic and malignant diseases by using CRISPR-Cas9. Normal organoids can also
+be infected with different types of pathogens to model infectious disease. Normal organoids can be transplanted to wounds for tissue repair. b
+Tumor-derived organoids can be used for basic research by genetic modification and modeling rare cancer. For translational research, tumor-
+derived organoids can be used for biobanking, genetic repair and drug screening studies, both for personalized medicine (to choose the most
+effective treatment for a specific patient) and drug development (to test a compound library on a specific set of tumor organoids), as well as
+immunotherapy researchLiet al. Cell Regeneration            (2020) 9:21 Page 8 of 33similar in liver, small intestine, and colon stem cells, re-
+gardless of the large variation in cancer incidence of
+these organs. However, the types of mutations detected
+and the resulting mutational signatures in colon and
+small intestine cells were different from those in liver
+cells. To be pointed out, the inter-individual variation in
+mutation rate and spectra are low, indicating organ-
+specific activity of common mutational processes
+throughout life.
+Disease modeling
+CRISPR-Cas9 technology as a useful tool for disease
+modeling of organoids
+The clustered regularly interspaced short palindromic
+repeats (CRISPR) associated protein 9 (Cas9)/CRISPR
+system has become a major technology for mammalian
+genome editing. The system consists of Cas9 nuclease
+derived from Streptococcus pyogenes and guide RNA
+which can recognize and target a specified DNA se-
+quence preceding the motif sequence adjacent to the.
+CRISPR-Cas9 can generate DNA double-strand breaks
+at specific genomic sites. Mammalian double-strand
+DNA breaks can be repaired by two ways, non-
+homologous end joining (NHEJ) and homology-directed
+repair (HDR). NHEJ inserts indels randomly in the
+process of repair, and biallelic introduction of indels
+leads to gene knock-out (Komor and Badran 2017 ). On
+the other hand, HDR can replace the damaged allele by
+existing intact genome, thus when tailored DNA tem-
+plates are co-delivered with CRISPR-Cas9, HDR can be
+used for gene knock-in (Komor and Badran 2017 ).
+Although the CRISPR-Cas9 technology has broadened
+its applications to a series of purposes, including DNA
+base editing, RNA targeting, epigenome editing and gene
+expression manipulation (Adli 2018 ;Komor and Badran
+2017 ), the use of CRISPR-Cas9 on organoids still basic-
+ally harness NHEJ and HDR to engineer genes of inter-
+est. Indeed, organoids are ideal model for investigating
+gene function by genome editing, as the organoid system
+allows for fast expansion with stable genetics and pheno-
+type. Previous studies have successfully achieved genome
+editing by installing CRISPR-Cas9 into organoids using
+various approaches, including liposomal transfection,
+electroporation and viral infection (Fig. 7). However,
+variable experimental conditions limit the efficiency of
+genome editing in organoids, including the recovery
+after single-cell isolation, approaches for CRISPR-Cas9
+delivery, and the cleavage efficiency of the guide RNA.
+Selection and enrichment of positive organoids are ne-
+cessary after CRISPR-Cas9-mediated genome editing, or
+otherwise, labor-intensive organoid cloning, followed by
+sequencing of expanded organoid clones is needed. Re-
+cently, Ringel and his colleagues (Ringel et al. 2020 ) de-
+veloped a genome-wide pooled-library CRISPR screenapproach by capturing sgRNA (single-guide RNA) inte-
+grations in single human intestinal organoids to dissect
+oncogenic signaling pathways. Their screening method
+would be broadly applicable to various organoid models
+and selection assays, which may contribute to dissecting
+human disease mechanisms and facilitating biological
+discovery in primary 3D tissue models.
+Genetic disease
+Currently, organoids have become a useful tool to model
+genetic diseases. Generally, two types of methods have
+been adopted: (i) organoids established from patient-
+derived biopsies; (ii) specific genetic mutations intro-
+duced to wild-type organoids using CRISPR-Cas9
+technology.
+Cystic fibrosis
+Cystic fibrosis (CF) is the best example for PDO model-
+ing human genetic disease. CF is a monogenic chan-
+nelopathy caused by inactivating mutations in the CF
+transmembrane conductance regulator (CFTR) gene.
+The disease involves multiple organs, including the in-
+testine, lung, pancreas, liver, kidney and sweat gland. In
+gastrointestinal organs and lungs, decreased CFTR func-
+tion results in reduced chloride transport through CFTR
+toward the extracellular space, leading to a reduced
+water flow by osmosis and, hence, increased density of
+mucus. In the sweat glands, loss of CFTR function leads
+to a high saline concentration in sweat.
+Organoid model was firstly derived from rectum of CF
+patients. Early work with organoids derived from the
+rectum of CF patients revealed CFTR function: wild-type
+organoids rapidly swell upon opening the CFTR channel
+in a cyclic adenosine monophosphate (cAMP)-
+dependent manner through the addition of forskolin
+(FSK) (Dekkers et al. 2013 ). Rectal organoids from CF
+patients do not respond to FSK, but it is restored upon
+pre-incubation with CFTR-restoring compounds (Dek-
+kers et al. 2013 ) or upon correction of the CFTR muta-
+tion by CRISPR-Cas9 (Schwank et al. 2013 ). Based on
+this finding, this organoid-based FSK-induced swelling
+assay began to be used to test drug response on orga-
+noids isolated from patients harboring different CFTR
+mutations, including rare variants (Dekkers et al. 2013 ).
+Lung is another organ that can be severely harmed by
+CF. Due to CFTR mutation, a thick sticky mucus forms
+in the lungs, which impairs breathing and provides a fer-
+tile environment for pathogens reproduction, leading to
+premature respiratory failure. CF airway organoids can
+be established from patient-derived iPSCs (Firth et al.
+2015 ), bronchial epithelial cells based on both ALI (Ful-
+cher et al. 2005 ) and WENR cultures (Sachs et al. 2019 )
+or bronchoalveolar lavage fluids (no biopsy needed)
+(Sachs et al. 2019 ;Sondo et al. 2014 ). Airway organoidsLiet al. Cell Regeneration            (2020) 9:21 Page 9 of 33from CF patients had an increased mucus layer, recap-
+itulating the disease phenotype. FSK-induced swelling in
+airway organoids was reduced compared with organoids
+from normal controls and could be restored with CFTR-
+restoring compounds. However, in contrast to rectal
+organoids, FSK-induced swelling in lung organoids did
+not depend on CFTR alone, it was also influenced by the
+chloride transporter TMEM16A, which is set as an alter-
+native therapeutic target for CF patients. Therefore, air-
+way organoids may function as an additional platform
+for assessing drug response to CF, particularly for drugs
+acting on TMEM16A.
+Besides, liver, pancreatic and kidney organoids derived
+from CF patients can also be established. Sampaziotis
+and colleagues (Sampaziotis et al. 2015 ) generated iPSCs
+from skin fibroblasts of a CF patient with homozygous
+F508 mutation and differentiated them into
+cholangiocyte-like cells (CLC). CF-CLCs expressed dis-
+played defective expression of CFTR protein. CF-CLCorganoids treated with experimental CF drug VX809 in-
+creases CFTR function and improves intraluminal fluid
+secretion. CF pancreatic organoids can be established
+from PSCs of CF patients, including both human ESCs
+and an iPSC line, to generate differentiated pancreatic
+ductal epithelial cells (PDECs) (Simsek et al. 2016 ).
+PDECs derived from CF-iPSCs showed decreased ex-
+pression of CFTR protein and damaged chloride ion
+channel activity, reappearing functional defects of pa-
+tients with CF at the cellular level. In addition, a tubu-
+loid line from urine of a CF patient was established
+(Schutgens et al. 2019 ). At the morphological level, the
+kidney tubuloids maintained folded over long-term cul-
+ture, instead of the typical cystic phenotype, which was
+probably due to the lack of CFTR function caused by
+CFTR mutations F508del/S1251N. In tubuloids derived
+from urine of CF patients, FSK caused slight swelling in
+a concentration-dependent manner, suggesting residual
+CFTR function, while after pre-incubation with the
+Fig. 7 Genome editing in organoids by CRISPR-Cas9 technology. Workflow of genetic engineering in organoids using CRISPR-Cas9. Either NHEJ or
+HR can be exploited for gene knock-out or knock-in, respectively. In most cases, expansion of single organoid clones after the selection
+procedure is necessary to obtain isogenic organoid populationsLiet al. Cell Regeneration            (2020) 9:21 Page 10 of 33CFTR-potentiator drug VX-770 (ivacaftor, Kalydeco),
+swelling increased significantly. All the above CF orga-
+noid models of different related organs allow in vitro as-
+sessment of treatment response and development of
+novel drugs. For a discussion of the use of CF-PDO for
+personalized medicine, see Section 3.1.
+Intestinal genetic diseases
+Additionally, intestinal organoids harboring inactivation
+mutation of TTC7A have been successfully derived from
+patients with intestinal atresia, which recapitulates how
+TTCA7 deficiency results in the loss of apical-basal cell
+polarity in the intestinal epithelium that can be rescued
+by adding Rho kinase inhibitors (Bigorgne et al. 2014 ).
+Besides, intestinal organoids were derived from patients
+with microvillus inclusion disease (MVIX) caused by
+homozygous truncating mutations of syntaxin-3 (STX3)
+gene. The model revealed that partial loss of brush
+border microvilli and subapical accumulation of vesicles
+are typical histological phenomena of the disease (Wie-
+gerinck et al. 2014 ).
+Liver genetic disease
+Liver organoids have been generated from patients with
+α1-antitrypsin (A1AT) deficiency. Accumulation of mu-
+tant A1AT in the endoplasmic reticulum in the liver
+leads to fibrosis or cirrhosis. Liver organoids derived
+from the patients indeed contained A1AT aggregates
+and presented increased apoptosis, which might contrib-
+ute to fibrosis and cirrhosis (Huch et al. 2015 ). Alagille
+syndrome is caused by loss-of-function mutations in
+JAG1 orNOTCH2 and leads to partial or complete bil-
+iary atresia. Accordingly, organoids generated from a pa-
+tient with Alagille syndrome can not differentiate toward
+the biliary fate, whereas in proliferate conditions, no dif-
+ferences were observed compared with healthy controls
+(Andersson et al. 2018 ;Sachs et al. 2018 ).
+Other genetic diseases model based on iPSCs-derived
+organoids
+iPSCs-derived organoids can also be manipulated by
+CRISPR-Cas9 technology to model diseases in different
+tissues. In human iPSCs-derived kidney organoids,
+knock-out of podocalyxin (Kim et al. 2017 ) and PKD
+genes (Cruz et al. 2017 ;Freedman et al. 2015 ) recapitu-
+lated defects that mimic nephrotic syndrome and poly-
+cystic kidney disease respectively, as well as contributed
+to understanding the functions of the genes in the
+pathogenesis context. Engineered iPSCs-derived liver
+organoids helped in illustrating the various functions
+that different mutations of JAG1 gene can have in the
+development of bile ducts and genesis the Alagille syn-
+drome: the C829X mutation of JAG1 can causessignificant alterations, while the G274D mutation does
+not affect organoid properties (Guan et al. 2017 ).
+In brain tissue, patient-specific iPSCs-derived brain
+organoids can be used to model lissencephaly (Bersh-
+teyn et al. 2017 ), Down syndrome (Xu et al. 2019 ),
+and neuronal heterotopia(Klaus et al. 2019 ). Engi-
+neered iPSCs-derived brain organoids were established
+to model microcephaly by RNA interference of repro-
+gramming factors (Lancaster et al. 2013 ), autism by
+overexpression of the transcription factor FOXG1
+( f o r k h e a db o xG 1 )( M a r i a n ie ta l . 2015 ), macrocephaly
+by deletion of PTEN (Li et al. 2017 ), Timothy syn-
+drome by introducing mutations in the CaV1.2 cal-
+cium channel-interneurons (Birey et al. 2017 )a n d
+Aicardi-Goutières syndrome by introducing inactiva-
+tion mutation of TREX-1 (Thomas et al. 2017 ).
+Fused organoids culture was recently established to
+understand more complex biology, which was more ap-
+plied in brain study. Bagley and colleagues (Bagley et al.
+2017 ) firstly showed a co-culture method combining
+brain regions of choice within one organoid tissue and
+they generate a dorsal-ventral axis by fusing organoids
+of dorsal and ventral forebrain identities. Combined with
+reprogramming technology, their novel fusions of orga-
+noids culture should offer researchers the possibility to
+analyze complex neurodevelopmental defects using cells
+from neurological disease patients and to test potential
+therapeutic compounds. Xiang and his colleagues (Xiang
+et al. 2017 ) successfully established and fused medial
+ganglionic eminence (MGE) and cortex-specific orga-
+noids from human pluripotent stem cells followed by
+live imaging, to investigate MGE development and hu-
+man interneuron migration and integration, which offers
+deeper insight into molecular dynamics during human
+brain development . The same research team developed
+a new 3D system to create the reciprocal projections be-
+tween thalamus and cortex by fusing the two distinct
+region-specific organoids, providing a platform for un-
+derstanding human thalamic development and modeling
+circuit organizations and related disorders in the brain
+(Xiang et al. 2019 ) .Generally, engineered organoids can
+faithfully recapitulate genetic diseases and thus provide a
+valid resource for basic research and for development of
+novel therapeutics.
+Infectious disease
+Organoids are closed 3D structures that exhibit the ap-
+ical side of the epithelium towards the lumen and the
+basal membrane towards the outside. The apical mem-
+brane within the lumen is initially exposed to pathogens
+in vivo . Three different methods have been established
+to reproduce the interaction between microbes and the
+host in the organoids culture (Fig. 8).Liet al. Cell Regeneration            (2020) 9:21 Page 11 of 33In the first method, organoids are mechanically
+sheared or digested into single-cell suspensions or large
+particles and then they are incubated with pathogens,
+which leads to infection of the cells. After embedded in
+the 3D matrix, infected cells can reform organoids that
+can be used to model infectious disease (Dang et al.
+2016 ;Forbester et al. 2015 ;Nigro et al. 2014 ;Zhang et al.
+2014 ). This method is easy to handle and do not require
+special equipment. But, the efficiency of infection varies
+among different pathogens and it can not reflect the ini-
+tial interaction between microbes and the host. Besides,
+during the process not only the apical side but also the
+basal side of cells are exposed, thus nonspecific re-
+sponses may be introduced due to the interaction of
+pathogens with the basal side of the cells.
+In the second method, pathogens are directly injected
+in to the lumen of the organoids by a microinjection,
+thus the initial interaction of pathogens and the early re-
+sponse of the host cells can be captured and either apical
+or basal interaction can be investigated separately (Bart-
+feld et al. 2015 ;Leslie et al. 2015 ;McCracken et al. 2014 ).
+This method is now the mainstream method to build in-
+fection model. However, this method needs special such
+as a microinjector and it is hard to perform quantita-
+tively due to the different sizes of organoids.In the third method, when single cells digested from
+organoids are seeded onto a 3D matrix-coated dish, they
+grow as 2D monolayer with the apical side exposed.
+Adding pathogens directly into the culture media allows
+interaction between microbes and the host cells
+(Ettayebi et al. 2016 ). The 2D culture contains various
+differentiated cells and allows quantitative experiments,
+while it does not resemble the in vivo 3D structure of
+host tissues.
+Based on the above approaches, organoids have been
+adopted to model viral, bacterial, and parasitic infectious
+diseases of different tissues, including diseases caused by
+pathogens that previously could not be studied in vitro
+(Table 2). These models recapitulate features of in vivo
+infection and could help identify therapeutic targets and
+develop novel drugs and vaccine.
+Viral disease
+PSCs-derived organoids were firstly used to model viral
+disease. In neuroscience, the development of PSCs-
+derived brain organoids help deciphered the sequence of
+disease progression in Zika virus (Garcez et al. 2016 ;Qian
+et al. 2016 ).Zika virus (ZIKV) mainly spreads by the Ae-
+des aegypti mosquito and its infection can lead to micro-
+cephaly, which was set as a public health emergency by
+Fig. 8 Approaches of studying infectious diseases using organoids. Organoids can be micro-injected with the microbe, thus the microbe is in
+direct contact with the apical side of epithelial cells, which became the mainstream method to build infection model. Organoids can also be
+sheared into smaller aggregates, incubated with pathogens and re-seed into Matrigel. Alternatively, 3D organoids can be digested by enzyme
+into single cells and grown as 2D monolayer cultures, and then microbes are added into the culture mediaLiet al. Cell Regeneration            (2020) 9:21 Page 12 of 33World Health Organization (WHO) in 2016. However,
+the pathogenesis of the ZIKV infection was not fully
+understood until brain organoids emerged. Multiple re-
+search demonstrated that ZIKV infection can cause dis-
+order of the cortical layers of cerebral organoid,
+abrogating growth and thus halting neurogenesis.
+Researchers found that ZIKV infection leads to the acti-
+vation of the Toll-like receptor 3 (TLR3), contributing to
+deregulated neurogenesis and decreased functional neu-
+rons (Cugola et al. 2016 ). Gabriel and colleagues (Garcez
+et al. 2016 ) further illustrated that two new isolated
+ZIKVs have different patterns of pathogenicity. Unlike
+the highly passed MR766 strain of ZIKV, the new
+strains, infected apical proliferating progenitors, interfer-
+ing with centrosomal protein assembly, which in turn
+led to their premature differentiation and apoptosis,
+resulting in microcephaly (Wells et al. 2016 ). The orga-
+noids model of ZIKV infection also promotes the devel-
+opment of treatment. In a high-throughput drug screen
+of 6000 compounds, caspase-3 activity inhibitors,
+Emricasan and Niclosamide, were found to be effective
+in limiting ZIKV induced death of neural cortical pro-
+genitor and ZIKV replication (Xu et al. 2016 ). Except for
+ZIKV, Japanese encephalitis virus (JEV) infection, lead-
+ing to Japanese encephalitis (JE), was modeled in gener-
+ated telencephalon organoid (Zhang et al. 2018 ).
+Researchers found that JEV infection caused decline of
+cell proliferation and increase of cell death, and infectedastrocytes and neural progenitors. In addition, they re-
+vealed variable antiviral immunity in brain organoids of
+different stages of culture, which also provide clues to
+develop effective therapeutics of such diseases.
+Another example of PSCs-derived organoids applica-
+tion in human disease is with hepatitis B virus (HBV). In
+recent decades, treatments against HBV infection have
+improved; however, the development of personalized
+treatments has been hindered by the absence of person-
+alized infection models. Nie and colleagues (Nie et al.
+2018 ) generated PSCs-derived liver organoids that reca-
+pitulated the genetic background of the donor, and
+found HBV infection in PSCs-derived liver organoids
+could reproduce the life cycle of HBV and HBV-induced
+hepatic dysfunction, indicating that PSCs-derived liver
+organoids may provide a promising personalized
+infection model for the development of personalized
+treatment for hepatitis.
+In recent years, ASCs-derived organoids have become
+the main force in infectious diseases modeling. ASCs-
+derived organoids can be adopted to model the viral
+infection of intestinal organoids. Gastric diarrhea in
+humans is mostly caused by Human Norovirus (HuNoV)
+and Rotavirus infection (Zheng et al. 2006 ). Although
+both of these viruses are rampant, no proper vaccine has
+been developed owing to the lack of in vitro culture
+method supporting their replication. Intestinal organoids
+that were cultured as monolayers allowed for extensiveTable 2 Organoids of different organs being used for studying infectious diseases
+Organoid Brain Liver Intestine Stomach Gallbladder Kidney Respiratory
+TractHead
+and
+Neck
+Pathogen Virus Zika virus Hepatitis B
+virus(HBV)Human Norovirus
+(HuNoV)— BK virus Respiratory
+syncytial virus
+(RSV)HSV1
+Japanese
+encephalitis
+virus— Rotavirus —— Influenza virus HPV
+—— SARS-CoV-2 —— Enterovirus 71
+(EV71)
+Bacterium —— Salmonella typhi (S.
+typhi)Helicobacter
+pylori (H.
+pylori)Salmonella ——
+—— Clostridium difficile (C.
+difficile)—— —
+Parasite — Plasmodium Cryptosporidium —— Cryptosporidium
+Source PSCs PSCs &
+ASCsPSCs & ASCs PSCs & ASCs ASCs ASCs PSCs & ASCs ASCs
+Reference (Cugola et al.
+2016 ;Dang
+et al. 2016 ;
+Gabriel et al.
+2017 ;Garcez
+et al. 2016 ;Wells
+et al. 2016 ;Xu
+et al. 2016 )(Chua et al.
+2019 ;Ng
+et al. 2015 ;
+Nie et al.
+2018 )(Engevik et al. 2015 ;
+Ettayebi et al. 2016 ;
+Finkbeiner et al. 2012 ;
+Forbester et al. 2015 ;
+Heo et al. 2018 ;Lamers
+and Beumer 2020 ;
+Ramani and Atmar
+2014 ;Yin et al. 2015 )(Bartfeld
+et al. 2015 ;
+Huang et al.
+2015a ;
+McCracken
+et al. 2014 ;
+Schlaermann
+et al. 2016 )(Scanu et al.
+2015 )(Schutgens
+et al. 2019 )(Heo et al.
+2018 ;Hui et al.
+2018 ;Persson
+et al. 2014 ;van
+der Sanden
+et al. 2018 ;
+Zhou et al.
+2018 )(Driehuis
+et al.
+2019a )Liet al. Cell Regeneration            (2020) 9:21 Page 13 of 33replication of multiple strains of noroviruses. For some
+strains, the addition of bile to the culture medium was
+required for replication (Ramani and Atmar 2014 ), indi-
+cating that not only are in vivo-like host cells required
+for productive infection but also an in vivo-like environ-
+ment is relevant as well. Ettayebi and colleagues
+(Ettayebi et al. 2016 ) reproduced HuNoV infection in an
+organoid-virus co-culture system, with only a specific
+GII.3 HuNov strain requiring the presence of bile.
+Furthermore, lack of histo-blood group antigen (HBGA)
+expression in intestinal organoids limits HuNov replica-
+tion, suggesting that this culture system allows the
+evaluation of potential treatments and preventions.
+Similarly, researchers have shown that Rotavirus strain
+(simian SA11) from clinical samples can proliferate in
+PSCs-derived intestinal organoids (Finkbeiner et al.
+2012 ;Yin et al. 2015 ).
+In urinary system, BK virus , which is a tubule-specific
+circular DNA virus, infects 1-10% of transplanted kid-
+neys, leading in 10-80% of these infected kidneys to the
+loss of the donor organ and no curative treatment exists
+(Hirsch et al. 2005 ). Infection of kidney tubuloids (kid-
+ney-derived organoids in which only the tubular epithe-
+lium of the kidney is represented and glomeruli are
+lacking) with BK virus yielded a patchy infection with
+enlarged nuclei (due to intranuclear basophilic viral in-
+clusions), similar to what is observed in kidney biopsies
+from patients with BK virus nephropathy (Bohl and
+Brennan 2007 ;Schutgens et al. 2019 ).
+Respiratory infections pose a major global disease bur-
+dens (Ferkol 2014 ).Respiratory syncytial virus (RSV)
+alone causes hundreds of thousands deaths annually
+among children, mostly in developing countries (Nair
+et al. 2010 ). iPSCs-derived organoids of human airway
+epithelium can be infected by RSV virus, which can re-
+produce the morphological features of RSV infection in
+the distal lung (Chen et al. 2017 ). Persson and colleagues
+(Persson et al. 2014 ) established a ALI culture system for
+infection of human airway epithelium with RSV virus
+and they found that RSV has the potential to influence
+the cellular composition of the airway epithelium. Be-
+sides, ASCs-derived airway organoids using WENR
+methods can also be infected with RSV, recapitulating
+syncytia formation, cytoskeletal changes, and shedding
+of epithelial cells (Mueller et al. 2005 ). RSV-infected
+organoids attracted neutrophils more than did mock-
+infected control organoids, making this the first orga-
+noid model suitable for studying neutrophil-epithelium
+interactions (Sachs et al. 2019 ). Intriguingly, RSV infec-
+tion strongly increased organoid motility and ultimately
+resulted in organoid fusion. Influenza viruses also pose a
+major public health problem worldwide, and novel
+emerging viruses may be lethal, as evidenced by the
+poultry-derived H7N9 virus infection that has had a 39%mortality rate since 2013. The infection of differentiated
+airway organoids with distinct strains of influenza virus
+can discriminate between poorly infective and highly in-
+fective strains (Zhou et al. 2018 ). Importantly, Hui and
+colleagues (Hui et al. 2018 ) compared human and avian
+strains of influenza A virus inin vitro human bronchus
+and airway organoids, and found that the infection of
+airway organoids yielded similar results regarding virus
+replication and cytokine response. In addition, infection
+of airway organoids with enterovirus 71 (EV71) showed
+that EV71 replication kinetics are strain-dependent and
+the model help identify new infectivity makers for EV71
+(van der Sanden et al. 2018 ).
+The year of 2020 witnessed the outbreak of corona-
+virus disease-19 (COVID-19) caused by the virus severe
+acute respiratory syndrome-coronavirus 2 (SARS-CoV-
+2) which presents influenza-like symptoms ranging from
+mild disease to severe lung injury and multi-organ
+failure, eventually leading to death, especially in older
+patients with other co-morbidities. The WHO has de-
+clared that COVID-19 is a public health emergency of
+pandemic proportions. Organoids have been used as a
+great platform to research how COVID-19 affects hu-
+man and causes damage and for identifying possible
+drug targets for COVID-19. Lamers and colleagues
+(Lamers and Beumer 2020 ) infected enterocytes in hu-
+man small intestinal organoids with SARS-CoV and
+SARS-CoV-2 and found that the intestinal epithelium
+supports SARS-CoV-2 replication, and organoids can be
+served as an experimental model for coronavirus infec-
+tion and biology. Zhou and colleagues (Zhou et al. 2020 )
+established the first expandable organoid culture system
+of bat intestinal epithelium which were fully susceptible
+to SARS-CoV-2 infection and sustained robust viral rep-
+lication. They also found active replication of SARS-
+CoV-2 in human intestinal organoids indicating that the
+human intestinal tract might be a transmission route of
+SARS-CoV-2. In addition, Monteil and colleagues
+(Monteil et al. 2020 ) found that SARS-CoV-2 can dir-
+ectly infect engineered human blood vessel organoids
+and human kidney organoids, which can be inhibited by
+human recombinant soluble ACE2 (hrsACE2), demon-
+strating that hrsACE2 can be a possible drug for early
+stages of COVID-19.
+Bacterial disease
+Salmonella typhi (S. typhi) and Clostridium difficile (C.
+difficile) are the two major bacterial intestinal pathogens
+that can cause diarrhea and gastrointestinal failures in
+humans. These pathogens infection has been successfully
+modeled using PSCs-derived intestinal organoids. Forbe-
+ster and colleagues (Forbester et al. 2015 ) microinjected
+liveS. typhi into the lumen of the iPSCs-derived intes-
+tinal organoids and revealed that upon injection, NF- κBLiet al. Cell Regeneration            (2020) 9:21 Page 14 of 33signaling was activated and inflammatory factors were
+secreted, which was consistent with previous findings in
+animal models. Likewise, the Spence lab (Leslie et al.
+2015 ) microinjected C. difficile toxin A (TcdA) and
+Toxin B (TcdB) into the lumen of iPSCs-derived intes-
+tinal organoids to model anaerobe C. difficile infection
+(CDI). The injection of TcdA recapitulates the impair of
+the epithelial barrier function and structure observed in
+organoids colonized with viable C. difficile . In another
+study, the Worrell lab (Engevik et al. 2015 ) observed a
+decreased expression of NHE3 (Sodium/Hydrogen
+Exchanger 3) and MUC2 (Mucoprotein2) protein in C.
+difficile infected organoids compared to normal orga-
+noids, which may help creating a favorable environment
+for its colonization.
+Bacterium Helicobacter pylori (H. pylori) infection is a
+major risk factor for peptic ulcers, gastric adenocarcin-
+oma and gastritis (Salama and Hartung 2013 ). Both gas-
+tric organoids derived from iPSCs and ASCs can be used
+to model H. pylori infection, by microinjecting H. pylori
+strain into the lumen of organoids (McCracken et al.
+2014 ), which can ensure the apical side exposed to H.
+pylori. Luminal injection of H. pylori induces a potent
+NF-κB-mediated inflammatory response (Bartfeld et al.
+2015 ), connecting excessive microbial colonization of H.
+pylori with the occurrence of gastric cancer. In a follow-
+up study, researchers adopted gastric organoids to find
+out how H. pylori finds its gastric niche: a potent
+chemoattractant, urea, which produced by gastric epithe-
+lium is essential for the colonization of H. pylori in the
+gastric mucosa (Huang et al. 2015a ).
+Chronic Salmonella infection of the gall bladder is as-
+sociated with gallbladder carcinoma (Shukla et al. 2000 ).
+Scanu and colleagues (Scanu et al. 2015 ) showed that
+after Salmonella infection, mouse gallbladder organoids
+exhibited characteristics of loss of polarity, familiar with
+those showed in the mouse model of gallbladder cancer.
+Another study found that gallbladder organoids pre-
+exposed to Salmonella that lack functional TP53 showed
+neoplastic transformations by activating AKT (protein
+kinase B) and MAPK (mitogen-activated protein kinase)
+pathway and could grow in culture media free of growth
+factors (Scanu et al. 2015 ).
+Parasitic disease
+The protozoan parasite Cryptosporidium causes life-
+threatening diarrhea in immunocompromised individ-
+uals (e.g. people living with HIV and malnourished chil-
+dren), and infection may spread to the lungs (Checkley
+et al. 2015 ). Drug development requires detailed patho-
+physiology information of Cryptosporidium , but the lack
+of an optimal in vitro culture system hinders the experi-
+mental approaches. Heo and colleague (Heo et al. 2018 )
+infected epithelial organoids derived from human smallintestine and lung with Cryptosporidium and found that
+the parasite can reproduce within the organoids and
+complete its complex asexual and sexual life cycles for
+multiple rounds.
+Plasmodium parasites can cause malaria, which poses
+a significant global health burden, with over 200 million
+cases every year. Plasmodium parasites are maintained
+between Anopheles mosquitoes and mammalian hosts in
+a complex life cycle, and models to study them are chal-
+lenging to establish, particularly for Plasmodium species
+that infect humans (Mellin and Boddey 2020 ). Recently,
+several studies reported the application of iPSCs-derived
+hepatocyte-like cells to model in vitro liver stage infec-
+tions with P. berghei, P. yoelii, P. falciparum, and P.
+vivax (Ng et al. 2015 ). It was found that P. yoelii and P.
+falciparum infections of organoids recapitulated the
+primaquine sensitivity found in vivo. Chua and col-
+leagues (Chua et al. 2019 ) infected organoids derived
+from simian and human hepatocytes, with P. cynomolgi
+andP. vivax and found that organoids could support the
+complete liver stage of both simian and human parasites,
+from initial infection with sporozoites, to the release of
+merozoites capable of erythrocyte infection. This study
+also illustrated the use of infected organoids to evaluate
+the response to an anti-relapse drug, highlighting the po-
+tential for organoids as a parasite drug screening plat-
+form, particularly in parasites with life-cycles longer
+than their host cells.
+Cancer
+Colorectal cancer
+Though organoids derived from tumor and matched
+normal epithelial tissues provide valuable research tools
+for cancer biology, one of the most remarkable improve-
+ments in organoid research is the capacity to manipulate
+the genomes, transcriptomes and epigenomes of normal
+epithelial organoids to study the role of specific alter-
+ations in the process of tumorigenesis.
+Murine organoid cultures were firstly used to study
+the early stages of tumorigenesis. Li and colleagues
+(Li et al. 2014 ) adopted the ALI culture approach
+combined with genetically engineered mouse model
+and the retrovirus-mediated delivery of shRNA
+constructs, to model multi-step tumorigenesis in
+organoids derived from digestive tract, including the
+colon, stomach, and pancreas. Pancreatic and gastric
+organoids exhibited dysplasia as a result of expression
+ofKrasG12D,p53 loss or both. While colon organoids
+needed assembled Apc,p53,KrasG12Dand Smad4
+mutations for malignant transformation to invasive
+adenocarcinoma-like morphology. All engineered
+organoids presented histologic characteristics of
+adenocarcinoma after subcutaneous implantation was
+performed to immunocompromised mice.Liet al. Cell Regeneration            (2020) 9:21 Page 15 of 33Following research tried to model multi-step tumori-
+genesis of conventional CRC, which is characterized by
+chromosomal instability (CIN) (Fig. 9). Drost and col-
+leagues (Drost et al. 2015 ) adopted CRISPR-mediated
+knock-out of the tumor suppressors APC,TP53 , and
+SMAD4 , married with CRISPR-mediated knock-in of the
+oncogenes KRASG12Dto model multi-step tumorigenesis.
+After being selected by niche factors in the culture
+media, cultures of organs were successfully built with
+complex oncogenic multi-gene modules that contain up
+to four simultaneous changes. The 4-hit AKST ( APC,
+KRASG12D, SMAD4, and TP53 ) organoids could grow
+without stem cell niche factors such as Wnt-3, R-
+spondin-1 and EGF. AKST organoids were able to gen-
+erate tumors with characteristics of invasive carcinoma
+upon subcutaneous implantation into immunocom-
+promised mice. Matano and colleagues (Matano et al.
+2015 ) applied a similar method to model tumorigenesis
+by inserting an additional CRISPR-mediated knock-in of
+the oncogene PIK3CAE545,in addition to AKST. Both
+studies showed that organoids with APC andTP53 mu-
+tations showed extensive aneuploidy, which is the hall-
+mark of the CIN pathway.
+Xenotransplantation of engineered colorectal tumor
+organoids makes it possible to study cancer stem cells
+in vivo (de Sousa e Melo et al. 2017 ;Shimokawa et al.
+2017 ) and leads to metastatic diseases, making organoids
+a useful research tool to study metastasis mechanisms
+(Fumagalli et al. 2017 ;Roper et al. 2017 ). de Sousa e
+Melo and colleagues (de Sousa e Melo et al. 2017 ) com-
+bined CRC mouse with the Lgr5DTR/eGFPallele. The
+resulting animals carry two of the most frequently mu-
+tated genes, Apc and KrasG12D, and in addition, express
+a diphtheria toxin receptor fused to an eGFP under theendogenous regulatory region of Lgr5, allowing specific
+elimination and visualization of Lgr5-positive stem cells.
+Using this model, it was found that in the absence of
+cancer stem cells, liver metastases did not occur,
+whereas primary tumors did not regress, indicating that
+Lgr5-positive cancer stem cells are required for metasta-
+sis. In another study, Fumagalli and colleagues
+(Fumagalli et al. 2017 ) orthotopically transplanted CRIS
+PR-mediated KRAS, APC, TP53 , and SMAD4 co-
+mutated human colon organoids into mice and showed
+that metastases to the liver and lungs occurred in 44% of
+the mice. Almost no metastasis occurred when orga-
+noids carrying mutations in only three of these four
+genes were transplanted to mice; however, the lack of
+the fourth mutation could be overcome by providing the
+niche factor upstream of the absent mutation. For ex-
+ample, organoids with triple mutants lacking SMAD4 in-
+activation metastasized when Noggin was added to the
+cells. These findings indicate that metastatic potential is
+directly related to the loss of niche factor dependency.
+CRC that arises from the serrated neoplasia pathway is
+different from CRC that arises from the conventional
+CIN pathway. The activation of oncogene BRAF initiated
+the serrated pathway, followed by the extensive hyper-
+methylation of CpG island methylator phenotype, and
+subsequent inactivation of tumor suppressor genes (Bae
+and Kim 2016 ). Fessler and colleagues (Fessler et al.
+2016 ) firstly built the organoids to model the serrated
+pathway of CRC by introducing the BRAFV600Emutation
+into normal human colon epithelial organoids via hom-
+ologous recombination. They revealed that induction of
+a mesenchymal phenotype upon TGF βtreatment pre-
+vails in the BRAFV600Emutated organoids generating
+sessile serrated adenomas (SSAs). In a recent study, by
+Fig. 9 Assessing different tumorigenicity and metastases mechanisms of combinative mutations in colon cancer based on normal colon
+organoids by using CRISPR-Cas9 technologyLiet al. Cell Regeneration            (2020) 9:21 Page 16 of 33analyzing the genomic data from TCGA, CRC-
+associated gene alterations including BrafV600E,Cdkn2a ,
+Tgfbr2 ,Znrf2 andRnf43, were selected to be introduced
+into murine colon organoids using CRISPR-Cas9 tech-
+nology to model the serrated pathway (Lannagan et al.
+2019 ). Upon subcutaneous implantation into immuno-
+compromised mice, these engineered organoids could
+generate tumors with characteristics of serrated CRC, in-
+cluding desmoplastic stromal responses, infiltrative
+growth, mucinous differentiation, tumor budding, and
+the formation of colon tumors spontaneously metasta-
+sizing to the liver. To be pointed out, transplantation of
+Braf-mutated organoids failed to generate tumors, while
+injection of organoids with both mutations of Braf and
+Tgfbr2 led to invasive adenocarcinoma. Implantation of
+organoids with those and additional mutations ( Cdkn2a ,
+Znrf2 and Rnf43 ) resulted in increased tumor initiation
+and decreased survival time. Moreover, to study the de-
+velopment of the R-spondin-driven serrated pathway,
+another study also introduced CRISPR-mediated gene
+fusions on BRAFV600Eand/or TP53 accompanied with
+the R-spondin fusion EIF3E (Eukaryotic Translation Ini-
+tiation Factor 3 Subunit E )-RSPO2 to normal human
+colon epithelial organoids (Kawasaki et al. 2020 ). The
+resulting BRAFV600Eorganoids showed aberrant crypt
+formation ability with poor engraftment capacity, while
+organoids with mutations of BRAFV600Eand TP53 with
+EIF3E-RSPO2 fusion generated flatly elevated lesions
+and hyperplastic crypt structures with ‘V’-shaped serra-
+tion and basal dilation, together with enhanced engraft-
+ment capacity compared with only BRAFV600Emutated
+organoids.
+The loss of DNA mismatch repair enzymes, such as
+MutL homolog 1 (MLH1), is common in CRCs, result-
+ing in tumors with high mutational load. These tumors
+are characterized by microsatellite instability (MSI), as
+repetitive short sequences in the genome, which leads to
+changes in copy number following the loss of mismatch
+repair enzymes. Drost and colleagues (Drost et al. 2017 )
+used CRISPR-mediated knock-out of MLH1 and cul-
+tured organoids for 2 months to allow accumulation of
+mutations. Subsequent DNA analyses of cultured orga-
+noids revealed an increase in mutational load compared
+with controls, which was similar to that of MSI colorec-
+tal tumors. This study shows that organoids faithfully re-
+capitulate in vivo mutagenesis and allow for the
+identification of mechanisms of tumor development.
+In addition, rare type of colorectal cancer can also be
+modeled based on organoid culture. Li and colleagues
+(Li et al. 2019 ) have established a novel organoid line of
+colon signet-ring cell carcinoma (SRCC), which accounts
+for only 1% of colorectal cancers. The novel organoid
+line resembles the primary tumor histologically and
+molecularly, and can efficiently generate tumors onxenografts. Targeted DNA sequencing with drug screen-
+ing of 88 compound identified that JAK2 (Janus Kinase
+2) might be a potential treatment target. An in vitro
+drug screening experiment exhibited that SRCC orga-
+noids can be sensitively treated by AT9283 and Pacriti-
+nib, two JAK2 inhibitors, which was consistent with the
+in vivo xenograft response. The study provides a novel
+in vitro research tool for colorectal SRCC and sets an ex-
+ample for personalized medicine based on organoids for
+rare cancer.
+Pancreatic cancer
+Pancreatic ductal adenocarcinoma (PDAC) accounts for
+about 90% of all pancreatic malignancies and over 90%
+PDAC patients harbor activation of the oncogene KRAS .
+KRAS can consequently induce inactivation of various
+tumor suppressor genes including TP53 ,CDKN2A ,
+SMAD4 and BRCA2 to accelerate PDAC development
+and progression (Kanda et al. 2012 ;Morris and Wang
+2010 ). Establishment of murine pancreatic organoids
+bearing a lox-stop-lox (LSL) KrasG12D allele provided
+valuable insights for the development of PDAC. In one
+study (Li et al. 2014 ), pancreatic organoids derived from
+LSL-KrasG12D(K), Tp53flox/flox(P), and LSL-KRasG12D;
+Tp53flox/flox(KP) mice were successfully built using ALI
+method. K, P, and KP organoids exhibited in vitro dys-
+plasia and increased invasive behavior, and could in vivo
+generate well differentiated to poorly differentiated
+adenocarcinoma upon implantation into immunocom-
+promised NOG mice. KP organoids had most poorly dif-
+ferentiated morphology, with significant loss of E-
+cadherin, indicating increased epithelial to mesenchymal
+transition. Researchers of another study generated low-
+grade preinvasive pancreatic intraepithelial neoplasias
+(PanINs) in vivo by crossing the murine LSL-KrasG12D
+allele to a pancreas-specific Pdx1-Cre driver and orga-
+noids derived from PanIN lesions could be long-term
+expanded a produce PanIN-like lesions that persisted for
+up to 2 months upon transplantation (Boj et al. 2015 ).
+Two studies have adopted CRISPR-Cas9 technology to
+manipulate PDAC driver genes including KRASG12V,
+CDKN2A ,TP53 and SMAD4 (KCTS) in normal human
+pancreatic ductal organoids (Lee et al. 2017 ;Seino et al.
+2018 ). Upon orthotopically transplantation to immuno-
+compromising mice, different combinations of mutants
+in organoids exhibited distinct PanINs features, but only
+KCTS organoids displayed PDAC histopathological
+transformation (Seino et al. 2018 ). Notably, KC and KT
+organoids died after WNT removal for 1-3 weeks, while
+KCT and KCTS organoids survived and expanded for at
+least 3 months, suggesting that CDKN2A andTP53 mu-
+tations are essential for organoids to grow independently
+of stem cell niche factors (Seino et al. 2018 ). In all, these
+studies indicate that organoids combined with CRISPR-Liet al. Cell Regeneration            (2020) 9:21 Page 17 of 33mediated sequential mutations can recapitulate tumori-
+genesis and progression from PanIN to PDAC. More-
+over, organoids could also be used to explore the roles
+of various factors such as the redox regulator NRF2 and
+the transcriptional enhancer FOXA1 in PDAC progres-
+sion (Chio et al. 2016 ;Roe et al. 2017 ). Further researches
+are need to apply the improved knowledge of molecular
+mechanisms to clinics.
+Gastric cancer
+Gastric cancer are classified into four molecular subtypes
+based on deep sequencing: Epstein-Barr virus positive,
+MSI, CIN and genomically stable (Cancer Genome Atlas
+Research 2014 ). Nanki and colleagues (Nanki et al. 2018 )
+adopted organoids to illustrate the genotype-phenotype
+associations of gastric cancer. Phenotype analyses of
+organoids derived from gastric cancer patients indicated
+multiple genetic and epigenetic ways to confer Wnt and
+R-spondin niche independency. They found that induc-
+tion of RNF43 andZNRF43 mutations was sufficient for
+gastric cancer organoids to gain R-spondin indepen-
+dency. The phenomenon was then validated in CRISPR-
+Cas9 engineered gastric organoids. In a similar study,
+Seidlitz and colleagues (Seidlitz et al. 2019 ) generated
+human and murine gastric cancer organoids which reca-
+pitulated the typical features and altered pathways of
+each of four molecular subtypes of gastric cancer. The
+combination of organoids and CRISPR-Cas9 technolo-
+gies promotes research on the molecular mechanisms of
+gastric cancer tumorigenesis and progression, thereby
+accelerating the development of preclinical gastric can-
+cer models for novel drug development and personalized
+medicine.
+Breast cancer
+Recently, Dekkers and colleagues (Dekkers et al. 2019 )
+attempted to model multi-step carcinogenesis in breast
+epithelial organoids derived from human reduction
+mammoplasties using CRISPR-Cas9 technology. They
+introduced CRISPR-mediated knock-out of four breast
+cancer-associated tumor suppressor genes, including
+P53, PTEN, RB1 and NF1 (PTRN) to mammary progeni-
+tor cells. Mutated organoids could long-term expanded
+and generated ER+ luminal tumors upon transplantation
+into mice for 1 out of 6 PTR-mutated and 3 out of 6
+PTRN-mutated organoid lines. These organoids had
+various response to endocrine therapy or chemotherapy,
+indicating the potential application of this model to fa-
+cilitate our understanding of the molecular mechanisms
+in specific subtypes of breast cancer.
+Prostate cancer
+In prostate cancers, 40-80% of tumors harbor a gene fu-
+sion between the androgen receptor (AR)-responsivetransmembrane protease serine 2 ( TMPRSS2 ) gene and
+E26 transformation-specific (ETS) family transcription
+factor, most often the oncogene ETS-related gene (ERG)
+(Tomlins et al. 2005 ). TMPRSS2 and ERG, both located
+on chromosome 21, are separated by about 3 million
+base pairs. Using CRISPR-Cas9, a TMPRSS2-ERG fusion
+was successfully introduced into mouse prostate
+organoids using a template that brought these two DNA
+regions together. This genetic alteration resulted in AR-
+mediated overexpression of ERG, an effect that can be
+prevented by androgen receptor antagonist, consistent
+with those seen in vivo (Driehuis 2017 ).
+Organoids for translational research
+Living organoid biobanks as a tool for personalized
+treatment and drug development
+As mentioned above, organoids can be efficiently estab-
+lished from patient-derived normal and tumor tissue
+samples, which can be cryopreserved and stored in living
+organoid biobanks. PDOs resemble the tumor epithe-
+lium they were derived from both phenotypically and
+genetically. However, molecular profile alone is not suffi-
+cient to adequately predict drug sensitivity. Even in pa-
+tients with the same genotype, drug response varies.
+Besides, some mutations are rare, thus clinical trials are
+impossible and efficacy testing is required for drugs to
+be conducted on an individual basis. Thus, combined
+molecular and therapeutic profiling of PDOs may help
+predict treatment response and contribute to personal-
+ized cancer treatment and drug development.
+Gastrointestinal cancer
+A number of organoid biobanks have been reported
+since 2014 (Table 3). A colon cancer derived biobank of
+22 lines was established in 2015, setting an example for
+a standard biobank (van de Wetering et al. 2015 ). All
+samples performed RNA sequencing and whole genome
+sequencing analysis. The molecular characteristics of
+PDOs cover all five consensus molecular subtypes of
+CRC. The mutations in the organoids were largely con-
+cordant with the original tumors, which was validated in
+a set of organoids established of colorectal metastases
+(Weeber et al. 2015 ). High-throughput screening of a
+panel of 83 compounds found that differences in drug
+sensitivity among the organoid lines that in some cases
+correlated with specific mutation. For example, RNF43-
+mutant organoids were sensitive to WNT secretion in-
+hibitors, and KRAS-mutant organoids were resistant to
+the EGFR (epidermal growth factor receptor) inhibitors,
+including cetuximab and afatinib.
+Later, Schutte and colleagues (Schütte et al. 2017 ) re-
+ported a biobank of 35 organoid lines from CRC. They
+found that organoid models reproduce most the genetic
+and transcriptomic characteristics of the donors, butLiet al. Cell Regeneration            (2020) 9:21 Page 18 of 33Table 3 List of biobanks of different tumor types
+Organ of
+originNumber of linesaHistological subtypes Efficiency Year Ref.
+Colon 22 Adenocarcinomas 90% 2015 (van de Wetering et al.
+2015 )
+Colorectum 8 Colorectal metastases 71% 2015 (Weeber et al. 2015 )
+Colorectum 55 Premalignant lesions (tubular and tubulovillous adenomas,
+sessile serrated lesions, and a hyperplastic polyp)
+Adenocarcinomas (well differentiated, moderately differentiated,
+poorly differentiated, mucinous, not specified)
+Metastases of adenocarcinomas
+Neuroendocrine carcinomas100% 2016 (Fujii et al. 2016 )
+Colorectum 35 NR 60% 2017 (Schütte et al. 2017 )
+Colorectum 34 Colorectal metastases 63% 2019 (Ooft et al. 2019 )
+Rectum 71 Cystic fibrosis NR 2016 (Dekkers et al. 2016 )
+Rectum 65 Adenocarcinoma 77% 2019 (Ganesh et al. 2019 )
+Rectum 80 locally advanced rectal adenocarcinoma 85.7% 2019 (Yao et al. 2020 )
+Pancreas 8 Ductal adenocarcinomas 80% 2015 (Boj et al. 2015 )
+Pancreas 17 Ductal adenocarcinomas 85% 2015 (Huang et al. 2015b )
+Pancreas 39 Ductal adenocarcinomas 88% 2018 (Seino et al. 2018 )
+Pancreas 114 Ductal adenocarcinomas 75% 2018 (Tiriac et al. 2018 )
+Pancreas 30 Pancreatic ductal adenocarcinoma
+Acinar cell carcinoma
+Cholangiocarcinoma
+Adenosquamous Pancreatic ductal adenocarcinoma
+Intraductal papillary mucinous neoplasm-derived Pancreatic
+ductal adenocarcinoma
+Papilla of Vater adenocarcinoma60% 2019 (Driehuis et al. 2019c )
+Liver 8 Hepatocellular carcinoma
+Cholangiocellular carcinoma100% 2017 (Broutier et al. 2017 )
+Liver 13 Hepatocellular carcinomaCholangiocellular
+carcinomaLymphoepithelioma-like cholangiocarcinoma33% 2017 (Nuciforo et al. 2018 )
+Biliary Tract 6 Intrahepatic cholangiocarcinomaPancreatic ductal
+adenocarcinomaGallbladder cancerNeuroendocrine carcinoma42% 2019 (Saito et al. 2019 )
+Prostate 7 Adenocarcinoma metastases Circulating tumor cells 15-20% 2014 (Gao et al. 2014 )
+Bladder 22 Papillary urothelial carcinomaUrothelial carcinomaSquamous
+cell carcinoma70% 2018 (Lee et al. 2018 )
+Breast 95 Ductal carcinoma
+Lobular carcinoma80% 2018 (Sachs et al. 2018 )
+Ovary 33 High-grade serous carcinoma 100% 2018 (Hill et al. 2018 )
+Ovary 56 Borderline tumors (both mucinous and serous)
+Clear cell carcinomas
+Endometrioid carcinomas
+Mucinous carcinomas
+Low-grade serous carcinomas
+High-grade serous carcinomas65% 2019 (Kopper et al. 2019 )
+Head and Neck 31 Squamous cell carcinoma 60 2019 (Driehuis et al. 2019a )
+Brain 70 Glioblastoma 91.4% 2020 (Jacob et al. 2020 )
+Mixedb56 Tumors from prostate, breast, colorectal, esophagus, brain,
+pancreas, lung, small intestine, ovary, uterus, soft tissue
+(not further specified), bladder, ureter, kidney38.6% 2017 (Pauli et al. 2017a ,2017b )
+Mixed 62 Metastatic colorectal cancer
+Metastatic gastroesophageal cancer
+Metastatic cholangiocarcinoma70% 2018 (Vlachogiannis et al. 2018 )Liet al. Cell Regeneration            (2020) 9:21 Page 19 of 33determined less complex molecular subtypes for the ab-
+sence of stroma. Drug screening with therapeutic com-
+pounds representing the standard of care for CRC,
+combined with molecular profiles, helped identify a sig-
+nature outperforming RAS/RAF mutation which has
+predictive value for sensitivity to the EGFR inhibitor
+cetuximab.
+Drug response in organoids and clinical response was
+also observed to prove that the in vitro organoid re-
+sponse correlates with the in vivo response. A clinical
+study of PDOs derived from metastatic gastroesophageal
+and CRC showed a strong correlation (100% sensitivity,
+93% specificity, 88% positive predictive value, and 100%
+negative predictive value) between the in vitro organoid
+response to a set of targeted therapies and chemother-
+apies and the response of the tumor in patients (Vlacho-
+giannis et al. 2018 ). Another study adopted organoids
+for colon cancer chemoprediction showing that PDOs
+test predicted more than 80% of patients ’response
+treated with irinotecan-based therapies (Ooft et al.
+2019 ). Together, these studies indicate the potential of
+tumor-derived organoids to predict patients ’responses.
+Recently, two studies showed the applications of PDOs
+derived from rectal cancer to predicting patient re-
+sponses to neoadjuvant chemoradiation therapy. Yao
+and colleagues (Yao et al. 2020 ) generated a rectal can-
+cer derived biobank (N=80) and tested PDOs ’sensitivity
+to 5-FU, irinotecan, or radiation. They incorporated a
+correlation between in vitro responses in organoids and
+the histopathologically determined tumor regression
+scores (TRGs) after surgical resection to define prognos-
+tic cut-offs. Using these parameters, the in vitro re-
+sponses could predict clinical responses with an
+impressive area under the curve (AUC) of 0.88 and an
+accuracy of 84%. In the other study, Ganesh and col-
+leagues (Ganesh et al. 2019 ) established 65 PDO lines
+from rectal cancer to test responses to neoadjuvant che-
+moradiation therapy, including the standard FOLFOX
+chemotherapy and radiation. The PDO responses signifi-
+cantly reflected the patients ’progression-free survival.
+Moreover, PDOs generated invasive rectal cancer
+followed by metastasis upon transplantation into murine
+rectal mucosa, exhibiting the same in vivo metastatic
+route as in the corresponding patients.For pancreatic cancer, Boj and colleagues (Boj et al.
+2015 ) were the first to successfully developed organoids
+from patient-derived PDACs. Subsequently, Seino and
+colleagues (Seino et al. 2018 ) generate an extensive orga-
+noids biobank of PDACs (N=39) covering both classical
+and basal subtypes according to gene expression signa-
+tures. They found basal-type PDACs derived organoids
+are more independent of Wnt signaling, which are more
+invasive and aggressive clinically, indicating that progres-
+sion of PDACs are accompanied by loss of stem cell
+niche dependence. Recently, Tiriac and colleagues (Tir-
+iac et al. 2018 ) generated a much larger PDAC biobank
+(N=114) and exposed a subset of these organoid lines to
+the standard-of-care chemotherapies. Their sensitivities
+paralleled clinical responses in patients. Besides, gene ex-
+pression signatures of chemosensitivity based on orga-
+noids were developed to help predict responses to
+chemotherapy in both the adjuvant and advanced disease
+settings. By high throughput drug screening, they nomi-
+nated alternative treatment strategies for chemo-
+refractory PDO. Another study also used PDOs (N=30)
+to identify novel therapeutics to target pancreatic tumor
+cells in a biobank covering different histological sub-
+types, including PDACs, acinar cell carcinoma, cholan-
+giocarcinoma, adenosquamous-PDACs, intraductal
+papillary mucinous neoplasm (IPMN)-derived PDACs
+and papilla of Vater adenocarcinomas (Driehuis et al.
+2019c ). PDOs were exposed to 76 therapeutic agents
+currently not exploited in the clinic. The PRMT5 (Pro-
+tein Arginine Methyltransferase 5) inhibitor, EZP015556,
+was shown to target MTAP (methylthioadenosine phos-
+phorylase)-negative tumors, but also appeared to consti-
+tute an effective therapy for a subset of MTAP-positive
+tumors, indicating the importance of personalized ap-
+proaches for cancer treatment.
+Huch and colleagues (Broutier et al. 2017 ) described
+a liver tumor biobank (N=13) containing hepatocellu-
+lar carcinoma and cholangiocarcinoma, as well as the
+rarer lymphoepithelioma-like cholangiocarcinoma. In
+drug screening experiments with 29 compounds, the
+ERK (extracellular regulated protein kinases) inhibitor
+SCH772984 was found to effectively inhibit the
+growth of tumor organoids, which was validated
+in vivo using xenotransplanted organoid lines in mice,Table 3 List of biobanks of different tumor types (Continued)
+Organ of
+originNumber of linesaHistological subtypes Efficiency Year Ref.
+Mixed (ALI) 49 Tumors from lung (adenocarcinoma and squamous cell
+carcinoma), kidney (clear cell carcinoma, papillary carcinoma,
+Wilms tumor and chromophobe carcinoma) and thyroid
+(papillary carcinoma)76% 2018 (Neal et al. 2018 )
+NRNot reported
+aRefers to the number of organoid lines reported not the number of patients (for some patients, multiple lines were established)
+bHistological types were not comprehensively reportedLiet al. Cell Regeneration            (2020) 9:21 Page 20 of 33highlighting SCH772984 as a possible therapeutic
+agent.
+Biliary tract carcinomas-derived organoids biobank
+was also established, covering intrahepatic cholangiocar-
+cinoma, gallbladder cancer, and neuroendocrine carcin-
+oma of the ampulla of Vater (Saito et al. 2019 ). Gene
+expression profiling of the organoids indicated that
+SOX2, KLK6 and CPB2 could be potential prognostic
+biomarkers. Drug screening using a compound library of
+339 drugs showed that the antifungal drugs, amorolfine
+and fenticonazole, significantly suppressed the growth of
+biliary tract carcinomas organoids with little toxicity to
+normal biliary epithelial cells.
+Genitourinary cancer
+The organoids biobank of metastatic prostate cancer
+covering both AR (androgen receptor)-positive and
+-negative subtypes was the first reported biobank estab-
+lished by Gao and colleagues (Gao et al. 2014 ). The bio-
+bank captured the most common genetic aberrations in
+prostate cancer, including TMPRSS2 –ERG fusion, homo-
+zygous deletions of PTEN and CHD1 , as well as typical
+copy number variations. To be pointed out, organoids
+derived from circulating tumor cells were also success-
+fully established in this biobank, showing that at least in
+some cases, organoids can be established from less inva-
+sive blood samples.
+A bladder cancer derived organoids biobank (N=20)
+was established containing urothelial carcinomas and
+one squamous cell carcinoma (Lee et al. 2018 ). Organoid
+lines were interconvertible with orthotopic xenografts
+and recapitulated the mutational spectrum of the corre-
+sponding tumor type, including activation of FGFR3 and
+mutations in epigenetic regulators such as ARID1A.
+Drug screening of 40 compounds based bladder tumor
+organoids showed partial correlations with mutational
+profiles as well as treatment resistance, and the drug re-
+sponses can be validated using xenografts in vivo .
+Women ’s cancers
+A biobank of breast cancer organoids (N=95) has been
+described covering major histological subtypes (invasive
+ductal carcinoma and invasive lobular carcinoma) and
+all molecular subtypes based on gene expression (Sachs
+et al. 2018 ). Organoid morphologies matched the histo-
+pathology of the original tumors, and hormone receptor
+[estrogen receptor (ER), progesterone receptor (PR)],
+HER2 status and copy number variations were retained.
+ER and PR status have predictive value for the outcome
+of endocrine therapy (e.g. tamoxifen), while HER2 is a
+target for targeted therapy (e.g. trastuzumab) and also
+has predictive value for chemotherapy outcome. The re-
+sponse of breast cancer-derived organoids to HER2 in-
+hibitor afatinib and to endocrine therapy tamoxifen wereconsistent with in vivo xeno-transplantations and patient
+response in clinic.
+An organoid biobank of high-grade serous ovarian can-
+cer (HGSC) (N=33) was established by Hill and colleagues
+(Hill et al. 2018 ). Up to 50% of all patients with HGSC
+have DNA repair defects, typically mutation of BRCA1 or
+BRCA2 . These patients were thought to benefit from
+treatment with poly (ADP-ribose) polymerase (PARP) in-
+hibitors. In the clinical setting, mutation analysis alone is
+not sufficient to adequately predict drug sensitivity. The
+study showed that functional assays in organoids are a
+better predictor than the genomic analysis in clinic, imply-
+ing that functional assays in organoids may improve the
+prediction of drug sensitivity beyond what can be achieved
+with genomic analysis alone. Kopper and colleagues (Kop-
+per et al. 2019 ) established a second ovarian cancer bio-
+bank (N=56) that captured all of the main histological
+subtypes, including borderline tumors, endometroid car-
+cinomas, mucinous carcinomas, LGSC and HGSC. Not-
+ably, a novel single-cell DNA sequencing method was
+used to demonstrate intra-patient heterogeneity was pre-
+served in organoids when compared with the original
+tumor. PDOs can be used for drug-screening analyses and
+capture distinct responses of different histological sub-
+types to platinum-based chemotherapy, including acquisi-
+tion of chemoresistance in recurrent disease. Besides,
+PDOs can also be xenografted, enabling in vivo drug sensi-
+tivity analyses. Taken together, PDOs of ovarian cancer
+have potential application for translational research and
+precision medicine.
+Head and neck cancer
+Driehuis and colleagues (Driehuis et al. 2019a ) established
+an organoid biobank (N=31) derived from head and neck
+squamous cell carcinoma (HNSCC). PDOs recapitulates
+genetic and molecular characteristics of original HNSCCs
+and can generate tumors upon transplantation to im-
+munocompromised mice. The authors observe different
+responses to commonly used drugs in clinic including cis-
+platin, carboplatin, cetuximab, and radiotherapy in vitro .
+Besides, drug screens exhibit selective sensitivity to tar-
+geted drugs that are not normally used in clinic for pa-
+tients with HNSCC. These findings may inspire the
+personalized treatment of HNSCC and expand the list of
+HNSCC drugs. In another study, the authors reported
+PDOs derived from HNSCC can also be used to evaluate
+their response to targeted photodynamic therapy and to
+ensure the safety of the treatment at the same time by
+testing it on organoids derived from matched normal tis-
+sues (Driehuis et al. 2019b ).
+Glioblastoma
+All organoids discussed above were derived from tumors
+of epithelial origin, known as carcinomas. RecentLiet al. Cell Regeneration            (2020) 9:21 Page 21 of 33advances show organoids derived from primary glio-
+blastoma tissue, setting the stage for growing organoids
+from non-epithelial tumors (Hubert et al. 2016 ).
+Glioblastoma presents great heterogeneity, and thus it ’s
+difficult to generate an ideal in vitro model which can
+recapitulate the in vivo situation of the donor. By modi-
+fying the method to develop cerebral organoids, the
+PDOs can be successfully derived both from primary le-
+sion of glioblastoma and from brain metastases. Once
+formed, PDOs presented hypoxia gradients and mim-
+icked cancer stem cell heterogeneity with rapidly divid-
+ing outer cells surrounding the hypoxic core of
+differentiated cells and diffuse, quiescent cancer stem
+cells. Drug testing based on organoids showed that non-
+stem cells were sensitive to radiation therapy, whereas
+adjacent cancer stem cells were radioresistant. Orthoto-
+pic transplantation of PDOs resulted in tumors recapitu-
+lating histological features of the parental tumor.
+Based on this method, Jacob et al. ( 2020 ) established a
+larger organoid biobank derived from glioblastoma (N=
+70), recapitulating the histological characteristics, cellu-
+lar diversity, gene expression, and mutational profiles of
+their donors. The organoids generated rapid, aggressively
+infiltrated tumors upon transplantation into adult rodent
+brains. The authors observe different responses to ex-
+posure of radiation with concurrent temozolomide,
+which was consistent with the patients ’response and
+survival in clinic. Notably, the authors further demon-
+strate the utility of organoids in modeling immunother-
+apy by co-culture of chimeric antigen receptor T (CAR-
+T) cells with organoids. They observed specific tumor
+cells were targeted and killed by CAR-T cells. The study
+expands the application of PDOs in personalized treat-
+ment to include immunotherapy.
+Mixed tumors
+Several biobanks containing organoids derived from
+mixed cancers were established for pan-cancer research.
+Pauli et al. ( 2017a ,2017b ) developed a robust precision
+cancer platform, by integrating whole exome sequencing
+with a living biobank which allows high throughput drug
+screens on PDOS. The biobank included tumors derived
+from prostate, breast, colorectum, esophagus, brain, pan-
+creas, lung, small intestine, ovary, uterus, soft tissue,
+bladder, ureter and kidney. In another study, to model
+tumor immune microenvironment, Kuo and colleagues
+(Neal et al. 2018 ) established PDOs based on ALI
+method from >100 individual patient tumors of 19 dis-
+tinct organs and 28 histological subtypes. These PDOs
+included common cancers such as colon, pancreas, and
+lung, and rarer histologies such as bile duct ampullary
+adenocarcinoma, brain schwannoma, and salivary gland
+pleomorphic adenoma. PDOs in this biobank retain im-
+mune cells and should enable immuno-oncologyinvestigations and facilitate personalized immunotherapy
+testing.
+Cystic fibrosis
+As mentioned above, CF is a lethal genetic disease
+caused by CFTR mutations that impairs the function of
+many organs including the intestine, lung, pancreas,
+sweat gland, liver, and kidney. The disease is character-
+ized by the buildup of viscous, sticky mucus which clogs
+airways, causes chronic digestive system problems and
+leads to CF-related diabetes. Approximately 2,000 CF-
+causing mutations of CFTR have been described, and
+drug efficacy varies among the different genotypes (Cut-
+ting 2015 ). Thus, there is a need for a personalized
+medicine approach to predict treatment response.
+Beekman and colleagues (Dekkers et al. 2016 ) first
+established an organoid biobank derived from rectum of
+71 CF patients with 28 different CFTR genotypes. Based
+on the biobanking, they developed a personalized
+medicine approach by using FSK-induced swelling assay
+to select clinical responders to CF modulators. Two pa-
+tients with the rare and uncharacterized F508del/
+G1249R genotype responded in vitro to a specific CF
+modulator, ivacaftor (KALYDECO, Vertex Pharmaceuti-
+cals). The responses were consistent with their in vivo
+clinical response to the treatment, reflected by improved
+pulmonary function and sweat chloride tests. In a
+prospective follow-up study involving 24 participants
+(Berkers et al. 2019 ), the predictive power of the FSK
+assay was further substantiated, as the in vitro assay
+correlated with changes in pulmonary function and
+sweat chloride tests conducted in vivo . Besides CF-rectal
+organoids, pancreatic organoids and cholangiocyte-like
+organoids derived of CF-iPSCs have also shown the
+potential for drug screening (Sampaziotis et al. 2015 ;
+Simsek et al. 2016 ). In the Netherlands, the licensing of
+ORKAMBI (lumacaftor/ivacaftor, Vertex Pharmaceuti-
+cals) allows treatment of CF patients solely based on a
+positive organoid swelling response, demonstrating the
+potential of organoid-based assays for delivering person-
+alized medicine (Fig. 10).
+In summary, organoid biobanks have been established
+for multiple tumor types (Table 3), including non-
+epithelial glioblastoma, and several principals can be
+concluded. First, PDOs can be established from small
+biological samples, such as biopsies and even circulating
+tumor cells, and these organoids can generate tumors
+upon xenotransplantation. Second, the PDOs in bio-
+banks recapitulate histological and genetic aspects of the
+original tumors, which holds not only for localized
+primary tumors but also for metastatic tumors. Third,
+high-throughput drug screening experiments in orga-
+noids correlate with the response in patients and lead
+the identification of new therapeutic targets. CombiningLiet al. Cell Regeneration            (2020) 9:21 Page 22 of 33genetic sequencing with functional assays in PDOs will
+facilitate personalized treatment, even including im-
+munotherapy, which will be discussed in detail in Sec-
+tion 3.4.
+Genetic repair in organoids
+Schwank and colleagues (Schwank et al. 2013 ) firstly
+demonstrated that it is feasible to repair genetic defects
+in organoids. Intestinal organoids derived from two CF
+patients with a homozygous CFTR F508 deletion were
+repaired using CRISPR-Cas9 technology. After repair,
+FSK-induced swelling was restored, functionally demon-
+strating CFTR activity. Later, Firth and colleagues (Firth
+et al. 2015 ) generated iPSCs from CF patients with a
+homozygous deletion of CFTR F508 and corrected this
+mutation using CRISPR technology to target corrective
+sequences to endogenous CFTR genomic locus,
+combining with selection system. The corrected iPSCs-
+organoids were able to differentiate mature airway epi-
+thelial cells with normal CFTR expression and function.
+However, CFTR gene repair in organoids and subse-
+quent transplantation into patients is hard to be applied
+in the clinic. First, the loss of CFTR functions results in
+disease in multiple organ systems, which would require
+the transplantation of organoids into multiple tissue
+sites. Second, a high percentage of repaired cells per
+organ would be required for functional restoration.
+Third, ethics problems in organoids transplantation are
+controversial and needs to reach a consensus in the re-
+search field.
+Organoids transplantation
+Human and murine organoids have been orthotopically
+transplanted into mice to model disease or to show
+tumorigenic potential. Here, we discuss studies that used
+organoid transplantation as therapy.Yui and colleagues (Yui et al. 2012 ) firstly exploited
+the feasibility to apply organoids to repair damaged epi-
+thelium. GFP+murine colon organoids derived from
+Lgr5+stem cells were reintroduced into mice with DSS
+(Dextran Sulfate Sodium Salt) -induced acute colitis.
+Transplanted cells readily integrated into the mouse
+colon and covered superficially damaged tissue. 4 weeks
+after transplantation, the donor cells constituted a
+single-layered epithelium, which formed functionally and
+histologically normal crypts that were able to self-renew.
+Further, engrafted mice had higher body weights than
+ungrafted ones, indicating that donor cells contributed
+to the recovery of DSS-induced acute colitis. Although
+further optimization is still needed, the current study in-
+dicates that in vitro expansion and transplantation of
+organoids may be a promising treatment choice for pa-
+tients with severe gastrointestinal epithelial injuries.
+Orthotopic transplantation of liver organoids has also
+shown promising results. In a mouse model of toxicity-
+induced acute liver failure, transplantation of mouse dif-
+ferentiated biliary duct organoids derived from Lgr5+
+stem cells generated detectable organoid-derived nod-
+ules in 20-40% of cases (Huch et al. 2013 ). Although en-
+graftment rate was low (approximately 1%), a significant
+increase in survival of the grafted group was observed
+compared to the ungrafted group, indicating that the
+transplanted cells contributed to liver function repair
+(Huch et al. 2013 ). In follow-up studies using the same
+injury model, the transplantation of mouse (Peng et al.
+2018 ) and human fetal (Hu et al. 2018 ) hepatocyte orga-
+noids, generated much more extensive engraftment indi-
+cating that the efficiency of engraftment may be
+enhanced by transplantation of the most physiologically
+relevant cell type.
+Recently, Xiao and colleagues (Xiao and Deng 2020 )
+generated induced sensory ganglion organoids exhibiting
+Fig. 10 Organoids for modeling cystic fibrosis (CF) and its multiple applications. Organ-specific pathologies of CF can be studied separately using
+organoids derived from distinct tissues and applied to personalized drug screeningLiet al. Cell Regeneration            (2020) 9:21 Page 23 of 33molecular features, subtype diversity, electrophysio-
+logical and calcium response properties, and innervation
+patterns characteristic of peripheral sensory neurons,
+which may serve as a source for cell replacement ther-
+apy. Yoshihara and colleagues (Yoshihara and O'Connor
+2020 ) generated human islet-like organoids (HILOs)
+from iPSC, which provides a promising alternative to ca-
+daveric and device-dependent therapies in the treatment
+of diabetes. HILOs contain endocrine-like cell types that,
+upon transplantation, rapidly re-establish glucose
+homeostasis in diabetic NOD/SCID mice. Overexpres-
+sion of the PD-L1 protected HILO xenografts such that
+they were able to restore glucose homeostasis in
+immune-competent diabetic mice.
+Organoids combined with 3D printing were recently in-
+troduced to build the 3D architecture of tissue, which may
+find widespread applications in regenerative medicine.
+Firstly, Zhang and his colleagues (Zhang et al. 2016 )e s t a b -
+lished the technique that can be transformed into human
+cardiomyocytes derived from iPSCs to construct endothe-
+lialized human myocardium. Then, Creff and colleagues
+(Creff et al. 2019 ) provided the possibility of creating arti-
+ficial 3D scaffolds that match the size and structure of
+mouse intestinal crypt and villi. Moreover, Homan and
+colleagues (Homan et al. 2019 ) built a model that had the
+ability to induce substantial vascularization and morpho-
+genesis of renal organs in vitro under flow conditions
+opening up a new way for the study of renal development,
+disease and regeneration.
+Though above studies indicate the potential applica-
+tion of organoids in regenerative medicine, many prob-
+lems need to be solved before organoids are put into
+clinical use. For example, integration upon transplant-
+ation requires optimization, and animal-based 3D ECM
+matrix used for organoid culture need to be replaced
+with a synthetic matrix.
+Organoids as a tool for immunotherapy
+The tumor microenvironment consists of various non-
+epithelial cell types, including immune cells and stromal
+cells, which greatly affects therapeutic responses. How-
+ever, it is a major challenge to model tumor microenvir-
+onment. Much of our knowledge regarding the tumor
+microenvironment was studied on cell lines and PDX
+models. However, cell lines are insufficient to recapitulate
+the heterogeneity of tumor cells, while the microenviron-
+ment of PDX models mainly depend on the mouse im-
+mune system, which cannot adequately recapitulate the
+human immune system. Cancer immunotherapy has
+emerged as a promising therapeutic developments that
+take advantage of a patient ’s own immune system to eradi-
+cate tumor cells (Mellman and Coukos 2011 ), and several
+organoid-based models have been established to study im-
+munotherapy response (Fig. 11).Holistic approach based on ALI culture method
+Recently, a holistic approach based on the ALI method
+(mentioned in Section 1.2), which preserved the tumor
+epithelium and its stromal microenvironment in vitro,
+was described using PDOs of various cancer types, in-
+cluding colorectal and lung cancers (Neal et al. 2018 ). In
+addition to stromal fibroblasts, cellular immune compo-
+nents such as tumor-associated macrophages, CTLs
+(Cytotoxic T lymphocyte), T H cells (T helper cells), B
+cells, natural killer (NK) cells and natural killer T (NKT)
+cells were also readily maintained for up to 30 days in
+the organoid cultures. The organoid cultures also pre-
+served the T cell receptor (TCR) heterogeneity of the T
+cells found in the parental tumor. The authors used
+these organoids to model immune checkpoint blockade,
+leading to the expansion and activation of tumor
+antigen-specific T cells and subsequent killing of tumor
+cells.
+Reductionist approach based on WENR epithelial culture
+method
+Adoptive cell therapy is a promising immunotherapy. In
+this method, autologous immune cells are expanded
+in vitro followed by the subsequent transplantation of
+these cells back into the patient, to enhance the immune
+response against a tumor. Using this strategy, durable re-
+gression of melanoma was achieved by in vitro expan-
+sion of autologous tumor-infiltrating lymphocytes (TILs)
+(Rosenberg 2015 ). However, this approach requires
+resected specimens from which TILs can be obtained. A
+strategy to avoid resection is to isolate peripheral blood
+lymphocytes, activate these cells in vitro by co-culture
+with tumor cells. For this strategy, tumor-derived orga-
+noids are a highly useful source of tumor cells for co-
+culture: Tumor organoid cultures can be efficiently
+established from a small tissue sample through biopsy,
+and tumor-derived organoids are heterogeneous and re-
+capitulate the genetic and histological characteristics of
+the parental tumors. Dijkstra and colleagues (Dijkstra
+et al. 2018 ) were thus able to obtain tumor-reactive T
+lymphocytes from peripheral blood lymphocytes after 2
+weeks of co-culture with tumor organoids derived from
+non –small cell lung cancer and MSI-H CRC. Before co-
+culture, organoids were stimulated with IFN- γto
+enhance antigen presentation. PD-1 blocking antibody,
+IL-2, and anti-CD28 were added to enhance T cell acti-
+vation. After co-culture, T lymphocytes were activated,
+as demonstrated by expression of IFN- γand CD107a.
+Accordingly, after an additional 3 days of co-culture of
+activated T lymphocytes with tumor organoids, the sur-
+vival of the tumor organoids was reduced, while
+matched normal organoids were unaffected.
+Cancers with low mutational burden and stable tumor
+antigen presentation may be suitable targets for chimericLiet al. Cell Regeneration            (2020) 9:21 Page 24 of 33antigen receptor (CAR)-engineered T cells. Studies on B
+cell malignancies showed promising results (June 2018 ).
+In solid tumors, the therapeutic application of CAR T
+cells has been hindered by side effects that arise from
+targeting overexpressed native antigens that are, not ex-
+clusively expressed by tumors. Thus, for solid tumors,
+preclinical models are needed to allow for CAR-
+mediated cytotoxicity testing. Recently, a luciferase-
+based quantification assay has been developed to test
+CAR T cell-mediated cytotoxicity against PDOs
+(Schnalzger et al. 2019 ). Instead of using CAR-
+engineered T cells, the researchers adopted an NK cell
+line with non-MHC restricted cytolytic activity to target
+research. The efficiency of the system was confirmed by
+using CAR-engineered NK-92 cells directed towardEPCAM , an epithelial marker overexpressed by cancers.
+CAR-mediated cytotoxicity was observed against orga-
+noids derived from both normal colon tissue and CRC
+tissue presenting either peptide (Schnalzger et al. 2019 ).
+Subsequently, the authors engineered CARs targeting
+EGFRvIII, a neoantigen that is widely expressed by solid
+cancers. In a competitive co-culture assay, EGFRvIII-
+specific CAR NK cells killed EGFRvIII-expressing orga-
+noids derived from tumors efficiently but not organoids
+derived from normal tissue. Finally, the team generated
+CARs targeting antigens specific to subgroup of CRC
+that overexpress the WNT ligand receptor FZD upon
+loss of expression of its antagonists RNF43 /ZNRF3 .T o
+test possible side effects of FZD-specific CARs, the au-
+thors evaluated cytotoxicity against normal colon
+Fig. 11 Co-culture systems of organoid and immune cell in immuno-oncology research. Two main methods are currently being adopted: a
+Holistic approach (up). Tumor biopsies are cultured in ALI in the entire tumor microenvironment as a cell suspension of all cell types, including
+immune cells and other non-epithelial cell types. bReductionist approach (down), epithelial organoids are derived from tumor biopsies and are
+then co-cultured with autologous immune cells derived from the peripheral blood of the same patient. CRC, colorectal cancer; ALI, air-liquid
+interphase; ECM, extracellular matrix; NK cell, natural killer cellLiet al. Cell Regeneration            (2020) 9:21 Page 25 of 33organoids as well as different gene-edited organoid lines
+deficient for both RNF43 andZNRF3 or for APC. These
+co-culture assays illustrated that the cytolytic activity of
+the FZD-specific CAR NK cells was not specific to the
+mutated organoid lines, suggesting that such approaches
+may have marked side effects if used therapeutically.
+Though effective target has not been found, the platform
+can be widely used to evaluate CAR efficacy and tumor
+specificity in a personalized manner.
+In summary, co-cultures of cancer organoids and im-
+mune cells have become a highly promising strategy for
+personalized immunotherapy for cancer patients.
+Challenges
+Organoids are robust research tools for the study of hu-
+man development and disease. However, there are hurdles
+and limitations associated with using organoids (Fig. 12).
+First, culture approaches are not standardized. ASCs-
+derived organoids are established under distinct culture
+conditions in each laboratory. To reduce the cost, cost-
+efficient small molecule compounds were used to replace
+growth factors (Li et al. 2018 ;Yin et al. 2014 ). Besides,
+homemade niche factors produced by various cell lineshas been used commonly to culture organoids. However,
+this trend will result in experimental variation into orga-
+noid studies across different research labs.
+Second, organoid culture requires the use of Matrigel
+or other animal-based matrix extract to enable cells to
+aggregate into 3D structures. These extracts suffer from
+batch-to-batch variability in their composition, which
+may affect the reproducibility of experiments. In
+addition, they may carry unknown pathogens and are
+potentially immunogenic when transplanted to humans,
+limiting the application of organoids in a clinical trans-
+plantation setting. This may be solved by culturing with
+clinical grade collagen, which has been successfully used
+for colon organoids culture and expansion (Yui et al.
+2012 ). Steps toward fully defined culture conditions have
+been made with the development of a synthetic poly-
+ethylene glycol-based gel that sustains the short-term
+growth of mouse ASC-derived intestinal organoids
+(Gjorevski et al. 2016 ). However, this matrix remains to
+be optimized for the long-term expansion of intestinal
+organoids and f non-intestinal organoids.
+Third, obtaining pure tumor organoids is another crit-
+ical problem for researchers. Many studies have reported
+Fig. 12 Schematic summarize of current limitations in organoids culture development (yellow) and methods to overcome these issues (brown)Liet al. Cell Regeneration            (2020) 9:21 Page 26 of 33that tumor organoids can be overgrown and contami-
+nated by matched normal organoids. One of the most
+widely used methods to acquire pure tumor organoids is
+to select tumor cells that harbor the most common mu-
+tations in its cancer type. For example, tumor organoids
+derived from CRC can be selectively upon withdrawal of
+Wnt3a and R-Spondin1. However, this method is not
+applicable to all cancers, and some specific cancer sub-
+types. More importantly, intra-tumoral heterogeneity
+would inevitably be lost upon selection. Some labs have
+suggested obtaining pure tumor organoids based on
+growth phenotypes. However, not all tumor organoids
+have clear morphological differences to normal orga-
+noids. More researches are needed to establish appropri-
+ate approaches for obtaining pure tumor organoids.
+Fourth, for ASCs-derived organoids, only the epithelial
+compartment of organs is represented, while blood ves-
+sels, immune cells, stroma, and nerves are lacking. As
+mentioned above, many groups have focused co-
+culturing organoids with various types of cells, analogous
+to what has already been done with immune cells (Dijk-
+stra et al. 2018 ), or adopted unconventional organoid
+culture methods, such as the ALI method (Neal et al.
+2018 ;Ootani et al. 2009 ). Besides, several PSC-based
+organoids are able to undergo mesenchymal differenti-
+ation to generate subepithelial myofibroblasts and
+smooth muscle (Spence et al. 2011 ).
+Last, the development of a model based on living hu-
+man tissues that can be stored and expanded in
+biobanks-potentially forever-has raised a set of ethical is-
+sues regarding informed consent and ownership (Brede-
+noord et al. 2017 ). For organoid biobanks, patient
+consent is required. The most common type of patient
+consent restricts the use of a patient ’s material to only a
+specific research aim. However, biobanks are useful for
+researchers in multiple fields, and the use of biobanks in
+a combination of fields may provide potentially synergis-
+tic data. To solve this problem, Bredenoord and col-
+leagues (Boers and van Delden 2015 ;Bredenoord et al.
+2017 ) have suggested that a broad consent be used for
+governance. This broad consent would allow donors to
+make informed decisions about how their samples are
+used after they have been provided with relevant infor-
+mation about the establishment and regulation of the
+biobank. Another issue that has arisen with the develop-
+ment of living biobanks is ownership. Organoids are in-
+creasingly used by commercial parties as tools for drug
+development or in validation studies. Such uses will in-
+evitably result in patentable compounds. It may be help-
+ful to include regulations covering the distribution of
+any financial gains from intellectual property among
+stakeholders in the governance of the biobanks.
+Furthermore, in terms of the culture conditions of
+tumor organoids, intra-tumoral heterogeneity could belost during passages for that the culture media might
+not favor the growth of all tumor subclones equally ef-
+fectively. Additionally, novel mutations would be ac-
+quired during long-term expansion. Collectively, these
+drawbacks deserve further attention, and more work is
+needed to improve organoids culture technologies.
+Despite these limitations, organoid technology holds
+great promise as a robust tool for basic, translational
+and clinical research for human development and dis-
+ease modeling.
+Outlooks
+In this review, we have demonstrated the potential of
+organoid technology for modeling genetic, infectious
+and malignant disease, as well as for drug development
+and personalized medicine. The basic and translational
+applications of organoids are expected to expand in the
+future.
+Regarding epithelial genetics, organoids have potential
+especially for rare diseases due to their high expansion
+ability and genetic stability. In infectious diseases, the
+mechanisms of virus-induced malignant transformation,
+for example, by Epsteini-Barr virus in gastric and naso-
+pharynx cancers, may be studied in long-term co-
+cultures of the virus with normal epithelium from the
+respective organ. In the studies of malignancies, culture
+conditions need to be developed for many types of car-
+cinomas and for sarcomas and melanomas.
+The optimization of drug screening will be a pivotal
+use of organoids in personalized medicine by adopting
+biobanks of different cancers. This enables many com-
+pounds to be screened for a specific disease or a specific
+compound to be screened for many forms of a given dis-
+ease. Moreover, multiple organoids can be derived from
+the same cancer patient over time to assess drug re-
+sponse and developing resistance to targeted drugs and
+to predict patient outcome.
+In the area of regenerative medicine, there is still a
+long way to go for the transplantation of organoids as
+therapy. Several hurdles, including the development of a
+non-animal-based alternative for Matrigel and efficient
+delivery procedures, remain to be overcome.
+In conclusion, the worldwide application of organoids
+has contributed to unprecedented advances in research
+on human development and diseases. Even though
+current organoid systems show some limitations and re-
+quire further optimization for use in disease modeling
+and personalized medicine, they will continue to be valu-
+able tools in basic and translational research.
+Abbreviations
+2D:Two-dimensional; 3D: Three-dimensional; PDX: Patient-derived xenograft;
+PSCs: Pluripotent stem cells; iPSCs: induced Pluripotent stem cells;
+ESCs: Embryonic stem cells; ASCs: Adult stem cells; EHS: Engelbreth Holm
+Swarm; EGF: Epidermal growth factor; BMP: Bone morphogenetic protein;Liet al. Cell Regeneration            (2020) 9:21 Page 27 of 33ECM: Extracellular matrix; PDOs: Eatient-derived organoids; WENR
+method: Wnt3a+EGF+Noggin+R-spondin-1; NACE: N-acetylcysteine;
+NICO: Nicotinamide; RSPO: R-spondin-1; PGE2: Prostaglandin E2;
+DHT: Dihydrotestosterone; CRC: Colorectal cancer; ALI: Air-liquid interface;
+TILs: Tumor infiltrating lymphocytes; TA: Transit-amplifying; WGS: Whole-
+genome sequencing; CRISPR: Clustered regularly interspaced short
+palindromic repeats; Cas9: CRISPR associated protein 9; NHEJ: non-
+Homologous end joining; HDR: Homology-directed repair; CF: Cystic fibrosis;
+CFTR: CF transmembrane conductance regulator; cAMP: cyclic Adenosine
+monophosphate; FSK: Forskolin; CLC: Cholangiocyte-like cells;
+PDECs: Pancreatic ductal epithelial cells; MVIX: Microvillus inclusion disease;
+STX3 :Syntaxin-3 ; A1AT: α1-antitrypsin; AGS: Aicardi-Goutières syndrome;
+ZIKV: Zika virus ; WHO: World Health Organization; TLR3: Toll-like receptor 3;
+JEV: Japanese encephalitis virus ; JE: Japanese encephalitis; HBV: Hepatitis B
+virus;HuNoV :Human Norovirus ; HBGA: Histo-blood group antigen;
+RSV: Respiratory syncytial virus; EV71: Enterovirus 71 ;S. typhi :Salmonella typhi ;
+C. difficile :Clostridium difficile ; CDI: C. difficile infection; TcdA: Toxin A;
+TcdB: Toxin B; H. pylori :Helicobacter pylori ; CIN: Chromosomal instability;
+HIV: Human immunodeficiency virus; shRNA: Short hairpin RNA; SSAs: Sessile
+serrated adenomas; MLH1: MutL homolog 1; MSI: Microsatellite instability;
+PDAC: Pancreatic ductal adenocarcinoma; SRCC: Signet-ring cell carcinoma;
+LSL: Lox-stop-lox; PanINs: Pancreatic intraepithelial neoplasias; KCTS: KRASG12V,
+CDKN2A ,TP53 and SMAD4 ; PTRN: P53, PTEN, RB1 and NF1 ; AR: Androgen
+receptor; TMPRSS2 : Transmembrane protease serine 2; ETS: E26
+transformation-specific; ERG: ETS-related gene; TRGs: Tumor regression scores;
+AUC: Area under the curve; IPMN: Intraductal papillary mucinous neoplasm;
+ER: Estrogen receptor; PR: Progesterone receptor; HGSC: High-grade serous
+ovarian cancer; LGSC: Low-grade serous ovarian cancer; PARP: Poly (ADP-
+ribose) polymerase; HNSCC: Head and neck squamous cell carcinoma; CAR-
+T: Chimeric antigen receptor T; NK cell: Natural killer cell; NKT cell: Natural
+killer T cell; TCR: T cell receptor; TILs: Tumor-infiltrating lymphocytes;
+CAR: Chimeric antigen receptor; DSS: Dextran Sulfate Sodium; IFN-
+γ: Interferon-gamma; MHC: Major histocompatibility complex; FZD: Frizzled;
+NHE3: Sodium/Hydrogen Exchanger 3; MUC2: Mucoprotein2; AKT: Protein
+kinase B; MAPK: Mitogen-activated protein kinase; EIF3E: Eukaryotic
+Translation Initiation Factor 3 Subunit E; JAK2: Janus Kinase 2;
+EGFR: Epidermal growth factor receptor; PRMT5: Protein Arginine
+Methyltransferase 5; MTAP: Methylthioadenosine phosphorylase;
+ERK: Extracellular regulated protein kinases; AR: Androgen receptor;
+DSS: Dextran Sulfate Sodium Salt; CTLs: Cytotoxic T lymphocyte; T H cells: T
+helper cells; COVID-19: Coronavirus disease-19; SARS-CoV-2: Severe acute
+respiratory syndrome-coronavirus 2; MGE: Medial ganglionic eminence;
+hrsACE2: human recombinant soluble ACE2; IWP-2: Inhibitor of Wnt
+Production 2; VPA: Valproic acid; CHIR: Chicken immunoglobulin-like receptor;
+DAPT: Dual antiplatelet therapy; SgRNA: Single-guide RNA; FOXG1: Forkhead
+box G1; HILOs: Human islet-like organoids
+Authors ’contributions
+YL and PT conceived and wrote the paper. SC and JP participated in
+conceptualization, validation and review of the draft. GH participated in the
+supervision and review of the final draft. The author(s) read and approved
+the final manuscript.
+Funding
+This work was supported by the National Natural Science Foundation of
+China (31470826, 31670858, and 81773357 to Hua), Shanghai Sailing
+Program (19YF1409500 to Li) and Shanghai Anticancer Association EYAS
+PROJECT (SACA-CY1A05 to Li).
+Competing interests
+The authors declare that they have no competing interests
+Author details
+1Department of Colorectal Surgery, Fudan University Shanghai Cancer
+Center, Shanghai 200032, China.2Department of Oncology, Shanghai
+Medical College, Fudan University, Shanghai 200032, China.3Institute of
+Radiation Medicine, Fudan University Shanghai Cancer Center, Shanghai
+200032, China.4Cancer institute, Fudan University Shanghai Cancer Center,
+Shanghai 230032, China.Received: 5 July 2020 Accepted: 4 September 2020
+References
+Adli M. The CRISPR tool kit for genome editing and beyond. Nat Commun. 2018;
+9(1):1911.
+Andersson ER, Chivukula IV, Hankeova S, Sjöqvist M, Tsoi YL, Ramsköld D, Masek
+J, Elmansuri A, Hoogendoorn A, Vazquez E, et al. Mouse Model of Alagille
+Syndrome and Mechanisms of Jagged1 Missense Mutations.
+Gastroenterology. 2018;154(4):1080 –95.
+Bae JM, Kim JH. Kang GH Molecular Subtypes of Colorectal Cancer and Their
+Clinicopathologic Features, With an Emphasis on the Serrated Neoplasia
+Pathway. Arch Pathol Lab Med. 2016;140(5):406 –12.
+Bagley JA, Reumann D, Bian S, Lévi-Strauss J. Knoblich JA Fused cerebral
+organoids model interactions between brain regions. Nature Methods. 2017;
+14(7):743 –51.
+Barker N, Huch M, Kujala P, van de Wetering M, Snippert HJ, van Es JH, Sato T,
+Stange DE, Begthel H, van den Born M, et al. Lgr5(+ve) stem cells drive self-
+renewal in the stomach and build long-lived gastric units in vitro. Cell Stem
+Cell. 2010;6(1):25 –36.
+Barker N, van Es JH, Kuipers J, Kujala P, van den Born M, Cozijnsen M, Haegebarth
+A, Korving J, Begthel H, Peters PJ, et al. Identification of stem cells in small
+intestine and colon by marker gene Lgr5. Nature. 2007;449(7165):1003 –7.
+Bartfeld S, Bayram T, van de Wetering M, Huch M, Begthel H, Kujala P, Vries
+R, Peters PJ, Clevers H. In vitro expansion of human gastric epithelial
+stem cells and their responses to bact erial infection. Gastroenterology.
+2015;148(1):126 –36.e6.
+Basak O, Beumer J, Wiebrands K, Seno H, van Oudenaarden A, Clevers H.
+Induced Quiescence of Lgr5+ Stem cells in intestinal organoids enables
+differentiation of hormone-producing enteroendocrine cells. Cell Stem
+Cell. 2017;20(2):177 –90.e4.
+Berkers G, van Mourik P, Vonk AM, Kruisselbrink E, Dekkers JF, de Winter-de Groot
+KM, Arets HGM, der Wilt REP M-v, Dijkema JS, Vanderschuren MM, et al.
+Rectal organoids enable personalized treatment of cystic fibrosis. Cell Rep.
+2019;26(7):1701 –1708.e3.
+Bershteyn M, Nowakowski TJ, Pollen AA, Di Lullo E, Nene A, Wynshaw-Boris A,
+Kriegstein AR. Human iPSC-derived cerebral organoids model cellular
+features of lissencephaly and reveal prolonged mitosis of outer radial glia.
+Cell Stem Cell. 2017;20(4):435 –449.e4.
+Beumer J, Artegiani B, Post Y, Reimann F, Gribble F, Nguyen TN, Zeng H, Van den
+Born M, Van Es JH. Clevers H Enteroendocrine cells switch hormone
+expression along the crypt-to-villus BMP signalling gradient. Nat Cell Biol.
+2018;20(8):909 –16.
+Beumer J, Puschhof J, Bauzá-Martinez J, Martínez-Silgado A, Elmentaite R, James
+KR, Ross A, Hendriks D, Artegiani B, Busslinger GA, et al. High-Resolution
+mRNA and secretome atlas of human enteroendocrine Cells. Cell. 2020;
+181(6):1291 –306.e19.
+Bigorgne AE, Farin HF, Lemoine R, Mahlaoui N, Lambert N, Gil M, Schulz A,
+Philippet P, Schlesser P, Abrahamsen TG, et al. TTC7A mutations disrupt
+intestinal epithelial apicobasal polarity. J Clin Invest. 2014;124(1):328 –37.
+Birey F, Andersen J, Makinson CD, Islam S, Wei W, Huber N, Fan HC, Metzler KRC,
+Panagiotakos G, Thom N, et al. Assembly of functionally integrated human
+forebrain spheroids. Nature. 2017;545(7652):54 –9.
+Blokzijl F, de Ligt J, Jager M, Sasselli V, Roerink S, Sasaki N, Huch M, Boymans S,
+Kuijk E, Prins P, et al. Tissue-specific mutation accumulation in human adult
+stem cells during life. Nature. 2016;538(7624):260 –4.
+Boers SN, van Delden JJM. Bredenoord AL Broad Consent Is Consent for
+Governance. Am J Bioeth. 2015;15(9):53 –5.
+Bohl DL, Brennan DC. BK virus nephropathy and kidney transplantation. Clin J
+Am Soc Nephrol. 2007;2(Suppl 1):S36 –46.
+Boj SF, Hwang C-I, Baker LA, Chio IIC, Engle DD, Corbo V, Jager M, Ponz-Sarvise
+M, Tiriac H, Spector MS, et al. Organoid models of human and mouse ductal
+pancreatic cancer. Cell. 2015;160(1-2):324 –38.
+Bredenoord AL, Clevers H, Knoblich JA. Human tissues in a dish: The research
+and ethical implications of organoid technology. Science. 2017;355(6322):
+eaaf9414.
+Broutier L, Mastrogiovanni G, Verstegen MM, Francies HE, Gavarró LM, Bradshaw
+CR, Allen GE, Arnes-Benito R, Sidorova O, Gaspersz MP, et al. Human primary
+liver cancer-derived organoid cultures for disease modeling and drug
+screening. Nat Med. 2017;23(12):1424 –35.Liet al. Cell Regeneration            (2020) 9:21 Page 28 of 33Byrne AT, Alférez DG, Amant F, Annibali D, Arribas J, Biankin AV, Bruna A,
+Budinská E, Caldas C, Chang DK, et al. Interrogating open issues in cancer
+precision medicine with patient-derived xenografts. Nat Rev Cancer. 2017;
+17(4):254 –68.
+Cancer Genome Atlas Research N. Comprehensive molecular characterization of
+gastric adenocarcinoma. Nature. 2014;513(7517):202 –9.
+Checkley W, White AC Jr, Jaganath D, Arrowood MJ, Chalmers RM, Chen X-M,
+Fayer R, Griffiths JK, Guerrant RL, Hedstrom L, et al. A review of the global
+burden, novel diagnostics, therapeutics, and vaccine targets for
+cryptosporidium. Lancet Infect Dis. 2015;15(1):85 –94.
+Chen KG, Mallon BS, McKay RDG. Robey PG Human pluripotent stem cell culture:
+considerations for maintenance, expansion, and therapeutics. Cell Stem Cell.
+2014;14(1):13 –26.
+Chen Y-W, Huang SX, de Carvalho ALRT, Ho S-H, Islam MN, Volpi S, Notarangelo
+LD, Ciancanelli M, Casanova J-L, Bhattacharya J, et al. A three-dimensional
+model of human lung development and disease from pluripotent stem cells.
+Nat Cell Biol. 2017;19(5):542 –9.
+Cherry ABC. Daley GQ Reprogramming cellular identity for regenerative
+medicine. Cell. 2012;148(6):1110 –22.
+Chio IIC, Jafarnejad SM, Ponz-Sarvise M, Park Y, Rivera K, Palm W, Wilson J, Sangar
+V, Hao Y, Öhlund D, et al. NRF2 Promotes Tumor Maintenance by
+Modulating mRNA Translation in Pancreatic Cancer. Cell. 2016;166(4):963 –76.
+Chua ACY, Ananthanarayanan A, Ong JJY, Wong JY, Yip A, Singh NH, Qu Y,
+Dembele L, McMillian M, Ubalee R, et al. Hepatic spheroids used as an
+in vitro model to study malaria relapse. Biomaterials. 2019;216:119221.
+Chua CW, Shibata M, Lei M, Toivanen R, Barlow LJ, Bergren SK, Badani KK,
+McKiernan JM, Benson MC, Hibshoosh H, et al. Single luminal epithelial
+progenitors can generate prostate organoids in culture. Nat Cell Biol. 2014;
+16(10):951 –4.
+Clevers H. The intestinal crypt, a prototype stem cell compartment. Cell. 2013;
+154(2):274 –84.
+Clevers H. Modeling Development and Disease with Organoids. Cell. 2016;165(7):
+1586–97.
+Creff J, Courson R, Mangeat T, Foncy J, Souleille S, Thibault C, Besson A, Malaquin
+L. Fabrication of 3D scaffolds reproducing intestinal epithelium topography
+by high-resolution 3D stereolithography. Biomaterials. 2019;221:119404.
+Cruz NM, Song X, Czerniecki SM, Gulieva RE, Churchill AJ, Kim YK, Winston K, Tran
+LM, Diaz MA, Fu H, et al. Organoid cystogenesis reveals a critical role of
+microenvironment in human polycystic kidney disease. Nat Mater. 2017;
+16(11):1112 –9.
+Cugola FR, Fernandes IR, Russo FB, Freitas BC, Dias JLM, Guimarães KP, Benazzato
+C, Almeida N, Pignatari GC, Romero S, et al. The Brazilian Zika virus strain
+causes birth defects in experimental models. Nature. 2016;534(7606):267 –71.
+Cutting GR. Cystic fibrosis genetics: from molecular understanding to clinical
+application. Nat Rev Genet. 2015;16(1):45 –56.
+Dang J, Tiwari SK, Lichinchi G, Qin Y, Patil VS, Eroshkin AM. Rana TM Zika Virus
+Depletes Neural Progenitors in Human Cerebral Organoids through
+Activation of the Innate Immune Receptor TLR3. Cell Stem Cell. 2016;19(2):
+258–65.
+de Sousa e Melo F, Kurtova AV, Harnoss JM, Kljavin N, Hoeck JD, Hung J,
+Anderson JE, Storm EE, Modrusan Z, Koeppen H, et al. A distinct role for
+Lgr5(+) stem cells in primary and metastatic colon cancer. Nature. 2017;
+543(7647):676 –80.
+Dekkers JF, Berkers G, Kruisselbrink E, Vonk A, de Jonge HR, Janssens HM,
+Bronsveld I, van de Graaf EA, Nieuwenhuis EES, Houwen RHJ, et al.
+Characterizing responses to CFTR-modulating drugs using rectal organoids
+derived from subjects with cystic fibrosis. Sci Transl Med. 2016;8(344):344ra84.
+Dekkers JF, Whittle JR, Vaillant F, Chen H-R, Dawson C, Liu K, Geurts M, Herold
+MJ, Clevers H, Lindeman GJ, et al. Modeling breast cancer using CRISPR/
+Cas9-mediated engineering of human breast organoids. J Natl Cancer Inst.
+2019. https://doi.org/10.1093/jnci/djz196 .
+Dekkers JF, Wiegerinck CL, de Jonge HR, Bro nsveld I, Janssens HM ,d eW i n t e r - d eG r o o t
+KM, Brandsma AM, de Jong NWM, Bijvelds MJC, Scholte BJ, et al. A functional CFTR
+assay using primary cystic fibrosis int estinal organoids. Nat Med. 2013;19(7):939 –45.
+Dijkstra KK, Cattaneo CM, Weeber F, Chalabi M, van de Haar J, Fanchi LF, Slagter
+M, van der Velden DL, Kaing S, Kelderman S, et al. Generation of Tumor-
+Reactive T cells by co-culture of peripheral blood lymphocytes and tumor
+organoids. Cell. 2018;174(6):1586 –98.e12.
+DiMarco RL, Su J, Yan KS, Dewi R, Kuo CJ. Heilshorn SC Engineering of three-
+dimensional microenvironments to promote contractile behavior in primary
+intestinal organoids. Integr Biol (Camb). 2014;6(2):127 –42.Driehuis E. Clevers H CRISPR-Induced TMPRSS2-ERG Gene Fusions in Mouse
+Prostate Organoids. JSM Biotechnol Biomed Eng. 2017;4(1):1076.
+Driehuis E, Kolders S, Spelier S, Lõhmussaar K, Willems SM, Devriese LA, de Bree
+R, de Ruiter EJ, Korving J, Begthel H, et al. Oral Mucosal Organoids as a
+Potential Platform for Personalized Cancer Therapy. Cancer Discov. 2019a;
+9(7):852 –71.
+Driehuis E, Spelier S, Beltrán Hernández I, de Bree R, Willems SM, Clevers H,
+Oliveira S. Patient-derived head and neck cancer organoids recapitulate egfr
+expression levels of respective tissues and are responsive to egfr-targeted
+photodynamic therapy. J Clin Med. 2019b;8(11):1880.
+Driehuis E, van Hoeck A, Moore K, Kolders S, Francies HE, Gulersonmez MC,
+Stigter ECA, Burgering B, Geurts V, Gracanin A, et al. Pancreatic cancer
+organoids recapitulate disease and allow personalized drug screening. Proc
+Natl Acad Sci U S A. 2019c;116(52):26580 –90.
+Drost J. Clevers H Organoids in cancer research. Nat Rev Cancer. 2018;18(7):
+407–18.
+Drost J, van Boxtel R, Blokzijl F, Mizutani T, Sasaki N, Sasselli V, de Ligt J, Behjati S,
+Grolleman JE, van Wezel T, et al. Use of CRISPR-modified human stem cell
+organoids to study the origin of mutational signatures in cancer. Science.
+2017;358(6360):234 –8.
+Drost J, van Jaarsveld RH, Ponsioen B, Zimberlin C, van Boxtel R, Buijs A, Sachs N,
+Overmeer RM, Offerhaus GJ, Begthel H, et al. Sequential cancer mutations in
+cultured human intestinal stem cells. Nature. 2015;521(7550):43 –7.
+Eiraku M. Sasai Y Self-formation of layered neural structures in three-dimensional
+culture of ES cells. Curr Opin Neurobiol. 2012;22(5):768 –77.
+Eiraku M, Watanabe K, Matsuo-Takasaki M, Kawada M, Yonemura S, Matsumura M,
+Wataya T, Nishiyama A, Muguruma K. Sasai Y Self-organized formation of
+polarized cortical tissues from ESCs and its active manipulation by extrinsic
+signals. Cell Stem Cell. 2008;3(5):519 –32.
+Engevik MA, Engevik KA, Yacyshyn MB, Wang J, Hassett DJ, Darien B,
+Yacyshyn BR. Worrell RT Human Clostridium difficile infection: inhibition
+of NHE3 and microbiota profile. Am J Physiol Gastrointest Liver Physiol.
+2015;308(6):G497 –509.
+Ettayebi K, Crawford SE, Murakami K, Broughman JR, Karandikar U, Tenge VR, Neill
+FH, Blutt SE, Zeng X-L, Qu L, et al. Replication of human noroviruses in stem
+cell-derived human enteroids. Science. 2016;353(6306):1387 –93.
+Ferkol T. Schraufnagel D The global burden of respiratory disease. Ann Am
+Thorac Soc. 2014;11(3):404 –6.
+Fessler E, Drost J, van Hooff SR, Linnekamp JF, Wang X, Jansen M, De Sousa E Melo F,
+Prasetyanti PR, Ijspeert JE, Franitza M, et al. TGF βsignaling directs serrated adenomas
+to the mesenchymal colorectal cancer subtype. EMBO Mol Med. 2016;8(7):745 –60.
+Finkbeiner SR, Zeng X-L, Utama B, Atmar RL, Shroyer NF, Estes MK. Stem cell-
+derived human intestinal organoids as an infection model for rotaviruses.
+mBio. 2012;3(4):e00159.
+Firth AL, Menon T, Parker GS, Qualls SJ, Lewis BM, Ke E, Dargitz CT, Wright R, Khanna
+A, Gage FH, et al. Functional Gene Correction for Cystic Fibrosis in Lung
+Epithelial Cells Generated from Patient iPSCs. Cell Rep. 2015;12(9):1385 –90.
+Forbester JL, Goulding D, Vallier L, Hannan N, Hale C, Pickard D, Mukhopadhyay
+S. Dougan G Interaction of Salmonella enterica Serovar Typhimurium with
+Intestinal Organoids Derived from Human Induced Pluripotent Stem Cells.
+Infect Immun. 2015;83(7):2926 –34.
+Freedman BS, Brooks CR, Lam AQ, Fu H, Morizane R, Agrawal V, Saad AF, Li MK, Hughes
+MR, Werff RV, et al. Modelling kidney disea se with CRISPR-mutant kidney organoids
+derived from human pluripotent epiblast spheroids. Nat Commun. 2015;6:8715.
+Fujii M, Shimokawa M, Date S, Takano A, Matano M, Nanki K, Ohta Y, Toshimitsu
+K, Nakazato Y, Kawasaki K, et al. A Colorectal Tumor Organoid Library
+Demonstrates Progressive Loss of Niche Factor Requirements during
+Tumorigenesis. Cell Stem Cell. 2016;18(6):827 –38.
+Fulcher ML, Gabriel S, Burns KA, Yankaskas JR, Randell SH. Well-differentiated
+human airway epithelial cell cultures. Methods Mol Med. 2005;107:183 –206.
+Fumagalli A, Drost J, Suijkerbuijk SJE, van Boxtel R, de Ligt J, Offerhaus GJ,
+Begthel H, Beerling E, Tan EH, Sansom OJ, et al. Genetic dissection of
+colorectal cancer progression by orthotopic transplantation of engineered
+cancer organoids. Proc Natl Acad Sci U S A. 2017;114(12):E2357 –E64.
+Gabriel E, Ramani A, Karow U, Gottardo M, Natarajan K, Gooi LM, Goranci-Buzhala
+G, Krut O, Peters F, Nikolic M, et al. Recent Zika virus isolates induce
+premature differentiation of neural progenitors in human brain organoids.
+Cell Stem Cell. 2017;20(3):397 –406.e5.
+Ganesh K, Wu C, O'Rourke KP, Szeglin BC, Zheng Y, Sauvé C-EG, Adileh M,
+Wasserman I, Marco MR, Kim AS, et al. A rectal cancer organoid platform to
+study individual responses to chemoradiation. Nat Med. 2019;25(10):1607 –14.Liet al. Cell Regeneration            (2020) 9:21 Page 29 of 33Gao D, Vela I, Sboner A, Iaquinta PJ, Karthaus WR, Gopalan A, Dowling C, Wanjala
+JN, Undvall EA, Arora VK, et al. Organoid cultures derived from patients with
+advanced prostate cancer. Cell. 2014;159(1):176 –87.
+Garcez PP, Loiola EC, Madeiro da Costa R, Higa LM, Trindade P, Delvecchio R,
+Nascimento JM, Brindeiro R, Tanuri A, Rehen SK. Zika virus impairs growth in
+human neurospheres and brain organoids. Science. 2016;352(6287):816 –8.
+Giandomenico SL, Mierau SB, Gibbons GM, Wenger LMD, Masullo L, Sit T,
+Sutcliffe M, Boulanger J. Tripodi M Cerebral organoids at the air-liquid
+interface generate diverse nerve tracts with functional output. Nat Neurosci.
+2019;22(4):669 –79.
+Gjorevski N, Sachs N, Manfrin A, Giger S, Bragina ME, Ordóñez-Morán P, Clevers H.
+Lutolf MP Designer matrices for intestinal stem cell and organoid culture.
+Nature. 2016;539(7630):560 –4.
+Guan Y, Xu D, Garfin PM, Ehmer U, Hurwitz M, Enns G, Michie S, Wu M, Zheng M,
+Nishimura T, et al. Human hepatic organoids for the analysis of human
+genetic diseases. JCI Insight. 2017;2(17):e94954.
+Heo I, Dutta D, Schaefer DA, Iakobachvili N, Artegiani B, Sachs N, Boonekamp KE,
+Bowden G, Hendrickx APA, Willems RJL, et al. Modelling Cryptosporidium
+infection in human small intestinal and lung organoids. Nat Microbiol. 2018;
+3(7):814 –23.
+Hill SJ, Decker B, Roberts EA, Horowitz NS, Muto MG, Worley MJ Jr, Feltmate CM,
+Nucci MR, Swisher EM, Nguyen H, et al. Prediction of DNA Repair Inhibitor
+Response in Short-Term Patient-Derived Ovarian Cancer Organoids. Cancer
+Discov. 2018;8(11):1404 –21.
+Hirsch HH, Brennan DC, Drachenberg CB, Ginevri F, Gordon J, Limaye AP,
+Mihatsch MJ, Nickeleit V, Ramos E, Randhawa P, et al. Polyomavirus-
+associated nephropathy in renal transplantation: interdisciplinary analyses
+and recommendations. Transplantation. 2005;79(10):1277 –86.
+Homan KA, Gupta N, Kroll KT. Flow-enhanced vascularization and maturation of
+kidney organoids in vitro. Nat Methods. 2019;16(3):255 –62.
+Hu H, Gehart H, Artegiani B, LÖpez-Iglesias C, Dekkers F, Basak O, van Es J, Chuva
+de Sousa Lopes SM, Begthel H, Korving J, et al. Long-term expansion of
+functional mouse and human hepatocytes as 3D Organoids. Cell. 2018;175(6):
+1591–606.e19.
+Huang JY, Sweeney EG, Sigal M, Zhang HC, Remington SJ, Cantrell MA, Kuo CJ,
+Guillemin K. Amieva MR Chemodetection and Destruction of Host Urea
+Allows Helicobacter pylori to Locate the Epithelium. Cell Host Microbe.
+2015a;18(2):147 –56.
+Huang L, Holtzinger A, Jagan I, BeGora M, Lohse I, Ngai N, Nostro C, Wang R,
+Muthuswamy LB, Crawford HC, et al. Ductal pancreatic cancer modeling and
+drug screening using human pluripotent stem cell- and patient-derived
+tumor organoids. Nat Med. 2015b;21(11):1364 –71.
+Hubert CG, Rivera M, Spangler LC, Wu Q, Mack SC, Prager BC, Couce M,
+McLendon RE, Sloan AE. Rich JN A Three-Dimensional Organoid Culture
+System Derived from Human Glioblastomas Recapitulates the Hypoxic
+Gradients and Cancer Stem Cell Heterogeneity of Tumors Found In Vivo.
+Cancer Res. 2016;76(8):2465 –77.
+Huch M, Dorrell C, Boj SF, van Es JH, Li VSW, van de Wetering M, Sato T, Hamer
+K, Sasaki N, Finegold MJ, et al. In vitro expansion of single Lgr5+ liver stem
+cells induced by Wnt-driven regeneration. Nature. 2013;494(7436):247 –50.
+Huch M, Gehart H, van Boxtel R, Hamer K, Blokzijl F, Verstegen MMA, Ellis E,
+van Wenum M, Fuchs SA, de Ligt J, et al. Long-term culture of genome-
+stable bipotent stem cells from adult human liver. Cell. 2015;160(1-2):
+299–312.
+Hui KPY, Ching RHH, Chan SKH, Nicholls JM, Sachs N, Clevers H, Peiris JSM. Chan
+MCW Tropism, replication competence, and innate immune responses of
+influenza virus: an analysis of human airway organoids and ex-vivo bronchus
+cultures. Lancet Respir Med. 2018;6(11):846 –54.
+Jacob F, Salinas RD, Zhang DY, PTT N, Schnoll JG, SZH W, Thokala R, Sheikh S,
+Saxena D, Prokop S, et al. A Patient-Derived Glioblastoma Organoid Model
+and Biobank Recapitulates Inter- and Intra-tumoral Heterogeneity. Cell. 2020;
+180(1):188 –204.e22..
+Jaffe A, Mack SA, Lin Y, Mao WL, Neaton JB, Karunadasa HI. High compression-
+induced conductivity in a Layered Cu-Br Perovskite. Angew Chem Int Ed
+Engl. 2019. https://doi.org/10.1002/anie.201912575 .
+John T, Kohler D, Pintilie M, Yanagawa N, Pham N-A, Li M, Panchal D, Hui F,
+Meng F, Shepherd FA, et al. The ability to form primary tumor xenografts is
+predictive of increased risk of disease recurrence in early-stage non-small cell
+lung cancer. Clin Cancer Res. 2011;17(1):134 –41.
+June CH. Sadelain M Chimeric Antigen Receptor Therapy. N Engl J Med. 2018;
+379(1):64 –73.Jung P, Sato T, Merlos-Suárez A, Barriga FM, Iglesias M, Rossell D, Auer H, Gallardo
+M, Blasco MA, Sancho E, et al. Isolation and in vitro expansion of human
+colonic stem cells. Nat Med. 2011;17(10):1225 –7.
+K a n d aM ,M a t t h a e iH ,W uJ ,H o n gS - M ,Y uJ ,B o r g e sM ,H r u b a nR H ,M a i t r aA ,
+Kinzler K, Vogelstein B, et al. Presence of somatic mutations in most
+early-stage pancreatic intraepithelial neoplasia. Gastroenterology. 2012;
+142(4):730 –3.e9.
+Karthaus WR, Iaquinta PJ, Drost J, Gracanin A, van Boxtel R, Wongvipat J, Dowling
+CM, Gao D, Begthel H, Sachs N, et al. Identification of multipotent luminal
+progenitor cells in human prostate organoid cultures. Cell. 2014;159(1):163 –75.
+Kawasaki K, Fujii M, Sugimoto S, Ishikawa K, Matano M, Ohta Y, Toshimitsu K,
+Takahashi S, Hosoe N, Sekine S, et al. Chromosome engineering of human
+colon-derived organoids to develop a model of traditional serrated
+adenoma. Gastroenterology. 2020;158(3):638 –51.e8.
+Kessler M, Hoffmann K, Brinkmann V, Thieck O, Jackisch S, Toelle B, Berger H,
+Mollenkopf H-J, Mangler M, Sehouli J, et al. The Notch and Wnt pathways
+regulate stemness and differentiation in human fallopian tube organoids. Nat
+Commun. 2015;6:8989.
+Kim YK, Refaeli I, Brooks CR, Jing P, Gulieva RE, Hughes MR, Cruz NM, Liu Y,
+Churchill AJ, Wang Y, et al. Gene-Edited Human Kidney Organoids Reveal
+Mechanisms of Disease in Podocyte Development. Stem Cells. 2017;35(12):
+2366–78.
+Klaus J, Kanton S, Kyrousi C, Ayo-Martin AC, Di Giaimo R, Riesenberg S, O'Neill AC,
+Camp JG, Tocco C. Altered neuronal migratory trajectories in human cerebral
+organoids derived from individuals with neuronal heterotopia. Nat Med.
+2019;25(4):561 –8.
+Koike H, Iwasawa K, Ouchi R, Maezawa M, Giesbrecht K, Saiki N, Ferguson A,
+Kimura M, Thompson WL, Wells JM, et al. Modelling human hepato-biliary-
+pancreatic organogenesis from the foregut-midgut boundary. Nature. 2019;
+574(7776):112 –6.
+Komor AC, Badran AH. Liu DR CRISPR-Based Technologies for the Manipulation of
+Eukaryotic Genomes. Cell. 2017;168(1-2):20 –36.
+Kopper O, de Witte CJ, Lõhmussaar K, Valle-Inclan JE, Hami N, Kester L, Balgobind
+AV, Korving J, Proost N, Begthel H, et al. An organoid platform for ovarian
+cancer captures intra- and interpatient heterogeneity. Nat Med. 2019;25(5):
+838–49.
+Kurmann AA, Serra M, Hawkins F, Rankin SA, Mori M, Astapova I, Ullas S, Lin S,
+Bilodeau M, Rossant J, et al. Regeneration of Thyroid Function by
+Transplantation of Differentiated Pluripotent Stem Cells. Cell Stem Cell. 2015;
+17(5):527 –42.
+Lamers MM, Beumer J. SARS-CoV-2 productively infects human gut enterocytes.
+Science. 2020;369(6499):50 –4.
+Lancaster MA, Renner M, Martin C-A, Wenzel D, Bicknell LS, Hurles ME, Homfray T,
+Penninger JM, Jackson AP. Knoblich JA Cerebral organoids model human
+brain development and microcephaly. Nature. 2013;501(7467):373 –9.
+Lannagan TRM, Lee YK, Wang T, Roper J, Bettington ML, Fennell L, Vrbanac L,
+Jonavicius L, Somashekar R, Gieniec K, et al. Genetic editing of colonic
+organoids provides a molecularly distinct and orthotopic preclinical model of
+serrated carcinogenesis. Gut. 2019;68(4):684 –92.
+Lee J, Snyder ER, Liu Y, Gu X, Wang J, Flowers BM, Kim YJ, Park S, Szot GL, Hruban
+RH, et al. Reconstituting development of pancreatic intraepithelial neoplasia
+from primary human pancreas duct cells. Nat Commun. 2017;8:14686.
+Lee SH, Hu W, Matulay JT, Silva MV, Owczarek TB, Kim K, Chua CW, Barlow LJ,
+Kandoth C, Williams AB, et al. Tumor evolution and drug response in patient-
+derived organoid models of bladder cancer. Cell. 2018;173(2):515 –28.e17.
+Leslie JL, Huang S, Opp JS, Nagy MS, Kobayashi M, Young VB. Spence JR
+Persistence and toxin production by Clostridium difficile within human
+intestinal organoids result in disruption of epithelial paracellular barrier
+function. Infect Immun. 2015;83(1):138 –45.
+Li ML, Aggeler J, Farson DA, Hatier C, Hassell J . Bissell MJ Influence of a reconstituted
+basement membrane and its components on casein gene expression and secretion
+in mouse mammary epithelial cells. Proc Natl Acad Sci U S A. 1987;84(1):136 –40.
+Li X, Nadauld L, Ootani A, Corney DC, Pai RK, Gevaert O, Cantrell MA, Rack PG, Neal
+JT, Chan CWM, et al. Oncogenic transformation of diverse gastrointestinal
+tissues in primary organoid culture. Nat Med. 2014;20(7):769 –77.
+Li Y, Liu Y, Liu B, Wang J, Wei S, Qi Z, Wang S, Fu W, Chen YG. A growth factor-
+free culture system underscores the coordination between Wnt and BMP
+signaling in Lgr5(+) intestinal stem cell maintenance. Cell Discov. 2018;4:49.
+Li Y, Muffat J, Omer A, Bosch I, Lancaster MA, Sur M, Gehrke L, Knoblich JA,
+Jaenisch R. Induction of expansion and folding in human cerebral organoids.
+Cell Stem Cell. 2017;20(3):385 –96.e3.Liet al. Cell Regeneration            (2020) 9:21 Page 30 of 33Li Y, Wang R, Huang D, Ma X, Mo S, Guo Q, Fu G, Li Y, Xu X, Hu X, et al. A novel
+human colon signet-ring cell carcinoma organoid line: establishment,
+characterization and application. Carcinogenesis. 2019;41(7):993 –1004.
+Lindeboom RG, van Voorthuijsen L, Oost KC, Rodríguez-Colman MJ, Luna-Velez
+MV, Furlan C, Baraille F, Jansen PW, Ribeiro A, Burgering BM, et al. Integrative
+multi-omics analysis of intestinal organoid differentiation. Mol Syst Biol. 2018;
+14(6):e8227.
+Mariani J, Coppola G, Zhang P, Abyzov A, Provini L, Tomasini L, Amenduni M,
+Szekely A, Palejev D, Wilson M, et al. FOXG1-Dependent Dysregulation of
+GABA/Glutamate Neuron Differentiation in Autism Spectrum Disorders. Cell.
+2015;162(2):375 –90.
+Matano M, Date S, Shimokawa M, Takano A, Fujii M, Ohta Y, Watanabe T, Kanai T,
+Sato T. Modeling colorectal cancer using CRISPR-Cas9-mediated engineering
+of human intestinal organoids. Nat Med. 2015;21(3):256 –62.
+McCracken KW, Catá EM, Crawford CM, Sinagoga KL, Schumacher M, Rockich BE,
+Tsai Y-H, Mayhew CN, Spence JR, Zavros Y, et al. Modelling human
+development and disease in pluripotent stem-cell-derived gastric organoids.
+Nature. 2014;516(7531):400 –4.
+McCracken KW, Howell JC, Wells JM, Spence JR. Generating human intestinal
+tissue from pluripotent stem cells in vitro. Nat Protoc. 2011;6(12):1920 –8.
+Mellin R, Boddey JA. Organoids for Liver Stage Malaria Research. Trends Parasitol.
+2020;36(2):158 –69.
+Mellman I, Coukos G. Dranoff G Cancer immunotherapy comes of age. Nature.
+2011;480(7378):480 –9.
+Monteil V, Kwon H, Prado P, Hagelkrüys A, Wimmer RA, Stahl M, Leopoldi A,
+Garreta E, Hurtado Del Pozo C, Prosper F, et al. Inhibition of SARS-CoV-2
+infections in engineered human tissues using clinical-grade soluble human
+ACE2. Cell. 2020;181(4):905 –13.e7.
+Morris JP, Wang SC. Hebrok M KRAS, Hedgehog, Wnt and the twisted
+developmental biology of pancreatic ductal adenocarcinoma. Nat Rev
+Cancer. 2010;10(10):683 –95.
+Mueller NJ, Kuwaki K, Knosalla C, Dor FJMF, Gollackner B, Wilkinson RA, Arn S,
+Sachs DH, Cooper DKC. Fishman JA Early weaning of piglets fails to exclude
+porcine lymphotropic herpesvirus. Xenotransplantation. 2005;12(1):59 –62.
+Nair H, Nokes DJ, Gessner BD, Dherani M, Madhi SA, Singleton RJ, O'Brien KL,
+Roca A, Wright PF, Bruce N, et al. Global burden of acute lower respiratory
+infections due to respiratory syncytial virus in young children: a systematic
+review and meta-analysis. Lancet. 2010;375(9725):1545 –55.
+Nakano T, Ando S, Takata N, Kawada M, Muguruma K, Sekiguchi K, Saito K,
+Yonemura S, Eiraku M. Sasai Y Self-formation of optic cups and storable
+stratified neural retina from human ESCs. Cell Stem Cell. 2012;10(6):771 –85.
+Nanduri LSY, Baanstra M, Faber H, Rocchi C, Zwart E, de Haan G, van Os R.
+Coppes RP Purification and ex vivo expansion of fully functional salivary
+gland stem cells. Stem Cell Reports. 2014;3(6):957 –64.
+Nanki K, Toshimitsu K, Takano A, Fujii M, Shimokawa M, Ohta Y, Matano M, Seino
+T, Nishikori S, Ishikawa K, et al. Divergent Routes toward Wnt and R-spondin
+Niche Independency during Human Gastric Carcinogenesis. Cell. 2018;174(4):
+856–69.e17.
+Neal JT, Kuo CJ. Organoids as Models for Neoplastic Transformation. Annu Rev
+Pathol. 2016;11:199 –220.
+Neal JT, Li X, Zhu J, Giangarra V, Grzeskowiak CL, Ju J, Liu IH, Chiou S-H,
+Salahudeen AA, Smith AR, et al. Organoid modeling of the tumor Immune
+microenvironment. Cell. 2018;175(7):1972 –88.e16.
+Ng S, Schwartz RE, March S, Galstian A, Gural N, Shan J, Prabhu M, Mota MM.
+Bhatia SN Human iPSC-derived hepatocyte-like cells support Plasmodium
+liver-stage infection in vitro. Stem Cell Reports. 2015;4(3):348 –59.
+Nie Y-Z, Zheng Y-W, Miyakawa K, Murata S, Zhang R-R, Sekine K, Ueno Y, Takebe
+T, Wakita T, Ryo A, et al. Recapitulation of hepatitis B virus-host interactions
+in liver organoids from human induced pluripotent stem cells. EBioMedicine.
+2018;35:114 –23.
+Nigro G, Rossi R, Commere P-H, Jay P, Sansonetti PJ. The cytosolic bacterial
+peptidoglycan sensor Nod2 affords stem cell protection and links microbes
+to gut epithelial regeneration. Cell Host Microbe. 2014;15(6):792 –8.
+Nuciforo S, Fofana I, Matter MS, Blumer T, Calabrese D, Boldanova T, Piscuoglio S,
+Wieland S, Ringnalda F, Schwank G, et al. Organoid Models of Human Liver
+Cancers Derived from Tumor Needle Biopsies. Cell Rep. 2018;24(5):1363 –76.
+Nusse R. Clevers H Wnt/ β-Catenin Signaling, Disease, and Emerging Therapeutic
+Modalities. Cell. 2017;169(6):985 –99.
+Olivier M, Hollstein M, Hainaut P. TP53 mutations in human cancers: origins,
+consequences, and clinical use. Cold Spring Harb Perspect Biol. 2010;2(1):
+a001008.Ooft SN, Weeber F, Dijkstra KK, McLean CM, Kaing S, van Werkhoven E, Schipper
+L, Hoes L, Vis DJ, van de Haar J, et al. Patient-derived organoids can predict
+response to chemotherapy in metastatic colorectal cancer patients. Sci Transl
+Med. 2019;11(513):eaay2574.
+Ootani A, Li X, Sangiorgi E, Ho QT, Ueno H, Toda S, Sugihara H, Fujimoto K,
+Weissman IL, Capecchi MR, et al. Sustained in vitro intestinal epithelial
+culture within a Wnt-dependent stem cell niche. Nat Med. 2009;15(6):701 –6.
+Pauli C, Hopkins BD, Prandi D, Shaw R, Fedrizzi T, Sboner A, Sailer V, Augello M,
+Puca L, Rosati R, et al. In VitroPersonalized and Cancer Models to Guide
+Precision Medicine. Cancer Discov. 2017a;7(5):462 –77..
+Pauli C, Hopkins BD, Prandi D, Shaw R, Fedrizzi T, Sboner A, Sailer V, Augello M,
+Puca L, Rosati R, et al. Personalized In Vitro and In Vivo Cancer Models to
+Guide Precision Medicine. Cancer Discov. 2017b;7(5):462 –77.
+P e n gW C ,L o g a nC Y ,F i s hM ,A n b a r c h i a n T, Aguisanda F, Álvarez-Varela A,
+Wu P, Jin Y, Zhu J, Li B, et al. Inflammatory Cytokine TNF αPromotes the
+Long-Term Expansion of Primary Hepatocytes in 3D Culture. Cell. 2018;
+175(6):1607 –19.e15.
+Persson BD, Jaffe AB, Fearns R, Danahay H. Respiratory syncytial virus can infect
+basal cells and alter human airway epithelial differentiation. PLoS One. 2014;
+9(7):e102368.
+Qian X, Nguyen HN, Song MM, Hadiono C, Ogden SC, Hammack C, Yao B,
+Hamersky GR, Jacob F, Zhong C, et al. Brain-Region-Specific Organoids Using
+Mini-bioreactors for Modeling ZIKV Exposure. Cell. 2016;165(5):1238 –54.
+Qian X, Su Y, Adam CD, Deutschmann AU, Pather SR, Goldberg EM, Su K, Li S, Lu
+L, Jacob F, et al. Sliced human cortical organoids for modeling distinct
+cortical layer formation. Cell Stem Cell. 2020;26(5):766 –81.e9.
+Ramani S, Atmar RL. Estes MK Epidemiology of human noroviruses and updates
+on vaccine development. Curr Opin Gastroenterol. 2014;30(1):25 –33.
+Ren W, Lewandowski BC, Watson J, Aihara E, Iwatsuki K, Bachmanov AA, Margolskee
+RF. Jiang P Single Lgr5- or Lgr6-expressing taste stem/progenitor cells generate
+taste bud cells ex vivo. Proc Natl Acad Sci U S A. 2014;111(46):16401 –6.
+Ringel T, Frey N, Ringnalda F, Janjuha S, Cherkaoui S, Butz S, Srivatsa S, Pirkl M,
+Russo G, Villiger L, et al. Genome-Scale CRISPR screening in human intestinal
+organoids identifies drivers of TGF- βResistance. Cell Stem Cell. 2020;26(3):
+431–40.e8.
+Roe J-S, Hwang C-I, Somerville TDD, Milazzo JP, Lee EJ, Da Silva B, Maiorino L,
+Tiriac H, Young CM, Miyabayashi K, et al. Enhancer reprogramming promotes
+pancreatic cancer metastasis. Cell. 2017;170(5):875 –88.e20.
+Rookmaaker MB, Schutgens F, Verhaar MC, Clevers H. Development and
+application of human adult stem or progenitor cell organoids. Nat Rev
+Nephrol. 2015;11(9):546 –54.
+Roper J, Tammela T, Cetinbas NM, Akkad A, Roghanian A, Rickelt S, Almeqdadi M,
+Wu K, Oberli MA, Sánchez-Rivera FJ, et al. In vivo genome editing and
+organoid transplantation models of colorectal cancer and metastasis. Nat
+Biotechnol. 2017;35(6):569 –76.
+Rosenberg SA. Restifo NP Adoptive cell transfer as personalized immunotherapy
+for human cancer. Science. 2015;348(6230):62 –8.
+Sachs N, Clevers H. Organoid cultures for the analysis of cancer phenotypes. Curr
+Opin Genet Dev. 2014;24:68 –73.
+Sachs N, de Ligt J, Kopper O, Gogola E, Bounova G, Weeber F, Balgobind AV,
+Wind K, Gracanin A, Begthel H, et al. A living biobank of breast cancer
+organoids captures disease heterogeneity. Cell. 2018;172(1-2):373 –86.e10.
+Sachs N, Papaspyropoulos A, Zomer-van Ommen DD, Heo I, Böttinger L, Klay D, Weeber
+F, Huelsz-Prince G, Iakobachvili N, Amatngalim GD, et al. Long-term expanding
+human airway organoids for disea se modeling. EMBO J. 2019;38(4):e100300.
+Saito Y, Muramatsu T, Kanai Y, Ojima H, Sukeda A, Hiraoka N, Arai E, Sugiyama Y,
+Matsuzaki J, Uchida R, et al. Establishment of patient-derived organoids and
+drug screening for biliary tract carcinoma. Cell Rep. 2019;27(4):1265 –76.e4.
+Saito Y, Onishi N, Takami H, Seishima R, Inoue H, Hirata Y, Kameyama K,
+Tsuchihashi K, Sugihara E, Uchino S, et al. Development of a functional
+thyroid model based on an organoid culture system. Biochem Biophys Res
+Commun. 2018;497(2):783 –9.
+Salama NR, Hartung ML. Müller A Life in the human stomach: persistence
+strategies of the bacterial pathogen Helicobacter pylori. Nat Rev Microbiol.
+2013;11(6):385 –99.
+Sampaziotis F, de Brito MC, Madrigal P, Bertero A, Saeb-Parsy K, Soares FAC,
+Schrumpf E, Melum E, Karlsen TH, Bradley JA, et al. Cholangiocytes derived
+from human induced pluripotent stem cells for disease modeling and drug
+validation. Nat Biotechnol. 2015;33(8):845 –52.
+Sato T, Stange DE, Ferrante M, Vries RGJ, Van Es JH, Van den Brink S, Van Houdt
+WJ, Pronk A, Van Gorp J, Siersema PD, et al. Long-term expansion ofLiet al. Cell Regeneration            (2020) 9:21 Page 31 of 33epithelial organoids from human colon, adenoma, adenocarcinoma, and
+Barrett's epithelium. Gastroenterology. 2011;141(5):1762 –72.
+Sato T, Vries RG, Snippert HJ, van de Wetering M, Barker N, Stange DE, van Es JH,
+Abo A, Kujala P, Peters PJ, et al. Single Lgr5 stem cells build crypt-villus
+structures in vitro without a mesenchymal niche. Nature. 2009;459(7244):262 –5.
+Scanu T, Spaapen RM, Bakker JM, Pratap CB, Wu L-E, Hofland I, Broeks A, Shukla
+VK, Kumar M, Janssen H, et al. Salmonella manipulation of host signaling
+pathways provokes cellular transformation associated with gallbladder
+carcinoma. Cell Host Microbe. 2015;17(6):763 –74.
+Schlaermann P, Toelle B, Berger H, Schmidt SC, Glanemann M, Ordemann J,
+Bartfeld S, Mollenkopf HJ, Meyer TF. A novel human gastric primary cell
+culture system for modelling Helicobacter pylori infection in vitro. Gut. 2016;
+65(2):202 –13.
+Schnalzger TE, de Groot MH, Zhang C, Mosa MH, Michels BE, Röder J, Darvishi T,
+Wels WS. Farin HF 3D model for CAR-mediated cytotoxicity using patient-
+derived colorectal cancer organoids. EMBO J. 2019;38(12):e100928.
+Schutgens F, Rookmaaker MB, Margaritis T, Rios A, Ammerlaan C, Jansen J, Gijzen
+L, Vormann M, Vonk A, Viveen M, et al. Tubuloids derived from human adult
+kidney and urine for personalized disease modeling. Nat Biotechnol. 2019;
+37(3):303 –13.
+Schütte M, Risch T, Abdavi-Azar N, Boehnke K, Schumacher D, Keil M, Yildiriman
+R, Jandrasits C, Borodina T, Amstislavskiy V, et al. Molecular dissection of
+colorectal cancer in pre-clinical models identifies biomarkers predicting
+sensitivity to EGFR inhibitors. Nat Commun. 2017;8:14262.
+Schwank G, Koo B-K, Sasselli V, Dekkers JF, Heo I, Demircan T, Sasaki N, Boymans
+S, Cuppen E, van der Ent CK, et al. Functional repair of CFTR by CRISPR/Cas9
+in intestinal stem cell organoids of cystic fibrosis patients. Cell Stem Cell.
+2013;13(6):653 –8.
+Seidlitz T, Merker SR, Rothe A, Zakrzewski F, von Neubeck C, Grützmann K,
+Sommer U, Schweitzer C, Schölch S, Uhlemann H, et al. Human gastric
+cancer modelling using organoids. Gut. 2019;68(2):207 –17.
+Seino T, Kawasaki S, Shimokawa M, Tamagawa H, Toshimitsu K, Fujii M, Ohta Y,
+Matano M, Nanki K, Kawasaki K, et al. Human pancreatic tumor organoids
+reveal loss of stem cell niche factor dependence during disease progression.
+Cell Stem Cell. 2018;22(3):454 –67.e6.
+Seshagiri S, Stawiski EW, Durinck S, Modrusan Z, Storm EE, Conboy CB, Chaudhuri
+S, Guan Y, Janakiraman V, Jaiswal BS, et al. Recurrent R-spondin fusions in
+colon cancer. Nature. 2012;488(7413):660 –4.
+Shannon JM, Mason RJ, Jennings SD. Functional differentiation of alveolar type II
+epithelial cells in vitro: effects of cell shape, cell-matrix interactions and cell-
+cell interactions. Biochimica et Biophysica Acta. 1987;931(2):143 –56.
+Shimokawa M, Ohta Y, Nishikori S, Matano M, Takano A, Fujii M, Date S,
+Sugimoto S, Kanai T. Sato T Visualization and targeting of LGR5(+) human
+colon cancer stem cells. Nature. 2017;545(7653):187 –92.
+Shukla VK, Singh H, Pandey M, Upadhyay SK, Nath G. Carcinoma of the
+gallbladder--is it a sequel of typhoid? Dig Dis Sci. 2000;45(5):900 –3.
+Simsek S, Zhou T, Robinson CL, Tsai S-Y, Crespo M, Amin S, Lin X, Hon J, Evans T,
+Chen S. Modeling cystic fibrosis using pluripotent stem cell-derived human
+pancreatic ductal epithelial cells. Stem Cells Transl Med. 2016;5(5):572 –9.
+Sondo E, Caci E, Galietta LJV. The TMEM16A chloride channel as an alternative
+therapeutic target in cystic fibrosis. Int J Biochem Cell Biol. 2014;52:73 –6.
+Spence JR, Mayhew CN, Rankin SA, Kuhar MF, Vallance JE, Tolle K, Hoskins EE,
+Kalinichenko VV, Wells SI, Zorn AM, et al. Directed differentiation of human
+pluripotent stem cells into intestinal tissue in vitro. Nature. 2011;470(7332):
+105–9.
+Stange DE, Koo B-K, Huch M, Sibbel G, Basak O, Lyubimova A, Kujala P, Bartfeld S, Koster J,
+Geahlen JH, et al. Differentiated Troy+ chief cells act as reserve stem cells to generate
+all lineages of the stomach epithelium. Cell. 2013;155(2):357 –68.
+Takasato M, Er PX, Chiu HS, Maier B, Baillie GJ, Ferguson C, Parton RG, Wolvetang
+EJ, Roost MS. Chuva de Sousa Lopes SM, et al. Kidney organoids from human
+iPS cells contain multiple lineages and model human nephrogenesis. Nature.
+2015;526(7574):564 –8.
+Takebe T, Sekine K, Enomura M, Koike H, Kimura M, Ogaeri T, Zhang R-R, Ueno Y,
+Zheng Y-W, Koike N, et al. Vascularized and functional human liver from an
+iPSC-derived organ bud transplant. Nature. 2013;499(7459):481 –4.
+Thomas CA, Tejwani L, Trujillo CA, Negraes PD, Herai RH, Mesci P, Macia A, Crow
+YJ, Muotri AR. Modeling of TREX1-Dependent autoimmune disease using
+human stem cells highlights L1 accumulation as a source of
+neuroinflammation. Cell Stem Cell. 2017;21(3):319 –31.e8.
+Tiriac H, Belleau P, Engle DD, Plenker D, Deschênes A, Somerville TDD, Froeling
+FEM, Burkhart RA, Denroche RE, Jang G-H, et al. Organoid Profiling IdentifiesCommon Responders to Chemotherapy in Pancreatic Cancer. Cancer Discov.
+2018;8(9):1112 –29.
+Tomlins SA, Rhodes DR, Perner S, Dhanasekaran SM, Mehra R, Sun X-W,
+Varambally S, Cao X, Tchinda J, Kuefer R, et al. Recurrent fusion of TMPRSS2
+and ETS transcription factor genes in prostate cancer. Science. 2005;
+310(5748):644 –8.
+Toolan HW. Growth of human tumors in cortisone-treated laboratory animals:
+the possibility of obtaining permanently transplantable human tumors.
+Cancer Res. 1953;13(4-5):389 –94.
+Turco MY, Gardner L, Hughes J, Cindrova-Davies T, Gomez MJ, Farrell L,
+Hollinshead M, Marsh SGE, Brosens JJ, Critchley HO, et al. Long-term,
+hormone-responsive organoid cultures of human endometrium in a
+chemically defined medium. Nat Cell Biol. 2017;19(5):568 –77.
+van de Wetering M, Francies HE, Francis JM, Bounova G, Iorio F, Pronk A, van
+Houdt W, van Gorp J, Taylor-Weiner A, Kester L, et al. Prospective derivation
+of a living organoid biobank of colorectal cancer patients. Cell. 2015;161(4):
+933–45.
+van der Sanden SMG, Sachs N, Koekkoek SM, Koen G, Pajkrt D, Clevers H,
+Wolthers KC. Enterovirus 71 infection of human airway organoids reveals
+VP1-145 as a viral infectivity determinant. Emerg Microbes Infect. 2018;7(1):84.
+Vlachogiannis G, Hedayat S, Vatsiou A, Jamin Y, Fernández-Mateos J, Khan K,
+Lampis A, Eason K, Huntingford I, Burke R, et al. Patient-derived organoids
+model treatment response of metastatic gastrointestinal cancers. Science.
+2018;359(6378):920 –6.
+von Furstenberg RJ, Gulati AS, Baxi A, Doherty JM, Stappenbeck TS, Gracz AD,
+Magness ST. Henning SJ Sorting mouse jejunal epithelial cells with CD24
+yields a population with characteristics of intestinal stem cells. Am J Physiol
+Gastrointest Liver Physiol. 2011;300(3):G409 –G17.
+Wang F, Scoville D, He XC, Mahe MM, Box A, Perry JM, Smith NR, Lei NY, Davies
+PS, Fuller MK, et al. Isolation and characterization of intestinal stem cells
+based on surface marker combinations and colony-formation assay.
+Gastroenterology. 2013;145(2):383 –95.e1 -21.
+Weeber F, van de Wetering M, Hoogstraat M, Dijkstra KK, Krijgsman O, Kuilman T,
+Gadellaa-van Hooijdonk CGM, van der Velden DL, Peeper DS, Cuppen EPJG,
+et al. Preserved genetic diversity in organoids cultured from biopsies of human
+colorectal cancer metastases. Proc Natl Acad Sci U S A. 2015;112(43):13308 –11.
+Wells MF, Salick MR, Wiskow O, Ho DJ, Worringer KA, Ihry RJ, Kommineni S,
+Bilican B, Klim JR, Hill EJ, et al. Genetic Ablation of AXL Does Not Protect
+Human Neural Progenitor Cells and Cerebral Organoids from Zika Virus
+Infection. Cell Stem Cell. 2016;19(6):703 –8.
+Wiegerinck CL, Janecke AR, Schneeberger K, Vogel GF, van Haaften-Visser DY,
+E s c h e rJ C ,A d a mR ,T h ö n iC E ,P f a l l e rK ,J o r d a nA J ,e ta l .L o s so fs y n t a x i n
+3 causes variant microvillus inclusion disease. Gastroenterology. 2014;
+147(1):65 –8.e10.
+Xiang Y, Tanaka Y, Cakir B, Patterson B, Kim KY, Sun P, Kang YJ, Zhong M, Liu X,
+Patra P, et al. hESC-Derived thalamic organoids form reciprocal projections
+when fused with cortical organoids. Cell Stem Cell. 2019;24(3):487 –97.e7.
+Xiang Y, Tanaka Y, Patterson B, Kang YJ, Govindaiah G, Roselaar N, Cakir B, Kim
+KY, Lombroso AP, Hwang SM, et al. Fusion of Regionally Specified hPSC-
+Derived organoids models human brain development and interneuron
+migration. Cell Stem Cell. 2017;21(3):383 –98.e7.
+Xiao D, Deng Q. Generation of self-organized sensory ganglion organoids and
+retinal ganglion cells from fibroblasts. 2020;6(22):eaaz5858.
+Xu M, Lee EM, Wen Z, Cheng Y, Huang W-K, Qian X, Tcw J, Kouznetsova J,
+Ogden SC, Hammack C, et al. Identification of small-molecule inhibitors of
+Zika virus infection and induced neural cell death via a drug repurposing
+screen. Nat Med. 2016;22(10):1101 –7.
+Xu R, Brawner AT, Li S, Liu JJ, Kim H, Xue H, Pang ZP, Kim WY, Hart RP, Liu Y,
+et al. OLIG2 Drives abnormal neurodevelopmental phenotypes in human
+ipsc-based organoid and chimeric mouse models of down syndrome. Cell
+Stem Cell. 2019;24(6):908 –26.e8.
+Yan HHN, Siu HC, Law S, Ho SL, Yue SSK, Tsui WY, Chan D, Chan AS, Ma S, Lam
+KO, et al. A comprehensive human gastric cancer organoid biobank captures
+tumor subtype heterogeneity and enables therapeutic screening. Cell Stem
+Cell. 2018;23(6):882 –97.e11.
+Yao Y, Xu X, Yang L, Zhu J, Wan J, Shen L, Xia F, Fu G, Deng Y, Pan M, et al.
+Patient-Derived organoids predict chemoradiation responses of locally
+advanced rectal cancer. Cell Stem Cell. 2020;26(1):17 –26.e6.
+Yin X, Farin HF, van Es JH, Clevers H, Langer R, Karp JM. Niche-independent high-
+purity cultures of Lgr5+ intestinal stem cells and their progeny. Nat Methods.
+2014;11(1):106 –12.Liet al. Cell Regeneration            (2020) 9:21 Page 32 of 33Yin Y, Bijvelds M, Dang W, Xu L, van der Eijk AA, Knipping K, Tuysuz N, Dekkers
+JF, Wang Y, de Jonge J, et al. Modeling rotavirus infection and antiviral
+therapy using primary intestinal organoids. Antiviral Res. 2015;123:120 –31.
+Yoshihara E, O'Connor C. Immune-evasive human islet-like organoids ameliorate
+diabetes; 2020.
+Yui S, Nakamura T, Sato T, Nemoto Y, Mizutani T, Zheng X, Ichinose S, Nagaishi T,
+Okamoto R, Tsuchiya K, et al. Functional engraftment of colon epithelium
+expanded in vitro from a single adult Lgr5+stem cell. Nat Med. 2012;18(4):
+618–23.
+Zhang B, He Y, Xu Y, Mo F, Mi T, Shen QS, Li C, Li Y, Liu J, Wu Y, et al. Differential
+antiviral immunity to Japanese encephalitis virus in developing cortical
+organoids. Cell Death Dis. 2018;9(7):719.
+Zhang Y-G, Wu S, Xia Y. Sun J Salmonella-infected crypt-derived intestinal
+organoid culture system for host-bacterial interactions. Physiol Rep. 2014;2(9):
+e12147.
+Zhang YS, Arneri A, Bersini S, Shin SR, Zhu K, Goli-Malekabadi Z, Aleman J, Colosi
+C, Busignani F, Dell'Erba V, et al. Bioprinting 3D microfibrous scaffolds for
+engineering endothelialized myocardium and heart-on-a-chip. Biomaterials.
+2016;110:45 –59.
+Zheng D-P, Ando T, Fankhauser RL, Beard RS, Glass RI. Monroe SS Norovirus
+classification and proposed strain nomenclature. Virology. 2006;346(2):312 –23.
+Zhou J, Li C, Liu X, Chiu MC. Infection of bat and human intestinal organoids by
+SARS-CoV-2. Nat Med. 2020;26(7):1077 –83.
+Zhou J, Li C, Sachs N, Chiu MC, Wong BH-Y, Chu H, Poon VK-M, Wang D, Zhao X,
+Wen L, et al. Differentiated human airway organoids to assess infectivity of
+emerging influenza virus. Proc Natl Acad Sci U S A. 2018;115(26):6822 –7.Liet al. Cell Regeneration            (2020) 9:21 Page 33 of 33

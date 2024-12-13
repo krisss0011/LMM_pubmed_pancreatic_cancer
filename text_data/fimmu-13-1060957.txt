@@ -1,0 +1,1742 @@
+Metastatic phenotype
+and immunosuppressivetumour microenvironmentin pancreatic ductaladenocarcinoma: Key role ofthe urokinase plasminogenactivator (PLAU)
+S. M. Zahid Hosen1,2, Md. Nazim Uddin3, Zhihong Xu1,2,
+Benjamin J. Buckley4,5, Chamini Perera1,2, Tony C. Y. Pang1,6,
+Alpha Raj Mekapogu1,2, Mohammad Ali Moni7, Faiyaz Notta8,
+Steven Gallinger8, Ron Pirola1, Jeremy Wilson1,
+Marie Ranson4,5, David Goldstein9,10and Minoti Apte1,2*
+1Pancreatic Research Group, SWS Clinical Campus, School of Clinical Medicine, Faculty of Medicine
+and Health, UNSW Sydney, Sydney, NSW, Australia,2Ingham Institute for Applied Medical Research,
+Liverpool, NSW, Australia,3Institute of Food Science and Technology, Bangladesh Council of
+Scienti ﬁc and Industrial Research (BCSIR), Dhaka, Bangladesh,4Molecular Horizons and School of
+Chemistry & Molecular Bioscience, Faculty of Science, Medicine and Health, University ofWollongong, Wollongong, NSW, Australia,
+5Illawarra Health and Medical Research Institute,
+Wollongong, NSW, Australia,6Westmead Clinical School, Faculty of Medicine and Health, University
+of Sydney, The University of Sydney, Sydney, NSW, Australia,7School of Health and Rehabilitation
+Sciences, Faculty of Health and Behavioural Sciences, The University of Queensland, St Lucia, QLD,Australia,
+8PanCuRx Translational Research Initiative, Ontario Institute for Cancer Research,
+Toronto, ON, Canada,9Prince of Wales Clinical School, University of New South Wales, Sydney,
+NSW, Australia,10Department of Medical Oncology, Prince of Wales Hospital, Randwick, NSW,
+Australia
+Background: Previous studies have revealed the role of dysregulated urokinase
+plasminogen activator (encoded by PLAU ) expression and activity in several
+pathways associated with cancer progression. However, systematic
+investigation into the association of PLAU expression with factors that
+modulate PDAC (pancreatic ductal adenocarcinoma) progression is lacking,
+such as those affecting stromal (pancreatic stellate cell, PSC)-cancer cell
+interactions, tumour immunity, PDAC subtypes and clinical outcomes from
+potential PLAU inhibition.
+Methods: This study used an integrated bioinformatics approach to identify
+prognostic markers correlated wit h PLAU expression using different
+transcriptomics, proteomics, and clinical data sets. We then determined the
+association of dysregulated PLAU and correlated signatures with oncogenic
+pathways, metastatic phenotypes, stroma, immunosuppressive tumour
+microenvironment (TME) and clinical outcome. Finally, using an in vivo
+Frontiers in Immunology frontiersin.org 01
+OPEN ACCESS
+EDITED BY
+Andrey Zamyatnin,
+I.M. Sechenov First Moscow State
+Medical University, Russia
+REVIEWED BY
+Nagaraj Nagathihalli,
+University of Miami, United States
+Monika Jakubowska,Jagiellonian University, Poland
+*CORRESPONDENCE
+Minoti Aptem.apte@unsw.edu.au
+SPECIALTY SECTION
+This article was submitted toCancer Immunityand Immunotherapy,a section of the journal
+Frontiers in Immunology
+RECEIVED 04 October 2022
+ACCEPTED 22 November 2022
+PUBLISHED 14 December 2022
+CITATION
+Hosen SMZ, Uddin MN, Xu Z,
+Buckley BJ, Perera C, Pang TCY,
+Mekapogu AR, Moni MA, Notta F,
+Gallinger S, Pirola R, Wilson J,
+Ranson M, Goldstein D and Apte M
+(2022) Metastatic phenotype and
+immunosuppressive tumourmicroenvironment in pancreatic ductaladenocarcinoma: Key role of the
+urokinase plasminogen
+activator (PLAU).Front. Immunol. 13:1060957.
+doi: 10.3389/fimmu.2022.1060957
+COPYRIGHT
+©2 0 2 2H o s e n ,U d d i n ,X u ,B u c k l e y ,Perera, Pang, Mekapogu, Moni, Notta,Gallinger, Pirola, Wilson, Ranson,
+Goldstein and Apte. This is an open-
+access article distributed under theterms of the Creative Commons
+Attribution License (CC BY). The use,
+distribution or reproduction in other
+forums is permitted, provided theoriginal author(s) and the copyrightowner(s) are credited and that the
+original publication in this journal is
+cited, in accordance with acceptedacademic practice. No use,distribution or reproduction is
+permitted which does not comply with
+these terms.TYPE Original Research
+PUBLISHED 14 December 2022
+DOI10.3389/fimmu.2022.1060957orthotopic model of pancreatic cancer, we con ﬁrmed the predicted effect of
+inhibiting PLAU on tumour growth and metastasis.
+Results: Our analyses revealed that PLAU upregulation is not only associated
+with numerous other prognostic markers but also associated with the
+activation of various oncogenic signalling pathways, aggressive phenotypes
+relevant to PDAC growth and metastasis, such as proliferation, epithelial-
+mesenchymal transition (EMT), stemness, hypoxia, extracellular cell matrix
+(ECM) degradation, upregulation o f stromal signatures, and immune
+suppression in the tumour microenvironment (TME). Moreover, the
+upregulation of PLAU was directly connected with signalling pathways
+known to mediate PSC-cancer cell interactions. Furthermore, PLAU
+upregulation was associated with the aggressive basal/squamous phenotype
+of PDAC and signi ﬁcantly reduced overall survival, indicating that this subset of
+patients may bene ﬁt from therapeutic interventions to inhibit PLAU activity. Our
+studies with a clinically relevant orthotopic pancreatic model showed that even
+short-term PLAU inhibition is suf ﬁcient to signi ﬁcantly halt tumour growth and,
+importantly, eliminate visible metastasis.
+Conclusion: Elevated PLAU correlates with increased aggressive phenotypes,
+stromal score, and immune suppression in PDAC. PLAU upregulation is also
+closely associated with the basal subtype type of PDAC; patients with this
+subtype are at high risk of mortality from the disease and may bene ﬁt from
+therapeutic targeting of PLAU .
+KEYWORDS
+PLAU , pancreatic stellate cells, proliferation, EMT, stemness, ECM degradation,
+immune suppression and basal subtype type of PDAC
+1 Introduction
+Pancreatic ductal adenocarcinoma (PDAC), the most
+common subtype of pancreatic cancer (PC), is currently the
+seventh leading cause of cancer-associated death ( 1) and has a
+notoriously dismal prognosis. The incidence of PDAC continues
+to increase, and it is projected to become the second most
+common cause of cancer-linked death by 2030 ( 2). Current
+treatments have limited impact. The mean overall survival of thecurrent standard treatment of FOLFIRINOX is 12.5 months, and
+that of Gemcitabine plus Abraxane, 10.3 months, P = 0.05 ( 3).
+Immunotherapies, individually or in combination with
+chemoradiotherapy or targeted therapy, have not made much
+progress in PDAC ( 4–7), reﬂecting an urgent need to identify
+new biologically driven targets to limit PDAC progression,
+particularly metastasis, the primary driver of mortality in
+this disease.
+PDAC is no longer considered one disease at the molecular
+level, with many different molecular subtypes and subtype-
+speciﬁc treatment responses in PDAC ( 4–6). The two majortranscriptomic-based subtypes, which have been con ﬁrmed
+across multiple investigations , are the classical/pancreatic
+progenitor subtype and the quasi-mesenchymal/basal-like/
+squamous subtype ( 4,5,8). The basal subtype is over-
+represented amongst metastatic PDAC tumours, and it is
+distinguished by ECM-rich activated stroma, the upregulation
+of expression of laminins and keratins and enriched for genes
+associated with epithelial-mesenchymal transition (EMT) and
+TGF- bsignalling ( 9). On the other hand, the classical PDAC
+signature is characterised by upregulation of a wide range of
+transcription factors, GATA4, GATA6, NKX2-2 and HNF1A,
+associated with pancreatic lineage differentiation ( 4–8).
+Clinicopathologically, basal-type tumours are poorly
+differentiated and correlate with a worse prognosis (median
+OS 10 –19.2 months and DFS 4.6 –10.9); these tumours are
+chemoresistant but may have a better response to adjuvant
+therapy ( 4–6,9–13). In contrast, classical type tumours are
+well-differentiated and are correlated with an overall better
+prognosis (median OS 19 –43.1 months and DFS 13.5 –20.6) ( 4,
+6,8,10,14–17).Hosen et al. 10.3389/ ﬁmmu.2022.1060957
+Frontiers in Immunology frontiersin.org 02Histologically, PDAC is well known to be characterised by a
+prominent stromal reaction comprising non-cellular elements
+like collagen, ﬁbronectin, glycoproteins, proteoglycans,
+hyaluronic acid, cytokines, growth factors, and serine protein
+acidic and rich in cysteine (SPARC), as well as a wide range of
+cell types including neural, endothelial, immune & pancreatic
+stellate cells (PSCs). Pancrea tic stellate cells (PSCs) are
+responsible for producing this excessive collagenous stroma inPDAC ( 18–20). Reciprocal interactions between activated
+pancreatic stellate and P DAC cells facilitate PDAC
+development and progression. One of the key pathways that
+may mediate cancer-stromal interactions is the hepatocyte
+growth factor (HGF) and its receptor c-MET pathway.
+Hyperactivity of HGF/c-MET signalling is considered a
+hallmark of cancer. Further, the serine protease urokinase
+plasminogen activator (uPA, encoded by PLAU ) activates pro-
+HGF (secreted by pancreatic stellate cells) to active HGF, which
+binds to the c-MET receptor on cancer cells, activating several
+downstream signalling molecules. In addition, HGF binding to
+the c-MET receptor induces PLAU production by pancreatic and
+other cancer cells. The increased uPA level further activates pro-
+HGF, resulting in a feed-forward activation loop to promote
+cancer progression ( 21–23).
+In normal cells ( 24–27),PLAU expression is very low and
+tightly controlled ( 7,23,28). However, PLAU and subsequently
+uPA expression is increased several-fold in tumour cells ( 23,29–
+31), which results in cataly tic conversion of inactive
+plasminogen to plasmin. Plasmin degrades extracellular matrix
+directly or indirectly viaactivation of precursor forms of matrix-
+degrading enzymes (matri x metalloproteinases) ( 32).
+Furthermore, in cancer cells, direct interaction of uPA with its
+receptor uPAR (encoded by PLAUR) facilitates the activation of
+multiple intracellular cell-signalling pathways, which regulate
+proliferation, migration, inva sion, epithelial-mesenchymal
+transition, stem cell-like prop erties, release from states of
+dormancy, cell survival, chemoresistance, angiogenesis and
+vasculogenic mimicry ( 7,24–27,33–41)i nc a n c e r .A l lo f
+which suggests a role as a master regulator in cancer
+development and progression. Indeed, upregulation of PLAU
+is associated with poor prognosis in several different cancers ( 33,
+42). One study analysed 8 PDAC versus normal tissue gene
+expression pro ﬁles retrieved from the GEO database and found
+PLAU
+and PLAU R to be one of 10 hub genes signi ﬁcantly
+associated with PDAC pathogenesis ( 43).
+This is the ﬁrst study to delineate the role of the PLAU by
+integrated publically available transcriptomic, proteomics, and
+clinical data to 1) further elucidate the mechanisms underlying
+PLAU -related PDAC growth and progression, 2) use this data to
+undertake analyses of prognostic outcomes (overall survival) and
+assessment of relationship with clinical attributes, 3) identify the
+most ‘at risk ’group based on PLAU expression and4)
+preclinically assess selectiv e uPA inhibition on pancreatic
+cancer growth and metastasis. To the best of our knowledge,this is the ﬁrst integrated –omics analysis of the expression of
+these key components of the uPA system in PDAC.
+2 Materials and methods
+This study was implemented according to the analytical
+approach shown in Figure 1 . The main steps involved in this
+task were step 1) identi ﬁcation of differentially expressed PLAU
+mRNA in i) 33 different cancer cohorts in the TCGA database,ii) different cancer cell lines from CCLE and iii) different GEO
+datasets. Step 2) Kaplan-Meier survival analyses of PLAU in
+PDAC-speci ﬁc TCGA, ICGC and OICR patient cohorts. Step 3)
+Identifying other gene signatures correlated with PLAU from
+TCGA, ICGC and OICR patients cohorts. These gene signatures
+were mainly related to cancer cell functions, immunity and
+prognosis. A PPI network was constructed based on the gene
+signatures, and relevant subcellular pathways were identi ﬁed.
+Step 4) Assessing the correlation of PLAU expression with
+pathways responsible for PSC-PDAC cell interactions. Step 5)
+Validation of transcriptome-based prognostic signatures using
+CPTAC proteomics data and assessing the relationship with
+clinical attributes. Step 6) Stratifying patient groups according to
+PLAU protein expression and survival and identifying the most
+‘at risk ’group. Step 7) Further validation of the effect of PLAU
+inhibition on PDAC tumour growth and metastasis using in vivo
+pancreatic orthotopic model.
+2.1 Datasets
+We used the GEPIA (Gene Expression Pro ﬁling Interactive
+Analysis) TCGA dataset ( http://gepia.cancer-pku.cn/ )f o r
+comparing the differential mRNA expression of PLAU between
+cancer and normal samples. The Cancer Cell Line Encyclopedia
+(CCLE) ( https://www.broadinstitute.org/ccle ) mRNA expression
+data was used to identify distinctively upregulated PLAU in
+pancreatic cancer cell lines ( 44,45). Next, we used different
+microarray data sets, including GSE16515 ( 46), GSE58561 ( 47),
+GSE71989 ( 48), GSE62165 ( 12), GSE71729 ( 6), and RNAseq
+GSE119794 ( 49) from the NCBI-GEO database.
+Messenger RNA expression data and associated
+clinicopathological data were used from The Cancer GenomeAtlas (TCGA, http://cancergenome.nih.gov/ )a n dt h e
+International Cancer Genome Consortium (ICGC, https://icgc.
+org/). In particular, normalised gene expression of NGS was
+downloaded from the cBioPortal, (TCGA, Firehose https://www.
+cbioportal.org/ )(50)o n1
+stJuly 2021. For the ICGC-Pancreatic
+Cancer - Australia (ICGC-PACA-AU) cohort, data were obtained
+from the Supplementary Material of the corresponding
+publication ( 4). In addition, we also used the Ontario Institute
+for Cancer Research (OICR) PDAC cohort (EGAS00001002543)
+for gene expression and clinical data through a data accessHosen et al. 10.3389/ ﬁmmu.2022.1060957
+Frontiers in Immunology frontiersin.org 03agreement. Likewise, the proteomic and accompanying
+clinicopathological data from the proteogenomiccharacterisation of the PDAC study ( 6)w a sa c q u i r e d viathe
+Clinical Proteomic Tumor Analysis Consortium (CPTAC, https://
+cptac-data-portal.georgetown.edu/ ). Only PDAC cases with
+matched RNAseq/protein expression and clinical data were
+included in the analysis for all the cohorts.2.2 Differential expression analysis
+Differential expression an alysis was performed using
+GEO2R ( http://www.ncbi.nlm.nih.gov/geo/geo2r )a n dR
+packages limma from the Bioconductor project ( http://www.
+bioconductor.org/ ). The thresholds of P-value < 0.05 and |FC|
+(fold change) > one was set to determine the signi ﬁcant level.
+FIGURE 1
+An integrative clinical bioinformatics work ﬂow to decipher the role of PLAU in PDAC growth and progression, clinical outcome prediction and in
+vivo preclinical method-based validation of PLAU inhibition effects in tumour growth and metastasis.Hosen et al. 10.3389/ ﬁmmu.2022.1060957
+Frontiers in Immunology frontiersin.org 042.3 Identi ﬁcation of correlated
+gene signature
+We used Pearson ’s correlation test to identify gene-gene
+correlation because the expression data is normally distributed.
+However, we employed Spearman ’s correlation test between the
+mRNA expression level of PLAU and the ssGSEA score of
+selected pathways because the data is not normally distributed.
+The threshold of our correlation analysis was set at greater than
+0.30, and FDR ≤0.05. A false discovery rate (FDR) calculated by
+the Benjamini and Hochberg method ( 51) was used to adjust for
+multiple tests.
+By comparing annotated gene sets from the Molecular
+Signatures Database (MSigDB) ( 52), and using the online tool
+“Calculate and draw custom Venn diagrams ”(http://
+bioinformatics.psb.u gent.be/webtools/Venn/ )w ei d e n t i ﬁed
+common tumour suppressors, oncogenes, translocated cancer
+genes, transcription factors, cyto kines and growth factors, protein
+kinases, homeodomain proteins, and cell differentiation markers
+among positive and negatively correlated gene signatures of PLAU
+identi ﬁed from three PDAC cohorts.
+2.4 Gene-set enrichment analysis
+We performed gene-set enrichment analysis of the PLAU -
+correlated genes using GSEA ( 53) with a false discovery rate
+threshold, FDR < 0.05. The Kyoto Encyclopedia of Genes and
+Genomes (KEGG) pathways that were signi ﬁcantly associated with
+the positive and the negatively PLAU -correlated genes were also
+identi ﬁed (FDR < 0.05).
+2.5 Functional analysis
+We constructed protein-protein interaction (PPI) networks of
+thePLAU -correlated genes using the STRING (version v11 ( 54))
+and visualised the PPI networks by utilising the Cytoscape 3.9.1
+software ( 55). The rank of genes was identi ﬁed by the Cytoscape
+plugin cytoHubba ( 56). Hub nodes were identi ﬁed using a
+threshold of medium interaction score ≥0.40, and we selected the
+degree of interaction ≥25 for identifying the most closely interacting
+genes in the PPI.
+2.6 Survival analysis
+We used the clinical data of TCGA, ICGC, OICR and
+CPTAC PDAC cohorts for survival analysis. We compared the
+overall survival (OS) between PDAC patients classi ﬁed based on
+gene expression levels (high expression levels >mean > lowexpression levels). Kaplan-Meier survival curves were used to
+show the survival time differences, and the log-rank test was
+utilised to evaluate the signi ﬁcance of survival time differences
+between both groups. We used the R package “survival ”to
+perform survival analysis ( 57), and the function “coxph ”in the
+Rp a c k a g e “survival ”was used for the u nivariate and
+multivariable Cox regression analyses ( 57).
+2.7 Evaluation of immune scores, stromal
+scores, and tumour purity in
+stromal content
+We utilised the “ESTIMATE ”R package to calculate an
+immune score representing the enrichment levels of immune
+cells and a stromal score representing the content of stromal cells
+(58) in the TCGA-PDAC cohort. We compared immune and
+stromal scores between the patients with high expression of
+PLAU and low expression of the PLAU group in PDAC (high
+expression levels >mean > low expression levels). We considered
+the Wilcoxon sum rank test (P-value ≤0.05) to identify
+signiﬁcant differences between both groups.
+2.8 Associations of the expression levels
+ofPLAU with immune signature, pathway
+activity, and tumour phenotypes in PDAC
+Weﬁrst identi ﬁed the PLAU correlated cell function and
+immune gene signatures. Then we used the single-sample gene-
+set enrichment analysis (ssGSEA) to quantify the enrichment
+scores of immune and stromal signatures in tumours based on
+the expression levels of their marker genes ( 53). We de ﬁned the
+ratio of immune signatures in a tumour sample as the ratio of the
+average expression levels of their marker genes. The immune
+and stromal signatures analysed included B cells, CD8+ T cells,
+CD4+ regulatory T cells, macrophages, neutrophils, natural
+killer (NK) cells, tumour-in ﬁltrating-lymphocytes (TILs),
+regulatory T cells (Tregs), cytolytic activity, T cell activation, T
+cell exhaustion, T follicular helper cells (Tfh), M2 macrophages,
+tumour-associated macroph age (TAM), T helper 17 cells,
+myeloid-derived suppressor cell (MDSC), endothelial cell, and
+cancer-associated ﬁbroblasts (CAFs). Their marker genes are
+shown in Supplementary Table (ST) B . Moreover, we identi ﬁed
+the ssGSEA score of all enriched pathways that directly correlate
+with PLAU and tumour phenotypes (proliferation, EMT,
+stemness, ECM degradation, and hypoxia). The genes
+associated with the speci ﬁc pathways and phenotypes are listed
+inSTB,ST12 . Finally, we compared immune signatures and
+phenotypes of PDAC patients with high expression of PLAU
+with those with low expression of the PLAU.Hosen et al. 10.3389/ ﬁmmu.2022.1060957
+Frontiers in Immunology frontiersin.org 052.9In vitro and in vivo study
+2.9.1 Isolation and characterisation of cancer-
+associated hPSCs
+Using the outgrowth method ( 59), CAhPSCs were isolated
+from surgically removed pancreatic tissue obtained from cancer
+patients. The characterisa tion of CAhPSC yield was then
+assessed by morphology and immunostaining for the selective
+GFAP and the activation marker aSMA ( 60).
+2.9.2 Cell culture
+AsPC-1 cells (American Type Cultu re Collection, Manassas, VA)
+and CAhPSCs were cultured according to the supplier ’si n s t r u c t i o n s
+and following previously published protocols by our group ( 61).
+2.9.3 In vivo orthotopic model of
+pancreatic cancer
+To validate the outcome of PLAU (uPA) inhibition on tumour
+growth and metastasis in vivo , we conducted a pilot study using an
+orthotopic model of pancreatic cancer as previously established in
+our laboratory ( 21,62,63). Brie ﬂy, 6-8 weeks old female athymic
+nude mice (BALBc nu/nu) were anae sthetised, and an opening was
+made in the left ﬂank, followed by exteriorisation of the spleen and
+tail of the pancreas. Then 1 × 106human PC cells (AsPC-1) plus 1 ×
+106cancer-associated human PSCs (CAhPSCs) in 50 mLo fP B S
+were implanted into the tail of the pancreas to replicate early cancer
+development and progression. Mass Spectrophotometry –Based
+proteome pro ﬁling (ST19) con ﬁrmed PLAU protein expression in
+both AsPC1 and CAhPSCs. Seven days after cell implantation, mice
+were randomised (n=5/group) to re ceive vehicle control (Ctrl),
+Gemcitabine (G) 75 mg/kg IP biweekly, uPA small molecule
+enzymatic inhibitor [5,6-disub stituted amiloride analogue,
+compound BB2-30F (A26) ( 64)] 3mg/kg (U3) or 10mg/kg (U10)
+IP daily. BB230F compounds were formulated for IP injection in 50
+mM acetate buffer (pH5.5) + 10% DMSO + 1% Kolliphor HS-15
+buffer and ﬁltered through 0.22 mm PVDF syringe-driven ﬁlters
+under sterile conditions ( 64) The total number of vehicle injections
+was 28 (daily IP injections), allo wing us to control maximally for
+any effects of IP injections per se in our model. Pancreatic tumour
+growth was monitored by palpation. At the end of 28 days of
+treatment, tumours were resected, and tumour volume was
+determined according to the formula (1/2(length × breadth ×
+width) using digital Vernier callipers (Intech Tools, Thomas
+T o w n ,V I C ,A u s t r a l i a ) .T h ea b d o m i n a lc a v i t y ,m e s e n t e r y ,s p l e e n ,
+liver, and lungs were examined, and a metastasis score was
+calculated based on the presence or absence of visible
+macrometastatic nodules. Haema toxylin and eosin staining was
+performed to con ﬁrm the presence of such nodules. Primary
+tumour sections were immunostai ned for E-cadherin, vimentin
+and ALDH1A1. Tumour volum e data are expressed as
+mean ± SEM. One-way analysis of variance with Tukey ’spost hoc
+test was applied. Analyses were pe rformed using GraphPad Prism 9
+for Windows 64-bit (GraphPad Software, San Diego, CA, USA).The animal studies were approved by the University of New
+South Wales Animal Care and Ethics Committee (Approval
+Number 18/125B) and accomplished under ARRIVE guidelines.
+3 Results
+3.1PLAU is signi ﬁcantly differentially
+expressed in various cancers
+Using the GEPIA dataset, it was found that PLAU mRNA
+levels are signi ﬁcantly differentially expressed (compared to
+relevant normal tissue) in 23 of the 33 different types of
+cancers assessed ( Figure 2A ;R e d= t u m o u ra n dG r e e n =
+normal). In BLCA, BRCA, CESC, COAD, DLBC, ESCA, GBM,
+HNSC, KICH, KIRC, LGG, LIHC, LUAD, LUSC, OV, PAAD,
+PRAD, READ, STAD, TGCT, THCA, THYM, and UCEC PLAU
+is signi ﬁcantly upregulated while in KICH, KIRC and PRAD it is
+downregulated ( Figure 2A ). In particular, in the PAAD cohort of
+pancreatic cancer, PLAU transcripts were 4.876 (p=1.6e-103)
+fold elevated compared with normal tissue. In support of the
+above observations, the Cancer Cell Line Encyclopedia (CCLE)
+d a t a s e tr e v e a l e dt h a t( https://www.broadinstitute.org/ccle )
+PLAU was also differentially expressed in different cancer cell
+lines ( Figure 2B ), including 44 pancreatic cancer cell lines (from
+primary and metastatic PDAC tumours ( ST2 A ). Upregulated
+mRNA and protein expression levels for PLAU (relative to
+normal controls) in 17 PDAC cell lines are depicted
+inFigure 2C .
+The above observations related to PDAC were further
+conﬁrmed by analysis of several GSE microarrays which
+showed signi ﬁcant fold increases in PLAU mRNA in PDAC vs
+normal controls as detailed in the following: GSE16515 (logFC
+2.73, P=2.32E-07); GSE58561 (l ogFC 4.94, P = 5.35E-06);
+GSE71989 (logFC 3.29, P =2.56E-06); GSE62165 (logFC 3.31,
+P = 1.91E-27); GSE71729 (logFC 1.56, P = 1.98E-09), and
+RNAseq GSE119794 (logFC 1.256, P= 0.003), ST3.T a k e n
+together, the above ﬁndings indicate that PLAU is signi ﬁcantly
+upregulated in different tumours and cancer cell lines. Of
+particular relevance to this study, pancreatic cancer and cell
+lines, consistently demonstrate upregulation of PLAU gene
+expression, suggesting that PLAU may play driver roles in the
+development and progression of PDAC.
+3.2 Upregulated mRNA expression of
+PLAU is associated with poor survival in
+PDAC patients
+Given the signi ﬁcant upregulation of PLAU in PDAC
+patients from distinct datasets, we further investigated the
+association of PLAU with clinical outcomes. TCGA data of
+147 PDAC patients from 179 PAAD-TCGA cohorts wereHosen et al. 10.3389/ ﬁmmu.2022.1060957
+Frontiers in Immunology frontiersin.org 06B
+CA
+FIGURE 2
+PLAU expression in cancers. (A)Dot plot depicting PLAU gene expression pro ﬁle across 33 cancer types and paired normal samples (TCGA
+normal plus GTEx), with each dot representing a distinct tumour or normal sample. The bar height represents the median expression of acertain tumour type or normal tissue. The comparison was performed using GEPIA (Gene Expression Pro ﬁling Interactive Analysis). For each
+TCGA tumour (red), its matched normal and GTEx data (green) are given; T: tumour; N: normal; n: number. Y-axis: transcripts per million log2
+(TPM + 1). X-axis: number of tumours and normal samples. (B)PLAU expression across 1111 human cancer cell lines from the Cancer Cell Line
+Encyclopedia (CCLE). Box plots showing RNA-seq mRNA expression data from CCLE, with the dashed lines within a box representing the mean.Cell lines derived from the same organ/organ system were grouped, and lineages are indicated at the bottom of the graph, with the number of
+cell lines per organ/organ system in parenthesis. The “pancreas ”group includes the 44 pancreatic cancer cell lines listed in ( ST2A ).(C)Relative
+expression level of PLAU at mRNA and protein level in 17 PDAC cell lines using the depmap portal.Hosen et al. 10.3389/ ﬁmmu.2022.1060957
+Frontiers in Immunology frontiersin.org 07analysed to reveal that patients in the high PLAU mRNA
+expression group had the poorest outcome (high expression
+group of PLAU > mean expression level of PLAU >l o w
+expression of PLAU )(Figure 3A ), P=0.042. Similar results
+were obtained on analysis of the ICGC patient cohort
+(GSE36924) ( Figure 3B ), P=0.04 ( 4). With the third patient
+cohort in our study (OICR; EGAS00001002543) ( 65), there was
+a trend for poorer survival in patients with high PLAU mRNA
+expression, but the difference did not achieve statistical
+signi ﬁc a n c eP =0 . 2 8( Figure 3C ). Altogether, these data
+demonstrate that the upregulation of PLAU mRNA expression
+is an adverse prognostic factor in PDAC.
+3.3PLAU is signi ﬁcantly correlated with
+key signal regulatory and tumour
+immune genes in PDAC
+In view of our ﬁnding of an association between high PLAU
+gene expression and poor prognosis in PDAC patients, we were
+interested in analysing other genes that may be correlated with
+PLAU and might in ﬂuence patient outcomes. Pearson ’s
+correlation coef ﬁcient test was used to identify gene-gene
+correlations for all genes in the expression tables of the TCGA,
+ICGC, and OICR datasets. A Venn diagram was applied to
+identify PLAU -correlated genes common to all three PDAC
+datasets ( ST4,ST5andSupplementary Figures (SF) 1A ,B). The
+gene signatures were then categorised into different gene families
+based on annotated gene sets from Molecular Signatures
+Database (MSigDB). There were 676 genes positively
+correlated with the PLAU that were common to all three
+datasets. ( ST 6A ,SF 1A ) .T h e s ei n c l u d e d4 2t r a n s c r i p t i o n
+factors (e.g. FOXC1, HMGA2, RUNX2, SNAI1, SNAI2,
+TWIST1 , and WT1 ), 16 protein kinases (e.g. MET, MAPK12 ,
+andAKT3 ), 8 homodomain proteins (including SIX4, NKX3-2 ,
+and HLX );, 27 cell differentiation markers (including PDL1,
+CD44, CD70, CDH2 , and ITGA3) , 18 oncogenes (e.g. CDH11,COL1A1 , and PDGFB) , 16 translocated cancer genes ( CDH11,
+CLTCL1, COL1A1, MAF , and MAFB) , one tumour suppressor
+gene WT1, and 38 cytokines and growth factors (including
+TGFB2, FGF1, VEGFC, PDGFB, EREG, TGFB1, CCL11,
+TGFB3, BMP1, IL1,1 and CCL13) [Pearson correlation, r>0.3,
+P> 0.05].
+There were 428 genes negatively correlated with the elevated
+expression levels of PLAU that were common to all three
+datasets ( SF 1B ). These comprised 31 transcription factors
+(including CDX2 ,FOXA2, GATA6, HNF1A, HNF4A, PDX1,
+PPARGC1A ,a n d TOX3) , two cell differentiation markers
+(FUT4 and TNFRSF11A) , 11 protein kinases (e.g. ACVR1B,
+ERBB3, FGFR4, HIPK2, KALRN, PKDCC, SCYL3) ,f o u r
+translocated cancer genes (including PRDM16 and TMPRSS2) ,
+six oncogenes (including MYCN, CEBPA , and MECOM) , one
+tumour suppressor gene ( HNF1A) and four cytokines and
+growth factors (including FAM3B, EDN3, SEMA4G ,a n d
+FAM3D ,ST 6A ). Several immune-related gene signatures that
+are positive and negatively associated with PLAU were also
+identi ﬁed (such as PDCD1LG2 ,HAVCR2, ANXA1,
+TNFRSF12A, PLAT, CD276, PTGES, CD44, MMP9, CT45A3,
+PIWIL2, METTL7A, IL23R, IL17RB, IL22RA1, TNFRSF11A,
+BLNK , and F5,ST7).
+Further analysis shows that most of the positively correlated
+gene signatures of PLAU in PDAC regulate cancer cell functions
+such as cell proliferation, stemness and epithelial-mesenchymal
+transition, and other factors of importance to cancer biologies
+such as extracellular matrix degradation, hypoxia,
+endothelialisation, and metast asis promotion. In contrast,
+negatively correlated gene signatures were largely uninvolved
+in cancer cell functions ( ST 6C ,SF 1E andF).
+A subanalysis of TCGA transcriptomic and clinical data of
+PDAC patients revealed speci ﬁc gene signatures (positively and
+negatively correlated with PLAU ) associated with poor survival
+(ST8,SF 1C andD). Among these prognostic genes, we further
+identi ﬁed the following positively correlated MET ,ITGA3,
+EREG, PLOD2, EMP1, CD44 HMGA2, TGM2, GAPDH,
+BC A
+FIGURE 3
+Correlation of PLAU gene expression with survival in PDAC. (A, B) Kaplan-Meier survival curves show that high PLAU expression correlated with
+signiﬁcantly poorer overall survival (OS) in the TCGA and ICGC PDAC cohorts (log-rank test, P < 0.05), (C)but this was not evident with the
+OICR-PDAC cohort (log-rank test, P = 0.28).Hosen et al. 10.3389/ ﬁmmu.2022.1060957
+Frontiers in Immunology frontiersin.org 08IL31RA, CGB7, CDH3 , and negatively correlated PRDM16,
+PPARGC1A, CAPN6, SPIB, TOX3 , and FGFR4 associated with
+the different cancer cell functions listed in Table 1 , while Kaplan
+Meier curves signifying their prognostic association are
+presented in Figures 4 andSF 2.
+3.4PLAU correlated gene signatures and
+protein-protein interaction
+network analysis
+The gene analysis described above indicates that upregulated
+PLAU expression is correlated with several key gene signatures
+that have the potential to in ﬂuence cancer cell functions and
+PDAC progression/outcomes. The daunting task is to
+understand how these positively and negatively PLAU
+correlated genes modulate the PPI network, which can result
+in dysregulated oncogenic pathways with functional and
+therapeutic signi ﬁcance. To address this, the 676 positively
+correlated genes and the 428 negatively correlated genes
+(common to all three data sets) were entered into the STRING
+v11 program. 610 of the 676 positively correlated genes and 317
+of the 428 negatively correlated genes were involved in the PPI
+network with PPI enrichment p-value < 1.0e-16 and 3930 edges,
+and p-value < 1.0e-16 577 edges, respectively. Based on the
+degree of interactions, some of the top genes within the PPI
+network were FN1, GAPDH, COL1A1, CD44, MMP2, COL1A2,
+MMP9 POSTN, COL5A1, BGN, LOX, COL4A1, MMP14,THBS1 , and TGFB1 (ST9A ). Extracting the PLAU -centric PPI
+network from the original extensive network revealed that PLAU
+interacts with 31 of the positively correlated genes ( FN1, MMP2,
+GAPDH, CD44, MMP9, MMP14, SERPINE1, TIMP2, TGFB1,
+THBS1, CAV1, MET, MMP13, TIMP3, VEGFC, IGFBP3, CTSB,
+ITGA5, SNAI1, PLAT, CTSL, CTSD, MMP11, ITGA3, PDGFC,
+MRC2, PRSS23, SRPX2, KAL1, MFI2 , and LYPD3 ,SF3andST
+9C), and interestingly, only one negatively correlated gene ANG
+(ST 9B ,D).
+3.5PLAU regulates cancer-associated
+and metabolic pathways in PDAC
+To delineate the speci ﬁc cancer-associated pathways that
+may be modulated by PLAU and its positive/negatively
+correlated gene signatures, the Functional Class Scoring (FCS)
+method based on GSEA tool ( 53) was used (FDR<0.05). Genes
+that are positively correlated with PLAU upregulation were
+found to be associated with the enrichment of several cancer-
+associated KEGG pathways ( ST 10A ). In order to assess whether
+the expression of PLAU was directly associated with the activity
+of these pathways, correlations between the expression levels of
+PLAU (Log2 normalised) and the speci ﬁc pathway activity
+(ssGSEA score of the pathway) were analysed for the TCGA-
+PDAC cohort (Spearman ’s correlation test P<0.05).
+Interestingly, it was found that PLAU expression correlated
+directly with the activity of 11 KEGG pathways, including
+TABLE 1 PLAU correlated genes and their association with cellular functions in PDAC.
+Prognostic genes positively correlated with PLAU Factors in ﬂuencing cancer biology
+HMGA2 Stemness, oncogene, Transcription Factor and Translocating cancer gene
+TGM2 Endothelialization, Hypoxia and EMT
+CD44 ECM degradation, EMT and Cell differential marker
+ITGA3 ECM degradation and cell differential marker and Metastasis
+MET Oncogenes and Protein Kinase
+EREG Cell Proliferation, Cytokines and Growth Factor
+GAPDH Hypoxia
+PLOD2 ECM degradation and EMT
+EMP1 Cell Proliferation
+IL31RA Cell Proliferation
+CGB7 Cytokines and Growth factor
+CDH3 Metastasis promotion
+Prognostic genes negatively correlated with PLAU Factors in ﬂuencing cancer biology
+PRDM16 Oncogenes, Transcription Factors, Translocating cancer genes
+PPARGC1A Hypoxia, Transcription Factor
+CAPN6 ECM degradation
+SPIB Transcription Factor
+TOX3 Transcription Factor
+FGFR4 Cytokines and Growth factor and Protein Kinase
+ECM, Extracellular matrix; EMT, Epithelial-mesenchymal transitions.Hosen et al. 10.3389/ ﬁmmu.2022.1060957
+Frontiers in Immunology frontiersin.org 09glycosaminoglycan biosynthesis - chondroitin sulfate, basal cell
+carcinoma, Hedgehog signalling pathway, axon guidance,
+pathways in cancer, pancreatic cancer, TGF-beta signalling
+pathway, arrhythmogenic right ventricular cardiomyopathy
+(ARVC), wnt signalling pathway, and renal cell carcinoma,
+FDR<0.01 ( Figure 5A andST 11A ).
+Genes that were negatively correlated with PLAU
+upregulation were found to be primarily associated with the
+enrichment of 31 metabolic pathways, covering the metabolism
+of speci ﬁc amino acids, carbohyd rates, fatty acids and
+xenobiotics listed in ( ST 10B ). Interestingly, we discovered that
+the expression of PLAU itself was directly correlated with 25
+KEGG pathways ( Figure 5B andST 11B ).
+A similar observation of PLAU association with cancer-
+associated and metabolic pathways in various cancers,
+including COAD, HNSC, KIRC, LIHC, BRCA, and LUAD,
+was revealed in our further analysis ( SF 4A ,B).3.6PLAU expression is correlated with
+pancreatic stellate cell -selective markers
+& pathways in TME of PDAC
+As noted earlier, PSCs facilitate the survival and growth of
+PDAC cells viafactors that modulate cancer cell proliferation,
+invasion, migration, metastasis and chemoresistance. In turn,
+cancer cells activate PSCs viathe secretion of growth factors and
+cytokines ( PDGF, VEGF, bFGF, TGF-ß ), resulting in increased PSC
+proliferation, migration and production of extracellular matrix
+proteins ( 66–69). Given this bidirectional interaction between
+PSCs and cancer cells, we inves tigated the association of PLAU
+expression with the abundance of activated PSCs. PLAU expression
+was signi ﬁcantly positively correlated (R= 0.41, P=2.754e-07) with
+the ssGSEA score of PSC-speci ﬁcm a r k e r si nt h eT C G A - P D A C
+data set ( Figure 6A ). Moreover, a signi ﬁcant moderate correlation
+was found between PLAU and all other secreted markers of
+BA
+FIGURE 4
+Correlation of PLAU-associated genes with survival in PDAC. Kaplan-Meier survival curves show that signi ﬁcantly worse overall survival of PDAC
+patients in the TCGA cohort is correlated with (A)increased expression of ITGA3 (log-rank test, P=0.0035), MET (log-rank test, P = 0.006),
+CD44 (log-rank test, P= 0.01), PLOD2 (log-rank test, P = 0.018), EMP1 (log-rank test, P = 0.017), EREG (log-rank test, P = 0.013) and (B)
+decreased expression of PPARGC1A (log-rank test, P = 0.0086), FGFR4 (log-rank test, P = 0.049), and PRDM16 (log-rank test, P = 0.036).Hosen et al. 10.3389/ ﬁmmu.2022.1060957
+Frontiers in Immunology frontiersin.org 10activated PSCs ( ST13 ), most of which have been shown to play key
+roles in cancer progression (please see discussion). PLAU expression
+was also correlated with critica l pathways known to mediate PSCs-
+PC interactions ( 69), including Hedgehog, TGF beta, WNT
+(Figure 5A ), WNT beta-Catenin and hy poxia-inducible factor-1
+(Figures 6B ,C)signalling pathways.
+3.7 Identi ﬁcation of prognostically
+important PLAU correlated matrisome
+gene in human PDAC
+In the tumour microenvironment, PLAU is involved in ECM
+breakdown through activation of plasminogen to plasmin which
+activates certain pro-matrix metall oproteinases, facilitating local
+tumour invasion. Dysregulated ECM proteins also in ﬂuence
+tumour progress and patient surv ival by supporting tumour cell
+proliferation, angiogenesis, in ﬂammation ( 22,28), and metastasis
+(29,30). However, the association of PLAU with the PDAC-speci ﬁc
+matrisome gene (produced by tumo ur cells and stromal pancreatic
+stellate cells) has not been assessed in the context of PDAC
+development and progression. In order to systematically examine
+the correlations of PLAU expression with PDAC-speci ﬁcE C Mg e n e
+signatures (from TCGA, ICGC and OICR cohorts), 155 PDAC
+m a t r i s o m eg e n es i g n a t u r e s (ST14 )were selected (32 secreted by
+cancer cells, 87 by stromal cells and 36 from both cancer and
+stromal cells) ( 70). 49 ECM gene signatures were found to be
+correlated with PLAU ,e i t h e rp o s i t i v e l y( 33)o rn e g a t i v e l y( 3)
+(Pearson correlation, r>0.3; p <0.05) .O ft h e4 9g e n e s ,2 2c o d e d
+for ECM glycoproteins ( EFEMP1, EMILIN1, FBLN2, FBN1, FN1,HMCN1, IGFBP3, LAMA4, LAMC2, LTBP1, LTBP2, MATN2,
+MFAP2, PCOLCE, POSTN, PXDN, SRPX2, TGFBI, TGM2,
+THBS1, THBS2 and TNC), 12 for ECM regulators ( ADAMTS4,
+ADAMTSL1, BMP1, CTSB, CTSD ,L O X ,L O X L 1 ,M M P 2 ,P L O D 1 ,
+PLOD2, SERPINH1 and TGM2 ), six for collagens ( COL11A1,
+COL6A1, COL6A2, COL6A3, COL8A1 ,a n d COL8A2 ), four for
+ECM-af ﬁliated proteins ( ANXA1, ANXA4, LGALS1 andLGALS4 ),
+three for secreted factors ( S100A16, S100A9 ,a n d TGFB1 ), and two
+for proteoglycans BGN andVCAN (ST14 ,15AandFigure 7A ).
+Survival analysis of the TCG A-PDAC cohort revealed that
+secreted factor S100A16 ( cancer-cell –derived), ECM regulator
+PLOD2 (stromal cell-derived) and ECM regulator TGM2 ( derived
+from both cancer cells and stromal cells) genes were overexpressed
+in human PDAC and correlated with short patient survival (log-
+rank test, P < 0.05), Figures 7B –D. In contrast, none of the
+negatively correlated matrisom e gene signatures was associated
+with patient survival. However, at the protein level (using the
+CPTAC-PDAC cohort), while PLOD2, S100A16 and TGM2 were
+all signi ﬁcantly differentially overexpressed in tumours compared to
+the normal adjacent pancreas ( ST 15B ), only upregulation of
+PLOD2 (log-rank test, P= 0.05) protein was found to be
+associated with poor survival (refer to PLOD2).
+3.8 Upregulation of the PLAU gene is
+correlated with aggressive phenotypes
+of PDAC
+Aggressive PDAC is characterised by increased cancer cell
+proliferation, EMT, stemness, active ECM and hypoxia. Using
+B A
+FIGURE 5
+Correlation of PLAU upregulation with cancer-associated and metabolic pathways in PDAC. In the TCGA PDAC cohort, upregulation of PLAU
+gene expression is (A)directly and positively correlated with cancer-associated pathways and (B)negatively correlated with metabolic pathways
+(FDR<0.05).Hosen et al. 10.3389/ ﬁmmu.2022.1060957
+Frontiers in Immunology frontiersin.org 11the TCGA-PDAC cohort to compare the PLAU high expressing
+group (HEG) vs the PLAU low expressing group (LEG), scores
+for each of the above parameters were found to be elevated
+(Figures 8A –E), and the associated markers signi ﬁcantly
+correlated ( SF 5A –D) with high PLAU gene expression.
+3.9 Expression of the PLAU gene is
+associated with an immunosuppressive
+tumour microenvironment in PDAC
+Since the in ﬁltration levels of immune cells are an
+independent predictor of survival in cancers ( 58), the
+differences in various immune and stromal signatures between
+PLAU -high and PLAU -low patients in the TCGA-PDAC cohort
+were examined. Stromal and immune scores were calculated (the
+content of cells) by applying the ESTIMATE ( 58) algorithm. The
+stromal score was signi ﬁcantly higher in the HEG of PLAU than
+in the LEG of PLAU (Figure 9A , Wilcoxon rank-sum test,
+p<0.05). In contrast, there was no signi ﬁcant difference in the
+immune score between the groups. However, the PLAU -highgroup was associated with inhibition of immune stimulatory
+signatures that included CD8+ T cells, NK cells, and type 2 IFN
+(Figure 9B ) and upregulation of immunosuppressive signatures
+that included CAFs, macrophages, cancer-testis antigens, PI
+genes, PD-L1 ,PDL-2 , and TGFB1 (Wilcoxon rank-sum test,
+p<0.05) ( Figure 9C ). The ratios of CD8+ T cells/CD4+ T cells
+and pro-/anti-in ﬂammatory cytokines (as assessed by the ratio
+of average expression levels (log2-transformed) of their marker
+genes) were signi ﬁcantly lower in the PLAU high group
+(expression levels > average) ( Figure 10A , P < 0.05). The pro-
+inﬂammatory cytokine genes are immune-stimulatory and
+include IFNG ,IL-1A ,IL-1B ,a n d IL-2,w h i l et h ea n t i -
+inﬂammatory cytokine genes IL-4,IL-10 ,IL-11 , and TGFB1
+represent an immune-inhibitory signature. The expression
+levels of PLAU were negatively correlated with CD8A/PD-L1
+and CD8A/PD-L2 ratios (Pearson ’s correlation test, P < 0.05,
+Figure 10B ). Taken together, the above ﬁndings indicate that
+elevated PLAU expression has a stronger association with
+immunosuppressive TME signatures ( PD-L1 and PD-L2 ) than
+with the anti-tumour immune signature (CD8+ T cells) in the
+TCGA-PDAC cohort.
+BC A
+FIGURE 6
+Association of PLAU gene expression with abundant activated PSCs and pathways responsible for PSC-PC interactions. In the TCGA PDAC
+cohort, upregulation of PLAU gene expression exhibit a signi ﬁcant positive association with (A)abundance of activated PSCs in the TME (R=
+0.41, P=2.754e −07),(B)WNT beta-Catenin pathway activity (R= 0.34, P=2.837e −05), and (C)hypoxia score (R= 0.53, P < 2.2e −16).
+BC AD
+FIGURE 7
+Correlation of PLAU expression and matrisome gene signatures in human PDAC. (A)Upregulation of PLAU gene expression was positively
+correlated with various PDAC ECM matrisome gene signatures. Kaplan Meier survival curves show that in the TCGA-PDAC cohort, poor survivalwas associated with (B)increased expression of S100A16 , P = 0.0054, (C)PLOD2 , P = 0.018 and (D)TGM2 , P=0.029.Hosen et al. 10.3389/ ﬁmmu.2022.1060957
+Frontiers in Immunology frontiersin.org 123.10 PLAU -correlated prognostic gene
+markers are also differentially expressed
+and associated with poor outcomes inPDAC at the protein level
+In order to determine whether the identi ﬁed prognostic gene
+signatures ( PLAU correlated 41 positively and 34 negatively in
+the TCGA-PDAC cohort) translated to protein or not in the
+PDAC tumour, we performed a differential expression analysis
+based on the CPTAC-PDAC cohort. 135 patients ’tumours
+proteome pro ﬁle compared with proteins expression data from
+67 normal adjacent and nine normal ducts tissues. The results
+showed that 23 out of 41 positively correlated prognostics
+markers were differentially upregulated; out of 34 negatively
+correlated prognostics markers, 16 were differentially
+downregulated ( ST17 ).
+The correlation of the differe ntially expressed protein
+signatures noted above with overall patient survival was also
+assessed in the CPTAC-PDAC cohort. Upregulated expression
+of CD44, CDH3, FNDC3B, HMGA2, ITGA3, MET, PPP1R14B,
+and PLOD2 and downregulation of KIAA0513, OTC, and LYZ
+were associated with poor survival ( Figures 11A ,B).
+Representative immunohistochemistry images from the human
+proteome atlas further con ﬁrmed the level of expression of the
+above proteins in PDAC tissues ( 71)(SF6).
+3.11 Univariate and multivariate cox
+regression analysis of PLAU correlated
+(survival-related) proteins and different
+clinicopathological factors
+To rule out the bias caused by the survival-related clinical
+parameters in the following analysis, we obtained the clinical
+dataset from CPTAC-PDAC and screened for the survival-relatedclinical index by univariate and multivariate cox regression
+analysis. Univariate Cox regression analyses of the CPTAC-
+PDAC clinical dataset identi ﬁed eight proteins (out of the 12)
+and weight, histological grade, distant metastasis, tumour stage,
+residual tumour, and tobacco smoking history as individual
+prognostic factors ( Figure 12A ). Multivariate Cox regression
+analysis demonstrated that three prognostic proteins ( PLAU ,
+ITGA3, and PPP1R14B expression) and two clinicopathological
+factors (tumour stage and tobacco smoking history) were
+signiﬁcantly associated with poor survival ( Figure 12B ).
+3.12 PLAU and correlated signatures are
+associated with the basal subtype
+of PDAC
+Identifying the subtypes of pancreatic cancer could assist
+with providing the patient with a more accurate prognosis
+prediction and may also allow precise and effective therapy.
+Therefore, the association of upregulated PLAU protein with
+survival in patients bearing tumours of PDAC basal and classical
+subtypes was explored ( 6). The basal/squamous subtype is
+characterised by mainly low expression of GATA6 with gene
+signatures enriched for the in ﬂammation, hypoxia response,
+metabolic reprogramming and TGF- bsignalling, and is also
+characterised by resistance to chemotherapy and poor outcomes.On the other hand, the classical subtype is characterised by high
+expression of GATA6 , KRAS dependency, chemoresponsiveness
+and a better clinical outcome ( 4,72). Using the CPTAC-PDAC
+cohort, we found that upregulation of PLAU protein was
+associated with poor survival ( Figure 13A , P=0.0044). Further,
+a comparison of the survival outcome in basal vs classical clearly
+shows that the basal group of patients is more at risk of poor
+prognosis than the classical type ( Figure 13B ). Assessment of
+PLAU protein expression in basal and classical types
+BC D E A
+FIGURE 8
+PLAU upregulation is associated with aggressive phenotypes of PDAC. Markers of an aggressive phenotype of PDAC were positively correlated
+with the high PLAU expressing group (HEG) compared to the low PLAU expression group (LEG), as depicted for (A)the tumour cell proliferation
+and growth index marker, MKI67, Wilcoxon rank-sum test, P= 0.02 (B)EMT Wilcoxon rank-sum test, P= 1.567e −05,(C)tumour stemness,
+Wilcoxon Rank Sum Test, P=0.0001, (D)ECM degradation, Wilcoxon Rank Sum Test, P= 1.514e −05(D, E) hypoxia, Wilcoxon Rank Sum Test, P=
+3.4e−07.Hosen et al. 10.3389/ ﬁmmu.2022.1060957
+Frontiers in Immunology frontiersin.org 13demonstrated that PLAU was signi ﬁcantly more expressed in the
+basal group than in the classical type (log2FC=0.80, p<0.001,
+Figure 13C ). Furthermore, in all three PDAC cohorts (TCGA,
+ICGC and OICR PDAC cohorts), high PLAU gene expression
+was positively correlated with basal markers including S100A2(R=0.48, p=4.57E-10), FAM83A (R=0.55, p= 4.38E-13), IGTA3
+(R=0.45, p= 1.14E-08), KRT5 (R=0.45, p= 6.81E-09), and
+C16orf74 (R=0.64, p= 2.48E-18) and negatively correlated with
+classical molecular subtype markers including GATA6 (R=-0.57,
+p= 2.93E-14) TFF2 (R=-0.42, p= 1.20E-07), REG4 (R=-0.40, p=
+B
+CA
+FIGURE 9
+Association of PLAU upregulation with an immunosuppressive landscape in the TCGA PDAC cohort. Markers of an immunosuppressive
+landscape in PDAC were positively correlated with the high PLAU expressing group (HEG) compared to the low PLAU expression group (LEG), as
+evidenced by (A)a high stromal score (Wilcoxon rank-sum test, P=0.04) and a low immune score (Wilcoxon rank-sum test, P=0.45), (B)low
+scores for immune stimulatory signatures CD8+ T cells (Wilcoxon rank-sum test, P=0.01), NK cells (Wilcoxon rank-sum test, P=0.05), and type 2IFN (Wilcoxon rank-sum test, P=0.0005), (C)high scores for immune inhibitory signatures including CAFs (Wilcoxon rank-sum test, P=0.0001),
+macrophages (Wilcoxon rank-sum test, P=0.001), cancer-testis antigens (Wilcoxon rank-sum test, P=0.02), Type 1 IFN (Wilcoxon rank-sum test,
+P=0.02), PI genes (Wilcoxon rank-sum test, P=0.001), PD-L1(Wilcoxon rank-sum test, P=0.03), PDL-2(Wilcoxon rank-sum test, P=0.006), andTGFB1 (Wilcoxon rank-sum test, P=0.001).Hosen et al. 10.3389/ ﬁmmu.2022.1060957
+Frontiers in Immunology frontiersin.org 145.98E-07), LGALS4 (R=-0.39, p= 7.45E-07), and DDC (R=-0.44,
+p= 2.22E-08) ( 4,6,73,74)(ST 18 ). Of note, survival analysis in
+the basal group patients demonstrated poor survival outcomes
+when strati ﬁed into the PLAU high group compared to the
+PLAU low group ( Figure 13D , P=0.018). Further survival
+analysis between PLAU high basal versus PLAU high classical
+shows that even though upregulation of PLAU is found in both
+basal and classical group patients, PLAU high basal is worse than
+PLAU high classical ( SF7B , P<0.0001). Consequently, the high
+and the low in the classical group patients demonstrated no
+signiﬁcant association with poor survival ( SF7A , P=0.9). These
+results support the concept that upregulation of PLAU protein is
+clinically associated with the poorest survival outcomes in the
+basal subtype of PDAC.
+3.13 Effect of uPA - inhibition and
+Gemcitabine on tumour volume and
+metastasis in vivo
+Finally, we assessed the effects of uPA inhibition on tumour
+growth and metastasis using the uPA inhibitor BB230F at 3mg(U3) and 10mg (U10)/kg body weight alongside the standard of
+care drug gemcitabine in an earl y intervention orthotopic
+xenograft mouse model of pancreatic cancer ( Figure 14A ). In
+this model, we observed that uPA inhibition (with U10) was
+comparable to Gemcitabine in reducing primary tumour volume
+at the endpoint. Importantly, uPA inhibition was signi ﬁcantly
+superior to Gemcitabine in reducing liver metastasis (key site in
+this model), with U10-treated mice showing no evidence of
+metastasis ( Figures 14B ,C,SF9A-B andST20 ) in the liver. The
+absence of liver metastases in all animals treated with U10 was
+conﬁrmed by histology. Since one of the main mechanisms
+underlying metastasis is increased EMT of cancer cells, we
+measured EMT in the model by assessing the ratio of
+expression of the mesenchymal marker vimentin to the
+epithelial marker E-Cadherin. An increase in the vimentin: E-
+cadherin ratio is an indicator of increased EMT. In the
+orthotopic tumours in this model, we found that whilevimentin expression was unchanged, E-cadherin expression
+was signi ﬁcantly elevated in U10-treated mice compared to the
+other groups in Figures 14D-F , suggesting inhibition of cancer
+cell EMT by PLAU inhibition. We support these observations
+using the CPTAC-PDAC cohort, whereby patients in the upper
+BA
+FIGURE 10
+Association of PLAU upregulation with the immune ratios in the TCGA PDAC cohort. (A)CD8+ T cells/CD4+ T cell (P= 0.003) and pro-/anti-
+inﬂammatory cytokines (P= 0.005), signi ﬁcantly lower in the high expression group (HEG) of PLAU and (B), the PLAU expression is negatively
+correlated with CD8A/PD-L1 (Pearson ’s correlation R=-0.59, P= 3.562e-15) and CD8A/PD-L2 (Pearson ’s correlation R=-0.21, P= 0.01).Hosen et al. 10.3389/ ﬁmmu.2022.1060957
+Frontiers in Immunology frontiersin.org 15quartile of the PLAU expression group exhibited a signi ﬁcant
+decrease in E-cadherin and an increase of vimentin compared to
+patients in the lower quartile of the PLAU expression group
+(Figures 14G ,H). Furthermore, immunostaining for the stem
+cell marker ALDH1A1, which plays a role in recurrence,metastasis, and treatment resistance, demonstrated that U10
+signiﬁcantly decreased ALDH1A1 expression compared to the
+mice treated with control and Gemcitabine alone ( SF8A ,B),
+suggesting that the uPA inhibition may inhibit cancer stemness.
+4 Discussion
+Pancreatic ductal adenocarcinoma (PDAC) is an overly
+aggressive cancer with very high recurrence rates and the
+poorest prognosis of all solid malignancies. The early and rapid
+development of metastasis (often seen before the detection of a
+sizeable pancreatic mass) is the primary driver of the poor clinical
+outcome of this cancer ( 75–78).
+uPA and its cell surface receptor uPAR play a role in multiple
+stages of tumorigenesis, especially cancer progression (e.g., ECM
+degradation and EMT) ( 7,24–27,33–41). Moreover, clinicalevidence demonstrates that high PLAU mRNA expression is
+associated with signi ﬁcantly worse clinicopathological
+characteristics and poor prognosis in PC patients ( 79,80). In
+this study, we have elucidated the key molecular pathways
+modulated by or associated with PLAU upregulation. This will
+not only enable better prediction of clinical outcomes but
+importantly may help stratify and identify patients who may
+best bene ﬁt from therapeutic targeting of the uPA.
+Using TCGA, CCLE and GEO databases, we have
+convincingly demonstrated that PLAU mRNA levels were
+signiﬁcantly upregulated in 44 PDAC cell lines derived from
+primary or metastatic tumours compared to normal tissues.
+Importantly, analysis of the TCGA and ICGC PDAC cohorts
+conﬁrmed the prognostic value of PLAU in pancreatic cancer.
+Validation of this ﬁnding at the protein level was obtained by
+analysis of the CPTAC-PDAC cohort, which demonstrated that
+high PLAU protein expression was signi ﬁcantly correlated with
+poor survival in PDAC patients.
+To help understand the mechanisms mediating PLAU -
+associated poor survival, gene signatures that were commonly
+positively or negatively correlated with PLAU upregulation were
+identi ﬁed in the TCGA, ICGC and OICR PDAC-speci ﬁc
+BA
+FIGURE 11
+Association of differentially expressed proteins and survival in PDAC. In the CPTAC-PDAC cohort, Kaplan-Meier analysis shows that poor overall
+survival (OS) was correlated (A)high expression of MET (log-rank test, P= 0.0061), CDH3 (log-rank test, P= 0.0013), ITGA3 (log-rank test, P=
+0.031), FNDC3B (log-rank test, P= 0.036), HMGA2 (log-rank test, P= 0.031), PPP1R14B (log-rank test, P= 0.04), and PLOD2 (log-rank test, P=
+0.05) CD44 (log-rank test, P= 0.05), and (B)low expression of LYZ (log-rank test, P= 0.029), KIAA0513 (log-rank test, P= 0.037), and OTC (log-
+rank test, P= 0.05).Hosen et al. 10.3389/ ﬁmmu.2022.1060957
+Frontiers in Immunology frontiersin.org 16cohorts. Analysis of these correlated genes revealed that PLAU
+upregulation was associated with gene signatures mainly
+encoding transcription facto r s ,c y t o k i n e s ,g r o w t hf a c t o r s ,
+protein kinases and oncogene, which are involved with
+epithelial-mesenchymal tran sition, ECM degradation, cell
+proliferation, hypoxia, angiogenesis, stemness and metastasis.
+Survival analysis revealed that in the TCGA-PDAC cohort, 6%
+of positive and 7% of negatively correlated gene signatures were
+associated with poor survival. The key genes and their functions
+are summarised in Table 1 . Of the downregulated genes in colon
+(81) and ovarian ( 82) cancer, PPARGC1A was reported as a
+tumour suppressor, and downregulation is associated with poor
+survival in colon cancer ( 83). However, the signi ﬁcance of the
+remaining downregulated genes in PDAC prognosis needs to
+be explored.
+Examination of the protein-protein interaction network
+revealed that PLAU interacted directly with 31 positively
+correlated signatures that are active in oncogenesis hypoxia,
+proliferation, ECM degradation and EMT. On the other hand,
+PLAU interacted directly with one negatively correlated gene,ANG (angiogenin), the high expression of which is reported to
+be favourable in pancreatic cancer ( 84).
+Gene set enrichment analysis con ﬁrmed that PLAU and its
+positively correlated signatures were involved with pathways
+that play a role in cancers. In contrast, PLAU and its negatively
+correlated signatures were predominantly related to the
+downregulation of metabolic pathways. With respect to the
+former group, 11 main pathways were identi ﬁed, as depicted
+inFigure 5 . Of particular interest are the following: i) the
+Hedgehog signalling pathway - known to be involved in early
+pancreatic cancer tumorigenesis ( 85). A component of this
+pathway Sonic HH (SHH), is increased more than 40-fold in
+pancreatic cancer stem cells responsible for tumour recurrence
+(86,87). Li et al. showed that hypoxia-induced ROS production
+increases the expression of PLAU and MMP2 in pancreatic
+cancer cells through the Hh signalling pathway to facilitate
+invasion and metastasis ( 88). ii) the metabolic pathway
+glycosaminoglycan biosynthe sis - chondroitin sulfate that
+facilitates invasiveness of c ancer cells by supporting the
+adhesion of various cells such as ﬁbroblasts or leukocytes in
+BA
+FIGURE 12
+Identi ﬁcation of prognostic factors by univariate and multivariate analyses (A)Univariate Cox regression analysis of the following as individual
+prognostic factors: eight proteins (PLAU, MET, ITGA3, CDH3, FNDC3B, HMGA2, KIAA0513, OTC), weight, histological grade, distant metastasis,tumour stage, residual tumour, and tobacco smoking history. (B)Multivariate analysis identi ﬁed three proteins (PLAU, ITGA3, and PPP1R14B),
+tumour stage and tobacco smoking history as signi ﬁcant prognostic factors.Hosen et al. 10.3389/ ﬁmmu.2022.1060957
+Frontiers in Immunology frontiersin.org 17the TME which are the source of growth factors and ECM ‐
+degrading enzymes that en able local migration and
+dissemination of cancer cells ( 89,90). Interestingly,
+upregulation of components of this pathway, chondroitin anddermatan sulfate, has been reported in pancreatic tumours ( 91).
+iii) the Wnt signalling pathway, one of the critical cascades
+regulating development and stemness in cancer ( 92). This
+pathway is known to be crit ical to the initiation and
+progression of PDAC ( 93). iv) the TGF-beta signalling
+pathway which is most signi ﬁcantly involved in EMT
+induction in pancreatic cancer cells through activation of
+ERK/MAPK, PI3K, p38, JNK, RhoA, and other signalling
+pathways ( 36–38).
+Intriguingly, PLAU upregulation and its negatively
+correlated gene signatures were found to be associated with
+the downregulation of a large number of metabolic pathways.
+Such downregulation could be attributed to a severely hypoxic
+environment in the tumour as a result of pronounced
+desmoplasia that limits oxygen diffusion ( 94,95). Indeed, wefound a signi ﬁcant increase in hypoxia in the high expression
+group of PLAU (Figures 6A ,Cand8E). Given the central role of
+PSCs in the production of desmoplasia, it was also of interest
+that a signi ﬁcant correlation was identi ﬁed between PLAU
+upregulation and activated PSC abundance (R= 0.41,
+P=2.754e-07) as well as between PLAU upregulation and
+Hypoxia-inducible factor-1 aexpression (R= 0.53, P<2.2e-16),
+a known PSC activation factor.
+Moreover, PLAU upregulation is negatively associated with
+these pathways, suggesting th at downregulation of critical
+metabolic pathways in pancreatic cancer patients may result in
+worse outcomes. Evidence suggests that metabolic disorders and
+failure of immunosurveillance to prevent malignancies are key
+drivers of cancer progression. The tumour immune escape
+phenomenon can be induced by several factors, including the
+loss of antigenicity, the loss of immunogenicity, and the
+immunosuppressive tumour microenvironment (TME), which
+are orchestrated by nutrient limitation and the build ‐up of
+speciﬁc metabolites and signalling molecules ( 96,97).
+B
+CDA
+FIGURE 13
+PLAU upregulation is associated with the basal type of PDAC. (A)In the CPTAC-PDAC cohort, (A, B) Kaplan-Meier survival curves show that
+increased PLAU protein expression is associated with poor prognosis (log-rank test, P=0044), and the basal subtype of PDAC is associated withworse survival than the classical subtype. (C)PLAU protein is signi ﬁcantly upregulated in the basal group than classical subtype (Log2FC=0.80,
+P<0.001); and (D)within the basal subtype, the clinical outcome in the high PLAU expression group is signi ﬁcantly worse than the low PLAU
+expression group (log-rank test, P=0.018).Hosen et al. 10.3389/ ﬁmmu.2022.1060957
+Frontiers in Immunology frontiersin.org 18The activation of the uPA/uPAR system has been reported to
+drives aerobic glycolysis (Warburg effect) in melanoma cell lines
+even in normoxic conditions, and this activation depends on the
+a5b1-integrin-mediated uPAR connection with EGFR with the
+engagement of the PI3K-mTOR-HIF apathway ( 98). It has been
+established that the transcription factor HIF-1 apromotes
+aerobic glycolysis and regulates tumour invasion and
+metabolism ( 99). Moreover, in this energy-deprived milieu,
+PLAU upregulation was also found to induce more hypoxia
+and activate the TGF beta pathway, thereby further increasing
+tumour immune suppression. Based on the above, it would bereasonable to speculate that uPA may participate in altering and/
+or downregulating metabolic pathways and in facilitating an
+immunosuppressive environment, thereby ultimately enhancing
+tumour progression.
+PLAU upregulation was also associated with other PSC-
+derived factors and pathways that are thought to mediate the
+well-established bidirectional interaction between PSCs and
+PDAC cells. Activated PSCs markers that were positively
+correlated with PLAU (Pearson correlation test R>0.30,
+P<0.05), including CDH11 [Cadherin-11 is elevated in PSCs
+and is related to PC cells migration ( 100)),MME (or CD10+
+BC
+D
+E
+FG HA
+FIGURE 14
+In vivo study to assess the effects of PLAU/uPA inhibition and Gemcitabine on tumour progression in an orthotopic model of pancreatic cancer
+(A)Flowchart depicting study design for the orthotopic model. (B)Effects of Gemcitabine (G), uPA inhibitor BB230F 3 and 10 mg/kg body
+weight (U3) (U10), respectively, on endpoint primary tumour volume. Mice bearing orthotopic pancreatic tumours received G, 75 mg/kg bodyweight twice weekly or U3 or U10 by daily intraperitoneal injections for 28 days. Both gemcitabine and uPA inhibitors signi ﬁcantly reduced
+tumour volume (n = 5 mice/group). (C)uPA inhibition signi ﬁcantly reduced (U3) or completely abolished (U10) liver metastases in mice, while
+Gemcitabine did not have any effect on metastasis compared to untreated controls. (n = 5 mice/group). (D, E) Immunostaining for the
+mesenchymal marker vimentin and epithelial marker E-Cadherin. Representative photomicrographs depicting staining for E-cadherin andvimentin in mouse pancreas. (F)Morphometric analysis shows that while vimentin expression was unchanged by the treatments, E-cadherin
+expression was signi ﬁcantly increased in U10 compared to controls (n = 5 mice/group). E-cadherin and vimentin (EMT markers), scale bars =
+100mm.(G, H) In the CPTAC-PDAC cohort, protein expression analysis of EMT markers indicates that patients in the upper quartile of PLAU
+expression exhibit low E-cadherin (T-test, LogFC=-0.22 P=0.018) and high vimentin levels (T-test, LogFC=0.27 P<0.01) compared to lowerquartile group, suggesting increased EMT in the tumours with upregulated PLAU expression.Hosen et al. 10.3389/ ﬁmmu.2022.1060957
+Frontiers in Immunology frontiersin.org 19PSCs augment the aggressiveness of PDAC ( 101)],LGALS1
+[Galectin-1 plays role in the development and maintenance of
+an immunosuppressive microenvironment and promotes PDAC
+cells metastasis ( 102 –104)],FERMT2 [progression of pancreatic
+cancer ( 105)),S100A4 (mesenchymal markers increased in
+activated PSCs ( 106)],TGFb1 [TGF-beta signalling in activated
+PSCs promote ECM accumulation, induced EMT etc. ( 107,
+108)],POSTN [promote cancer cell survival, EMT, invasion,
+and metastasis ( 109,110)],Runx2 [regulate the transcription of
+extracellular matrix modulators SPARC andMMP1 and impact
+the tumour microenvironment ( 111)],IL-1 [immune
+suppression ( 112,113)],IL8(crosstalk with endothelial cells
+(20)),PGDF (proliferation and angiogenesis ( 20,114)) and
+PLOD2 (creates a permissive microenvironment for migration
+of cancer cells ( 115)).
+The prominent ECM in PDAC not only supports cancer
+progression by directly promoting cellular transformation and
+metastasis but also affects the function of stromal cells to induce
+angiogenesis and in ﬂammation, thereby resulting in a pro-
+tumorigenic microenvironment ( 116,117). ECM proteins have
+also been recognised as essential components of the metastatic
+niche to maintain cancer stem cell properties and enable the
+outgrowth of metastasis-initiating cells ( 118 –120). Therefore, an
+analysis of the association of PLAU and speci ﬁc ECM markers
+and their prognostic signi ﬁcance was also undertaken in this
+study. 49 ECM gene signatures were found to be correlated with
+PLAU , of which three, namely, secreted factors S100A16 (cancer-
+cell –derived), ECM regulator PLOD2 (PSC-derived) and ECM
+regulator TGM2 (cancer and stromal cell-derived) were
+signiﬁcantly associated with poor survival in the TCGA-PDAC
+cohort. However, survival analysis using the CPTAC cohort
+revealed that only PLOD2 protein upregulation was signi ﬁcantly
+associated with poor survival ( Figure 11A , PLOD2).
+The immune system is now recognised to play a central role
+in cancer biology. There have been no studies to date assessing
+the association between PLAU expression and immune
+signatures in PDAC. This study has shown for the ﬁrst time
+that PLAU expression correlates closely with immune gene
+signatures in three PDAC cohorts. In fact, upregulation of
+PLAU was associated with immune inhibitory rather than
+immune-stimulatory signatures. This concurs with the
+observed association of PLAU with growth factors and
+cytokines known to promote an immunosuppressivetumour microenvironment.
+In view of the positive association discussed above between
+PLAU and its correlated signatures and factors that signify
+tumour aggressiveness, high and low PLAU groups in the
+TCGA-PDAC cohort were analysed. The results con ﬁrmed
+that tumours of patients with high PLAU gene expression also
+exhibited signi ﬁcantly increased proliferation, EMT, stemness,
+ECM degradation, hypoxia and immunosuppressive TME.
+These results suggest that PLAU and its correlated signatures
+induce an aggressive cancer phenotype leading to poor survival.As outlined above, this study has clearly established that
+dysregulated PLAU and its correlated gene signatures have the
+potential to confer a poor prognosis for PDAC. However,
+without knowledge of related changes in the proteome, the
+usefulness of prognosis prediction based on only gene
+expression remains a challenge. Proteins are the key functional
+drivers of cancer biology, providing a link between genotype and
+phenotype and are common targets of anticancer drugs. Thus itis important to note that, using the CPTAC-PDAC cohort, most
+of the PLAU correlated prognostic gene markers identi ﬁed in the
+TCGA-PDAC cohort were also found to be differentially
+expressed at the protein level. Eleven proteins were associated
+with poor survival, including upregulated CD44, CDH3,
+FNDC3B, HMGA2, ITGA3, MET, PPP1R14B, and PLOD2
+and downregulated KIAA0513, OTC, and LYZ. We further
+conﬁrmed their expression level in HPA. Out of 11 ITGA3,
+MET, FNDC3B, PPP1R14B and KIAA0513, including PLAU ,
+were previously reported as individual prognostic markers in the
+pancreatic cancer TCGA-PAAD cohort ( 84). However, we have
+shown these for the ﬁrst time in PDAC as prognostic markers in
+our analysis at the transcriptome and proteome levels.
+Univariate analysis showed that PLAU , CDH3, FNDC3B,
+HMGA2, ITGA3, MET, KIAA0513, OTC, weight, histological
+grade, distant metastasis, tumour stage, residual tumour, and
+smoking are individual prognostic factors for PDAC. Notably,
+multivariate analysis revealed that PLAU protein upregulation in
+association with ITGA3, and PPP1R14B expression, tumour
+stage, and smoking history could predict poor overall survivalin PDAC. Overexpression of ITGA3 was con ﬁrmed in PDAC
+clinical specimens and associated with poor prognosis ( 121).
+Pan-cancer analysis revealed that increased PPP1R14B
+expression correlated with poor prognosis and increased
+immune in ﬁltration levels in myeloid-derived suppressor cells
+(MDSCs), and PPP1R14B could be used as a prognostic
+biomarker for pan-cancer ( 122).
+The systematic approach used in this study, based on
+integrated proteotranscriptomics data, supports a major role
+for the PLAU gene and its corresponding protein (uPA) in
+driving an aggressive metastatic phenotype of PDAC associated
+with an immunosuppressed TME. The challenge in using this
+knowledge to develop PLAU -targeted treatment is the well-
+known heterogeneity of this disease. Therefore, accurate
+patient strati ﬁcation is essential to ensure optimal outcomes of
+targeted therapies. To this end, this study also sought to identify
+whether speci ﬁc subtypes of PDAC were associated with PLAU
+upregulation. As noted earlier, the commonest classi ﬁcation of
+PDAC is based on the morphological features of the tumour,
+with patients being classi ﬁed as having classical or basal-like
+subtypes of PDAC ( 123). Interestingly, this study found a strong
+correlation between PLAU upregulation and basal type of PDAC
+while negatively correlated with classical type gene signatures.
+Pathway analysis further revealed that PLAU upregulation was
+directly associated with vital oncogenic pathways (WNT, WNTHosen et al. 10.3389/ ﬁmmu.2022.1060957
+Frontiers in Immunology frontiersin.org 20beta-Catenin ( 93,124,125) and EMT (TGF beta ( 126) pathways
+as well as with hypoxia and ECM-rich stroma, all characteristic
+of basal PDAC ( 127 –129). Finally, the acquisition of all the
+malignant phenotypes in the high PLAU group supports the
+basal type PDAC association with PLAU . The association of high
+PLAU with the basal PDAC subtype was also validated at the
+protein level using the CPTAC-PDAC cohort, as was the
+correlation of the basal subtype with poor survival(Figures 13B-D andSF7).
+Importantly, we have validated the concept of a key role for
+PLAU /uPA in cancer progression and its potential as a
+therapeutic target by performing studies in an orthotopic
+pancreatic tumour model. Our underlying initial strategy for
+this study was also to compare a non-chemotherapy targeted
+approach (uPA inhibitor) with a single agent well-tolerated
+chemotherapy so as to minimise toxic effects while, at the
+same time, potentially increasing treatment ef ﬁcacy. This
+approach has resulted in very encouraging results where uPA
+inhibition alone signi ﬁcantly reduced tumour growth to a degree
+similar to Gemcitabine. Cru cially, uPA inhibition was
+signiﬁcantly superior to Gemcitabine in reducing metastasis,
+with U10-treated mice showing no evidence of metastasis. The
+inhibition of metastasis by uPA inhibition is likely mediated by
+the decrease in EMT and stemness evident in U10-treated mice.
+Using uPA knock-out cells Fang et al. has convincingly
+demonstrated that the knockdown PLAU in KYSE-30 cells
+exhibited signi ﬁcantly reduced tumour growth and weight
+than the control (normal uPA expression) group, while the
+PLAU overexpression group exhibited increased tumour
+growth and weight compared with the control group ( 27).In
+vitro studies using pancreatic cancer cell lines have shown that
+the knockdown of uPA reduces cancer cell migration, invasion
+and viability ( 130).Multiple in vivo studies have shown that
+inhibiting uPA with antibodies, uPA-directed prodrugs or
+radioisotopes and small molecule inhibitors alone or in
+combination with other drugs can block cancer growth,
+invasion and metastasis in prostate and breast cancer ( 131 –
+135). In addition, uPA inhibitors have also demonstrated very
+encouraging outcomes in clinical trials for the treatment of
+different types of solid tumours ( 136,137), including using
+Upamostat (WX-671, Mesupron) in advanced pancreatic
+cancer patients ( 138,139).
+This study has yielded novel ﬁndings regarding PLAU and its
+role in PDAC tumour progression using comprehensive and
+integrated transcriptomic/proteomic bioinformatic analyses.
+Moreover, since upregulation of PLAU
+levels is also frequently
+observed in a number of malignancies and upregulation of PLAU
+is a prognostic marker not only in pancreatic cancer but also in
+head and neck, endometrial cancer, renal and lung ( 42), breast
+(140) and oesophageal cancer ( 27). In light of the above, it is
+highly likely that the approach used in our study for pancreatic
+cancer could be a promising approach for several other cancers.
+However, the study does have limitations. All clinical cohorts inthis study (with small sampl e size) primarily comprised
+Caucasians or Africans; therefore, caution must be exercised to
+extrapolate the ﬁndings to patients of other ethnicities. The
+orthotopic xenograft model of pancreatic cancer used in this
+study involved using a mixture of human cancer cells and
+human pancreatic stellate cells that provided strong support for
+our concept that uPA drives pancreatic cancer progression.
+However, the mice were necessarily immunode ﬁcient, and as
+such, the model did not lend itself to characterise any immune
+inﬁltration into the tumours accurately. The ﬁndings derived from
+our in silico and in vivo analyses need to be validated
+experimentally in more depth, a step currently being pursued in
+our laboratory. In this regard, we are evaluating the effects of
+inhibiting uPA in a clinically representative orthotopic mouse
+model (early and advanced) of PDAC in both immune-de ﬁcient
+and immune-competent (syngeneic KPC model, where a mixture
+of mouse cancer cells and mouse pancreatic stellate cells is
+implanted into the KPC mouse pancreas) settings with more
+numbers of mice. The immune cell landscape in this model closely
+resembles that of human pancreatic cancer with in ﬁltration of
+myeloid-derived suppressor cells (MDSC), Treg cells and a few
+CD8+ cytotoxic T cells ( 141 –143). Future work will also combine
+inhibition with multiagent chemotherapy to further optimise
+outcomes or to demonstrate that single-agent chemotherapy +
+targeted therapy may be preferred to current multiagent strategies
+in selected patients. In search of treatment alternatives, we also
+hypothesise that in basal-like tumours, since upregulation of the
+PLAU group has higher hypoxia scores and higher
+immunosuppressive tumour signatures (PD-L1 and PD-L2)
+than the anti-tumour immune signature (CD8+ T cells), which
+may be predictive of immunotherapy (in combination with uPA
+and plus-minus chemotherapy) in this chemo resistant.
+5 Conclusion
+For the ﬁrst time, this study has comprehensively revealed
+the signi ﬁcance of PLAU in PDAC development, metastasis, and
+immune suppression and has demonstrated the potential
+translational importance of inhibiting master regulator PLAU
+protein in basal type PDAC patients. Thus, it would not be
+unreasonable to hypothesise that selectively inhibiting PLAU
+(with and without chemo/immune therapy) in patients withbasal PDAC may represent a novel and effective therapeutic
+approach to improve patient outcomes.
+Data availability statement
+Publicly available datasets were analyzed in this study. This
+data can be found here: https://www.ncbi.nlm.nih.gov/gds ),
+Cancer Cell Line Encyclopedia (CCLE, https://depmap.org/
+portal/ccle/ ), International Cancer Genome ConsortiumHosen et al. 10.3389/ ﬁmmu.2022.1060957
+Frontiers in Immunology frontiersin.org 21(ICGC, https://icgc.org/ ), the Cancer Genome Atlas (TCGA,
+http://cancergenome.nih.gov/ ), the National Cancer Institute ’s
+Clinical Proteomic Tumor Analysis Consortium (CPTAC,
+https://pdc.cancer.gov/pdc/ ) and the Ontario Institute for
+Cancer Research (OICR) PDAC cohort ’gene expression and
+clinical data are only available upon through a data access
+agreement with referenced institute.
+Ethics statement
+The animal study was reviewed and approved by University
+of New South Wales Animal Care and Ethics Committee
+(Approval Number 18/125B) a nd accomplished under
+ARRIVE guidelines.
+Author contributions
+SH. designed experiments, acquired and analysed data,
+interpreted results, and wrote and revised the manuscript. MU
+helped analysed data and interpret bioinformatics results. ZX
+acquired data for in vivo experiments; BB synthesized and
+prepared formulation for in vivo study. CP acquired data for
+in vitro experiments. TP helped to interpret the results. AM
+acquired data for in vivo experiments. MM helped to interpret
+the bioinformatics results. FN and SG acquired OICR-cohort
+data. RP helped to interpret results and revised manuscript. JW
+helped to interpret results and revised manuscript. MR helped to
+interpret results and revised manuscript. DG helped to interpret
+results, and revised manuscript and MA conceived, designed the
+study and experiments, interpreted results, and revised
+manuscript. All authors contributed to the article and
+approved the submitted version.Funding
+This work was supported by a grant from Avner Pancreatic
+Cancer Foundation (RG172336) and UNSW Scientia Scholarship.
+This study was also conducted with the support of the Ontario
+Institute for Cancer Research (P anCuRx Translational Research
+Initiative) through funding provided by the Government of
+Ontario, the Wallace McCain Centre for Pancreatic Cancer
+supported by the Princess Margaret Cancer Foundation, the
+Terry Fox Research Institute, the Canadian Cancer Society
+Research Institute, and the Pancre atic Cancer Canada Foundation.
+Conﬂict of interest
+The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could
+be construed as a potential con ﬂict of interest.
+Publisher ’s note
+All claims expressed in this article are solely those of the
+authors and do not necessarily represent those of their af ﬁliated
+organizations, or those of the publisher, the editors and the
+reviewers. Any product that may be evaluated in this article, or
+claim that may be made by its manufacturer, is not guaranteed
+or endorsed by the publisher.
+Supplementary material
+The Supplementary Material for this article can be found
+online at: https://www.frontiersin. org/articles/10.3389/
+ﬁmmu.2022.1060957/full#supplementary-material
+References
+1. Sung H, Ferlay J, Siegel RL, Laversanne M, Soerjomataram I, Jemal A, et al.
+Global cancer statistics 2020: GLOBOCAN estimates of incidence and mortalityworldwide for 36 cancers in 185 countries. CA: Cancer J Clin (2021) 71(3):209 –49.
+doi:10.3322/caac.21660
+2. Rahib L, Smith BD, Aizenberg R, Rosenzweig AB, Fleshman JM, Matrisian
+LM. Projecting cancer incidence and deaths to 2030: The unexpected burden of
+thyroid, liver, and pancreas cancers in the united states. Cancer Res (2014) 74
+(11):2913 –21. doi: 10.1158/0008-5472.CAN-14-0155
+3. Chun JW, Lee SH, Kim JS, Park N, Huh G, Cho IR, et al. Comparison
+between FOLFIRINOX and gemcitabine plus nab-paclitaxel including sequentialtreatment for metastatic pancreatic cancer: A propensity score matching approach.BMC Cancer (2021) 21(1):537. doi: 10.1186/s12885-021-08277-7
+4. Bailey P, Chang DK, Nones K, Johns AL, Patch A-M, Gingras M-C, et al.
+Genomic analyses identify molecular subtypes of pancreatic cancer. Nature (2016)
+531(7592):47 –52. doi: 10.1038/nature16965
+5. Collisson EA, Sadanandam A, Olson P, Gibb WJ, Truitt M, Gu S, et al.
+Subtypes of pancreatic ductal adenocarcinoma and their differing responses to
+therapy. Nat Med (2011) 17(4):500 –3. doi: 10.1038/nm.23446. Mof ﬁtt RA, Marayati R, Flate EL, Volmar KE, Loeza SGH, Hoadley KA, et al.
+Virtual microdissection identi ﬁes distinct tumor-and stroma-speci ﬁc subtypes of
+pancreatic ductal adenocarcinoma. Nat Genet (2015) 47(10):1168 –78. doi: 10.1038/
+ng.3398
+7. Kumar AA, Buckley BJ, Ranson M. The urokinase plasminogen activation
+system in pancreatic cancer: Prospective diagnostic and therapeutic targets.
+Biomolecules (2022) 12(2):152. doi: 10.3390/biom12020152
+8. Chan-Seng-Yue M, Kim JC, Wilson GW, Ng K, Figueroa EF, O ’Kane GM,
+et al. Transcription phenotypes of pancreatic cancer are driven by genomic eventsduring tumor evolution. Nat Genet (2020) 52(2):231 –40. doi: 10.1038/s41588-019-
+0566-9
+9. Puleo F, Nicolle R, Blum Y, Cros J, Marisa L, Demetter P, et al. Strati ﬁcation
+of pancreatic ductal adenocarcinomas based on tumor and microenvironmentfeatures. Gastroenterology (2018) 155(6):1999 –2013. e3. doi: 10.1053/
+j.gastro.2018.08.033
+10. Kim S, Kang MJ, Lee S, Bae S, Han S, Jang J-Y, et al. Identifying molecular
+subtypes related to clinicopathologic factors in pancreatic cancer. Biomed Eng
+Online (2014) 13(2):1 –11. doi: 10.1186/1475-925X-13-S2-S5Hosen et al. 10.3389/ ﬁmmu.2022.1060957
+Frontiers in Immunology frontiersin.org 2211. Namkung J, Kwon W, Choi Y, Yi SG, Han S, Kang MJ, et al. Molecular
+subtypes of pancreatic cancer based on miRNA expression pro ﬁles have
+independent prognostic value. J Gastroenterol Hepatol (2016) 31(6):1160 –7. doi:
+10.1111/jgh.13253
+12. Janky RS, Binda MM, Allemeersch J, Govaere O, Swinnen JV, Roskams T,
+et al. Prognostic relevance of molecu lar subtypes and master regulators in
+pancreatic ductal adenocarcinoma. BMC Cancer (2016) 16(1):1 –15. doi: 10.1186/
+s12885-016-2540-6
+13. Birnbaum DJ, Finetti P, Birnbaum D, Mamessier E, Bertucci F. Validation
+and comparison of the molecular classi ﬁcations of pancreatic carcinomas. Mol
+Cancer (2017) 16(1):1 –7. doi: 10.1186/s12943-017-0739-z
+14. Moore MJ, Goldstein D, Hamm J, Figer A, Hecht JR, Gallinger S, et al.
+Erlotinib plus gemcitabine compared with gemcitabine alone in patients with
+advanced pancreatic cancer: A phase III trial of the national cancer institute ofCanada clinical trials group. J Clin Oncol (2007) 25(15):1960 –6. doi: 10.1200/
+JCO.2006.07.9525
+15. Royal RE, Levy C, Turner K, Mathur A, Hughes M, Kammula US, et al.
+Phase 2 trial of single agent ipilimumab (anti-CTLA-4) for locally advanced ormetastatic pancreatic adenocarcinoma. J Immunother (Hagerstown Md: 1997)
+(2010) 33(8):828. doi: 10.1097/CJI.0b013e3181eec14c
+16. Le DT, Lutz E, Uram JN, Sugar EA, Onners B, Solt S, et al. Evaluation of
+ipilimumab in combination with allogeneic pancreatic tumor cells transfected with
+a GM-CSF gene in previously treated pancreatic cancer. J Immunother
+(Hagerstown Md: 1997) (2013) 36(7):382. doi: 10.1097/CJI.0b013e31829fb7a2
+17. O ’Reilly EM, Oh D-Y, Dhani N, Renouf DJ, Lee MA, Sun W, et al.
+Durvalumab with or without tremelimumab for patients with metastaticpancreatic ductal adenocarcinoma: A phase 2 randomized clinical trial. JAMA
+Oncol (2019) 5(10):1431 –8. doi: 10.1001/jamaoncol.2019.1588
+18. Wilson J, Pirola R, Apte M. Stars and stripes in pancreatic cancer: Role of
+stellate cells and stroma in cancer progression. Front Physiol (2014) 5(52). doi:
+10.3389/fphys.2014.00052
+19. Apte MV, Xu Z, Pothula S, Goldstein D, Pirola RC, Wilson JS. Pancreatic
+cancer: The microenvironment needs attention too! Pancreatology (2015) 15(4
+Suppl):S32 –8. doi: 10.1016/j.pan.2015.02.013
+20. Schnittert J, Bansal R, Prakash J. Targeting pancreatic stellate cells in cancer.
+Trends Cancer (2019) 5(2):128 –42. doi: 10.1016/j.trecan.2019.01.001
+21. Pothula SP, Xu Z, Goldstein D, Merrett N, Pirola RC, Wilson JS, et al.
+Targeting the HGF/c-MET pathway: Stromal remodelling in pancreatic cancer.Oncotarget (2017) 8(44):76722. doi: 10.18632/oncotarget.20822
+22. Bauer TW, Liu W, Fan F, Camp ER, Yang A, Somcio RJ, et al. Targeting of
+urokinase plasminogen activator receptor in human pancreatic carcinoma cellsinhibits c-Met –and insulin-like growth factor-I receptor –mediated migration and
+invasion and orthotopic tumor growth in mice. Cancer Res (2005) 65(17):7775 –81.
+doi:10.1158/0008-5472.CAN-05-0946
+23. Tincknell G, Piper A-K, Aghmesheh M, Becker T, Vine KL, Brungs D, et al.
+Experimental and clinical evidence supports t he use of urokinase plasminogen activation
+system components as clinically relevant biomarkers in gastroesophageal
+adenocarcinoma. Cancers (Basel) (2021) 13(16):4097. doi: 10.3390/cancers13164097
+24. Ranson M, Andronicos NM. Plasminogen binding and cancer: promises
+and pitfalls. Front Biosci (2003) 8:s294 –304. doi: 10.2741/1044
+25. De Vries T, Van Muijen G, Ruiter D. The plasminogen activation system in
+tumour invasion and metastasis. Pathol-Res Prac (1996) 192(7):718 –33. doi:
+10.1016/S0344-0338(96)80094-X
+26. Chen G, Sun J, Xie M, Yu S, Tang Q, Chen L. PLAU promotes cell
+proliferation and epithelial-mesenchymal transition in head and neck squamouscell carcinoma. Front Genet (2021) 12. doi: 10.3389/fgene.2021.651882
+27. Fang L, Che Y, Zhang C, Huang J, Lei Y, Lu Z, et al. PLAU directs
+conversion of ﬁbroblasts to in ﬂammatory cancer-associated ﬁbroblasts,
+promoting esophageal squamous cell carcinoma progression viauPAR/Akt/NF-
+kB/IL8 pathway. Cell Death Discov (2021) 7(1):1 –14. doi: 10.1038/s41420-021-
+00410-6
+28. Bekes EM, Deryugina EI, Kupriyanova TA, Zajac E, Botkjaer KA, Andreasen
+PA, et al. Activation of pro-uPA is critical for initial escape from the primary tumorand hematogenous dissemination of human carcinoma cells. Neoplasia (2011) 13
+(9):806 –21. doi: 10.1593/neo.11704
+29. Irigoyen JP, Munoz-Canoves P, Montero L, Koziczak M, Nagamine Y. The
+plasminogen activator system: biology and regulation. Cell Mol Life Sciences: CMLS
+(1999) 56(1-2):104 –32. doi: 10.1007/PL00000615
+30. Montuori N, Rossi G, Ragno P. Post-transcriptional regulation of gene
+expression in the plasminogen activation system. Biol Chem (2002) 383(1):47 –53.
+doi:10.1515/BC.2002.005
+31. Nagamine Y, Medcalf RL, Munoz-Canoves P. Transcriptional and
+posttranscriptional regulation of the plasminogen activator system. Thromb
+Haemostasis (2005) 93(4):661 –75. doi: 10.1160/TH04-12-081432. Duffy M, Duggan C. The urokinase plasminogen activator system: a rich
+source of tumour markers for the individualised management of patients withcancer. Clin Biochem (2004) 37(7):541 –8. doi: 10.1016/j.clinbiochem.2004.05.013
+33. Mahmood N, Mihalcioiu C, Rabbani SA. Multifaceted role of the urokinase-
+type plasminogen activator (uPA) and its receptor (uPAR): Diagnostic, prognostic,and therapeutic applications. Front Oncol (2018) 8(24):. doi: 10.3389/
+fonc.2018.00024
+34. Masucci MT, Minopoli M, Di Carluccio G, Motti ML, Carriero MV.
+Therapeutic strategies targeting urokinase and its receptor in cancer. Cancers
+(Basel) (2022) 14(3):498. doi: 10.3390/cancers14030498
+35. Carriero MV, Stoppelli MP. The urokinase-type plasminogen activator and
+the generation of inhibitors of urokinase activity and signaling. Curr Pharm Des
+(2011) 17(19):1944 –61. doi: 10.2174/138161211796718143
+36. Blasi F, Carmeliet P. uPAR: a versatile signalling orchestrator.
+Nat Rev Mol
+Cell Biol (2002) 3(12):932 –43. doi: 10.1038/nrm977
+37. Jo M, Thomas KS, Marozkina N, Amin TJ, Silva CM, Parsons SJ, et al.
+Dynamic assembly of the urokinase-type plasminogen activator signaling receptorcomplex determines the mitogenic activity of urokinase-type plasminogenactivator. J Biol Chem (2005) 280(17):17449 –57. doi: 10.1074/jbc.M413141200
+38. Smith HW, Marshall CJ. Regulation of cell signalling by uPAR. Nat Rev Mol
+Cell Biol (2010) 11(1):23 –36. doi: 10.1038/nrm2821
+39. Andreucci E, Laurenzana A, Peppicelli S, Biagioni A, Margheri F, Ruzzolini
+J, et al. uPAR controls vasculogenic mimicry ability expressed by drug-resistantmelanoma cells. Oncol Res Featuring Preclinical Clin Cancer Ther (2021) 28(7-8):7 –
+8. doi: 10.3727/096504021X16273798026651
+40. Laurenzana A, Margheri F, Biagioni A, Chillà A, Pimpinelli N, Ruzzolini J,
+et al. EGFR/uPAR interaction as druggable target to overcome vemurafenibacquired resistance in melanoma cells. EBioMedicine (2019) 39:194 –206. doi:
+10.1016/j.ebiom.2018.12.024
+41. Gonias SL, Hu J. Urokinase receptor and resistance to targeted anticancer
+agents. Front Pharmacol (2015) 6:154. doi: 10.3389/fphar.2015.00154
+42. Uhle ́n M, Fagerberg L, Hallström BM, Lindskog C, Oksvold P, Mardinoglu
+A, et al. Tissue-based map of the human proteome. Science (2015) 347(6220):1 –9.
+doi:10.1126/science.1260419
+43. Ma Y, Pu Y, Peng L, Luo X, Xu J, Peng Y, et al. Identi ﬁcation of potential hub
+genes associated with the pathogenesis and prognosis of pancreatic duct
+adenocarcinoma using bioinformatics meta −analysis of multi −platform datasets.
+Oncol Letters (2019) 18(6):6741 –51. doi: 10.3892/ol.2019.11042
+44. Pacini C, Dempster JM, Boyle I, Gonc ̧alves E, Najgebauer H, Karakoc E,
+et al. Integrated cross-study datasets of genetic dependencies in cancer. Nat
+Commun (2021) 12(1):1661. doi: 10.1038/s41467-021-21898-7
+45. Ghandi M, Huang FW, Jane ́-Valbuena J, Kryukov GV, Lo CC, McDonald
+ER, et al. Next-generation characterization of the cancer cell line encyclopedia.Nature (2019) 569(7757):503 –8. doi: 10.1038/s41586-019-1186-3
+46. Pei H, Li L, Fridley BL, Jenkins GD, Kalari KR, Lingle W, et al. FKBP51
+affects cancer cell response to chemotherapy by negatively regulating akt. Cancer
+Cell(2009) 16(3):259 –66. doi: 10.1016/j.ccr.2009.07.016
+47. Wennerström AB, Lothe IM, Sandhu V, Kure EH, Myklebost O, Munthe E.
+Generation and characterisation of novel pancreatic adenocarcinoma xenograft
+models and corresponding primary cell lines. PloS One (2014) 9(8):e103873. doi:
+10.1371/journal.pone.0103873
+48. Jiang J, Azevedo-Pouly AC, Redis RS, Lee EJ, Gusev Y, Allard D, et al.
+Globally increased ultraconserved noncoding RNA expression in pancreaticadenocarcinoma. Oncotarget (2016) 7(33):53165 –77. doi: 10.18632/
+oncotarget.10242
+49. Lin J, Wu YJ, Liang X, Ji M, Ying HM, Wang XY, et al. Network-based
+integration of mRNA and miRNA pro ﬁles reveals new target genes involved in
+pancreatic cancer. Mol Carcinog (2019) 58(2):206 –18. doi: 10.1002/mc.22920
+50. Gao J, Aksoy BA, Dogrusoz U, Dresdner G, Gross B, Sumer SO, et al.
+Integrative analysis of complex cancer genomics and clinical pro ﬁles using the
+cBioPortal. Sci Signaling (2013) 6(269):pl1. doi: 10.1126/scisignal.2004088
+51. Benjamini Y, Hochberg Y. Controlling the false discovery rate: a practical
+and powerful approach to multiple testing. J R Stat Society: Ser B (Methodological)
+(1995) 57(1):289 –300. doi: 10.1111/j.2517-6161.1995.tb02031.x
+52. Liberzon A, Subramanian A, Pinchback R, Thorvaldsdo ́ttir H, Tamayo P,
+Mesirov JP. Molecular signatures database (MSigDB) 3. 0. Bioinf (2011) 27
+(12):1739 –40. doi: 10.1093/bioinformatics/btr260
+53. Subramanian A, Tamayo P, Mootha VK, Mukherjee S, Ebert BL, Gillette
+MA, et al. Gene set enrichment analysis: A knowledge-based approach forinterpreting genome-wide expression pro ﬁles.Proc Natl Acad Sci United States
+America (2005) 102(43):15545 –50. doi: 10.1073/pnas.0506580102
+54. Szklarczyk D, Gable AL, Lyon D, Junge A, Wyder S, Huerta-Cepas J, et al.
+STRING v11: protein –protein association networks with increased coverage,Hosen et al. 10.3389/ ﬁmmu.2022.1060957
+Frontiers in Immunology frontiersin.org 23supporting functional discovery in genome-wide experimental datasets. Nucleic
+Acids Res (2019) 47(D1):D607 –13. doi: 10.1093/nar/gky1131
+55. Shannon P, Markiel A, Ozier O, Baliga NS, Wang JT, Ramage D, et al.
+Cytoscape: A software environment for integrated models of biomolecularinteraction networks. Genome Res (2003) 13(11):2498 –504. doi: 10.1101/
+gr.1239303
+56. Chin CH, Chen SH, Wu HH, Ho CW, Ko MT, Lin CY. cytoHubba:
+Identifying hub objects and sub-networks from complex interactome. BMC Syst
+Biol(2014) 8 Suppl 4(Suppl 4):S11. doi: 10.1186/1752-0509-8-S4-S11
+57. Cran, R foundation: Therneau T. M. A Package for Survival Analysis in R .
+(2020). Available at: https://CRAN.R-projectorg/package=survival .
+58. Yoshihara K, Shahmoradgoli M, Mart ı ́nez E, Vegesna R, Kim H, Torres-
+Garcia W, et al. Inferring tumour purity and stromal and immune cell admixture
+from expression data. Nat Commun (2013) 4(1):2612. doi: 10.1038/ncomms3612
+59. Bachem MG, Schneider E, Groß H, Weidenbach H, Schmid RM, Menke A,
+et al. Identi ﬁcation, culture, and characterization of pancreatic stellate cells in rats
+and humans. Gastroenterology (1998) 115(2):421 –32. doi: 10.1016/S0016-5085(98)
+70209-4
+60. Apte M, Haber P, Applegate T, Norton I, McCaughan G, Korsten M, et al.
+Periacinar stellate shaped cells in rat pancreas: identi ﬁcation, isolation, and culture.
+Gut(1998) 43(1):128 –33. doi: 10.1136/gut.43.1.128
+61. Pothula SP, Xu Z, Goldstein D, Biankin AV, Pirola RC, Wilson JS, et al.
+Hepatocyte growth factor inhibition: a novel therapeutic approach in pancreaticcancer. Br J Cancer (2016) 114(3):269 –80. doi: 10.1038/bjc.2015.478
+62. Vonlaufen A, Phillips PA, Xu Z, Goldstein D, Pirola RC, Wilson JS, et al.
+Pancreatic stellate cells and pancreatic cancer cells: an unholy alliance. Cancer Res
+(2008) 68(19):7707 –10. doi: 10.1158/0008-5472.CAN-08-1132
+63. Xu Z, Pang TCY, Liu AC, Pothula SP, Mekapogu AR, Perera CJ, et al.
+Targeting the HGF/c-MET pathway in advanced pancreatic cancer: A key elementof treatment that limits primary tumour growth and eliminates metastasis. Br J
+Cancer (2020) 122(10):1486 –95. doi: 10.1038/s41416-020-0782-1
+64. Buckley BJ, Aboelela A, Minaei E, Jiang LX, Xu Z, Ali U, et al. 6-substituted
+hexamethylene amiloride (HMA) derivatives as potent and selective inhibitors ofthe human urokinase plasminogen activator for use in cancer. J Medicinal Chem
+(2018) 61(18):8299 –320. doi: 10.1021/acs.jmedchem.8b00838
+65. Kalimuthu S N, Wilson GW, Grant RC, Seto M, O ’Kane G, Vajpeyi R, et al.
+Morphological classi ﬁcation of pancreatic ductal adenocarcinoma that predicts
+molecular subtypes and correlates with clinical outcome. Gut(2020) 69(2):317 –28.
+doi:10.1136/gutjnl-2019-318217
+66. Pothula SP, Pirola RC, Wilson JS, Apte MV. Pancreatic stellate cells: Aiding
+and abetting pancreatic cancer progression. Pancreatology
+(2020) 20(3):409 –18.
+doi:10.1016/j.pan.2020.01.003
+67. Vonlaufen A, Joshi S, Qu C, Phillips PA, Xu Z, Parker NR, et al. Pancreatic
+stellate cells: partners in crime with pancreatic cancer cells. Cancer Res (2008) 68
+(7):2085 –93. doi: 10.1158/0008-5472.CAN-07-2477
+68. Xu Z, Vonlaufen A, Phillips PA, Fiala-Beer E, Zhang X, Yang L, et al. Role of
+pancreatic stellate cells in pancreatic cancer metastasis. Am J Pathology (2010) 177
+(5):2585 –96. doi: 10.2353/ajpath.2010.090899
+69. Mekapogu A, Pothula S, Pirola R, Wilson J, Apte M. Multifunctional role of
+pancreatic stellate cells in pancreatic cancer. Ann Pancreat Cancer (2019) 2(10):1 –
+15. doi: 10.21037/apc.2019.05.02
+70. Tian C, Clauser KR, Öhlund D, Rickelt S, Huang Y, Gupta M, et al.
+Proteomic analyses of ECM during pancreatic ductal adenocarcinomaprogression reveal different contributions by tumor and stromal cells. Proc Natl
+Acad Sci (2019) 116(39):19609 –18. doi: 10.1073/pnas.1908626116
+71. Deutsch EW, Omenn GS, Sun Z, Maes M, Pernemalm M, Palaniappan KK,
+et al. Advances and utility of the human plasma proteome. J Proteome Res (2021) 20
+(12):5241 –63. doi: 10.1021/acs.jproteome.1c00657
+72. Froeling FEM, Casolino R, Pea A, Biankin AV, Chang DK. Precision-panc
+obo. molecular subtyping and precision medicine for pancreatic cancer. J Clin Med
+(2021) 10(1):149. doi: 10.3390/jcm10010149
+73. Rashid NU, Peng XL, Jin C, Mof ﬁtt RA, Volmar KE, Belt BA, et al. Purity
+independent subtyping of tumors (PurIST), a clinically robust, single-sampleclassi ﬁer for tumor subtyping in pancreatic cancer. Clin Cancer Res (2020) 26
+(1):82 –92. doi: 10.1158/1078-0432.CCR-19-1467
+74. Somerville TD, Xu Y, Miyabayashi K, Tiriac H, Cleary CR, Maia-Silva D,
+et al. TP63-mediated enhancer reprogramming drives the squamous subtype ofpancreatic ductal adenocarcinoma. Cell Rep (2018) 25(7):1741 –55. e7. doi: 10.1016/
+j.celrep.2018.10.051
+75. Ryan DP, Hong TS, Bardeesy N. Pancreatic adenocarcinoma. N Engl J Med
+(2014) 371(11):1039 –49. doi: 10.1056/NEJMra1404198
+76. Conroy T, Desseigne F, Ychou M, Bouche ́O, Guimbaud R, Be ́couarn Y,
+et al. FOLFIRINOX versus gemcitabine for metastatic pancreatic cancer. New Engl J
+Med (2011) 364(19):1817 –25. doi: 10.1056/NEJMoa101192377. Von Hoff DD, Ervin T, Arena FP, Chiorean EG, Infante J, Moore M, et al.
+Increased survival in pancreatic cancer with nab-paclitaxel plus gemcitabine. N
+Engl J Med (2013) 369(18):1691 –703. doi: 10.1056/NEJMoa1304369
+78. Conroy T, Hammel P, Hebbar M, Ben Abdelghani M, Wei AC, Raoul J-L,
+et al. FOLFIRINOX or gemcitabine as adjuvant therapy for pancreatic cancer. N
+Engl J Med (2018) 379(25):2395 –
+406. doi: 10.1056/NEJMoa1809775
+79. Nielsen A, Scarlett CJ, Samra JS, Gill A, Li Y, Allen BJ, et al. Signi ﬁcant
+overexpression of urokinase-type pl asminogen activator in pancreatic
+adenocarcinoma using real-time quantitative reverse transcription polymerasechain reaction. J Gastroenterol Hepatol (2005) 20(2):256 –63. doi: 10.1111/j.1440-
+1746.2004.03531.x
+80. Cantero D, Friess H, De ﬂorin J, Zimmermann A, Bründler M, Riesle E, et al.
+Enhanced expression of urokinase plasminogen activator and its receptor in
+pancreatic carcinoma. Br J Cancer (1997) 75(3):388 –95. doi: 10.1038/bjc.1997.63
+81. Feilchenfeldt J, Bründler M-A, Soravia C, Tötsch M, Meier CA. Peroxisome
+proliferator-activated receptors (PPARs) and associated transcription factors incolon cancer: reduced expression of PPAR g-coactivator 1 (PGC-1). Cancer Letters
+(2004) 203(1):25 –33. doi: 10.1016/j.canlet.2003.08.024
+82. Zhang Y, Ba Y, Liu C, Sun G, Ding L, Gao S, et al. PGC-1 ainduces apoptosis
+in human epithelial ovarian cancer cells through a PPAR g-dependent pathway. Cell
+Res(2007) 17(4):363 –73. doi: 10.1038/cr.2007.11
+83. Uddin MN, Li M, Wang X. Identi ﬁcation of transcriptional signatures of
+colon tumor stroma by a meta-analysis. J Oncol (2019) 2019:8752862. doi: 10.1155/
+2019/8752862
+84. Uhle ́n M, Fagerberg L, Hallström BM, Lindskog C, Oksvold P, Mardinoglu
+A, et al. Proteomics. tissue-based map of the human proteome. Science (2015) 347
+(6220):1260419. doi: 10.1126/science.1260419
+85. Thayer SP, di Magliano MP, Heiser PW, Nielsen CM, Roberts DJ, Lauwers
+GY, et al. Hedgehog is an early and late mediator of pancreatic cancertumorigenesis. Nature (2003) 425(6960):851 –6. doi: 10.1038/nature02009
+86. Li C, Heidt DG, Dalerba P, Burant CF, Zhang L, Adsay V, et al.
+Identi ﬁcation of pancreatic cancer stem cells. Cancer Res (2007) 67(3):1030 –7.
+doi:10.1158/0008-5472.CAN-06-2030
+87. Lee CJ, Dosch J, Simeone DM. Pancreatic cancer stem cells. J Clin Oncol
+(2008) 26(17):2806 –12. doi: 10.1200/JCO.2008.16.6702
+88. Li W, Cao L, Chen X, Lei J, Ma Q. Resveratrol inhibits hypoxia-driven ROS-
+induced invasive and migratory ability of pancreatic cancer cells viasuppression of
+the hedgehog signaling pathway. Oncol Rep (2016) 35(3):1718 –26. doi: 10.3892/
+or.2015.4504
+89. Pude łko A, Wisowski G, Olczyk K, Koz ́ma EM. The dual role of the
+glycosaminoglycan chondroitin-6-sulfate in the development, progression and
+metastasis of cancer. FEBS J (2019) 286(10):1815 –37. doi: 10.1111/febs.14748
+90. Ricciardelli C, Mayne K, Sykes PJ, Raymond WA, McCaul K, Marshall VR,
+et al. Elevated stromal chondroitin sulfate glycosaminoglycan predicts progressionin early-stage prostate cancer. Clin Cancer Res (1997) 3(6):983 –92.
+91. Huang Y-F, Mizumoto S, Fujita M. Novel insight into glycosaminoglycan
+biosynthesis based on gene expression pro ﬁles.Front Cell Dev Biol (2021) 9. doi:
+10.3389/fcell.2021.709018
+92. Zhan T, Rindtorff N, Boutros M. Wnt signaling in cancer. Oncogene (2017)
+36(11):1461 –73. doi: 10.1038/onc.2016.304
+93. Zhang Y, Morris JP IV, Yan W, Scho ﬁeld HK, Gurney A, Simeone DM, et al.
+Canonical wnt signaling is required for pancreatic carcinogenesis. Cancer Res
+(2013) 73(15):4909 –22. doi: 10.1158/0008-5472.CAN-12-4384
+94. Sousa CM, Kimmelman AC. The complex landscape of pancreatic cancer
+metabolism. Carcinogenesis (2014) 35(7):1441 –50. doi: 10.1093/carcin/bgu097
+95. Yang J, Ren B, Yang G, Wang H, Chen G, You L, et al. The enhancement of
+glycolysis regulates pancreatic cancer metastasis. Cell Mol Life Sci (2020) 77
+(2):305 –21. doi: 10.1007/s00018-019-03278-z
+96. Chang C-H, Qiu J, O ’Sullivan D, Buck MD, Noguchi T, Curtis JD, et al.
+Metabolic competition in the tumor microenvironment is a driver of cancerprogression. Cell(2015) 162(6):1229 –41. doi: 10.1016/j.cell.2015.08.016
+97. Wellenstein MD, de Visser KE. Cancer-cell-intrinsic mechanisms shaping
+the tumor immune landscape. Immunity (2018) 48(3):399 –416. doi: 10.1016/
+j.immuni.2018.03.004
+98. Laurenzana A, Chillà A, Luciani C, Peppicelli S, Biagioni A, Bianchini F,
+et al. uPA/uPAR system activation drives a glycolytic phenotype in melanoma cells.Int J Cancer (2017) 141(6):1190 –200. doi: 10.1002/ijc.30817
+99. Kierans SJ, Taylor CT. Regulation of glycolysis by the hypoxia-inducible
+factor (HIF): implications for cellular physiology. J Physiol (2021) 599(1):23 –37.
+doi:10.1113/JP280572
+100. Birtolo C, Pham H, Morvaridi S, Chheda C, Go VL, Ptasznik A, et al.
+Cadherin-11 is a cell surface marker up-regulated in activated pancreatic stellatecells and is involved in pancreatic cancer cell migration. Am J Pathol (2017) 187
+(1):146 –55. doi: 10.1016/j.ajpath.2016.09.012Hosen et al. 10.3389/ ﬁmmu.2022.1060957
+Frontiers in Immunology frontiersin.org 24101. Ikenaga N, Ohuchida K, Mizumoto K, Cui L, Kayashima T, Morimatsu K,
+et al. CD10+ pancreatic stellate cells enhance the progression of pancreatic cancer.Gastroenterology (2010) 139(3):1041 –51, 51.e1-8. doi: 10.1053/j.gastro.2010.05.084
+102. Tang D, Yuan Z, Xue X, Lu Z, Zhang Y, Wang H, et al. High expression of
+galectin-1 in pancreatic stellate ce lls plays a role in the development and
+maintenance of an immunosuppressive microenvironment in pancreatic cancer.Int J Cancer (2012) 130(10):2337 –48. doi: 10.1002/ijc.26290
+103. Qian D, Lu Z, Xu Q, Wu P, Tian L, Zhao L, et al. Galectin-1-driven
+upregulation of SDF-1 in pancreatic stellate cells promotes pancreatic cancermetastasis. Cancer Letters (2017) 397:43 –51. doi: 10.1016/j.canlet.2017.03.024
+104. Orozco CA, Martinez-Bosch N, Guerrero PE, Vinaixa J, Dalotto-Moreno
+T, Iglesias M, et al. Targeting galectin-1 inhibits pancreatic cancer progression by
+modulating tumor-stroma crosstalk. Proc Natl Acad Sci United States America
+(2018) 115(16):E3769 –78. doi: 10.1073/pnas.1722434115
+105. Yoshida N, Masamune A, Hamada S, Kikuta K, Takikawa T, Motoi F, et al.
+Kindlin-2 in pancreatic stellate cells promotes the progression of pancreatic cancer.Cancer Letters (2017) 390:103 –14. doi: 10.1016/j.canlet.2017.01.008
+106. Tian L, Lu ZP, Cai BB, Zhao LT, Qian D, Xu QC, et al. Activation of
+pancreatic stellate cells involves an EMT-like process. Int J Oncol (2016) 48(2):783 –
+92. doi: 10.3892/ijo.2015.3282
+107. Lee H, Lim C, Lee J, Kim N, Bang S, Lee H, et al. TGF-beta signaling
+preserves RECK expression in activated pancreatic stellate cells. J Cell Biochem
+(2008) 104(3):1065 –74. doi: 10.1002/jcb.21692
+108. Horiguchi K, Shirakihara T, Nakano A, Imamura T, Miyazono K, Saitoh
+M. Role of ras signaling in the induction of snail by transforming growth factor-
+beta. J Biol Chem (2009) 284(1):245 –53. doi: 10.1074/jbc.M804777200
+109. Kanno A, Satoh K, Masamune A, Hirota M, Kimura K, Umino J, et al.
+Periostin, secreted from stromal cells, has biphasic effect on cell migration andcorrelates with the epithelial to mesenchymal transition of human pancreaticcancer cells. Int J Cancer (2008) 122(12):2707 –18. doi: 10.1002/ijc.23332
+1 1 0 .R u a nK ,B a oS ,O u y a n gG .T h em u l t i f a c e t e dr o l eo fp e r i o s t i ni n
+tumorigenesis. Cell Mol Life Sci (2009) 66(14):2219 –30. doi: 10.1007/s00018-009-
+0013-7
+111. Kayed H, Jiang X, Keleg S, Jesnowski R, Giese T, Berger MR, et al.
+Regulation and functional role of the runt-related transcription factor-2 in
+pancreatic cancer. Br J Cancer (2007) 97(8):1106 –15. doi: 10.1038/sj.bjc.6603984
+112. Mace TA, Bloomston M, Lesinski GB. Pancreatic cancer-associated stellate
+cells. OncoImmunology (2013) 2(7):e24891. doi: 10.4161/onci.24891
+113. Nagathihalli NS, Castellanos JA, VanSaun MN, Dai X, Ambrose M, Guo Q,
+et al. Pancreatic stellate cell secreted IL-6 stimulates STAT3 dependent invasivenessof pancreatic intraepithelial neoplasia and cancer cells. Oncotarget (2016) 7
+(40):65982 –92. doi: 10.18632/oncotarget.11786
+114. Tang D, Wang D, Yuan Z, Xue X, Zhang Y, An Y, et al. Persistent
+activation of pancreatic stellate cells creates a microenvironment favorable for themalignant behavior of pancreatic ductal adenocarcinoma. Int J Cancer (2013) 132
+(5):993 –1003. doi: 10.1002/ijc.27715
+115. Sada M, Ohuchida K, Horioka K, Okumura T, Moriyama T, Miyasaka Y,
+et al. Hypoxic stellate cells of pancreatic cancer stroma regulate extracellular matrix
+ﬁber organization and cancer cell motility. Cancer Letters (2016) 372(2):210 –8. doi:
+10.1016/j.canlet.2016.01.016
+116. Physico-mechanical aspec ts of extracellular matrix in ﬂuences on
+tumorigenic behaviors. Semin Cancer Biol (2010) 20(3):139-45. doi: 10.1016/
+j.semcancer.2010.04.004
+117. Pickup MW, Mouw JK, Weaver VM. The extracellular matrix modulates
+the hallmarks of cancer. EMBO Rep (2014) 15(12):1243 –53. doi: 10.15252/
+embr.201439246
+118. Oskarsson T, Acharyya S, Zhang XH, Vanharanta S, Tavazoie SF, Morris
+PG, et al. Breast cancer cells produce tenascin c as a metastatic niche component tocolonize the lungs. Nat Med (2011) 17(7):867 –74. doi: 10.1038/nm.2379
+119. Oskarsson T, Massague ́J. Extracellular matrix players in metastatic niches.
+EMBO J (2012) 31(2):254 –6. doi: 10.1038/emboj.2011.469
+120. Malanchi I, Santamaria-Mart ı ́nez A, Susanto E, Peng H, Lehr H-A,
+Delaloye J-F, et al. Interactions between cancer stem cells and their niche governmetastatic colonization. Nature (2012) 481(7379):85 –9. doi: 10.1038/nature10694
+121. Idichi T, Seki N, Kurahara H, Fukuhisa H, Toda H, Shimonosono M, et al.
+Involvement of anti-tumor miR-124-3p and its targets in the pathogenesis ofpancreatic ductal adenocarcinoma: Direct regulation of ITGA3 and ITGB1 by miR-124-3p. Oncotarget (2018) 9(48):28849. doi: 10.18632/oncotarget.25599
+122. Deng M, Peng L, Li J, Liu X, Xia X, Li G. PPP1R14B is a prognostic and
+immunological biomarker in pan-cancer. Front Genet (2021) 12:763561. doi:
+10.3389/fgene.2021.763561
+123. O ’Kane GM, Grünwald BT, Jang G-H, Masoomian M, Picardo S, Grant
+RC, et al. GATA6 expression distinguishes classical and basal-like subtypes inadvanced pancreatic cancer. Clin Cancer Res (2020) 26(18):4901 –10. doi: 10.1158/
+1078-0432.CCR-19-3724
+124. Aguilera KY, Dawson DW. WNT ligand dependencies in pancreatic
+cancer. Front Cell Dev Biol (2021) 9. doi: 10.3389/fcell.2021.671022
+125. Khramtsov AI, Khramtsova GF, Tretiakova M, Huo D, Olopade OI, Goss
+KH. Wnt/ b-catenin pathway activation is enriched in basal-like breast cancers and
+predicts poor outcome. Am J Pathology (2010) 176(6):2911 –20. doi: 10.2353/
+ajpath.2010.091125
+126. Ellenrieder V, Hendler SF, Boeck W, Seufferlein T, Menke A, Ruhland C,
+et al. Transforming growth factor b1 treatment leads to an epithelial-mesenchymal
+transdifferentiation of pancreatic canc er cells requiring extracellular signal-
+regulated kinase 2 activation. Cancer Res (2001) 61(10):4222 –8.
+127. Brunton H, Caligiuri G, Cunningham R, Upstill-Goddard R, Bailey U-M,
+Garner IM, et al. HNF4A and GATA6 loss reveals therapeutically actionable
+subtypes in pancreatic cancer. Cell Rep (2020) 31(6):107625. doi: 10.1016/
+j.celrep.2020.107625
+128. Connor AA, Denroche RE, Jang GH, Lemire M, Zhang A, Chan-Seng-Yue
+M, et al. Integration of genomic and transcriptional features in pancreatic cancerreveals increased cell cycle progression in metastases. Cancer Cell (2019) 35(2):267 –
+82. e7. doi: 10.1016/j.ccell.2018.12.010
+129. Maurer C, Holmstrom SR, He J, Laise P, Su T, Ahmed A, et al.
+Experimental microdissection enables functional harmonisation of pancreaticcancer subtypes. Gut(2019) 68(6):1034 –43. doi: 10.1136/gutjnl-2018-317706
+130. Wu C-Z, Chu YC, Lai S-W, Hsieh M-S, Yadav VK, Fong I-H, et al.
+Urokinase plasminogen activator induces epithelial-mesenchymal and metastasis
+of pancreatic cancer through plasmin/MMP14/TGF- baxis, which is inhibited by 4-
+acetyl-antroquinonol b treatment. Phytomedicine (2022) 100:154062. doi: 10.1016/
+j.phymed.2022.154062
+131. Ossowski L, Russo-Payne H, Wilson EL. Inhibition of urokinase-type
+plasminogen activator by antibodies: the effect on dissemination of a human tumorin the nude mouse. Cancer Res (1991) 51(1):274 –81.
+132. Towle MJ, Lee A, Maduakor EC, Schwartz CE, Bridges AJ, Little ﬁeld BA.
+Inhibition of urokinase by 4-substituted benzo [b] thiophene-2-carboxamidines:An important new class of selective synthetic urokinase inhibitor. Cancer Res
+(1993) 53(11):2553 –9.
+133. Rabbani S, Harakidas P, Davidson DJ, Henkin J, Mazar AP. Prevention of
+prostate-cancer metastasis in vivo by a novel synthetic inhibitor of urokinase-type
+plasminogen activator (uPA). Int J Cancer (1995) 63(6):840 –5. doi: 10.1002/
+ijc.2910630615
+134. Xing RH, Mazar A, Henkin J, Rabbani SA. Prevention of breast cancer
+growth, invasion, and metastasis by a ntiestrogen tamoxifen alone or in
+combination with urokinase inhibitor b-428. Cancer Res (1997) 57(16):3585 –93.
+135. Vine K L, Indira Chandran V M, Locke J, Matesic L, Lee J, Skropeta D, et al.
+Targeting urokinase and the tr ansferrin receptor with novel, anti-mitotic n-alkylisatin
+cytotoxin conjugates causes selective ca ncer cell death and reduces tumor growth. Curr
+Cancer Drug Targets (2012) 12(1):64 –73. doi: 10.2174/156800912798888983
+136. Meyer JE, Brocks C, Graefe H, Mala C, Thäns N, Bürgle M, et al. The oral
+serine protease inhibitor WX-671 –ﬁrst experience in patients with advanced head
+and neck carcinoma. Breast Care (2008) 3(Suppl 2):20. doi: 10.1159/000151736
+137. Goldstein LJ. Experience in phase I trials and an upcoming phase II study
+with uPA inhibitors in metastatic breast cancer. Breast Care (2008) 3(Suppl 2):25.
+doi:10.1159/000151733
+138. Schmitt M, Harbeck N, Brünner N, Jänicke F, Meisner C, Mühlenweg B,
+et al. Cancer therapy trials employing level-of-evidence-1 disease forecast cancerbiomarkers uPA and its inhibitor PAI-1. Expert Rev Mol Diagnostics (2011) 11
+(6):617 –34. doi: 10.1586/erm.11.47
+139. Heinemann V, Ebert MP, Laubender RP, Bevan P, Mala C, Boeck S. Phase
+II randomised proof-of-concept study of the urokinase inhibitor upamostat (WX-671) in combination with gemcitabine compared with gemcitabine alone inpatients with non-resectable, locally advanced pancreatic cancer. Br J Cancer
+(2013) 108(4):766 –
+70. doi: 10.1038/bjc.2013.62
+140. Banys-Paluchowski M, Witzel I, Aktas B, Fasching PA, Hartkopf A, Janni
+W, et al. The prognostic relevance of urokinase-type plasminogen activator (uPA)in the blood of patients with metastatic breast cancer. Sci Rep (2019) 9(1):2318. doi:
+10.1038/s41598-018-37259-2
+141. Mekapogu AR, Xu Z, Pothula SP, Perera C, Pang T, Hosen S, et al eds.
+Hepatocyte growth factor/c-met pathway inhibition combined chemotherapy
+improves tumor immunity and eliminates metastasis in pancreatic cancer .
+MARKET ST, PHILADELPHIA: LIPPINCOTT WILLIAMS & WILKINS TWOCOMMERCE SQ (2001). PANCREAS; 2021.
+142. Yang J, Zhang Q, Wang J, Lou Y, Hong Z, Wei S, et al. Dynamic pro ﬁling of
+immune microenvironment during pancreatic cancer development suggests earlyintervention and combination strategy of immunotherapy. EBioMedicine (2022)
+78:103958. doi: 10.1016/j.ebiom.2022.103958Hosen et al. 10.3389/ ﬁmmu.2022.1060957
+Frontiers in Immunology frontiersin.org 25143. Thyagarajan A, Alshehri MSA, Miller KL, Sherwin CM, Travers JB, Sahu
+RP. Myeloid-derived suppressor cells and pancreatic cancer: Implications in noveltherapeutic approaches. Cancers (Basel) (2019) 11(11):1627. doi: 10.3390/
+cancers11111627Hosen et al. 10.3389/ ﬁmmu.2022.1060957
+Frontiers in Immunology frontiersin.org 26Glossary
+TCGA The Cancer Genome Atlas
+ICGC International Cancer Genome Consortium
+OICR Ontario Institute for Cancer ResearchCPTAC Clinical Proteomic Tumor Analysis ConsortiumCCLE Cancer CellLine EncyclopediaGEPIA Gene Expression Pro ﬁling Interactive Analysis
+ACC adrenocortical carcinoma
+BLCA bladder urothelial carcinoma
+BRCA breast invasive carcinomaCESC Cervical squamous cell carcinoma and endocervical
+adenocarcinoma
+CHOL Cholangiocarcinoma
+COAD colon adenocarcinoma
+DLBC lymphoid neoplasm diffuse large B-cell lymphomaESCA esophageal carcinomaGBM glioblastoma multiformeHNSC head and neck squamous cell carcinomaKICH Kidney chromophobe
+KIRC kidney renal clear cell carcinoma
+KIRP kidney renal papillary cell carcinomaLAML acute myeloid leukemiaLGG brain lower grade gliomaLIHC Liver hepatocellular carcinomaLUAD lung adenocarcinoma
+LUSC lung squamous cell carcinoma
+MESO MesotheliomaOV ovarian serous cystadenocarcinomaPAAD Pancreatic adenocarcinomaPCPG Pheochromocytoma and ParagangliomaPRAD prostate adenocarcinoma
+READ rectum adenocarcinoma
+SARC SarcomaSKCM Skin cutaneous melanomaSTAD stomach adenocarcinomaTGCT testicular germ cell tumorsTHCA thyroid carcinomaTHYM thymoma
+UCEC uterine corpus endometrial carcinoma
+UCS uterine carcinosarcomaUVM Uveal MelanomaHEG High Expression GroupLEG Low Expression GroupFDR false discovery rate
+HIF1A Hypoxia inducible factor 1 subunit alpha
+HLAs human leukocyte antigensIFN interferonMDSCs myeloid-derived suppressor cellsNK natural killer
+(Continued)Continued
+OS overall survival
+PD-1 Programmed cell death protein 1PDL1 programmed death-ligand 1PFI progression-free intervalSGSs stromal gene signatures
+ssGSEA single-sample gene-set enrichment analysis
+TILs tumor-in ﬁltrating lymphocytes
+OG OncogenesTF Transcription factorsCK and
+GFCytokines and Growth factors
+TCG Translocating cancer genes
+CDM Cell Differential markersPK Protein KinaseHP Homeodomain ProteinTS Tumour Suppressor
+EA Endothelial
+STM StemnessHYPOX HypoxiaCP Cell ProliferationECMD ECM degradationECM Extracellular Matrix
+EMT Epithelial mesenchymal transition
+MTGs Metastasis-related genes/Metastasis-promoting genesCtrl ControlG Gemcitabine
+uPA inhibitor (BB2-30F) at 3mg (U3) and 10 mg (U10)
+PSCs Pancreatic stellate cells
+PC Pancreatic cancer
+CAhPSCs Cancer associated human pancreatic stellate cells
+Hosen et al. 10.3389/ ﬁmmu.2022.1060957
+Frontiers in Immunology frontiersin.org 27

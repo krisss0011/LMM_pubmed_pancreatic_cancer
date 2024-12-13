@@ -1,0 +1,522 @@
+Received: 19 December 2023 |Accepted: 22 December 2023
+DOI: 10.1002/jso.27581
+RESEARCH ARTICLE
+Characterization of natural killer and cytotoxic T ‐cell
+immune infiltrates in pancreatic ductal adenocarcinoma
+Julia Persky BS1|Sylvia M. Cruz BS1|Morgan A. Darrow MD2|
+Sean J. Judge MD, MS3|Yueju Li MS4|Richard J. Bold MD1|
+Anthony N. Karnezis MD, PhD2|Karen E. Matsukuma MD, PhD2|Lihong Qi PhD4|
+Robert J. Canter MD1
+1Division of Surgical Oncology, Department of
+Surgery, University of California, Davis,
+Sacramento, California, USA
+2Department of Pathology and Laboratory
+Medicine, UC Davis Medical Center,
+Sacramento, California, USA
+3Department of Surgery, Memorial Sloan
+Kettering Cancer Center, New York City,
+New York, USA
+4Division of Biostatistics, Department of
+Public Health Sciences, University ofCalifornia, Davis, Davis, California, USA
+Correspondence
+Robert J. Canter, MD, Division of Surgical
+Oncology, University of California, Davis,
+4501 X St, Suite 3010, Sacramento,
+CA 95817, USA.
+Email: rjcanter@ucdavis.edu
+Funding information
+UC Davis Comprehensive Cancer Center
+Support Grant awarded by the National
+Cancer Institute, Grant/Award Number: NCI
+P30CA093373Abstract
+Background and Objectives: Pancreatic ductal adenocarcinoma (PDAC) is an
+aggressive cancer with poor response to systemic therapies, including immuno-
+therapy. Given the immunotherapeutic potential of natural killer (NK) cells, we
+evaluated intratumoral NK cell infiltrates along with cytotoxic T cells in PDAC todetermine their association with patient outcomes.
+Methods: We analyzed tumors from 93 PDAC patients treated from 2012 to 2020.
+Predictor variables included tumor ‐infiltrating lymphocytes (TILs), T ‐cell markers
+(CD3, CD8, CD45RO), NK marker (NKp46), and NK inhibitory marker (major
+histocompatibility complex class I [MHC ‐I]) by immunohistochemistry. Primary
+outcome variables were recurrence ‐free survival (RFS) and overall survival (OS).
+Results: Mean TILs, CD3, and NKp46 scores were 1.3 ± 0.63, 20.6 ± 17.5, and
+3.1 ± 3.9, respectively. Higher expression of CD3 and CD8 was associated with
+higher OS, whereas NK cell infiltration was not associated with either RFS or OS.
+There was a tight positive correlation between MHC ‐I expression and all T ‐cell
+markers, but not with NKp46.
+Conclusions: Overall NK cell infiltrates were low in PDAC and did not predict clinical
+outcomes, whereas T ‐cell infiltrates did. Further characterization of the immune
+infiltrate in PDAC, including inhibitory signals and suppressive cell types, may yield
+better biomarkers of prognosis and immune targeting in this refractory disease.
+KEYWORDS
+adenocarcinoma, immune infiltrates, pancreatic cancer
+1|INTRODUCTION
+Pancreatic ductal adenocarcinoma (PDAC) is a lethal malignancy
+which is resistant to most systemic therapies, including immuno-
+therapy. Pancreatic cancer is the fourth most common cause ofcancer related death in the United States and is projected to be
+number two by 2030.1,2According to the American Cancer
+Society, approximately 60 430 new cases in the United
+States were diagnosed in 2021 with estimated 48 220 deaths.1
+While surgical resection is the mainstay of treatment for PDAC,
+J Surg Oncol . 2024;129:885 –892. wileyonlinelibrary.com/journal/jso © 2024 Wiley Periodicals LLC. |885
+Julia Persky and Sylvia M. Cruz contributed equally to this study.
+approximately 80% –85% of patients present at an advanced
+stage with unresectable or metastatic disease.1Moreover, the
+prognosis remains poor even in the setting of surgical resection
+with a 5 ‐year survival rate of only 20% for patients with localized,
+resectable disease.3The dismal prognosis associated with PDAC
+is multifactorial in nature, but includes advanced stage at
+presentation, aggressive tumor biology, and hostile tumor micro-
+environment (TME) which contr ibutes to its resistance to
+chemotherapy, targeted therapy, and immunotherapy. In fact,even successful chemotherapy regimens such as FOLFIRINOX
+have only modestly improved survival rates,
+4thus highlighting
+the importance of examining alter native therapeutic approaches
+to improve outcomes.
+T h ei m m u n es y s t e mp l a y sak e yr o l ei nt h es u r v e i l l a n c e ,
+elimination, and progression of malignancies in the host.5Over
+the last decade, immunotherapy has revolutionized clinical
+oncology with breakthrough advances in multiple cancers,
+including melanoma, non ‐small cell lung cancer, and renal cell
+carcinoma.6–8Strategies targeting immune checkpoints, such as
+cytotoxic T ‐lymphocyte ‐associated antigen 4 and programmed
+death 1, have demonstrated impressive antitumor responses insolid tumors and have become a standard pillar in cancertreatment.
+6,9However, not all patients respond, and some
+cancers show minimal, if any, r esponse to immunotherapy. PDAC
+is a prime example of an immunotherapy resistant cancer withresponse rates less than 5%.
+10,11Barriers include low T ‐cell
+infiltration in tumors and an immunosuppressive TME with
+adverse metabolic conditions which reduce T ‐cell recruitment
+and inhibit those which are present leading to exhaustion.12
+Additionally, immun osuppressive PDAC environments contain
+abundant desmoplastic stroma which is a mechanical barrier toimmune cell infiltration.
+13–15
+As a result, PDAC is characterized as a stereotypical “cold ”
+tumor with low immune infiltration, particularly devoid of CD8+T
+cells.16However, although PDAC has been linked to low T ‐cell
+infiltrate, the contribution of nat ural killer (NK) cells has received
+less attention. NK cells are a vital component of the innate
+immune system and can identify and eliminate virally infected andmalignant cells without prior sensitization.
+17They are cytotoxic
+due to their ability to release toxic molecules such as perforin and
+granzymes, forming pores in the membranes of targeted cells. NKcells also express a broad array of receptors, allowing them
+respond to diverse stimuli.
+17While NK cell therapies have shown
+efficacy in hematologic malig nancies and are under intense
+investigation to extend the pr omise of immunotherapy, they
+have not been proven effective in solid tumors to date as
+adoptive therapy.18However, tumor ‐infiltrating NK cells have
+been associated with improv ed responses to neoadjuvant
+treatments and overall prognosi s in solid tumors such as breast
+cancer.19,20Given the need for novel immunotherapy approaches
+in PDAC, our objective was to evaluate immune parameters inPDAC, particularly markers of NK cells, to determine if NK cell
+infiltrates were associat ed with patient outcomes.2|MATERIALS AND METHODS
+We performed a retrospective analysis of patients diagnosed with
+resectable PDAC from 2012 to 2020. Our research protocol was
+approved by the Institutional Review Board at the University ofCalifornia, Davis (Protocol Number 1727704 ‐1).
+2.1 |Patient clinical characteristics
+We identified 93 patients with stages I to III PDAC based on the
+American Joint Committee on Cancer Cancer Staging Manual, 8thedition.
+21Patient demographic, clinicopathologic, and treatment data
+were abstracted from the medical record, including patient age, sex,
+race, tumor grade, tumor size, lymph node involvement, and receiptof chemotherapy and radiotherapy. Primary outcome variables
+included recurrence ‐free survival (RFS) and overall survival (OS),
+analyzed by the Kaplan –Meier method. RFS and OS were defined as
+described previously.
+22OS was calculated as the number of months
+between the date of initial diagnostic biopsy to the date of death.
+RFS was calculated from the date of initial diagnostic biopsy to thedate of recurrence or the date of last follow up reported in theelectronic medical records. Date of death was established using
+electronic medical records and confirmed with the California Cancer
+Registry.
+2.2 |Immunohistochemical (IHC) analysis
+Predictor variables included tumor ‐infiltrating lymphocytes (TILs),
+T‐cell markers (CD3, CD8, CD45RO), NK marker (NKp46) and NK
+inhibitory marker (major histocompatibility complex class I [MHC ‐I]).
+Tissue microarrays (TMA) containing approximately three patient
+samples per slide were constructed with 1.5 mm cores from archived
+specimens, which were reviewed before TMA construction to selectareas of viable tumor.
+23IHC staining was performed using mouse
+anti ‐human CD3 (Abcam; clone SP7), mouse anti ‐human CD8 (Dako;
+clone C8/144B), mouse anti ‐human CD45RO (Cell Signaling; clone
+UCHL1), and rabbit anti ‐human NKp46/NCR1 (AbCam; clone
+ERP22403 ‐57). Slides were scored by a blinded pathologist (M. A.
+D.) using a scale of 0 –3 for TILs and scale of 0 –300 for immune
+markers by IHC as described previously.23Staining was performed in
+triplicate, and these values were averaged for statistical analysis.
+Individual patient mean values of the triplicate scores were thenclassified as high or low with reference to the median score for theentire cohort for each marker, as described previously.
+24
+2.3 |Statistical analysis
+Survival outcomes were compared using Kaplan –Meier curves and
+log‐rank test. Correlations between variables were performed using
+Spearmen correlation test. Additionally, multivariate proportional886 |
+PERSKY ET AL.
+ 10969098, 2024, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jso.27581 by Institut Jozef Stefan, Wiley Online Library on [06/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+hazard models were fitted for OS and RFS. Age, sex, and stage were
+adjusted with separate models, and biomarkers were inputted into acombined model designed to assess collinearity and the impact of
+confounding factors.
+3|RESULTS
+3.1 |Patient clinicopathologic characteristics
+The clinicopathologic characteristics of our study cohort are reported
+in Table 1. Mean age was 70, 55% were female, and the mean tumor
+size was 3.1 ± 1.1 cm. Eighty ‐nine percent of tumors involved the
+pancreatic head, and 63% were lymph node positive. In our cohort,
+10% of patients received neoadjuvant therapy, and 63% receivedadjuvant therapy. However, few patients tolerated completeadjuvant therapy following surgery. With a median follow up of 27
+months, the median OS for the cohort was 25 months, and themedian RFS was 23 months (Table 2).
+3.2 |NK and T ‐cell infiltrates
+Analyzing the surgical specim ens following resection, we
+o b s e r v e dm e a nT I Ls c o r e so f1 . 3 ± 0 . 6 3 ,m e a nC D 3s c o r e so f20.7 ± 17.5, and mean NKp46 scores of 3.1 ± 3.9 (Table 3).
+Figure 1shows representative staining of TIL scores 0 –3
+(Figure 1A), including high and low expression of immune markers
+of interest (Figure 1B).
+3.3 |Association of immune infiltrates with
+outcomes
+We then analyzed the correlation between immune infiltrates and
+clinical outcomes. A higher expression of both CD3 ( p= 0.009) and
+CD8 ( p= 0.001) was associated with higher OS (Figure 2A,B ), while
+neither TIL scores nor NK cell infiltrates were associated with OS(Figure 2C,D ). However, we observed that lower expression of MHC ‐
+I was associated with greater OS ( p= 0.047) (Figure 2E). Memory
+T‐cell marker, CD45RO, was not associated with OS (Figure 2F).TABLE 1 Characteristics of retrospective PDAC cohort,
+2012 –2020.
+Characteristic Number ( n= 93) %
+Gender
+Female 51 55Male 42 45
+Age at diagnosis (mean ± SD) 69.6 ± 10.2
+Race/ethnicity
+Caucasian 74 80
+Asian 4 4Hispanic 7 8Black 3 3Other 4 4
+Tumor site
+Head/uncinate 90 84Body/tail 10 9
+Histology
+Adenocarcinoma 93 100
+Maximal tumor size, median (range) 3.0 cm (0.4 –7.25)
+Procedure
+Pancreaticduodenectomy 87 94Partial pancreatectomy 6 6
+Lymph node positive 59 63
+AJCC stage at surgery
+I1 6 1 7
+II 63 68
+III 14 15
+Abbreviations: AJCC, American Joint Committee on Cancer; PDAC,
+pancreatic ductal adenocarcinoma.TABLE 2 Patient survival.
+Characteristic Number ( n= 93) %
+Disease status
+No evidence of disease 8 9
+Alive with disease 16 17
+Dead of disease 69 74
+Median follow up in months (range) 27 (1 –85)
+Median RFS in months 23
+Median OS in months 25
+Abbreviations: OS, overall survival; RFS, recurrence ‐free survival.
+TABLE 3 Immune marker expression scores.
+Marker Mean expression score (range)
+TILs 1.3 ± 0.63 (0 –3)
+CD3 20.7 ± 17.5 (1.66 –93.3)
+CD8 13.0 ± 12.5 (0 –71.7)
+NKp46 3.15 ± 3.97 (0 –20.0)
+MHC ‐I 84.3 ± 47.9 (6.67 –206)
+CD45RO 12.4 ± 10.7 (0 –58.3)
+Abbreviations: MHC ‐I, major histocompatibility complex class I; TIL,
+tumor ‐infiltrating lymphocytes.PERSKY ET AL.
+ |887
+ 10969098, 2024, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jso.27581 by Institut Jozef Stefan, Wiley Online Library on [06/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Additionally, none of the single color IHC immune markers nor TILs
+were significantly associated with RFS (Figure 3). We did observe a
+positive correlation between MHC ‐I expression and all T ‐cell
+markers, CD3/MHC ‐I(r= 0.33, p= 0.001), CD8/MHC ‐I(r= 0.34,
+p= 0009), and CD45RO/MHC ‐I(r= 0.49, p< 0.0001) (Figures 4A–C,
+respectively). Additionally, as shown in Figure 4E, there was a
+significant association between MHC ‐I expression and TILs ( r= 0.43,
+p< 0.0001), while NKp46 infiltrates were not associated with MHC ‐I
+expression (Figure 4E). Additionally, there was a tight correlationbetween TIL scores and CD8 expression ( r= 0.65, p< 0.0001) noted
+in Table 4.
+3.4 |Multivariable adjusted analysis of predictors
+of outcome
+We performed multivariable adjusted analysis to determine if
+immune infiltrates were independently associated with survival
+FIGURE 1 Representative staining of tumor ‐infiltrating lymphocytes (TILs) and immunohistochemical (IHC) immune markers. (A)
+Hematoxylin and eosin photomicrographs of TILs, scoring 0 –3. (B) IHC photomicrographs of high and low staining for CD3, CD8, CD45RO,
+NKp46, and MHC ‐I. MHC ‐I, major histocompatibility complex class I.
+FIGURE 2 T‐cell infiltrates are linked with favorable overall survival (OS) in PDAC patients. Kaplan –Meier analysis of OS stratified by median
+(A) CD3 score, (B) CD8 score, (C) TILs score, (D) NKp46, (E) MHC ‐I, and (F) CD45RO. Significance of Kaplan –Meier analysis was determined by
+log‐rank test. High ‐and low ‐expression groups were determined by median scores. MHC ‐I, major histocompatibility complex class I; PDAC,
+pancreatic ductal adenocarcinoma; TIL, tumor ‐infiltrating lymphocytes.888 |
+PERSKY ET AL.
+ 10969098, 2024, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jso.27581 by Institut Jozef Stefan, Wiley Online Library on [06/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+outcomes. The results of our multivariable analysis are depicted
+in Tables 5and 6. Age was the only significant predictor for OS
+(p= 0.008), with a hazard ration and 95% confidence interval of
+1.04 (1.01 –1.07). There were no signific ant predictor variables
+for RFS.4|DISCUSSION
+In this analysis, we observed overall low infiltration of TILs, T cells,
+and NK cells in a consecutive series of PDAC patients undergoing
+surgery at a single institution over an 8 ‐year period. Our findings
+FIGURE 3 Intratumoral immune cell markers are not associated with differences in recurrence ‐free survival (RFS). Kaplan –Meier analysis of
+RFS stratified by median (A) CD3 score, (B) CD8 score, (C) TILs score, (D) NKp46, (E) MHC ‐I, and (F) CD45RO. Significance of Kaplan –Meier
+analysis was determined by log ‐rank test. High ‐and low ‐expression groups were determined by median scores. MHC ‐I, major histocompatibility
+complex class I; TIL, tumor ‐infiltrating lymphocytes.
+FIGURE 4 MHC ‐I expression correlates with T ‐cell markers in PDAC. Positive correlation of MHC ‐I with (A) CD3 ( r= 0.33, p= 0.001), (B)
+CD8 ( r= 0.34, p= 0009), (C) CD45RO ( r= 0.49, p< 0.0001), and (D) TILs ( r= 0.43, p< 0.001). (E) MHC ‐I was not associated with NKp46
+expression ( r= 0.025, p= 0.81). Correlations determined by two ‐tailed Spearman coefficient. MHC ‐I, major histocompatibility complex class I;
+PDAC, pancreatic ductal adenocarcinoma; TIL, tumor ‐infiltrating lymphocytes; vs, versus.PERSKY ET AL.
+ |889
+ 10969098, 2024, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jso.27581 by Institut Jozef Stefan, Wiley Online Library on [06/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+are consistent with those of ot her studies assessing immune
+infiltrates in clinical PDAC specimens.16,25Historically, PDAC has
+been characterized as an immune desert due to low CD8 T ‐cell
+infiltration; however, NK cell infiltration has only recently been
+analyzed.26Few studies have explored the association of NK cell
+infiltration and survival in PDA C, and the results have generally
+been inconclusive.27,28However, there are select preclinical studies
+exploring the antitumor effects of NK cells for PDAC in mouse
+models, showing that adoptive transfer of NK cells exhibitsantitumor activity leading to a significant delay in tumor growthin mice.
+11,29,30Although it is possible that our study and others like
+it are underpowered to show an association between NK infiltrates
+and outcomes in PDAC surgical specimens, the discrepancy inresults between preclinical studies showing an association of NK
+cells with antitumor responses in PDAC in mouse models and
+retrospective analyses of human samples suggests that key speciesdifferences as well as idiosyncrasies of mouse modeling may be
+impacting the generalizability of those preclinical results.Our observation that NK cell infiltrates were not significantly
+associated with oncologic outcomes may also be related to several
+other factors. It is possible there is a required threshold of tumor ‐
+infiltrating NK cells needed to observe significant differences in
+survival, and the low NK infiltrates in the tumors we analyzed may
+not have met this threshold. Alternatively, inhibitory signalssuppressing NK cell function in the PDAC TME could be contributing
+to the observed results. There are potential immunosuppressive
+factors including intratumoral hypoxia, which is common in solidtumors such as PDAC, as well as elaboration of immunosuppressivecytokines like transforming growth factor ‐β.
+31NK cells have been
+shown to be less cytotoxic in hypoxic environments due to reduced
+expression of NKG2D, CD107a, and granzyme B.32Additionally, the
+use of NKp46 in our study as a marker for NK cells may contribute to
+discrepancies with previous studies, most of which show NK cell
+infiltration to be associated with improved survival using CD56 as theNK marker.
+33Although CD56 is a reliable NK cell marker by flow
+cytometry, by single color IHC, it can be nonspecific and stain neural
+cells and other lymphoid cell types. On the other hand, althoughNKp46 is highly specific for NK cells, it may not capture all NK cells
+present since it is frequently expressed at low levels in resting NK
+cells.
+34,35
+In contrast, our data showed that T ‐cell markers, including CD3
+and CD8, were associated with improved survival outcomes,
+suggesting that targeting intratumoral CD3 and CD8 infiltrates in
+PDAC may be a viable strategy for eliciting an immune response, ifappropriate ways to increase intratumoral T cells and prevent their
+suppression can be unlocked. Notably, we did not observe an
+association between TIL infiltration, as assessed by hematoxylin andeosin staining, and survival outcomes in our study. However, TIL
+scoring includes multiple immune cells, all of which have variousTABLE 4 Spearman correlation coefficients between CD8, TILs,
+and NKp46.
+CD8 TILs NKp46
+CD8 1 0.65 0.28
+<0.0001 0.0066
+TILs 0.65 1 0.39
+<0.0001 0.0001
+NKp46 0.28 0.39 1
+0.0066 0.0001
+Abbreviation: TILs, tumor ‐infiltrating lymphocytes.
+TABLE 5 Multivariable adjusted analysis for overall survival.
+VariableAdjusted hazard
+ratio (95% CI) pValue
+Gender
+Female 1.73 (1.04 –2.87) 0.034
+Male 1
+Age at diagnosis 1.03 (1.01 –1.06) 0.018
+AJCC stage at
+surgery
+I1
+II 1.43 (0.73 –2.82) 0.30
+III 1.73 (0.73 –4.13) 0.22
+Mean TIL score 0.93 (0.56 –1.55) 0.79
+Mean NKp46 0.98 (0.93 –1.04) 0.53
+Mean CD8 0.99 (0.96 –1.02) 0.59
+Abbreviations: AJCC, American Joint Committee on Cancer; CI,
+confidence interval; TIL, tumor ‐infiltrating lymphocyte.TABLE 6 Multivariable adjusted analysis for recurrence ‐free
+survival.
+VariableAdjusted hazard
+ratio (95% CI) pValue
+Gender
+Female 1.75 (0.91 –3.36) 0.095
+Male 1
+Age at diagnosis 0.99 (0.96 –1.02) 0.47
+AJCC stage at
+surgery
+I1II 1.15 (0.51 –2.62) 0.73
+III 2.14 (0.78 –5.90) 0.14
+Mean TIL score 0.99 (0.52 –1.89) 0.97
+Mean NKp46 1.00 (0.92 –1.07) 0.93
+Mean CD8 0.99 (0.95 –1.04) 0.81
+Abbreviations: AJCC, American Joint Committee on Cancer; CI,
+confidence interval; TIL, tumor ‐infiltrating lymphocyte.890 |
+PERSKY ET AL.
+ 10969098, 2024, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jso.27581 by Institut Jozef Stefan, Wiley Online Library on [06/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+inhibitory and activating receptors. While our IHC was performed by
+a blinded pathologist, immune scoring is subjective which may impactdata obtained and therefore results. Additionally, TMAs capture a
+small portion of a viable tumor. Areas with elevated inflammation are
+avoided as it would significantly obscure visualization of the tumor.This may have contributed to sampling bias.
+Currently, few papers have investigated MHC ‐I expression in
+PDAC.
+36We analyzed MHC ‐I because it is a both stimulatory
+molecule for T cells and an inhibitory molecule for NK cells.37T cells
+recognize antigens in the context of MHC presentation, with CD8 T
+cells able to respond to tumor cells expressing MHC ‐I presenting
+cognate antigen.38We observed a strong positive correlation
+between MHC ‐I expression and all T ‐cell markers (CD3, CD8, and
+CD45RO) which was statistically significant. Therefore, strategies to
+increase MHC ‐I expression may increase T cells and ideally reverse
+the PDAC immune desert. Conversely, we did not observe a
+correlation of MHC ‐I expression with NK infiltration. MHC ‐I
+negatively regulates NK cell activation via cytoplasmic tyrosineimmunoreceptors, such as killer ‐immunoglobulin like receptors,
+therefore loss of MHC ‐I can lower the threshold for NK cell
+activation.
+37,39Given the inhibitory effects of MHC ‐I on NK cell
+function, further studies should assess the spatial localization of NKand CD8 T cells in relation to MHC ‐I expressing cells and how this
+impacts outcomes.
+Although we were able to analyze a consecutive series of
+surgically treated patients with translationally relevant tumor tissue,
+our cohort size of 93 patients may have resulted in an underpowered
+study, potentially limiting our ability to evaluate our hypothesisregarding NK infiltrates in the PDAC TME. Studies by Ino et al. and
+Carsten et al. which observed an association of TIL infiltrates with
+survival in PDAC included sample sizes of 132 and 241, respectively,both of which are greater than ours.
+40,41In addition, there is a risk of
+missing or incomplete data in population ‐based datasets, and this can
+skew the data especially for potentially ambiguous endpoints such as
+RFS. The lack of significant results regarding RFS and discrepancywith OS is likely due to the retrospective nature of this analysis
+including patients lost to follow up. Although survival dates were
+obtained from a highly validated source, the California CancerRegistry, and were likely definitive, documentation of recurrence
+was much less rigorous and impacted for patients lost to follow up.
+This likely biases to the null hypothesis our analysis of RFS as anoutcome variable.
+5|CONCLUSION
+In summary, we observed that NK cells as assessed by IHC
+expression of NKp46 do not significantly correlate with survivaloutcomes in PDAC, while CD3 and CD8 expression do. This may be
+the result of immunosuppressive features of the PDAC TME, such as
+hypoxia and MHC ‐I expression, which inhibit NK cells. Further
+characterization of the immune infiltrate in PDAC is needed for
+improved prognostication and immune targeting.ACKNOWLEDGMENTS
+This project was supported by the Biostatistics Shared Resource,funded by the UC Davis Comprehensive Cancer Center Support
+Grant awarded by the National Cancer Institute (NCI P30CA093373).
+DATA AVAILABILITY STATEMENT
+The data that support the findings of this study are available from the
+corresponding author upon reasonable request.
+ORCID
+Julia Persky
+https://orcid.org/0009-0002-0587-1123
+Sylvia M. Cruz https://orcid.org/0000-0001-9007-6639
+Robert J. Canter http://orcid.org/0000-0002-3331-5418
+REFERENCES
+1. Siegel RL, Miller KD, Fuchs HE, Jemal A. Cancer statistics, 2022. CA
+Cancer J Clin . 2022;72(1):7 ‐33.
+2. Rahib L, Wehner MR, Matrisian LM, Nead KT. Estimated projection
+of US cancer incidence and death to 2040. JAMA Netw Open .
+2021;4(4), e214708.
+3. Mizrahi JD, Surana R, Valle JW, Shroff RT. Pancreatic cancer. Lancet .
+2020;395(10242):2008 ‐2020.
+4. Conroy T, Hammel P, Hebbar M, et al. FOLFIRINOX or gemcitabine
+as adjuvant therapy for pancreatic cancer. N Engl J Med .
+2018;379(25):2395 ‐2406.
+5. Schreiber RD, Old LJ, Smyth MJ. Cancer immunoediting: integrating
+immunity's roles in cancer suppression and promotion. Science .
+2011;331(6024):1565 ‐1570.
+6. Trojaniello C, Luke JJ, Ascierto PA. Therapeutic advancements
+across clinical stages in melanoma, with a focus on targetedimmunotherapy. Front Oncol . 2021;11:670726.
+7. Brahmer JR, Govindan R, Anders RA, et al. The Society for
+Immunotherapy of Cancer consensus statement on immunotherapy
+for the treatment of non ‐small cell lung cancer (NSCLC).
+J Immunother Cancer . 2018;6(1):75.
+8. Rini BI, Battle D, Figlin RA, et al. The society for immunotherapy of
+cancer consensus statement on immunotherapy for the treatment ofadvanced renal cell carcinoma (RCC). J Immunother Cancer .
+2019;7(1):354.
+9. Buchbinder E, Hodi FS. Cytotoxic T lymphocyte antigen ‐4 and
+immune checkpoint blockade. J Clin Invest . 2015;125(9):3377 ‐3383.
+10. O'Reilly EM, Oh DY, Dhani N, et al. Durvalumab with or without
+tremelimumab for patients with metastatic pancreatic ductal
+adenocarcinoma: a phase 2 randomized clinical trial. JAMA Oncol .
+2019;5(10):1431 ‐1438.
+11. Li HB, Yang ZH, Guo QQ. Immune checkpoint inhibition for
+pancreatic ductal adenocarcinoma: limitations and prospects: asystematic review. Cell Commun Signaling . 2021;19(1):117.
+12. Saka D, Gökalp M, Piyade B, et al. Mechanisms of T ‐cell exhaustion
+in pancreatic cancer. Cancers . 2020;12(8):2274.
+13. Torphy RJ, Zhu Y, Schulick RD. Immunotherapy for pancreatic
+cancer: barriers and breakthroughs. Ann Gastroenterol Surg .
+2018;2(4):274 ‐281.
+14. Korc M. Pancreatic cancer ‐associated stroma production. Am J Sur .
+2007;194(4, suppl):S84 ‐S86.
+15. Erkan M, Hausmann S, Michalski CW, et al. The role of stroma in
+pancreatic cancer: diagnostic and therapeutic implications. Nat Rev
+Gastroenterol Hepatol . 2012;9(8):454 ‐467.
+16. Bear AS, Vonderheide RH, O'Hara MH. Challenges and opportuni-
+ties for pancreatic cancer immunotherapy. Cancer Cell . 2020;38(6):
+788 ‐
+802.PERSKY ET AL.
+ |891
+ 10969098, 2024, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jso.27581 by Institut Jozef Stefan, Wiley Online Library on [06/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+17. Guillerey C, Huntington ND, Smyth MJ. Targeting natural killer cells
+in cancer immunotherapy. Nat Immunol . 2016;17(9):1025 ‐1036.
+18. Lamb MG, Rangarajan HG, Tullius BP, Lee DA. Natural killer cell
+therapy for hematologic malignancies: successes, challenges, and the
+future. Stem Cell Res Ther . 2021;12(1):211.
+19. Denkert C, von Minckwitz G, Darb ‐Esfahani S, et al. Tumour ‐
+infiltrating lymphocytes and prognosis in different subtypes ofbreast cancer: a pooled analysis of 3771 patients treated withneoadjuvant therapy. Lancet Oncol . 2018;19(1):40 ‐50.
+20. Muntasell A, Rojo F, Servitja S, et al. NK cell infiltrates and HLA class
+I expression in primary HER2+ breast cancer predict and uncouplepathological response and disease ‐free survival. Clin Cancer Res .
+2019;25(5):1535 ‐1545.
+21. Amin MC, Edge S, Green F, et al. AJCC Cancer Staging Manual .
+Springer; 2017.
+22. Bateni SB, Gingrich AA, Hoch JS, Canter RJ, Bold RJ. Defining value
+for pancreatic surgery in early ‐stage pancreatic cancer. JAMA Surg .
+2019;154(10):e193019.
+23. Judge SJ, Darrow MA, Thorpe SW, et al. Analysis of tumor ‐
+infiltrating NK and T cells highlights IL ‐15 stimulation and TIGIT
+blockade as a combination immunotherapy strategy for soft tissuesarcomas. J Immunother Cancer . 2020;8(2):e001355.
+24. Cruz SM, Sholevar CJ, Judge SJ, et al. Intratumoral NKp46+ natural
+killer cells are spatially distanced from T and MHC ‐I+ cells with
+prognostic implications in soft tissue sarcoma. Front Immunol .
+2023;14:1230534.
+25. Carpenter E, Nelson S, Bednar F, et al. Immunotherapy for pancreatic
+ductal adenocarcinoma. JS u r gO n c o l . 2021;123(3):751 ‐759.
+26. Goulart MR, Stasinos K, Fincham REA, Delvecchio FR, Kocher HM. T
+cells in pancreatic cancer stroma. World J Gastroenterol . 2021;27(46):
+7956 ‐7968.
+27. Orhan A, Vogelsang RP, Andersen MB, et al. The prognostic value of
+tumour ‐infiltrating lymphocytes in pancreatic cancer: a systematic
+review and meta ‐analysis. Eur J Cancer . 2020;132:71 ‐84.
+28. Karakhanova S, Ryschich E, Mosl B, et al. Prognostic and predictive value
+of immunological parameters for chemoradioimmunotherapy in patientswith pancreatic adenocarcinoma. Br J Cancer . 2015;112(6):1027 ‐1036.
+29. Hsu J, Hodgins JJ, Marathe M, et al. Contribution of NK cells to
+immunotherapy mediated by PD ‐1/PD ‐L1 blockade. J Clin Invest .
+2018;128(10):4654 ‐4668.
+30. Hu S, Yang J, Shangguan J, et al. Natural killer cell ‐based adoptive
+transfer immunotherapy for pancreatic ductal adenocarcinoma in a
+KrasLSL ‐G12D p53LSL ‐R172H Pdx1 ‐Cre mouse model. Am J Cancer
+Res. 2019;9(8):1757 ‐1765.31. Diaz B, Yuen A. The impact of hypoxia in pancreatic cancer invasion
+and metastasis. Hypoxia . 2014;2:91 ‐106.
+32. Riggan L, Shah S, O'Sullivan TE. Arrested development: suppression
+of NK cell function in the tumor microenvironment. Clin Transl
+Immunol . 2021;10(1):e1238.
+33. Ding G, Guo M, Yang Y, et al. Large ‐section histopathology can
+better indicate the immune microenvironment and predict theprognosis of pancreatic ductal adenocarcinoma than small ‐section
+histopathology. Front Oncol . 2021;11:694933.
+34. Nersesian S, Schwartz SL, Grantham SR, et al. NK cell infiltration is
+associated with improved overall survival in solid cancers: asystematic review and meta ‐analysis. Transl Oncol . 2021;14(1):
+100930.
+35. Van Acker HH, Capsomidis A, Smits EL, Van Tendeloo VF. CD56 in
+the immune system: more than a marker for cytotoxicity? Front
+Immunol . 2017;8:892.
+36. Scupoli MT, Sartoris S, Tosi G, et al. Expression of MHC class I and
+class II antigens in pancreatic adenocarcinomas. Tissue Antigens .
+1996;48(4):301 ‐311.
+37. Paul S, Lal G. The molecular mechanism of natural killer cells
+function and its importance in cancer immunotherapy. Front
+Immunol . 2017;8:1124.
+38. Dhatchinamoorthy K, Colbert JD, Rock KL. Cancer immune evasion
+through loss of MHC class I antigen presentation. Front Immunol .
+2021;12:636568.
+39. Panda AK, Gangaplara A, Buszko M, et al. Cutting edge: inhibition of
+the interaction of NK inhibitory receptors with MHC class Iaugments anti ‐viral and anti ‐tumor immunity. J Immunol . 2020;2053:
+567 ‐572.
+40. Ino Y, Oguro S, Yamazaki ‐Itoh R, Hori S, Shimada K, Hiraoka N.
+Reliable evaluation of tumor ‐infiltrating lymphocytes in pancreatic
+cancer tissue biopsies. Oncotarget . 2019;10(10):1149 ‐1159.
+41. Carstens JL, Correa de Sampaio P, Yang D, et al. Spatial computation
+of intratumoral T cells correlates with survival of patients with
+pancreatic cancer. Nat Commun . 2017;8(1):15095.
+How to cite this article: Persky J, Cruz SM, Darrow MA, et al.
+Characterization of natural killer and cytotoxic T ‐cell immune
+infiltrates in pancreatic ductal adenocarcinoma. J Surg Oncol .
+2024;129:885 ‐892. doi:10.1002/jso.27581892 |
+PERSKY ET AL.
+ 10969098, 2024, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jso.27581 by Institut Jozef Stefan, Wiley Online Library on [06/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

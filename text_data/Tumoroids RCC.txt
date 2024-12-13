@@ -1,0 +1,728 @@
+ARTICLE OPEN
+A new scaffold-free tumoroid model provides a robust
+preclinical tool to investigate invasion and drug response
+in Renal Cell Carcinoma
+Irinka Séraudie1, Catherine Pillet1, Beatrice Cesana1, Pauline Bazelle1, Florian Jeanneret1,4, Bertrand Evrard2, Frédéric Chalmel2,
+Assilah Bouzit3, Christophe Battail1,4, Jean-Alexandre Long3, Jean Luc Descotes3, Claude Cochet1and Odile Filhol1✉
+© The Author(s) 2023
+Clear cell Renal Cell Carcinoma (ccRCC) is one of the most prevalent kidney cancers, which is often asymptomatic and thus
+discovered at a metastatic state (mRCC). mRCC are highly heterogeneous tumors composed of subclonal populations that lead to
+poor treatment response rate. Several recent works explored the potential of ccRCC tumoroids culture derived from patients.
+However, these models were produced following a scaffold-based method using collagen I or Matrigel that exhibit lot variabilityand whose complexity could induce treatment response modi ﬁcations and phenotypic alterations. Following the observation that
+ccRCC tumoroids can create their own niche by secreting extracellular matrix components, we developed the ﬁrst scaffold-free
+tumoroid model of ccRCC tumors. Tumoroids from mice as well as from human tumors were generated with high success rate(≥90%) using a magnetic suspension method and standard culture media. Immuno ﬂuorescence analysis revealed their self-
+organization capacities to maintain multiple tumor-resident cell types, including endothelial progenitor cells. Transcriptomic
+analysis showed the reproducibility of the method highlighting that the majority of gene expression patterns was conserved intumoroids compared to their matching tumor tissue. Moreover, this model enables to evaluate drug effects and invasiveness of
+renal cancer cells in a 3D context, providing a robust preclinical tool for drug screening and biomarker assessment in line with
+alternative ex vivo methods like tumor tissue slice culture or in vivo xenograft models.
+Cell Death and Disease          (2023) 14:622 ; https://doi.org/10.1038/s41419-023-06133-z
+INTRODUCTION
+Kidney cancer represents the 8th most frequent type of cancers in
+the word [ 1]. Among them, Renal Cell Carcinoma (RCC) is the most
+common and englobes a number of histological subtypescomprising clear cell RCC (ccRCC) and papillary RCC. The mostfrequent is ccRCC, which represents 70 –80% of patients, followed
+by papillary RCC, which represents 10 –15% [ 2,3]. RCC patients are
+often asymptomatic, leading to 30% of metastatic RCC (mRCC) atdiagnosis. Moreover, 10% of patients that are undergoing surgeryfor a localized cancer will relapse and develop mRCC during their
+follow up [ 4]. mRCC can be treated with Tyrosine Kinase Inhibitors
+(TKI) or Immunotherapy [ 5]. Recently, a combination of Immune
+checkpoint inhibitors like Ipilimumab plus Nivolumab has been
+approved for Metastatic Renal Cell Carcinoma management [ 6].
+However, intrinsic and therapy-induced heterogeneity, andchanges in the tumor microenvironment often yield to multiplecross-resistance mechanisms in non-responder patients. Phylo-
+genic studies showed that subclonal populations with different
+mutations arise from the trunk mutations that are present in allregions of the tumor before formation of the founder cancer cells.Those subclones are often responsible of metastasis and are notmany to be detected by bulk sequencing [ 6–9]. This leads to
+mRCC patients with a therapeutic response that differs signi ﬁ-
+cantly independently of their trunk mutation status [ 10,11].
+Tumors appear as complex systems with many elements that
+display dynamic spatial and temporal evolution as they progressand respond to stressors, including the immune system and
+cancer therapies. Recently, advances in tumor models have
+demonstrated the value of organoid technology for the genera-tion of in vitro three-dimensional models, including patient-derived organoids that have been shown to more accurately
+recapitulate the structures, speci ﬁc functions, molecular charac-
+teristics, genomic alterations and tumor microenvironment ofprimary tumors. In addition, they may be useful for identifying
+in vitro drug response as well as biomarker assessment to help
+guiding personalized therapy and molecular pro ﬁles to de ﬁne
+predicative molecular pro ﬁles of drug responsive tumors [ 12–14].
+The need for such a dynamic system is emphasized by the high
+failure rate of drugs tested in clinical trials. Indeed, the success rate
+for cancer treatments is 3.4% in phase I –III clinical trials [ 15]. Sato
+et al. developed in 2011, the ﬁrst tight irregular cancer cell
+aggregates that appeared similar to in vivo tumors, nowadays
+Received: 12 April 2023 Revised: 24 August 2023 Accepted: 7 September 2023
+1University Grenoble Alpes, Inserm, CEA, IRIG-Biosanté, UMR 1292, F-38000 Grenoble, France.2University Rennes, Inserm, EHESP, Irset (Institut de Recherche en Santé,
+Environnement et Travail) - UMR_S 1085, F-35000 Rennes, France.3Centre hospitalier universitaire Grenoble Alpes, CS 10217, 38043 Grenoble cedex 9 France.4Present address:
+University Grenoble Alpes, Inserm, CEA, IRIG-Biosanté, UA 13, F-38000 Grenoble, France.✉email: odile. ﬁlhol-cochet@cea.fr
+Edited by Professor Nickolai Barlevwww.nature.com/cddis
+Ofﬁcial journal of CDDpress
+1234567890();,:referred to as tumoroids [ 16]. Subsequently, tumoroids of
+numerous cancer types were established [ 14], including prostate
+[17], ovarian [ 18], brain [ 19,20], bladder [ 21], gastric [ 22–24],
+esophageal [ 25] revealing that patient-derived tumoroids recapi-
+tulate patient-speci ﬁc histological features. However, their use in
+theﬁeld of kidney cancers remains limited [ 26–30]. Over all those
+methods, establishment success rates varied widely, across the
+different sources of tumor tissue they were generated from. Theycan be derived from primary tumors, metastatic lesions, tumorcells from liquid effusion or circulating tumor cells [ 13]. Following
+collection, processing of tumor samples can be achieved with
+different strategies like enzymatic and/or mechanic dissociation,and tumoroids can be formed from progenitor single cell,multicellular reassembly or millimeter-scale tumor fragments
+[17,22]. Several recent works describe the establishment and
+characterization of ccRCC organoid cultures derived from patients ’
+tissues revealing biological insights for ccRCC research [ 25,27–30].
+However, for their establishment, these organoid models rely on
+their plating on low-density Matrigel ®or type 1 Collagen matrices
+that might introduce unknown variables into culturing experi-ments. Thus, there is an emerging need to develop Matrigel ®-
+independent organoid culture methods. Despite the assumption
+that a matrix is required to sustain long-term organoid culture, itwas hypothesized that cells in the organoid may create their ownniche by secreting extracellular matrix components. This led to the
+development of matrix-free culture systems for a narrow range of
+tissues [ 31–33]. In the present work, we describe the establish-
+ment, characterization and several applications of a matrix-free
+technique for the culture of renal tumor organoids (tumoroids)
+derived from renal tumor xenografts in mice or human tumorsurgical specimen. We provide a phenotypical, transcriptomic andmolecular analysis of these organoids and the corresponding
+tumors. Moreover, we found a clear concordance of the tumor
+response to treatments in this tumoroid culture model comparedto tumor slice cultures or orthotopic renal cancer xenografts.
+RESULTS
+Establishment of ccRCC tumoroid culturesWe generated renal tumor in mice by surgically implanting 786-O-
+Luc or ACHN-Luc cells under the renal capsula. 786-O cell line is a
+classically used ccRCC cell line that harbors VHL mutation andconstitutively active HIF α, while ACHN cell line is de ﬁned as
+papillary RCC without VHL mutation [ 34,35]. Human ccRCC
+specimen were collected fresh at the time of surgical resection atthe Grenoble hospital and taken immediately to the laboratory forprocessing (Clinical trial NCT03571438). Several pieces of each
+tumor were snap frozen for RNA isolation and cryo-microtome
+sectioning. The remainder was mechanically and enzymaticallydissociated. After counting, dissociated cells were seeded toperform tumoroid culture, using a scaffold-free tumoroid method
+(Fig. 1A). After 7 days, formation of live tumoroids was clearly
+visible by microscope evaluation. Tumoroids were viable for atleast 14 days (Fig. 1B). Thus, with a success rate of 100% in mice
+tumor samples and 90% in human tumors, this model allows an
+accurate comparison to evaluate its translational potential withother effective pre-clinical cancer models.
+Phenotypic characterization of ccRCC tumoroids
+To determine whether phenotypic features are preserved in vitro,we histologically characterized the ccRCC tumoroids. Grossmorphology of tumoroids as well as examination of hematoxylin
+and eosin (H&E) staining revealed that they generally resembled
+the parental tumor tissue. Like in matching tumor tissue, 786-O-
+derived tumoroids consist of dense packed cells with a ﬁlled
+cytoplasm, an histological feature already reported in mouse
+xenograft models [ 9], while ACHN show tubulo-papillary archi-
+tecture with clear cell-like areas (Fig. 2A). In most tumoroids,different cell clusters could be distinguished demonstrating a
+rather heterogeneous composition of different sub-populations
+(Supp Fig. 1). The major one is represented by cancer cells,
+assessed by the expression of vimentin and the classical ccRCC-speci ﬁc marker CAIX [ 3,36]. A second population showed strong
+enrichment for stromal markers such as FAP, thus likely
+representing ﬁbroblasts (Fig. 2B). Interestingly, Pan Collagen
+labeling was mainly intracellular, suggesting that cells were ableto produce de novo collagen to build their own extracellularmatrix (Fig. 2Ca ,b )[ 37]. Enrichment for the progenitor-like marker
+CD44 was observed mostly at the periphery of several tumoroids
+(Fig. 2C a, b), as in the parental tumor tissue (Fig. 2C c). While
+Ki67 staining was weak in tumor tissues (Fig. 2C f), this
+proliferation index was restored in growing tumoroids (Fig. 2C
+d,e). Clusters of CD68
++cells were observed at the periphery of the
+tumoroids (Fig. 2C g, h), likely representing tumor-associated
+macrophages (TAMs) that are the most abundant immune cell
+population in ﬁltrating the tumor microenvironment (Fig. 2Ci )
+[38,39]. Interestingly, at day 12 and 15 of culture, both 786-O and
+ACHN tumoroids disclosed CD31+cells that form circular layers of
+oriented packed cells at the surface of the structure, tentatively
+evoking a primitive vascular-like plexus as in the original tissue
+(Fig. 2D and S1). These CD31+cells also expressed vimentin (Fig.
+2E a, white arrow) and more importantly collagen, in higher
+proportions than other cell types (Fig. 2E b, white arrow),
+suggesting that CD31+cells may start to secrete collagen IV that
+has been shown to be necessary to create their basementmembrane [ 40,41].
+Figure 3As h o w si m m u n o ﬂuorescence images of 786-O
+tumoroids and the corresponding parental tumors stainedwith antibodies directed against different cell-speci ﬁcb i o m a r -
+kers. Figure 3B illustrates the grouped analysis of their
+expression levels in 786-O or ACHN tumoroids compared to
+the original tumor tissue (4 tumoroids grouped per cell line). Asp r e v i o u s l ys h o w ni nF i g . 2,C D 3 1
++cells were detectable in the
+tumoroids albeit with a reduced expression compared to the
+parental tumors, suggesting that angiogenesis is weak in
+growing tumoroids. Of note, many cell nuclei in thesetumoroids, were positive for K i67 staining as compared to
+the original tissue, indicating that actively dividing cells were
+still present after >2 weeks of cul ture. Surprisingly, compared
+to original tumor tissues, E-cad herin expression was lower in
+the 786-O tumoroids while higher in the ACHN tumoroids. In
+contrast, both types of tumoroids showed a similar expression
+of CAIX, vimentin, FAP, CD44 and CD68 as compared toparental tissues. In summary, this analysis reveals that differenttumor-resident cell types such as cancer cells, ﬁbroblasts, CD44
+progenitor-like cells and in ﬁltrated macrophages were pre-
+served in these tumoroids.
+We then performed a pairwise correlation of expression of cell-
+speci ﬁc markers in tumoroids and their respective tumor tissue
+(Fig. 3C). As previously described, no clear correlation was found
+for CD31 and Ki67 expression. Compared to the original tumortissues, CD31
++cells were reduced in the tumoroids while cell
+proliferation was increased. In contrast, signi ﬁcant correlations
+were found for FAP, vimentin, CAIX, CD68 and CD44, thusindicating that tumoroids are able to retain the inter-tumorheterogeneity present in the tumor tissues. Finally, ~40% of the
+cells in the tumoroids were producing a collagen matrix,
+regardless of its amount present in their respective original tissue.This suggests that tumoroids are capable to synthetize de novocollagen, in order to restore the ECM lost during the enzymatic
+dissociation process.
+Altogether, these data indicate that these renal tumoroids
+display diverse differentiated cell types that are present in their
+respective original tumor tissue. Moreover, the tumoroids preserve
+the integrated stroma, which includes the extracellular matrix,vascular-like structures and other cell types.I. Séraudie et al.
+2
+Cell Death and Disease          (2023) 14:622 Gene expression of tumoroids and tumor tissues
+To evaluate genetic similarities between tumoroids and the
+corresponding tumor tissues, we performed RNA sequencing ofcells for each experimental condition (see “Methods ”). Since we
+injected human cancer cells into mice, cancer cells in the tumorswere human while microenvironment cells (i.e. Fibroblasts,
+Immune cells, …) were derived from mice. Thus, the RNA
+sequencing datasets generated from ACHN or 786-O tumortissues (AxM and 7xM) and their respective tumoroids (AxTy and7xTy) were mapped on human and mouse reference genome.
+I. Séraudie et al.
+3
+Cell Death and Disease          (2023) 14:622 We initially performed unsupervised hierarchical clustering
+analysis on gene expression values for human cancer cells and
+mice microenvironment cells (Fig. 4A, B respectively). For cancer
+cells (Fig. 4A), all ACHN tumoroids (AxTy) were grouped as their
+tumoral tissues (AxM). Moreover, 786-O tumoroids matched withtissue 71 M, indicating that tumoroids and the tumoral tissue
+shared a high similarity in cancer cell transcriptional pro ﬁles.
+Looking at the microenvironmental cells (Fig. 4B), all tumor tissues
+were clustered together, suggesting that the in vivo tumormicroenvironment is quite stable, independently of the cancer cell
+line. Moreover, ACHN and 786-O tumoroids were respectively
+forming a cluster. This means that the microenvironment of all
+tumoroids derived from the same cancer cell line were close,advocating for a good reproducibility of the tumoroid productionprotocol. More precisely, the method kept the same proportion
+and cell diversity in all tumoroids produced from the same tumor.
+786-O tumoroids were closer to their original tumor tissuecompared to ACHN tumoroids in agreement with the observation
+Fig. 2 Phenotypic characterization of mice tumoroids by immunohistochemistry and immuno ﬂuorescence. A 786-O and ACHN tumoroids
+and their counterpart tissue stained with Hematoxylin and Eosin (HE). Images were taken with AxioVision Zeiss microscope. Scalebar=100 μm. B–EImmuno ﬂuorescence images of ACHN tumoroids and tissue that were taken using the LSM 880 AiryScan confocal
+microscope (Zeiss). Scale bar =50 μm. All samples are stained with Hoechst. BTumoroids labeled with CAIX, Ki67, Vimentin and FAP .
+CTumoroids and their corresponding tissue labeled with Collagen Pan and CD44 (a –c), CAIX and Ki67 (d –f) and CD68 and actin (g –i).
+DTumoroids labeled with CD31 and E-cadherin at different time point (7, 12 and 15 days) and the corresponding tissue. ETumoroids labeled
+with FAP and vimentin (a), and Collagen Pan and CD44 (b).Fig. 1 Generation of tumoroids from mice tumors and human tumors. A 786-O-Luc and ACHN-Luc cells are surgically implanted under renal
+capsula (1. 106cells/mice) and tumor growth is followed using luminescence (IVIS imager). Mice are euthanized when tumor growth is above
+1. 109photon/sec/cm². Human tumors are recovered fresh just after surgery at Grenoble Alpes Hospital. Kidney tumors are split into 3 pieces:
+2 are fresh frozen for RNA sequencing and cryomicrotome sectioning. The third one is used to produce tumoroids in culture. Tumors aremechanically and enzymatically dissociated. One fraction is fresh frozen while the second fraction is coated with iron nanoparticles toproduce tumoroids thanks to a magnetic spheroid drive. After 1 or 2 weeks of maturation, tumoroids are characterized byimmuno ﬂuorescence and RNA sequencing and they are used for invasion assay and drug testing. BExample of tumoroids ’maturation
+from ACHN, 786-O and ccRCC human tumors during 7 days. At 14 days, viability assay (Live&Dead, using Calcein, Hoechst and Ethidium
+homodimer) is performed on tumoroids. Scale bar =200 μm.I. Séraudie et al.
+4
+Cell Death and Disease          (2023) 14:622 Fig. 3 Cell populations proportions retained in 786-O and ACHN tumoroids compared to their original tumor tissue.
+AImmuno ﬂuorescent images of 786-O whole mounted tumoroids and their counterpart tissues. Tissue sections are 8 μm thick. Each
+column represent a different co-labeling : (1) FAP & vimentin, (2) CAIX & Ki67, (3) CD31 & E-cadherin, (4) collagen Pan & CD44, (5) CD68 & actin.Images were obtained using the Cell In Sight CX7 High throughput automated microscope (ThermoFisher) using 20x objective (NA 0.45) fortumoroids and 10x objective (NA 0.4) for tissue slices. Tumoroid scale bar =50 μm; Tissue scale bar =100 μm. BPercentage of cells expressing
+the different markers in tumoroids and tissues in a grouped analysis. 786-O tumoroids and ACHN tumoroids were respectively grouped to
+obtain global proportions. Quanti ﬁcation of different populations was made by the Thermo Fisher ’s HCS studio software using the spot
+detector bioapplication. Reference levels for positive cells to each marker was the same for all samples. Quanti ﬁcation was made on the
+following number of replicates : Tumoroids 786-O =27; Tumoroids ACHN =20–28; Tissues =4. Statistical analysis was made using student t-
+test, p< *0.05, ****0.0001. CCorrelation and linear regression of the percentage of cells that are positive for a markers in tumoroids compared
+to their respective tissue they are derived from. X-axis correspond to the percentage of positive cells for a marker present in the tissue while
+Y-axis correspond to the mean of the percentage of positive cells for 6 to 8 tumoroids per tumor. Correlations are signi ﬁcant for FAP , vimentin,
+CAIX, CD68 and CD44 ( p< 0.05).I. Séraudie et al.
+5
+Cell Death and Disease          (2023) 14:622 Fig. 4 mRNA expression analysis of tumoroids versus tumor tissue. A Working pipeline. B–E7xM and AxM are tumoral tissue samples while
+AxTx and 7xTx are their corresponding tumoroids. For example, 786-O tumor number 1 is named 71 M and its corresponding tumoroids are
+71T1, 71T2 and 71T3; ACHN tumor number 1 is named A1M and its corresponding tumoroids are A1T1, A1T2, A1T3 and A1T4.
+B,CDendogram representing the hierarchical clustering analysis for the mapped datasets in the human genome ( B) and mouse genome ( C)
+with 3 and 2 clusters respectively. D,EIntersection plots of comparisons between tissues and matching tumoroids for human ( D) and mouse
+(E) mapped datasets. Set size is the number of selected genes based on a threshold applied on the log2 (fold change) from gene expression
+values comparisons between the M and T samples in M_vs_T labels. Intersection size were plotted only if ≥10.I. Séraudie et al.
+6
+Cell Death and Disease          (2023) 14:622 that 786-O tumors are often more homogeneous than ACHN
+tumors in vivo. Of note, ACHN tumor tissues and tumoroids were
+not grouped together, indicating that tumoroids have lost some of
+the microenvironment cells, which may correspond to endothelialcells as described before (Fig. 3B, C). Also, branching lengths
+separating the cluster of samples were smaller for human cancer
+cells (Fig. 4A) compared to microenvironment cells (Fig. 4B),
+suggesting a greater heterogeneity between tumoroids at themicroenvironment level compared to tumor cells.
+We then performed comparisons between tissues (AxM or 7xM)
+and their respective tumoroids (AxTx or 7xTx) for cancer and
+microenvironment gene expression data (Suppl. Table 1 and Table2). For each sample pairwise comparison, we identi ﬁed differen-
+tially expressed genes using a Log2 fold change plot. This
+consisted of counting the number of conserved genes for a range
+of thresholds of [Log2 fold change] and selecting the thresholdcorresponding to the in ﬂection point of the curve. From ~12,000
+expressed genes, we carried out pairwise differential gene
+expression analyzes between a tissue and its tumoroids. Between100 and 400 genes were identi ﬁed as differentially expressed
+highlighting high similarities between tumoroids and their
+corresponding tumor tissues, either for human cancer cells (Fig.
+4C) or microenvironment mouse cells (Fig. 4D). Moreover, an
+intersection size analysis (black dots and lines Fig. 4C, D),
+considering sets of more than 10 genes, showed that many
+deregulated genes were shared between the tumoroids produced
+from the same tumor, whereas no common deregulation wasobserved between tumoroids derived from different tumors.
+Ontological enrichment analyzes were performed from these lists
+of differentially expressed genes. However, the low number ofderegulated genes did not reveal pathways of interest forinterpreting the differences between tissue and tumoroid (data
+not shown).
+Altogether, these data reveal that most of the tumoroids can
+preserve gene expression features associated with both the maintumor-resident and microenvironment cells of the source material.
+Importantly, the rather limited variability in the number of
+deregulated genes observed in the tumoroids compared to thesame tumor tissue could be due to cell reprogramming imposedby enzymatic deconstruction of the tumor tissue and cell
+suspension culture that may affect the original cell-cell and cell-
+ECM interactions. Finally, the higher variability of gene expressionthat we observed in the tumoroid microenvironment is reminis-
+cent of the intra-tumor spatial genetic heterogeneity described in
+ccRCC [ 42].
+Three-dimensional tumoroid invasion
+Invasion is one of the ﬁrst mechanisms that cancer cells use to
+escape from a primary tumor before metastatic colony formationin distant organs. To examine invasion in a 3D physiologicalcontext, spheroids generated from healthy kidney cells (RPTEC) or
+ccRCC cells (786-O, Caki-1) or papillary RCC cells (ACHN) were fully
+embedded within TissueSpec Kidney ®hydrogel and incubated
+with different cell culture media. We then determined the cell
+capacity to escape from spheroids, to migrate and later on, to
+survive in the surrounding 3D matrix after 7 days of culture. Asshown in Fig. 5A, no sign of invasion was detected in RPTEC
+spheroids. In contrast, cells from spheroids generated from the
+three different renal cancer cell lines, actively invaded at variable
+extents in this functional assay. Unexpectedly, in either DMEM orTumorMACS media, the invasive capacity of ACHN cells that areestablished as invasive, was weak as compared to Caki-1 and 786-
+O cells. Moreover, their invasiveness as well as their cell circularity
+were statistically increased in the TumorMACS ®medium (Fig. 5B,
+C). Cancer cell invasion is known to be regulated by Calpain-2-
+mediated cleavage of the focal adhesion and invadopodia-
+associated protein talin [ 43,44], leading to ameboid conversion
+of disseminated cells [ 45]. As depicted in Fig. 5D, E, Calpain-2activity was clearly detectable after 7 days of culture and
+signi ﬁcantly increased in cells escaping from Caki-1 and 786-O
+spheroids cultured in TumorMACS ®medium, suggesting an
+ameboid-like mode of invasion [ 46].
+We next examined cell invasion using mice-derived tumoroids.
+Cells egressing from ACHN or 786-O tumoroids and invading the
+surrounding matrix were viable after 7 days (Fig. 5
+F). The escaping
+cells, which were identi ﬁed as renal cancer cells disclosed a round-
+shaped phenotype in TumorMACS ®compared to DMEM (CAIX/E-
+cadherin staining). Notably, cell egress from these tumoroids was
+strongly increased in the TumorMACS ®medium (Fig. 5G), while
+cell circularity in both types of tumoroids was variable (Fig. 5H).
+Pairwise comparisons of invasion length and circularity show thatin both culture media, cells escaping from ACHN or 786-O
+tumoroids with the lowest circularity, displayed enhanced
+invasiveness (Fig. 5I, J, K). In contrast, in the presence of
+TumorMACS ®(Fig. 5L), invading cells from 786-O tumoroids had
+a different migration behavior with enhanced circularity leading to
+a more deformable and viscous phenotype [ 47]. This behavior can
+be possibly correlated with their high Calpain-2 activity and lowvimentin expression (Fig. 5M).
+Altogether, data from these studies highlight that both
+culturing conditions and the cell characteristics are importantdeterminants affecting the migration mode of invading cells. Inparticular, the TumorMACS ®medium may contain a signaling
+molecule composition that could promote round-shaped ame-
+boid-like migration of 786-O cells, while DMEM does not [ 48,49].
+In line with this, 786-O cells that have a constitutive activation of
+HIFα, would be more receptive and prone to Calpain-2-mediated
+ameboid migration [ 45].
+Comparative responses to treatment on ex vivo and in vivo
+tumor models
+Various preclinical studies have been used as models to studyresponses to chemotherapies, although only a few have madedirect clinical comparisons to responses in patients [ 50]. 786-O
+and ACHN cells grown as spheroids or as tumoroids derived from
+mice tumor samples were subjected to the FDA-approvedcompound sunitinib, used for ﬁrst-line treatment of ccRCC or to
+KU-60019 plus CX-4945 (KU-CX), a combined inhibition of ATM
+and CK2 kinases, which has shown promising activities in a
+previously published drug screen [ 10]. After 48 h of treatment,
+spheroids as well as tumoroids were highly sensitive to sunitinib
+or the KU-CX combination (Fig. 6A, B). Similarly, renal tumor slice
+cultures displayed sensitivity to the same drug concentrations (Fig.6C, D). Thus, three different models (spheroids, tumoroids, and
+tumor slices) derived from the same ccRCC sample showed similar
+early drug sensitivities. We also performed xenograft studies by
+subcutaneously injecting 786-O luc cells into mice. Oral drugadministration started when average tumor size reached about250 to 300 mm
+3. Mice were treated for ten consecutive days with
+the KU-CX combination or Sunitinib (Fig. 6E, F). In concordance
+with the effect observed on the tumoroid or the tumor slicemodels, growth inhibition of the corresponding tumor in mice
+matched the effective concentrations of sunitinib or the drug
+combination, validating our renal tumoroids as a relevant modelfor biological screening of anti-cancer compounds.
+Phenotypic characterization and treatment response of
+human renal tumoroidsUsing our scaffold-free tumoroid method, multiple patient-derived renal cancer tumoroids were successfully generated with
+high ef ﬁciency (90%) from patient ’s tumor samples (Fig. S2A).
+Among them, NJ115 was identi ﬁed as a grade pT1a ccRCC by
+pathologists. H&E staining revealed that the renal clear cell
+phenotype of the original NJ115 tissue was conserved in the
+tumoroids (Fig. 7A). NJ115 tumoroids were sensitive to Sunitinib
+only (Fig. 7B) while corresponding organotypic slice culture wasI. Séraudie et al.
+7
+Cell Death and Disease          (2023) 14:622 sensitive to both KU-CX and Sunitinib (Fig. 7C), unveiling
+differences in drug sensitivity of both models. We performed
+immuno ﬂuorescence labeling on NJ115 tumoroids and the
+original tumor tissue using different biomarkers (Fig. 7D).
+Surprisingly, grouped analysis of their expression levels in
+NJ115 tumoroids compared to the original tumor tissue
+(Fig. 7E) showed a decrease in E-cadherin expression, lack of
+CD44+progenitor-like cells and absence of cell proliferation. In
+contrast, we found similar expression levels of FAP, Vimentin,
+CAIX, CD68, CD31 and Pan Collagen.In MZ076 and CM095 tumoroids, intratumor CD31+cells were
+present. Moreover, in ﬁltrating CD8+cells were detected in MZ076
+tumoroids (Fig. S2B). Collectively, this means that multiple celltypes and matrix components such as ﬁbroblasts, cancer cells,
+macrophages, T-lymphocytes, endothelial cells and de novo
+collagen production were also maintained in patient-derived
+tumoroids. Interestingly, the addition of F12 and EGF in the culturemedia seemed suf ﬁcient to preserve CD31
++endothelial progeni-
+tor cells that may participate to the formation of endothelial
+venules (see Fig. 7E and S2B).
+I. Séraudie et al.
+8
+Cell Death and Disease          (2023) 14:622 Altogether, these data indicate that it is feasible to produce
+patient-derived renal cancer tumoroids with high ef ﬁciency, even
+from low-grade tumors. They provide a biologically relevant
+model system that recapitulates tumor intrinsic characteristics,preserving the cell diversity of the parental tumor. Consequently,they could be used as avatars to screen new drugs.
+DISCUSSION
+Evidences were provided that tumoroids derived from primary cell
+lines lose inter-tumor heterogeneity as well as the appropriatefeatures of the tumor from which they originated [ 51]. In contrast,the use of functional assays involving personalized ex vivo tumor
+models such as tumoroids generated from patient tumor samples
+have shown many advantages to recapitulate patient ’s tumors
+properties as well as to predict patient ’s treatment response
+[21,52]. They have been proposed as avatars to capture individual
+patient responses to therapy and for their accuracy to recapitulate
+cancer heterogeneity [ 14]. Moreover, they take into account the
+wider tumor microenvironment, that can modulate treatmentresponse to chemotherapy or even immunotherapy [ 53].
+Here, we demonstrated, for the ﬁrst time, the feasibility of
+culturing mice as well as human ccRCC tumoroids, directly fromfresh tissue using a scaffold-free method. We could establish a
+Fig. 6 Assessment of tumoral response to treatment on different tumor models. A –DSpheroids, tumoroids and tissue slices were treated
+with KU-60019 (10 μM) plus CX-4945 (10 μM), Sunitinib (10 μM) or DMSO as control. A,BSpheroids and tumoroids were treated for 48 h and
+mortality was assessed with propidium iodide (0.5 μg/mL) using Incucyte zoom Imager, n=12/18, scale bar =300 μm. C,DTumor slices were
+culture on air liquid interface and after 48 h they were labeled with Hoechst and Ethidium homodimer. CPictures were taken using Zeiss
+Apotome microscope (20x, NA 0.7, scale bar =50 μm) and analyzed with ImageJ and R studio to obtain percentage of dead cells ( n=13 mice)
+(D).E,FThree weeks old mice were subcutaneously injected with 8. 106786-O Luc cells. After tumor growth they were treated for 10
+consecutive days by force-feeding with KU-60019 (25 mg/kg) plus CX-4945 (12,5 mg/kg) or Sunitinib (50 mg/kg) or DMSO as control.
+ELuminescence follow up of tumors during treatment (days 0 and 10) and the piece of tumors after the sacri ﬁce.FRatio of luminescence of
+tumors before and after treatment ( n=8 mice per group). Kruskall –Wallis and Mann –Whitney statistical analysis were performed for in vitro
+and in vivo experiments respectively. * p< 0.05, ** p< 0.01, *** p< 0.001,**** p< 0.0001.Fig. 5 Invasion modes of spheroids and tumoroids in TissueSpec Kidney hydrogel. A –ESpheroids from cell lines that were embedded in
+TissueSpec Kidney hydrogel and incubated with DMEM supplemented or Tumor MACS ( n=10). RPTEC are healthy kidney cells, 786-O and
+Caki-1 are ccRCC cell lines and ACHN is a papillary RCC cell line. ALive & Dead staining (Calcein, Ethidium Homodimer) performed after 7 days
+of culture. BInvasion was quanti ﬁed by measuring the invasion length from the border of the spheroid up to the farest cell. CCell circularity of
+invading cells was quanti ﬁed, 0 meaning straight line while 1 means circle. DCalpain-2 activity in spheroids using CMAC labeling and
+Equanti ﬁcation of invading cells with a calpain-2 activity after 7 days of culture. FACHN and 786-O tumoroids derived from mice tumors that
+were embedded in TissueSpec Kidney hydrogel. After 14 days, tumoroids were labeled with Live and Dead staining (scale bar =300 μm), and
+invading cells were ﬁxed and stained for CAIX and E-cadherin (scale bar =100 μm). Gquanti ﬁcation of Invasion length or Hcell circularity after
+7 days of invasion ( n=2 tumoroids per tumor). I–LPairwise correlation of invasion length ( x-axis) and circularity (y-axis) for ACHN and 786-O
+tumoroids invading the hydrogel feeded with the indicated media. IACHN tumoroids cultured in DMEM or JTumorMACS and K786-O
+Tumoroids cultured in DMEM or Lin TumorMACS. MLabeling of Mesenchymal cells (Vimentin), Fibroblasts (FAP) (scale bar =200 μm) and
+Calpain-2 activity (CMAC) (scale bar =300 μm) in cells that egress from 786-O tumoroids cultured in DMEM or TumorMACS after 14 days of
+culture. White dotted lines represent the emplacement of the tumoroids. Statistical analysis for histogram is student t-test while linear
+regression was performed on the correlation plots. * p< 0.05, ** p< 0.01, *** p< 0.001, **** p< 0.0001.I. Séraudie et al.
+9
+Cell Death and Disease          (2023) 14:622 stable culture method using magnets that are known not to be
+toxic and not to alter treatment response [ 33,54]. Moreover, our
+model preserves the cellular heterogeneity and tumor micro-environment. RNA sequencing showed the reproducibility of the
+method, highlighting that the transcriptome was well conserved
+in tumoroids compared to their matching tumor tissue. Patient-derived tumoroids have a weak proliferation index, which is often
+the case with ccRCC tumors that have a Ki67 positive median of
+5% [ 55]. Importantly, immuno ﬂuorescence analysis revealed that
+they were also able to maintain multiple tumor-resident cell types,including endothelial progenitor cells, which were never reported
+in other ccRCC tumoroid culture models (Fig. 4B, D). Vasculatureestablishment usually requires shear stress and micro ﬂuidic
+devices as it was demonstrated for the development of perfusedhealthy kidney organoids [ 56]. Our tumoroid model disclosed rare
+endothelial progenitor cells that were able to form plexus-like
+structures, suggesting that the tumoroid composition can be
+further optimized by altering the media conditions. As alreadyreported [ 57], we found that addition of EGF to patient-derived
+tumoroids was suf ﬁcient to maintain a signi ﬁcant population of
+endothelial progenitor cells. Lastly, we showed that spheroidsgenerated from different renal cancer cell lines or mice tumoroidsprovide opportunities to evaluate the invasiveness of renal cancer
+cells in a 3D physiological context. This analysis revealed that
+Fig. 7 Characterization and drug sensitivity of the human ccRCC tumoroids. A Human tumoroid and its counterpart tumoral tissue from
+patient NJ115 stained with HE. Scale bar =40 μm. B,CTumoroids ( B) and tissue slices ( C) treated with KU-CX (10 μM each) or Sunitinib (10 μM)
+or DMSO as control. Mortality was assessed as in Fig. 5.DImmuno ﬂuorescent images of NJ115 whole mounted tumoroids and its counterpart
+tissue. Tissue sections are 8 μm thick. Each column represent a different co-labeling: (1) FAP & vimentin, (2) CAIX & Ki67, (3) CD31 & E-cadherin,
+(4) collagen Pan & CD44, (5) CD68 & actin. Images were obtained using the Cell In Sight CX7 High throughput automated microscope
+(ThermoFisher) using 20x objective (NA 0.45) for tumoroids and 10x objective (NA 0.4) for tissue slices. Tumoroid scale bar =50 μm; Tissue
+scale bar =100 μm. EPercentage of cells expressing the different markers in tumoroids and tissue for the human tumor NJ115. Quanti ﬁcation
+of different populations was made by the Thermo Fisher ’s HCS studio software using the spot detector bioapplication. Reference levels for
+positive cells to each marker was the same for all samples. Quanti ﬁcation was made on the following number of replicates: Tumoroids =6–8;
+Tissues =2. Statistical analysis was made using student t-test, * p< *0.05, ** p< 0.01, *** p< 0.001, **** p< 0.0001.I. Séraudie et al.
+10
+Cell Death and Disease          (2023) 14:622 spheroids as well as tumoroids derived from different cell lines did
+not exhibit the same invasive capacities.
+In summary, although tumoroids lack active vascular networks
+limiting their utility for in-depth study of the effects ofimmunotherapies, our scaffold-free tumoroid model provides arobust preclinical tool for drug screening and biomarker assess-
+ment in line with alternative ex vivo methods like tumor tissue
+slice culture or in vivo xenograft models. This is timely relevantsince Food and Drug Administration no longer has to requireanimal testing for new drugs to receive approval, supporting
+alternative methods such as organoids in predicting cancer drug
+efﬁcacies [ 58].
+MATERIAL AND METHODS
+Cell culture
+ccRCC cell lines 786-O, Caki-1 and ACHN were obtained from ATCC (CRL-
+1932, HTB-46 and CRL-1611 respectively). The cell lines were grown in10 cm diameter plates in a humidi ﬁed incubator (37 °C, 5% CO
+2) with RPMI
+1640 medium (Gibco) containing 10% of fetal bovine calf serum, penicillin
+(100 U/mL) and streptomycin (100 µg/mL). RPTEC cell line was obtain fromEvercyte and grown in ProXup media (Evercyte). To produce spheroids,cells were counted and coated with magnetic NanoShuttle (Greiner) (1 µLper 20,000 cells) thanks to 3 centrifugation/resuspension cycles at 400 g for5 min each. Cells were seeded into U-bottom 96-well plates coated with
+20 mg/mL poly(2-hydroxyethyl methacrylate) (PolyHema) (Sigma-Aldrich)
+at the density of 1500 cells per well, centrifuged at 400 g for 5 min andthen were grown for 3 days.
+Generation of luciferase expressing cells
+786-O and ACHN cells were plated into 6-well plates in 2 mL of serum-supplemented RPMI 1640 medium. The day after, adherent cells wereinfected with Lenti-II-CMV-Luc-IRES-GFP virus (ABM, Deutschland) (1 –5 MOI
+(multiplicity of infection)) diluted in 1 mL of serum-supplemented medium
+containing 8 µg/mL of polybrene (Sigma). After 4 h, 1 mL of medium wasadded to each well and transduction was maintained for 16 h beforechanging the medium. For stable transduction, puromycin selectionstarted 36 h post-infection (at the concentration of 2 µg/mL) andmaintained for 2 weeks.
+Mice orthotopic and subcutaneous tumor xenograft model
+All animal studies were approved by the institutional guidelines and thoseformulated by the European Community for the Use of ExperimentalAnimals. Renal orthotopic implantation was carried out by injection of1.10
+6786-O luc or ACHN luc cells into the left kidney of athymic nude mice
+(6 weeks-old female BALB/c Nude, CByJ.Cg-Foxn1nu 522 /J; Charles River)
+as previously described [ 10,59]. Subcutaneous xenografts were obtained
+by injecting 8.106786-O luc cells on the back of athymic nude mice. Tumor
+growth was followed by intraperitoneal injection of 150 mg/kg D-luciferinPotassium salt using IVIS Imager (Perkin Elmer).
+Patients and clinical samples
+All human renal carcinoma samples were obtained from patients, withtheir informed consent, and all procedures were approved by the ethics
+committee (Patient Protection Committee No. 2017 A0070251). Patients
+were recruited under the clinical trial, Comborein (NCT03572438) [ 60].
+Fresh renal tumor tissue was obtained from patients undergoing a partialor a total nephrectomy for cancer at the Urology Department, UniversityHospital Center of Grenoble, Alpes (CHUGA).
+Fresh tissue sectioning
+A Vibratome VT1200 (Leica Microsystems) was used to cut thin (300 µm)slices from fresh tumor tissue as previously described [ 10,11]. Brie ﬂy,
+samples were soaked in ice-cold sterile-balanced salt solution (HBSS),orientated, mounted and immobilized using cyanoacrylate glue. Slicingspeed was comprised between 0.03 –0.08 mm/s depending on tissue
+stiffness. Vibration amplitude was set between 2.95 and 3.0 mm.
+Organotypic tissue cultures
+Tissue slices were cultured as previously described [ 10,11]. Brie ﬂy, they
+were cultured on organotypic inserts for 48 h (one slice per insert;Millipore) at 37 °C in a 5% CO 2humidi ﬁed incubator under agitation, using
+2 mL of DMEM media supplemented with 10% inactivated fetal bovineserum (FBS) (GIBCO), 100 U/mL penicillin +streptomycin (Invitrogen). The
+slices were incubated with the following compounds dissolved in DMSO:
+KU-60019 (10 µM; Selleck Chem) plus CX-4945 (10 µM; Plateau Synthèse
+Organique, UGA); Sunitinib (10 µM; Selleck Chem) and DMSO (0.1%; Sigma)as control. After 48 h the viability of tumor slices was assayed [ 11].
+Cell dissociation and tumoroids production
+Cell dissociation was perform thanks to the gentleMACS Dissociator and
+the Tumor dissociation kit (Miltenyl Biotec) according to manufacturer ’s
+instructions. Brie ﬂy, pieces of fresh tumors from mice or patients were
+chopped with a scalpel and transferred into the “C”dissociation tube.
+Chopped tumor was suspended in supplemented DMEM and enzymesfrom the kit (A, H and R). Mechanical dissociation was performed by 3cycles of stirring using the GentleMACS Dissociator. Between each cycle,the tube was incubated 30 min at 37 °C for enzymatic digestion. Cell
+suspension was then ﬁltered and washed through the MACS SmartStrai-
+ners (70 µm pores) to remove undissociated particles. Cells werecentrifuged at 300 g for 5 min and Red Blood Cells (RBC) were lysedthanks to the RBC Lysis buffer during 4 min at 4 °C. The reaction wasstopped by PBS addition. Cells were counted and coated with magneticNanoShuttle (Greiner) (1 µL per 20,000 cells) thanks to 3 centrifugation/resuspension cycles at 400 g for 5 min each. Cells were seeded into ﬂat
+repellent 96-well plates (Greiner) at the density of 10,000 cells per well. For
+tumoroids formation, plates were maintained on the Spheroid Drivesupport (Greiner) for 14 days at 37 °C with 5% CO
+2in a humidi ﬁed
+incubator as described in [ 33]. Mice tumoroids were cultured in DMEM
+media supplemented with 10% FBS (GIBCO), 100 U/mL penicillin +
+streptomycin (Invitrogen), while human tumoroids were cultured in
+DMEM/F12 (1/1) supplemented with 10% FBS (GIBCO), 100 U/mL penicillin
++streptomycin, and 10 ng/mL EGF.
+Three-dimension (3D) cell death measurements
+Three days-old spheroids (786-O and ACHN) and 14 days-old tumoroids
+were transferred into a U-bottom 96-well plate coated with 20 mg/mLpolyHema. They were treated for 48 h, with KU-60019 (10 µM) plus CX-
+4945 (10 µM) or Sunitinib (10 µM) or DMSO (0.1%) as control. To assess cell
+death, 0.5 µg/mL Propidium iodide (PI) was added to the culture during allthe treatment. PI incorporation was followed in real time with the IncucyteZOOM ®imager.
+Invasion assay
+Three days-old spheroids and 14 days-old tumoroids were included in
+TissueSpec Kidney®hydrogel (Xylyx Bio, New York, USA). At day 0 and 7,
+cells were stained with Live and Dead viability kit containing Calcein and
+Ethidium Homodimer (Invitrogen). They were also stained with CMAC t-BOC-Leu-Met (Invitrogen) for calpain activity measurement. CMAC is acalpain peptidase substrate that will ﬂuoresce when cleaved by active
+calpain [ 46]. Image analysis was performed using Icy and ImageJ softwares.
+Cryomicrotome sectioning
+Pieces of fresh tumors and tumoroids were ﬁxed in paraformaldehyde 4%
+(Sigma) for 1 h at room temperature. The pieces were included in OCTmounting medium and frozen in liquid nitrogen up to solidi ﬁcation.
+Tissues and tumoroids were conserved at −80 °C before use. Slices (8 µm
+thick) were cut with a Cryo-microtome (Leica) to perform immuno ﬂuor-
+escence and Hematoxylin and Eosin staining for tumor characterization.
+Immuno ﬂuorescence labeling of tumoroids
+Tumoroids were labeled one by one in a ﬂat repellent 96-well plate. For all
+liquid removing steps, we used the Handling Magnetic support (Greiner) to
+keep tumoroids inside the wells while removing the solutions. Tumoroidswere washed in PBS and ﬁxed in paraformaldehyde 4% (Sigma) for 1 h at
+4 °C. All the next steps were performed under horizontal agitation (60 rpm).After 10 min in PBS-Tween20 0.1%, they were permeabilized and saturated1 h in Organoid Washing Buffer (OWB) containing 0.1% Triton-X100 and0.2% BSA diluted in PBS. Primary antibodies were incubated overnight at
+4 °C. On the second day, tumoroids were washed 3 times during 2 h in
+OWB and secondary antibodies were incubated overnight at 4 °C. On thethird day, tumoroids were washed 3 times and during the second one,Hoechst was added to OWB (1/1000
+e) for nuclei staining. At the end,I. Séraudie et al.
+11
+Cell Death and Disease          (2023) 14:622 tumoroids were transferred into 96-CellView Microplate glass bottom
+(Greiner) for ﬂuorescence imaging. The primary antibodies used are the
+following ones : FAP (Abcam #ab53006, 1/100e), Vimentin (Sigma #V5255,
+1/200e), CD31 (Abcam #ab28364, 1/25e), E-cadherin (BD #610181, 1/200e),
+PanCollagen (ThermoFischer #PA5104252, 1/100e), CD44 (SantaCruz #sc-
+53298, 1/200e), CA9 (NovusBio #NB100-417, 1/500e), Ki67 (DAKO #M7240,
+1/100e), CD8 (Abcam #ab101500, 1/100e), CD68 (ThermoFisher #PA5-
+32330, 1/100e) and Phalloidin (Invitrogen #A12379, 1/400e). Secondary
+antibodies are the following ones: Cy3 Goat anti-rabbit IgG (JacksonImmunoResearch #111-165-003, 1/1000e), 488 Goat anti-mouse IgG
+(Invitrogen #a11001, 1/2000e) and 488 Goat anti-Mouse IgM µ chain
+(Invitrogen #a21042, 1/2000e).
+Immuno ﬂuorescence labeling of cryomicrotome slices
+Frozen slices were allowed to stabilize at room temperature (RT) for 10 min.
+They were washed 3 times with PBS (1X) and then permeabilized in PBSTriton-X100 0.5% for 10 min at RT. After 3 washes in PBS-Tween20 0.05%,
+they were saturated with PBS-Tween20 0.05%, 5% SVF and 0.2% BSA for
+1 h at RT. Antibodies were incubated overnight at 4 °C. The day after, sliceswere washed 3 times in PBS-Tween20 0.05% and incubated for 1 h at RT inthe dark with secondary antibodies. Slices were washed 5 times in PBS-Tween20 0.05% and nuclei staining was performed with Hoechst for15 min at RT in the dark. After a ﬁnal wash, slices were mounted for
+microscopy using Fluoromount-G (Southern Biotech). Antibodies used
+were the same as described for tumoroids labeling.
+Hematoxylin and Eosin staining
+Frozen slices were allowed to stabilize at room temperature (RT) for 10 min
+and washed in water to remove OCT mounting medium. Slices were stainfor 40 s with Hematoxylin (Sigma) followed by washing using water andstain for 4 min using Eosin (Sigma). Slices were then dehydrated in ethanol
+100% for 2 × 5 min and with Xylene for 2 × 2 min. Slices were mounted
+using Merkoglass (Sigma) and visualized under microscope.
+Fluorescence microscopy
+Qualitative imaging was performed thanks to the confocal microscope LSM880 with AiryScan module (Zeiss) at the µLife platform, CEA Grenoble.Pictures were taken using the 40X oil objective. Quantitative imaging was
+performed thanks to the CX7 Cell Insight high throughput confocal
+microscope (ThermoFisher) at the CMBA platform, CEA Grenoble. Pictureswere taken using the 20X air objective (NA 0.45) for tumoroids and 10X airobjective (NA 0.4) for tissue slices. Image quanti ﬁcation was performed
+with the Thermo Scienti ﬁc HCS studio Cellomics Software by using the
+spot detector bio-application.
+RNA extraction
+RNA extracts from tumoroids were obtained using the RNeasy Micro Kit(Qiagen) following manufacturer ’s instructions. Two tumoroids were used
+for each extract. RNA Extracts from tissues were obtained using theMirVana PARIS kit (ThermoFisher).
+Bulk RNA Barcoding (BRB)-sequencing and raw data
+preprocessing
+BRB-sequencing was perfomed at the Research Institute for Environmental
+and Occupational Health (Irset, Rennes, France) as previously described[10,61]. The ﬁrst read contains 16 bases that must have a quality score
+>10. The ﬁrst 6 bp correspond to a unique sample-speci ﬁc barcode and the
+following 10 bp to a unique molecular identi ﬁer (UMI). The second reads
+were aligned to the human reference transcriptome from the UCSCwebsite (release hg38) using BWA version 0.7.4.4 with the non-defaultparameter “−l2 4”. The second reads were also aligned to the mouse
+reference transcriptome from the UCSC website (release mm10) using BWA
+version 0.7.4.4 with the non-default parameter “−l2 4”. Reads mapping to
+several positions in the genome were ﬁltered out from the analysis. The
+pipeline is described in Reference [ https://doi.org/10.1016/
+j.chemosphere.2020.128468 ]. After quality control and data preprocessing,
+a gene count matrix was generated by counting the number of uniqueUMIs associated with each gene (lines) for each sample (columns). Theresulting UMI matrix was further normalized by using the rlog transforma-
+tion implemented in the DeSeq2 package [ https://doi.org/10.1186/s13059-
+014-0550-8 ]. Raw and preprocessed data were deposited at the ArrayEx-
+press repository under the accession number E-MTAB-12928.Bioinformatics analysis
+The hcut method of the factoextra package on R (version R 4. 1) with 2-3clusters is implemented on the original tumor tissue samples (A1M, A2Mand 71 M) and on the tumoroids samples (A1T1, A1T2, A1T3, A1T4, A2T1,
+A2T2, A2T3, A2T4, 71T1, 71T2, 71T3), for the human genome (11443 genes)
+and for the mouse genome (11914 genes) independently. This methodcomputes hierarchical clustering and splits the tree into 3 clusters. It alsoaccepts distance measurement methods based on pearson correlation. Tovisualize the results of the hierarchical clustering, we use the fviz_dendmethod of the R package factoextra (version R 4.1). This method allows
+creating dendograms. We have chosen to perform the hierarchical
+clustering and the dendrogram with three clusters. Indeed, a preliminaryanalysis of the shape of the dendrogram gave us an indication on thenumber of clusters to retain and then we calculated the inertia of theclustering tree. The result of these two observations was to realize thehierarchical clustering with three clusters. The distinct intersections of set
+of genes or pathways were visualized by the make_comb_mat() function
+with a mode parameter set to “distinct ”followed by the UpSet() function
+from the ComplexHeatmap R/Bioconductor package (version 2.14.0).Intersection plots were generated using the UpsetPlot R package.
+Statistical analysis
+The statistical signi ﬁcance of differences between the means of two
+groups was evaluated using GraphPad version 9. Tests are indicated below
+in each ﬁgure legend.
+DATA AVAILABILITY
+All data generated or analyzed during this study are included in this published article
+or are available at the ArrayExpress repository under the accession number E-MTAB-12928.
+REFERENCES
+1. Bray F, Ferlay J, Soerjomataram I, Siegel RL, Torre LA, Jemal A. Global cancer
+statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36cancers in 185 countries. CA Cancer J Clin. 2018;68:394 –424.
+2. Wallis CJD. Epidemiology and etiology of kidney cancer. Urotoday. 2018;1 –5.
+https://www.urotoday.com/library-resources/kidney-cancer-today/109190-epidemiology-and-etiology-of-kidney-cancer.html# .
+3. Warren AY, Harrison D. WHO/ISUP classi ﬁcation, grading and pathological staging
+of renal cell carcinoma: standards and controversies. World J Urol.2018;36:1913 –26.
+4. Galsky MD. Metastatic renal cancer: better never than late. Eur Urol.
+2014;65:1093 –4.
+5. Escudier B, Porta C, Schmidinger M, Algaba F, Patard JJ, Khoo V, et al. Renal cell
+carcinoma: ESMO clinical practice guidelines for diagnosis, treatment and follow-
+up. Ann Oncol. 2014;25:iii49 –56.
+6. Roberto M, Botticelli A, Panebianco M, Aschelter AM, Gelibter A, Ciccarese C, et al.
+Metastatic renal cell carcinoma management: from molecular mechanism toclinical practice. Front Oncol. 2021;11:1 –14.
+7. Gotink KJ, Rovithi M, de Haas RR, Honeywell RJ, Dekker H, Poel D, et al. Cross-
+resistance to clinically used tyrosine kinase inhibitors sunitinib, sorafenib and
+pazopanib. Cell Oncol. 2015;38:119 –29.
+8. Beksac AT, Paulucci DJ, Blum KA, Yadav SS, Sfakianos JP, Badani KK. Hetero-
+geneity in renal cell carcinoma. Urol Oncol Semin Orig Investig.
+2017;35:507 –15.
+9. Wolf MM, Rathmell WK, Beckermann KE. Modeling clear cell renal cell carcinoma
+and therapeutic implications. Oncogene. 2020;39:3413 –26.
+10. Séraudie I, Giacosa S, Pillet C, Guyon L, Wallez Y, Roelants C, et al. Cooperative
+blockade of CK2 and ATM kinases drives apoptosis in VHL-de ﬁcient renal carci-
+noma cells through ROS overproduction. Cancers (Basel). 2021;13:1 –27.
+11. Roelants C, Pillet C, Franquet Q, Sarrazin C, Peilleron N, Giacosa S, et al. Ex-vivo
+treatment of tumor tissue slices as a predictive preclinical method to evaluatetargeted therapies for patients with renal carcinoma. Cancers (Basel).2020;12:1 –18.
+12. Corrò C, Novellasdemunt L, Li VSW. A brief history of organoids. Am J Physiol -
+Cell Physiol. 2020;319:C151 –C165.
+13. LeSavage BL, Suhar RA, Broguiere N, Lutolf MP, Heilshorn SC. Next-generation
+cancer organoids. Nat Mater. 2022;21:143 –59.
+14. Verduin M, Hoeben A, De Ruysscher D, Vooijs M. Patient-derived cancer orga-
+noids as predictors of treatment response. Front Oncol. 2021;11:1 –16.
+15. Wong CH, Siah KW, Lo AW. Estimation of clinical trial success rates and related
+parameters. Biostatistics. 2019;20:273 –86.I. Séraudie et al.
+12
+Cell Death and Disease          (2023) 14:622 16. Sato T, Stange DE, Ferrante M, Vries RGJ, Van Es JH, Van Den Brink S, et al. Long-
+term expansion of epithelial organoids from human colon, adenoma, adeno-carcinoma, and Barrett ’s epithelium. Gastroenterology. 2011;141:1762 –72.
+17. Gao D, Vela I, Sboner A, Iaquinta PJ, Karthaus WR, Gopalan A, et al. Organoid
+cultures derived from patients with advanced prostate cancer. Cell.
+2014;159:176 –87.
+18. Kopper O, de Witte CJ, Lõhmussaar K, Valle-Inclan JE, Hami N, Kester L, et al. An
+organoid platform for ovarian cancer captures intra- and interpatient hetero-geneity. Nat Med. 2019;25:838 –49.
+19. Chadwick M, Yang C, Liu L, Gamboa CM, Jara K, Lee H, et al. Rapid processing and
+drug evaluation in glioblastoma patient-derived organoid models with 4D bio-
+printed arrays. iScience. 2020;23:101365.
+20. Ayuso JM, Monge R, Martínez-González A, Virumbrales-Muñoz M, Llamazares GA,
+Berganzo J, et al. Glioblastoma on a micro ﬂuidic chip: generating pseudopali-
+sades and enhancing aggressiveness through blood vessel obstruction events.Neuro Oncol. 2017;19:503 –13.
+21. Lee SH, Hu W, Matulay JT, Silva MV, Owczarek TB, Kim K, et al. Tumor evolution
+and drug response in patient-derived organoid models of bladder cancer. Cell.2018;173:515 –.e17.
+22. Li X, Nadauld L, Ootani A, Corney DC, Pai RK, Gevaert O, et al. Oncogenic
+transformation of diverse gastrointestinal tissues in primary organoid culture. NatMed. 2014;20:769 –77.
+23. Nadauld LD, Garcia S, Natsoulis G, Bell JM, Miotke L, Hopmans ES, et al. Metastatic
+tumor evolution and organoid modeling implicate TGFBR2 as a cancer driver in
+diffuse gastric cancer. Genome Biol. 2014;15:428.
+24. Nanki K, Toshimitsu K, Takano A, Fujii M, Shimokawa M, Ohta Y, et al. Divergent
+routes toward Wnt and R-spondin niche independency during human gastriccarcinogenesis. Cell. 2018;174:856 –69.e17.
+25. Li X, Francies HE, Secrier M, Perner J, Miremadi A, Galeano-Dalmau N, et al.
+Organoid cultures recapitulate esophageal adenocarcinoma heterogeneity pro-
+viding a model for clonality studies and precision therapeutics. Nat Commun.2018;9:1 –13.
+26. Calandrini C, Schutgens F, Oka R, Margaritis T, Candelli T, Mathijsen L, et al. An
+organoid biobank for childhood kidney cancers that captures disease and tissueheterogeneity. Nat Commun. 2020. https://doi.org/10.1038/s41467-020-15155-6 .
+27. Grassi L, Alfonsi R, Francescangeli F, Signore M, De Angelis ML, Addario A, et al.
+Organoids as a new model for improving regenerative medicine and cancer
+personalized therapy in renal diseases. Cell Death Dis. 2019. https://doi.org/
+10.1038/s41419-019-1453-0 .
+28. Neal JT, Li X, Zhu J, Giangarra V, Grzeskowiak CL, Ju J, et al. Organoid modeling of
+the tumor immune microenvironment. Cell. 2018;175:1972 –88.e16.
+29. Bolck HA, Corrò C, Kahraman A, von Teichman A, Toussaint NC, Kuipers J, et al.
+Tracing clonal dynamics reveals that two- and three-dimensional patient-derived
+cell models capture tumor heterogeneity of clear cell renal cell carcinoma. EurUrol Focus. 2021;7:152 –62.
+30. Lugand L, Mestrallet G, Laboureur R, Dumont C, Bouhidel F, Djouadou M, et al.
+Methods for establishing a renal cell carcinoma tumor spheroid model withimmune in ﬁltration for immunotherapeutic studies. Front Oncol. 2022;12:3109.
+31. Nair GG, Liu JS, Russ HA, Tran S, Saxton MS, Chen R, et al. Recapitulating endo-
+crine cell clustering in culture promotes maturation of human stem-cell-derived β
+cells. Nat Cell Biol. 2019;21:263 –74.
+32. Pagliuca FW, Millman JR, Gürtler M, Segel M, Van Dervort A, Ryu JH, et al. Gen-
+eration of functional human pancreatic βcells in vitro. Cell. 2014;159:428 –39.
+33. Eckhardt BL, Gagliardi M, Iles LK, Evans K, Ivan C, Liu X, et al. Clinically relevant
+inﬂammatory breast cancer patient-derived xenograft –derived ex vivo model for
+evaluation of tumor-speci ﬁc therapies. PLoS One. 2018;13:1 –23.
+34. Brodaczewska KK, Szczylik C, Fiedorowicz M, Porta C, Czarnecka AM. Choosing
+the right cell line for renal cell cancer research. Mol Cancer. 2016;15:1 –15.
+35. Haase VH. The VHL/HIF oxygen-sensing pathway and its relevance to kidney
+disease. Kidney Int. 2006;69:1302 –7.
+36. Tostain J, Li G, Gentil-Perret A, Gigante M. Carbonic anhydrase 9 in clear cell renal
+cell carcinoma: a marker for diagnosis, prognosis and treatment. Eur J Cancer.
+2010;46:3141 –8.
+37. Capeling MM, Huang S, Childs CJ, Wu JH, Tsai YH, Wu A, et al. Suspension culture
+promotes serosal mesothelial development in human intestinal organoids. CellRep. 2022;38:110379.
+38. Qian BZ, Pollard JW. Macrophage diversity enhances tumor progression and
+metastasis. Cell. 2010;141:39 –51.
+39. Ostuni R, Kratochvill F, Murray PJ, Natoli G. Macrophages and cancer: from
+mechanisms to therapeutic implications. Trends Immunol. 2015;36:229 –39.
+40. Boraas LC, Ahsan T. Lack of vimentin impairs endothelial differentiation of
+embryonic stem cells. Sci Rep. 2016;6:1 –11.
+41. Davis GE, Senger DR. Endothelial extracellular matrix: biosynthesis, remodeling,
+and functions during vascular morphogenesis and neovessel stabilization. Circ
+Res. 2005;97:1093 –107.42. Li R, Ferdinand JR, Loudon KW, Campbell PJ, Teichmann SA, Mitchell TJ, et al.
+Article mapping single-cell transcriptomes in the intra- tumoral and associatedterritories of kidney cancer ll mapping single-cell transcriptomes in the intra-tumoral and associated territories of kidney cancer. Cancer Cell. 2022;40:1583 –99.
+43. Hoskin V, Szeto A, Ghaffari A, Greer PA, CÃtéc GP, Elliott BE. Ezrin regulates focal
+adhesion and invadopodia dynamics by altering calpain activity to promotebreast cancer cell invasion. Mol Biol Cell. 2015;26:3464 –79.
+44. Cortesio CL, Chan KT, Perrin BJ, Burton NO, Zhang S, Zhang ZY, et al. Calpain 2
+and PTP1B function in a novel pathway with Src to regulate invadopodiadynamics and breast cancer cell invasion. J Cell Biol. 2008;180:957 –71.
+45. te Boekhorst V, Jiang L, Mählen M, Meerlo M, Dunkel G, Durst FC, et al. Calpain-2
+regulates hypoxia/HIF-induced plasticity toward amoeboid cancer cell migrationand metastasis. Curr Biol. 2022;32:412 –427.e8.
+46. Svensson L, McDowall A, Giles KM, Stanley P, Feske S, Hogg N. Calpain 2 controls
+turnover of LFA-1 adhesions on migrating T lymphocytes. PLoS One .2010.
+https://doi.org/10.1371/journal.pone.0015090 .
+47. Ilina O, Gritsenko PG, Syga S, Lippoldt J, La Porta CAM, Chepizhko O, et al.
+Cell–cell adhesion and 3D matrix con ﬁnement determine jamming transitions in
+breast cancer invasion. Nat Cell Biol. 2020;22:1103 –15.
+48. Falke JJ, Ziemba BP. Interplay between phosphoinositide lipids and calcium
+signals at the leading edge of chemotaxing ameboid cells. Chem Phys Lipids.2014;182:73 –9.
+49. Friedl P, Bröcker EB. The biology of cell locomotion within three-dimensional
+extracellular matrix. Cell Mol Life Sci. 2000;57:41 –64.
+50. Hofmann S, Cohen-Harazi R, Maizels Y, Koman I. Patient-derived tumor spheroid
+cultures as a promising tool to assist personalized therapeutic decisions in breastcancer. Transl Cancer Res. 2022;11:134 –47.
+51. Rodrigues J, Heinrich MA, Teixeira LM, Prakash J. 3D in vitro model (R)evolution:
+unveiling tumor –stroma interactions. Trends Cancer. 2021;7:249 –64.
+52. Ooft SN, Weeber F, Dijkstra KK, McLean CM, Kaing S, van Werkhoven E, et al.
+Patient-derived organoids can predict response to chemotherapy in metastaticcolorectal cancer patients. Sci Transl Med. 2019;11:1 –10.
+53. Tse RTH, Zhao H, Wong CYP, Chiu PKF, Teoh JYC, Ng CF. Current status of
+organoid culture in urological malignancy. Int J Urol. 2022;29:102 –13.
+54. Calef ﬁJT, Aal MCE, Gallindo H, de OM, Caxali GH, Crulhas BP, et al. Magnetic 3D
+cell culture: State of the art and current advances. Life Sci. 2021;286:120028.
+55. Kikuchi H, Abe T, Matsumoto R, Osawa T, Maruyama S, Murai S, et al. Nephro-
+metry score correlated with tumor proliferative activity inT1 clear cell renal cellcarcinoma. Urol Oncol Semin Orig Investig. 2019;37:301.e19 –301.e25.
+56. Homan KA, Gupta N, Kroll KT, Kolesky DB, Skylar-scott M, Miyoshi T, et al. Flow-
+enhanced vascularization and maturation of kidney organoids in vitro. NatMethods. 2019. https://doi.org/10.1038/s41592-019-0325-y .
+57. Proulx S, Bourget JM, Gagnon N, Martel S, Deschambeault A, Carrier P, et al.
+Optimization of culture conditions for porcine corneal endothelial cells. Mol Vis.2007;13:524.
+58. Wadman M. FDA no longer has to require animal testing for new drugs. Science.
+2023;379:127 –8.
+59. Roelants C, Giacosa S, Pillet C, Bussat R, Bastien O, Guyon L, et al. Combined
+inhibition of PI3K and Src kinases demonstrates synergistic therapeutic ef ﬁcacy in
+clear-cell renal carcinoma. Oncotarget. 2018;9:30066 –78.
+60. Filhol O, Descotes JL. Evaluation of a promising new combination of protein
+kinase inhibitors on organotypic cultures of human renal tumors (COMBOREIN).2018. https://classic.clinicaltrials.gov/ct2/show/NCT03571438 .
+61. Alpern D, Gardeux V, Russeil J, Mangeat B, Meireles-Filho ACA, Breysse R, et al.
+BRB-seq: ultra-affordable high-throughput transcriptomics enabled by bulk RNA
+barcoding and sequencing. Genome Biol. 2019;20:1 –15.
+ACKNOWLEDGEMENTS
+We thank the animal unit staff (Bama S. Magallon C., and Pointu H.) at
+Interdisciplinary Research Institute of Grenoble (IRIG) for animal husbandry andThomas Darde (SciLicium) for the sequencing and preprocessing of the BRB-seq data.Part of this work has been performed at the CMBA platform - IRIG-DS-BGE-Gen&Chem-CMBA, CEA-Grenoble, F-38054 Grenoble, (a member of GIS-IBISA and
+ChemBioFrance infrastructure) supported by GRAL, a program of the Chemistry
+Biology Health Graduate School of Université Grenoble Alpes (ANR-17-EURE-0003) forthe use of the High content screening CX7 microscope. We thank the microscopyfacility MuLife of IRIG/DBSCI, funded by CEA Nanobio and GRAL LabEX (ANR-10-LABX-49-01) ﬁnanced within the University Grenoble Alpes graduate school CBH-EUR-GS
+(ANR-17-EURE-0003). This work was supported by recurrent institutional funding fromINSERM, CEA, and Ligue Comité de l ’Isère, University Grenoble Alpes, Centre
+Hospitalier Universitaire de Grenoble-Alpes (CHUGA), Groupement des Entreprises
+Françaises dans la Lutte contre le Cancer (GEFLUC). P.B., F.J. and C.B. were funded bythe KATY project which has received funding from the European Union ’s Horizon
+2020 research and innovation program under grant agreement No 101017453.I. Séraudie et al.
+13
+Cell Death and Disease          (2023) 14:622 AUTHOR CONTRIBUTIONS
+Conceptualization, IS, CC and OF; Investigation and Methodology, IS, CP, PB, FJ, BC,
+BE, FC, CB and OF; Validation, IS, CB, CC and OF; Formal Analysis, IS, CB, and OF;Software, IS, PB, FJ; Resources, AB, JLD; Data curation, IS, PB, FJ; Visualization, IS, CP,
+PB, FJ; Writing —review and editing, IS, OF CB and CC; Supervision, OF, CC; Project
+administration and Funding acquisition, OF and CC.
+COMPETING INTERESTS
+The authors declare no competing interests.
+ETHICS APPROVAL AND CONSENT TO PARTICIPATE
+All human renal carcinoma samples were obtained from patients, with their informed
+consent, and all procedures were approved by the ethics committee (Patient
+Protection Committee No. 2017 A0070251). Patients were recruited under the clinicaltrial, Comborein (NCT03572438). All animal studies were approved by theinstitutional guidelines and those formulated by the European Community for theUse of Experimental Animals.
+ADDITIONAL INFORMATION
+Supplementary information The online version contains supplementary material
+available at https://doi.org/10.1038/s41419-023-06133-z .Correspondence and requests for materials should be addressed to Odile Filhol.
+Reprints and permission information is available at http://www.nature.com/
+reprints
+Publisher ’s note Springer Nature remains neutral with regard to jurisdictional claims
+in published maps and institutional af ﬁliations.
+Open Access This article is licensed under a Creative Commons
+Attribution 4.0 International License, which permits use, sharing,
+adaptation, distribution and reproduction in any medium or format, as long as you giveappropriate credit to the original author(s) and the source, provide a link to the CreativeCommons license, and indicate if changes were made. The images or other third partymaterial in this article are included in the article ’s Creative Commons license, unless
+indicated otherwise in a credit line to the material. If material is not included in the
+article ’s Creative Commons license and your intended use is not permitted by statutory
+regulation or exceeds the permitted use, you will need to obtain permission directlyfrom the copyright holder. To view a copy of this license, visit http://
+creativecommons.org/licenses/by/4.0/ .
+© The Author(s) 2023I. Séraudie et al.
+14
+Cell Death and Disease          (2023) 14:622 

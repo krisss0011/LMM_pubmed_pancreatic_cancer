@@ -1,0 +1,367 @@
+METHODS & TECHNIQUES
+Quantitative analysis of 3D extracellular matrix remodelling by
+pancreatic stellate cells
+Benjamin K. Robinson, Ernesto Cortes, Alistair J. Rice, Muge Sarper and Armando del R ı ́o Herna ́ndez *
+ABSTRACT
+Extracellular matrix (ECM) remodelling is integral to numerous
+physiological and pathological processes in biology, such asembryogenesis, wound healing, fibrosis and cancer. Until recently,most cellular studies have been conducted on 2D environmentswhere mechanical cues significantly differ from physiologicallyrelevant 3D environments, impacting cellular behaviour andmasking the interpretation of cellular function in health and disease.We present an integrated methodology where cell-ECM interactionscan be investigated in 3D environments via ECM remodelling.Monitoring and quantification of collagen-I structure in remodelledmatrices, through designated algorithms, show that 3D matrices canbe used to correlate remodelling with increased ECM stiffnessobserved in fibrosis. Pancreatic stellate cells (PSCs) are the keyeffectors of the stromal fibrosis associated to pancreatic cancer. Weuse PSCs to implement our methodology and demonstrate that PSC
+matrix remodelling capabilities depend on their contractile machinery
+andβ1 integrin-mediated cell-ECM attachment.
+KEY WORDS: 3D Biology, ECM remodelling, SHG, AFM
+INTRODUCTION
+3D remodelling of the extracellular matrix (ECM), which involves
+changes in ECM rigidity and organisation, is integral to severalbiological processes, such as wound healing (Darby et al., 2014;Reinke and Sorg, 2012), fibrosis (Duscher et al., 2014; Ho et al.,2014), and embryogenesis, where mechanical forces dictate tissue
+organisation (Krieg et al., 2008). Additionally, in cancer, ECM
+rigidity promotes breast cancer progression via oncogenicsignalling in epithelial cells (Levental et al., 2009), and tumour-associated fibroblasts remodel the ECM via Rho-dependentcytoskeleton contraction to facilitate cancer cell invasion (Calvoet al., 2013; Gaggioli et al., 2007; Goetz et al., 2011). In pancreaticductal adenocarcinoma (PDAC), the strong fibrosis in the stromalregion around the tumour is mediated via ECM remodelling andorchestrated by pancreatic stellate cells (PSCs) (Apte et al., 2011;Apte and Wilson, 2012; Olsen et al., 2011). Collagen alignment inthe tumour periphery is used as a prognostic marker for survival inseveral cancers including breast cancer (Conklin et al., 2011), and itis known that highly aligned fibroblast derived matrices promotecancer cell invasion (Goetz et al., 2011). Assessing these
+quantitative changes in the ECM will provide a betterunderstanding of the remodelling processes.
+Due to the dearth of high-resolution microscopy, biophysical
+techniques and computer algorithms, until very recently ourunderstanding of cells within their 3D environment was limitedand based mostly on studies conducted with cells seeded on glass or2D matrices. In these conditions, the mechanical and spatial cuesfrom the environment sharply differed from the primary tissues ofthe cells under study (Cukierman et al., 2001). Significantly, somecells such as PSCs are culture activated on glass and most in vitro
+studies carried out with these cells fail to recapitulate the 3Denvironment or the tissue where these cells are quiescent. However,recent advances in image capture and analysis have opened aplethora of opportunities to study these cells in a 3D,physiologically relevant context.
+In this work, we used atomic force microscopy (AFM) indentation,
+high resolution optical imaging, and custom made algorithms toprovide a platform for the study of 3D matrix remodelling by cells.AFM indentation can be used to obtain the Young ’s modulus of
+samples through force spectroscopy. A glass micro-sphere attached toa cantilever indents the sample and is deflected in a mannerdetermined by the sample stiffness, measured through deflection of alaser (Alexander et al., 1989). This method of obtaining a Young ’s
+modulus allows localised mechanical differences due to ECMremodelling to be detected that would not be obtained throughlarger-scale rheology studies. This remodelling can also be quantified
+by specifically imaging collagen-I, an abundant fibrous ECM
+component, using second harmonic generation (SHG) alongsidemultiphoton microscopy (MPM) (Acerbi et al., 2015; Campagnolaand Loew, 2003; Raub et al., 2010). An optical signal for collagen-Ican be obtained through SHG imaging with high specificity andwithout the need for immunostaining. The collagen topography canbe analysed through existing as well as newly developed methods tocorrelate specific changes in ECM composition with changes inmechanical properties such as stiffness.
+We used pancreatic stellate cells (PSCs) as a cell model for our
+analysis because they orchestrate PDAC associated fibrosis viaECM remodelling (Erkan et al., 2012), and these cells are highlysensitive to the effect of all-trans retinoic acid (ATRA), whichrender them to the quiescent-like state in which PSC remodellingability is suppressed.
+RESULTS
+Quantification of matrix remodelling using SHG andimmunofluorescence
+To assess the ECM remodelling capacity of PSCs, we prepared
+collagen/matrigel 3D matrices containing PSCs with increasing cellconcentration. Monitoring the matrix contraction by imagingmatrices in 96 well plates at 24 h intervals for 72 h allowed theassessment of the relative dimensional changes under remodelling.
+Received 15 February 2016; Accepted 23 April 2016Cellular and Molecular Biomechanics Laboratory, Department of Bioengineering,
+Faculty of Engineering, Imperial College London, South Kensington Campus,
+London SW7 2AZ, UK.
+*Author for correspondence (a.del-rio-hernandez@imperial.ac.uk)
+A.d., 0000-0001-5062-8910
+This is an Open Access article distributed under the terms of the Creative Commons Attribution
+License (http://creativecommons.org/licenses/by/3.0), which permits unrestricted use,
+distribution and reproduction in any medium provided that the original work is properly attributed.
+875© 2016. Published by The Company of Biologists Ltd |Biology Open (2016) 5, 875-882 doi:10.1242/bio.017632
+Biology OpenTaking the initial and final time points of the contraction, the
+percentage change in the matrix area represented the contractileability of each condition. Matrix contraction was proportional to thenumber of seeded cells, with the maximum contraction of 80%observed for the matrices embedded with 750,000 cells (Fig. 1A;Fig. S1A).
+SHG is a microscopy technique that is highly responsive to
+fibrillar collagen (Chen et al., 2012). Collagen-I is a triple helix,made up of three α-helical chains, with these individual helices self-
+assembling into fibrils and larger-scale fibres. The peptide bondslinking together amino acids in the chains have their own dipolewhich, when amplified along the helix length of collagen-I, givesthe fibrillar structure a permanent dipole moment (Fig. 2A). Thelack of centrosymmetry that necessarily accompanies this givescollagen-l the optical properties required for SHG. The coherent
+process of SHG absorbs two identical low energy photons and emits
+one high energy photon of double the energy of the incident photons(Fig. 2B). This can only occur in a non-centrosymmetric moleculesuch as collagen-I (Campagnola, 2011). SHG benefits from onlyusing endogenous species to provide contrast in measurement,preventing artefacts from use of exogenous agents (Chen et al.,2012), as well as decreased photobleaching and phototoxicity(Campagnola, 2011). Additionally, SHG can be performed ontissue sections hundreds of microns thick, which prevents artefactsand errors created from the cutting process, required for standardhistology procedures (Campagnola, 2011).SHG was used to visualise the effect of matrix remodelling on the
+collagen-I (hereafter collagen) structure and topology. Intensitydensity of the collagen in regions of interest shows a slight, albeitnon-significant, increase to the collagen signal with increased cellnumber (Fig. 1B), which may arise from the increased cell numberand the greater impact that this has on matrix remodelling. SHGmicroscopy imaging of collagen in the matrices allowed forassessment of the percentage of collagen present in a region ofinterest. The ratio between the number of collagen containing pixelsand the total pixels in a region of interest show that remodelledmatrices, when compared to acellular conditions, contain morecollagen. This increase can indicate that more collagen is drawn intothe imaging plane when matrix remodelling is present (Fig. S2B).
+Immunostaining was carried out to visualise fibronectin, another
+major ECM protein secreted by PSCs, which is known to promote
+fibrosis, favouring PDAC dissemination to distant sites (Costa-Silva
+et al., 2015). Across the regions of interest, this shows an increase inthe intensity density of fibronectin with increased cell number.Through visual observation of the fibronectin staining, the intensityis high in the vicinity of cells, corresponding with the regions ofhigher collagen remodelling (Fig. 1B). Colocalisation analysis wasconducted on the fibronectin/collagen channels to ensure that lightleakage between channels was not responsible for the signals. Thisanalysis yields a Pearson coefficient of ∼0.3, suggesting that the
+signal in the fibronectin channel is not due to collagen and viceversa (data not shown).
+Fig. 1. Remodelling of 3D collagen-I matrices by PSCs. (A) Bright-field images of matrix remodelling, assessed by matrix contraction (left). Mean±s.e.m.
+percentage change due to matrix contraction per cell number (right). Acellular, n=10; 250K, n=8; 500K, n=16; 750K, n=6. *P<0.05, *** P<0.0001 (unpaired t-test).
+(B) Immunofluorescence of PSCs (red), fibronectin (blue) and SHG imaging of collagen-I (green) for remodelled matrices containing 250,000 and 750, 000 cells
+(left). Scale bar: 50 μm. Mean±s.e.m. of collagen-I and fibronectin intensity density of immunofluorescence (250K, n=13; 500K, n=11; 750K, n=7) and second
+harmonic signal for remodelled matrices (acellular, n=10; 250K, n=25; 500K, n=10; 750K, n=29) (right). Student ’st-test shows a significant difference in
+fibronectin intensity between 250,000 and 750,000 cell conditions ( P=0.01).
+876METHODS & TECHNIQUES Biology Open (2016) 5, 875-882 doi:10.1242/bio.017632
+Biology OpenRemodelling induces topological and structural changes to
+collagen matrices
+Collagen topography can affect the survival and progression of
+cancer cells, and quantification of structural changes is thereforerequired. (Conklin et al., 2011; Goetz et al., 2011). Using fastFourier transforms (FFTs) to acquire a representation of the angularfrequencies within a region of interest, we have been able to developan objective analysis to quantify collagen fibre alignment in thepresence of ECM remodelling. Alignment in the collagen network
+manifests as a more elliptical distribution of the central maxima inthe FFT power spectrum orthogonal to the direction of collagenalignment. Greater elliptical eccentricity of this power spectrumrelates to a higher degree of alignment (Zhuo et al., 2010) (Fig. 3A,insets). In Matlab, we have developed a program to acquire FFTsand produce radial intensity histograms to indicate alignment (Joneset al., 2005). For each 1° angle over 180°, rotating about the centre
+Fig. 2. Representation of SHG signal generation from collagen-I. (A) The peptide bonds of the collagen chains create a permanent dipole moment along the
+triple helix that allows second harmonic generation. (B) Jablonski diagram of SHG. Excitation with two photons with identical energy E, leads to a vir tual energy
+state and emission of a photon with energy 2E.
+Fig. 3. ECM remodelling by PSCs modifies collagen topology/structure. (A) SHG images of collagen-I in matrices. Insets show FFTs of collagen-I images,
+representing alignment with respect to the elliptical distribution of the FFT central maxima. (B) Images in A represented through the BoneJ plugin to calculate fibre
+thickness where larger spheres fit along fibres represent greater thickness. (C) In the box-and-whisker plot, the central box represents values fro m the lower to
+upper quartile. The middle line represents the mean. The vertical line extends from the minimum to the maximum value. Values represent degree of colla gen-I
+alignment where higher score between 0-1 represents more aligned structures. Acellular, n=14; 250K, n=30; 500K, n=16; 750K, n=30. *P<0.05, *** P<0.0001
+(unpaired t-test). (D) Collagen-I thickness. Acellular, n=10; 250K, n=23; 500K, n=10; 750K, n=27. Values are represented as mean±s.e.m. * P<0.05, *** P<0.0001
+(unpaired t-test). Scale bars: 20 μm.
+877METHODS & TECHNIQUES Biology Open (2016) 5, 875-882 doi:10.1242/bio.017632
+Biology Openof the image, the sum of pixel intensities is calculated and plotted
+against the angle (Fig. S3). The spread of the distribution of pixelintensities acquired relates to the alignment, where a tighterdistribution profile indicates a more elliptic FFT. The reciprocalof the distribution (standard deviation) is used as an alignment scorewhere a higher number relates to more alignment (Fig. 3C). Weobserved significant increases in collagen fibre alignment as thePSC number in the matrix increased.
+To further investigate the effects of ECM remodelling by PSCs on
+the collagen topography we have quantified the width of collagenfibres using the BoneJ plugin for ImageJ (Doube et al., 2010). Tocalculate the thickness of fibres the plugin fits a sphere along the fibresin an image that has had a threshold applied, and takes the thickness asthe average largest diameter circle that will fit within the fibre.Measurement of the collagen fibre thickness shows significant
+increases that scale with the increase in matrix contraction (Fig. 3D).
+The increase of collagen fibre thickness with increased matrixremodelling capacity may be a result of the remodelling on the thinnercollagen fibrils (individual fibrils ∼200 nm; Kadler et al., 1996).
+Remodelling may lead to more fibrils being drawn into collagen fibres(bundles of fibrils) leading to an increase in fibre thickness due to thepacking of a greater number of fibrils. Bundling of more collagen intofibres may also account for the observed increasing in spacingbetween fibres (also calculated through BoneJ) (Fig. S2A).
+Quantification of ECM stiffness using AFM indentation
+To characterise the stiffness of the remodelled matrices we usedAFM to acquire the Young ’s modulus through force spectroscopy.
+AFM is used to determine substrate stiffness in a localised mannerby indentation. A cantilever with a 70 μm glass bead attached to the
+tip is positioned a few microns above the sample, and reflects a laseronto a photodiode. This setup approaches the surface and makescontact, indenting the matrix (Fig. 4A). The cantilever acts as aspring and is deflected by sample contact in a manner dependent onthe stiffness. The laser reflected off the cantilever is also deflectedand moves its position on the photodiode, which records thealterations as a voltage. Using calibrated values for tip sensitivityand cantilever spring constant, this voltage is converted to the forceapplied, and plotted against the displacement of the setup duringindentation to produce a force-displacement curve (Thomas et al.,2013). The Hertz contact model is applied to the approach phase ofthe force curve to produce a measure for the Young ’s modulus,
+which is indicative of stiffness (Harris and Charras, 2011). AFMhas high sensitivity, and due to its localised nature of indentation,high spatial resolution which allows correlation of stiffness
+measurements with collagen structure obtained through SHGmicroscopy that cannot be achieved with larger scale rheologymeasurements (Kirmizis et al., 2010).
+The Young ’s moduli of these matrices show significant increases
+correlating to the increasing number of cells present in the matrices,when compared to the acellular matrices (Fig. 4B). This is inagreement with the previous data that showed increased alignmentand thickening of the collagen fibres alongside changes in matrixremodelling with increasing cell number. This data shows that thestiffening applies throughout the matrix and not just on the planesobserved in the analysis of the collagen SHG signal.
+The capability of PSCs to remodel the ECM depends on the
+contractile apparatus
+The ability of myofibroblasts to remodel the matrix relies on the
+ability to apply contractile forces (Calvo et al., 2013; Goetz et al.,2011). To gain more insight into the mechanisms underlying theECM remodelling capacity by PSCs, we analysed collagentopology and structure in the presence of blebbistatin (BBI) andall-trans retinoic acid (ATRA). BBI blocks myosin II ATPaseactivity, and thus actomyosin contraction (Kovacs et al., 2004), andATRA is the active metabolite of vitamin A and induces quiescenceon PSCs (Froeling et al., 2011). Inhibition of actomyosincontraction in PSCs using BBI or inducing quiescence withATRA significantly reduced the capacity of PSCs to contract thematrix (Fig. 5A,D). In both cases, the collagen alignment score andthe fibre thickness significantly reduced with respect to the controlcondition (Fig. 5A-D; Fig. S1B). A significant decrease in thecollagen intensity was also noted within the matrix embedded withPSCs treated with BBI and ATRA (Fig. S2C). We further observed asignificant decrease in the spacing between collagen fibres in thematrices treated with BBI and ATRA (Fig. S2E) Taken togetherthese results indicate that PSCs ’capacity to remodel the matrix is
+only present in the active state and depends on their actomyosinmachinery.
+To investigate the ability of the PSCs to adhere to the ECM and
+their ability to sense and apply force to the ECM, we blocked β1
+integrin activity. β1 integrin is required to allow cells to form focal
+adhesions and to form bonds with the ECM, which are required forforce application and sensing (Roca-Cusachs et al., 2009). Underthe inhibition of β1 (through a β1 integrin blocking antibody) it
+is observed that ECM remodelling is significantly reduced asconfirmed by the reduced matrix contraction (Fig. 5A,D). In
+Fig. 4. ECM remodelling by PSCs induces matrix stiffening. (A) Schematic of AFM indentation. Cantilever with a glass bead indents the remodelled matrices
+and detection of the reflection of a laser on the cantilever head by a photodiode allows the acquisition of force-distance curves from where the Young ’s modulus
+was calculated and plotted in B. (B) Young ’s modulus values for the remodelled matrices, values are mean±s.e.m. Acellular, n=58; 250K, n=51; 500K, n=97;
+750K, n=44. *** P<0.0001 (unpaired t-test).
+878METHODS & TECHNIQUES Biology Open (2016) 5, 875-882 doi:10.1242/bio.017632
+Biology Openaccordance with previous trends observed, when β1 integrin was
+inhibited, we saw a reduction in the collagen alignment score and inthe fibre thickness, compared to the control condition. These resultsindicate that by arresting the ability of cells to adhere to the ECMand thus apply force, remodelling is inhibited and the presence ofcells in matrices does not affect the collagen topology (the effects oncollagen come from the contractile mechanisms).
+DISCUSSION
+Here, we report a method that blends high resolution microscopywith biophysical and modelling approaches for the accuratecharacterisation of the capacity of myofibroblast-like cells toremodel 3D matrices. SHG microscopy was used to visualise thecollagen structure and topology. Our approach to visualisingcollagen with the SHG signal that comes from its non-centrosymmetric properties allows for a highly specific emissionsignal to be observed. Minimal background signal is observed dueto no requirement for staining, giving no risk of non-specificstaining of collagen or staining effects on collagen architecture. Toquantify the changes to collagen observed in the SHG images wehave employed image analysis techniques to measure alignment andthickness of collagen fibres. These techniques are not dependent on
+the intensity of the collagen signal, and therefore avoid anysubjectivity in the measurement, as SHG intensity could bedependent on collagen substructure, such as cross-linking (Lutzet al., 2012).
+Our approach to the assessment of collagen structure has led to
+the development of an algorithm to quantify the alignment score forthe collagen fibres present in selected regions of interest in the SHGimages acquired for the matrices. Quantification of collagen fibrealignment through automated methods lacks the subjectivity ofvisual analysis, as it removes bias and improves reproducibility(Frisch et al., 2012). Many methods such as edge detection(Kemeny and Clyne, 2011), fractal analysis (Frisch et al., 2012), andtwo-dimensional fast Fourier transform (2D-FFT) exist foralignment quantification. Previous techniques to analyse fibreorientation fit an ellipse to the central region of a 2D-FFT andquantify the alignment as related to the eccentricity of this ellipse(Frisch et al., 2012; Sereysky et al., 2010; Zhuo et al., 2010). Theellipse fitting method can be sensitive to noise within the image andcan suffer from a non-uniqueness of solutions (Fitzgibbon et al.,1999); furthermore, noise elements can affect the determination of
+Fig. 5. PSCs ’ability to remodel ECM is dependent on actomyosin machinery and activation state. (A) Bright-field images of matrix remodelled by PSCs
+(control, BBI, ATRA and β1 integrin inhibition). (B) Immunofluorescence of PSCs (red) and SHG imaging of collagen-I (green) for remodelled matrices. (C) Images
+in B represented through the BoneJ plugin to calculate fibre thickness where larger spheres fit along fibres represent greater thickness. (D) Graphs of matrix
+contraction, collagen alignment and collagen thickness, respectively. Each point represents a matrix for percentage contraction. Acellular, n=10; control, n=14;
+BBI, n=10; ATRA, n=12;β1,n=5. In the box-and-whisker plot for alignment, the central box represents values from the lower to upper quartile, the middle line
+represents the mean. The vertical line extends from the minimum to the maximum value. For alignment: control, n=28; BBI, n=20; ATRA, n=78; β1,n=40.
+Histograms of fibre thickness are plotted as mean±s.e.m. Control, n=10; BBI, n=50; ATRA, n=20;β1,n=30. *** P<0.0001 (unpaired t-test). Scale bars: 50 μm.
+879METHODS & TECHNIQUES Biology Open (2016) 5, 875-882 doi:10.1242/bio.017632
+Biology Openthe ellipse short axis which can severely affect the eccentricity
+calculation especially where this axis is very small (e.g. where theellipse has very high eccentricity). Alternatively, we have used aMatlab code to produce radial intensity histograms from the FFTpower spectrum to produce an alignment score, which is defined asa product of the inverse of the standard deviation of a Gaussianfunction fit to this curve. The analysis we have employed removesthe effect that noise has on the FFT and on the alignment calculationin the Gaussian curve fitting stage as more of the FFT image hasbeen taken into account in the radial summation so noise constitutesa smaller percentage of the fit value.
+We have furthered the analysis of alignment of collagen to
+incorporate the effect that this has on the stiffness of the ECM throughthe use of AFM indentation. These investigations have shown thatsignificant increases in matrix stiffness occur in the conditions that
+present as being more greatly remodelled and showing a greater
+degree of collagen alignment and fibre thickness. These results followfrom some observations that have seen greater alignment in regionsaround tumours which manifest as also being stiffer.
+We have used these techniques and algorithms to characterise for
+the first time the behaviour of PSCs in 3D matrices that mimic thephysiological conditions of diseased pancreatic tissues. Our datashow that PSCs are able to remodel the ECM via matrix contractionand increasing collagen fibre alignment and thickness. We have alsoobserved that the PSCs ’ability to remodel the ECM rely on their
+contractile actomyosin machinery and on integrin mediated cell-ECM attachment. Rendering PSCs to their quiescent state abolishestheir capacity to remodel the ECM.
+The experimental techniques that we have applied and the analysis
+techniques we have developed in this work can be applied to othermatrices or cell systems, as well as to tissue samples. For instance,these techniques can be used with collagen matrices in organotypicexperiments to examine the cell-cell and cell-ECM interactions inthese 3D matrices. It may also be possible to use SHG imaging ofcollagen to quantify the changes to matrices after invasion; this mayalso be coupled with immunofluorescence for the analysis of cells.These techniques can also be applied to tissue samples to quantifystiffness with AFM indentation and the arrangement of collagenusing the analysis of SHG images. In this case tissue cubes can beused for AFM and tissue cryosections can be used for SHG analysiswith comparisons between different stages of fibrosis.
+MATERIALS AND METHODS
+Cell culture
+Primary, culture-activated human pancreatic stellate cells (passage 5-8
+PSCs, HPaSteC, #3830, ScienCell, CA, USA) were cultured for at least two
+media changes and until cells reached a confluency between 65% and 75%.
+Cells were incubated with Dulbecco ’s Modified Eagle ’s Medium (DMEM-
+F12HAM) (Sigma-Aldrich, UK), with 10% Foetal Bovine Serum Heat
+Inactivated (FBS) (Gibco, UK), 1% penicillin/streptomycin (Sigma-Aldrich, UK), and 1% fungizone Anphotericin B (Gibco, UK). For the
+all-trans retinoic acid (ATRA) (#R2625, Sigma-Aldrich, UK) treatment
+condition, cells were exposed to ATRA dissolved in ethanol at a
+concentration of 1 μM for 10 days with medium changed every 24 h and
+treatment performed in subdued light. A control PSC group for ATRAtreatment was established by adding 1 μl/ml of ethanol to the control media
+during the 10 days.
+3D ECM remodelling assay
+To analyse the ECM remodelling ability of PSCs, Collagen type-I, HighConcentration, Rat Tail (Collagen-I; Corning, #354249, stock concentration
+8.96 mg/ml) and Matrigel
+®Matrix Basement Membrane (Corning
+#354248, stock concentration 9 mg/ml) mixture gels were prepared with1:10 10× DMEM (Sigma-Aldrich, UK) and 1:10 FBS, yielding to a final
+concentration of 4.5 mg/ml Collagen-I and 2 mg/ml Matrigel. The gelmixture was neutralised with 1 M NaOH (Sigma-Aldrich, UK) and the
+desired number of cells in culture media were added to the gel mixture. 80 µl
+gel volume were added to wells in a 96-well plate, which was pre-treated
+with 3% BSA (Sigma-Aldrich, UK) for 1 h, washed with Dulbecco ’s
+phosphate buffered saline (PBS) (Sigma-Aldrich, UK) and air dried for10 min. Gels were set at 37°C for 1 h and incubated with culture media for
+72 h at 37°C (media change conducted every 24 h). For the InSolution ™
+Blebbistatin Racemic (BBI) (#203389, CalBiochem, CA, USA) treatment
+condition, gels with the desired number of cells were exposed to BBI at a
+concentration of 20 μM with media changed every 24 h. For the ATRA
+treatment, gels with the desired number of cells were exposed to ATRA at a
+concentration of 1 μM with media changed every 24 h. The media of the
+established control PSC group for ATRA was replaced every 24 h with fresh
+control media supplemented with 1 μl/ml of ethanol. Both BBI and ATRA
+media changes were performed in subdued light. To investigate the role ofβ1-integrin activity in the PSCs ability to remodel the matrix, β1-integrin
+mediated cell-ECM attachment was blocked by adding 1 µg/ml β1-integrin
+function blocking antibody (clone:BV7, ab7168, Abcam, UK). The
+β1-integrin was added in the media 30 min before the desired amount of
+PSCs were embedded in the matrices. Media was changed every 24 h andthe blocking antibody was present in the media for the 72 h incubation
+period where cells could remodel the matrices. For SHG (gels for AFM
+remained unfixed), remodelled gels were fixed with 4% paraformaldehyde(PFA) (Sigma-Aldrich, UK) in PBS for 1 h at 37°C, then washed with PBS
+and permeabilised with 0.3%Triton X-100 (Sigma-Aldrich, UK) in PBS for
+30 min. Gels were then blocked with 1% BSA 0.1% Triton X-100 in PBS
+for 1 h. After blocking, cells were incubated with a primary antibody (anti-
+fibronectin antibody, #ab2413, Abcam, UK) prepared in blocking solutionfor 1 h. Gels were washed with PBS and stained with goat anti-rabbit Alexa
+Fluor
+®488 (#A11030, Life Technologies, CA, USA) conjugated secondary
+antibody- and Phalloidin- conjugated to orange-fluorescent Alexa Fluor 546
+dye (#A22283, Invitrogen, CA, USA) at 1/300 dilution in 1% BSA in PBS
+for 30 min. Finally gels were washed two times with PBS. At least n=5 gels
+were used for each condition across at least two gel preparations (repeats).
+Atomic force microscopy
+Collagen matrices were lifted from the 96-well plates prior to measurementand immediately attached to a petri dish with a droplet of cyanoacrylateadhesive, applied with a 10 μl pipette tip. After matrix attachment (1-2 min)
+the matrix was immersed in culture medium (DMEM with 2% FBS) for
+AFM measurements to be conducted within a 2 h time period. Matrix
+measurements were conducted on a JPK Nanowizard-1 (JPK Instruments,
+Germany) operating in force spectroscopy mode, mounted on an invertedoptical microscope (IX-81; Olympus, Japan). AFM pyramidal cantilevers
+(MLCT; Bruker, MA, USA) with a spring constant of 0.07 N/m were used
+with a 70 μm diameter glass bead attached to cantilever tip. Prior to
+measurements with the adapted cantilevers, their sensitivity was calculated
+by measuring the slope of force-distance curve in the AFM software on anempty region of the petri dish. For indentation tests, the cantilever was
+aligned over regions in the middle of the sample of interest using the optical
+microscope and for each matrix 30 force curves were acquired across 6different 100 μm regions. This arrangement allowed force-curves to be
+acquired in locations at least 50-100 μm apart. Force-curve acquisition was
+carried out with an approach speed of 5 μm/s and a maximum set force of
+1 nN. Elastic moduli were calculated from the force-distance curves by
+fitting the contact region of the approach curve with the Hertz contact model(Harris and Charras, 2011), using the AFM software (JPK).
+Multiphoton confocal microscopy
+Collagen matrices were prepared for analysis on petri dishes via the samemethod mentioned previously for AFM analysis. All SHG images wereobtained using a custom built multiphoton microscope, incorporating an
+upright confocal microscope (SP5, Leica, Germany) and a mode-locked Ti:
+Sapphire Laser (Mai Tai, Newport Spectra-Physics, UK). Images of the
+SHG signal from collagen-I were collected using an 860 nm excitation with
+880METHODS & TECHNIQUES Biology Open (2016) 5, 875-882 doi:10.1242/bio.017632
+Biology OpenSHG signal obtained with a 414/46 nm bandpass filter and multiphoton
+autofluorescence signal obtained with a 525/40 nm bandpass filter. A 25×,0.95 NA water-immersion objective (Leica) was used to deliver excitation
+signal and to collect the SHG emission signal from the sample. Images with
+a 620 μm×620 μm field of view were obtained with 2048 pixel resolution
+and a line rate of 10 Hz giving a pixel resolution of ∼0.3μm with 3×
+averaging on each acquisition to reduce the effect of noise. Further to this a488 nm Argon+ and a 543 nm HeNe laser were used for excitation of Alexa
+Fluor 488 and Phalloidin with emission filters at 520 nm and 580 nm used
+for collection, respectively.
+Analysis of multiphoton images
+SHG images obtained through multiphoton microscopy were analysed to
+quantify collagen properties of matrices after remodelling. For the
+assessment of collagen concentration, At least four SHG images obtainedfor collagen in each condition were analysed in ImageJ (NIH) to acquire
+intensity density across fields of view of 200 μm, taking five regions of
+interest from each full field of view (620 μm). Intensity density values from
+were analysed with the software Prism (GraphPad) for histogram
+representation. Student ’st-tests were conducted on the datasets showing
+the significant differences between the datasets.
+For the analysis of collagen fibre organisation, 200 μm field of view
+images were used for intensity density analysis, with each image split into4×100 μm images in ImageJ. Using a custom MatLab program, images were
+converted to a 2D Fourier transform power plot. In the program a circular
+projection is positioned in the centre of this symmetrical image and the
+image converted to an array containing the sum of pixel intensities along the
+radii of the circle from 0°-180°. A Gaussian is fit to the array where analignment score is calculated as the inverse of the standard deviation of the
+curve where values between 0-1 relate to alignment, where increasing value
+indicate greater degree of alignment. Significance was measured through
+Student ’st-tests in Prism (GraphPad).
+Collagen presence was observed in ImageJ by applying thresholding to
+highlight the collagen containing pixels and then the observation of the
+histogram of pixel values. The number of collagen pixels could be obtained
+and divided by the total number of pixels (in the 200 μm images) and then
+data could be displayed in GraphPad with analysis via t-tests.
+Fibre thickness was calculated with the BoneJ plugin for ImageJ (http://
+bonej.org/). Thresholded images were run through the plugin which
+obtained an average fibre thickness value for the image (200 μm) where this
+average thickness value was exported to Prism for analysis and significance
+calculations via the Student ’st-test.
+Fibre spacing was calculated through the BoneJ plugin in ImageJ. Using
+the same images for the fibre thickness analysis where threshold had been
+applied, the average collagen spacing was calculated by the same process as
+thickness where a sphere is fit in the region without collagen and thediameter relates to the spacing. Significance was calculated via Student ’s
+t-test in Prism.
+Acknowledgements
+We wish to thank Facility for Imaging by Light Microscopy (FILM) at Imperial College
+for access to the microscopy techniques used in this study, A. W. M. Haining for
+consultation on the Matlab code developed in this work and Francesco Di Maggio for
+help in implementing the initial work with pancreatic stellate cells in the group.
+Competing interests
+The authors declare no competing or financial interests.
+Author contributions
+B.K.R., E.C., and A.d.R.H. conceived the study and designed experiments. B.K.R.collected and analysed SHG and AFM data; and developed the algorithm for SHG
+analysis. E.C. developed the methodology for 3D matrices, and carried out cellular
+work, and 3D contraction gel experiments and analysis. A.J.R. executedcomputational analysis for quantification of collagen alignment. A.J.R. and M.S.helped with data analysis and manuscript preparation and revision. B.K.R. and
+A.d.R.H. wrote the paper with inputs from all authors.
+Funding
+This work was supported by the European Research Council [grant agreement
+282051 to A.d.R.H.].Supplementary information
+Supplementary information available online athttp://bio.biologists.org/lookup/suppl/doi:10.1242/bio.017632/-/DC1
+References
+Acerbi, I., Cassereau, L., Dean, I., Shi, Q., Au, A., Park, C., Chen, Y. Y., Liphardt,
+J., Hwang, E. S. and Weaver, V. M. (2015). Human breast cancer invasion and
+aggression correlates with ECM stiffening and immune cell infiltration. Integr. Biol.
+7, 1120-1134.
+Alexander, S., Hellemans, L., Marti, O., Schneir, J., Elings, V., Hansma, P. K.,
+Longmire, M. and Gurley, J. (1989). An atomic-resolution atomic-force
+microscope implemented using an optical lever. J. Appl. Phys. 65, 164-167.
+Apte, M. V. and Wilson, J. S. (2012). Dangerous liaisons: pancreatic stellate cells
+and pancreatic cancer cells. J. Gastroenterol. Hepatol. 27Suppl. 2, 69-74.
+Apte, M., Pirola, R. and Wilson, J. (2011). The fibrosis of chronic pancreatitis: new
+insights into the role of pancreatic stellate cells. Antioxid Redox Signal. 15,
+2711-2722.
+Calvo, F., Ege, N., Grande-Garcia, A., Hooper, S., Jenkins, R. P., Chaudhry, S. I.,
+Harrington, K., Williamson, P., Moeendarbary, E., Charras, G. et al. (2013).
+Mechanotransduction and YAP-dependent matrix remodelling is required for thegeneration and maintenance of cancer-associated fibroblasts. Nat. Cell Biol. 15,
+637-646.
+Campagnola, P. (2011). Second harmonic generation imaging microscopy:
+applications to diseases diagnostics. Anal. Chem. 83, 3224-3231.
+Campagnola, P. J. and Loew, L. M. (2003). Second-harmonic imaging microscopy
+for visualizing biomolecular arrays in cells, tissues and organisms. Nat.
+Biotechnol. 21, 1356-1360.
+Chen, X., Nadiarynkh, O., Plotnikov, S. and Campagnola, PJ. (2012). Second
+harmonic generation microscopy for quantitative analysis of collagen fibrillarstructure. Nat Protoc. 7, 654-669.
+Conklin, M. W., Eickhoff, J. C., Riching, K. M., Pehlke, C. A., Eliceiri, K. W.,
+Provenzano, P. P., Friedl, A. and Keely, P. J. (2011). Aligned collagen is a
+prognostic signature for survival in human breast carcinoma. Am. J. Pathol. 178,
+1221-1232.
+Costa-Silva, B., Aiello, N. M., Ocean, A. J., Singh, S., Zhang, H., Thakur, B. K.,
+Becker, A., Hoshino, A., Mark, M. T., Molina, H. et al. (2015). Pancreatic cancer
+exosomes initiate pre-metastatic niche formation in the liver. Nat. Cell Biol. 17,
+816-826.
+Cukierman, E., Pankov, R., Stevens, D. R. and Yamada, K. M. (2001). Taking cell-
+matrix adhesions to the third dimension. Science 294, 1708-1712.
+Darby, I. A., Laverdet, B., Bonte ́, F. and Desmoulie ̀re, A. (2014). Fibroblasts and
+myofibroblasts in wound healing. Clin. Cosmet. Investig. Dermatol. 7, 301-311.
+Doube, M., K łosowski, M. M., Arganda-Carreras, I., Cordelie ̀res, F. P.,
+Dougherty, R. P., Jackson, J. S., Schmid, B., Hutchinson, J. R. andShefelbine, S. J. (2010). BoneJ: free and extensible bone image analysis in
+ImageJ. Bone 47, 1076-1079.
+Duscher, D., Maan, Z. N., Wong, V. W., Rennert, R. C., Januszyk, M., Rodrigues,
+M., Hu, M., Whitmore, A. J., Whittam, A. J., Longaker, M. T. et al. (2014).
+Mechanotransduction and fibrosis.
+J. Biomech. 47, 1997-2005.
+Erkan, M., Hausmann, S., Michalski, C. W., Fingerle, A. A., Dobritz, M., Kleeff, J.
+and Friess, H. (2012). The role of stroma in pancreatic cancer: diagnostic and
+therapeutic implications. Nat. Rev. Gastroenterol. Hepatol. 9, 454-467.
+Fitzgibbon, A., Pilu, M. and Fisher, R. B. (1999). Direct least square fitting of
+ellipses. Pattern Anal. Mach. Intell., IEEE Trans. 21, 476-480.
+Frisch, K. E., Duenwald-Kuehl, S. E., Kobayashi, H., Chamberlain, C. S., Lakes,
+R. S. and Vanderby, R. Jr . (2012). Quantification of collagen organization using
+fractal dimensions and Fourier transforms. Acta Histochem. 114, 140-144.
+Froeling, F. E. M., Feig, C., Chelala, C., Dobson, R., Mein, C. E., Tuveson, D. A.,
+Clevers, H., Hart, I. R. and Kocher, H. M. (2011). Retinoic acid-induced
+pancreatic stellate cell quiescence reduces paracrine Wnt-beta-catenin signaling
+to slow tumor progression. Gastroenterology 141, 1486-1497, 1497.e1-14.
+Gaggioli, C., Hooper, S., Hidalgo-Carcedo, C., Grosse, R., Marshall, J. F.,
+Harrington, K. and Sahai, E. (2007). Fibroblast-led collective invasion of
+carcinoma cells with differing roles for RhoGTPases in leading and following cells.
+Nat. Cell Biol. 9, 1392-1400.
+Goetz, J. G., Minguet, S., Navarro-Le ́rida, I., Lazcano, J. J., Samaniego, R.,
+Calvo, E., Tello, M., Osteso-Iba ́n ̃ez, T., Pellinen, T., Echarri, A. et al. (2011).
+Biomechanical remodeling of the microenvironment by stromal caveolin-1 favors
+tumor invasion and metastasis. Cell146, 148-163.
+Harris, A. R. and Charras, G. T. (2011). Experimental validation of atomic
+force microscopy-based cell elasticity measurements. Nanotechnology 22,
+345102.
+Ho, Y. Y., Lagares, D., Tager, A. M. and Kapoor, M. (2014). Fibrosis –a lethal
+component of systemic sclerosis. Nat. Rev. Rheumatol. 10, 390-402.
+Jones, K. B., Inoue, N., Tis, J. E., McCarthy, E. F., McHale, K. A. and Chao, E. Y.
+(2005). Quantification of the microstructural anisotropy of distraction osteogenesisin the rabbit tibia. IOWA Orthop. J. 25, 118.
+Kadler, K. E., Holmes, D. F., Trotter, J. A. and Chapman, J. A. (1996). Collagen
+fibril formation. Biochem. J. 316, 1-11.
+881METHODS & TECHNIQUES Biology Open (2016) 5, 875-882 doi:10.1242/bio.017632
+Biology OpenKemeny, S. F. and Clyne, A. M. (2011). A simplified implementation of edge
+detection in MATLAB is faster and more sensitive than fast fourier transform foractin fiber alignment quantification. Microsc. Microanal. 17, 156-166.
+Kirmizis, D. and Logothetidis, S. (2010). Atomic force microscopy probing in the
+measurement of cell mechanics. Int. J. Nanomedicine 5, 137-145.
+Kovacs, M., Toth, J., Hetenyi, C., Malnasi-Csizmadia, A. and Sellers, J. R.
+(2004). Mechanism of blebbistatin inhibition of myosin II. J. Biol. Chem. 279,
+35557-35563.
+Krieg, M., Arboleda-Estudillo, Y., Puech, P.-H., Ka ̈fer, J., Graner, F., Mu ̈ller, D. J.
+and Heisenberg, C.-P. (2008). Tensile forces govern germ-layer organization in
+zebrafish. Nat. Cell Biol. 10, 429-436.
+Levental, K. R., Yu, H., Kass, L., Lakins, J. N., Egeblad, M., Erler, J. T., Fong,
+S. F. T., Csiszar, K., Giaccia, A., Weninger, W. et al. (2009). Matrix crosslinking
+forces tumor progression by enhancing integrin signaling. Cell139, 891-906.
+Lutz, V., Sattler, M., Gallinat, S., Wenck, H., Poertner, R. and Fischer, F. (2012).
+Impact of collagen crosslinking on the second harmonic generation signal and thefluorescence lifetime of collagen autofluorescence. Skin Res. Technol. 18,
+168-179.
+Olsen, A. L., Bloomer, S. A., Chan, E. P., Gaca, M. D. A., Georges, P. C., Sackey,
+B., Uemura, M., Janmey, P. A. and Wells, R. G. (2011). Hepatic stellate cellsrequire a stiff environment for myofibroblastic differentiation. Am. J. Physiol.
+Gastrointest. Liver Physiol. 301, G110-G118.
+Raub, C. B., Putnam, A. J., Tromberg, B. J. and George, S. C. (2010). Predicting
+bulk mechanical properties of cellularized collagen gels using multiphotonmicroscopy. Acta Biomater. 6, 4657-4665.
+Reinke, J. M. and Sorg, H. (2012). Wound repair and regeneration. Eur. Surg. Res.
+49, 35-43.
+Roca-Cusachs, P., Gauthier, N. C., Del Rio, A. and Sheetz, M. P. (2009).
+Clustering of alpha(5)beta(1) integrins determines adhesion strength whereasalpha(v)beta(3) and talin enable mechanotransduction. Proc. Natl. Acad. Sci.
+USA 106, 16245-16250.
+Sereysky, J. B., Andarawis-Puri, N., Ros, S. J., Jepsen, K. J. and Flatow, E. L.
+(2010). Automated image analysis method for quantifying damage accumulationin tendon. J. Biomech. 43, 2641-2644.
+Thomas, G., Burnham, N. A., Camesano, T. A. and Wen, Q. (2013). Measuring
+the Mechanical Properties of Living Cells Using Atomic Force Microscopy. J Vis
+Exp. 76, 50497.
+Zhuo, S., Chen, J., Wu, G., Xie, S., Zheng, L., Jiang, X. and Zhu, X. (2010).
+Quantitatively linking collagen alteration and epithelial tumor progression bysecond harmonic generation microscopy. Appl. Phys. Lett. 96, 213704.
+882METHODS & TECHNIQUES Biology Open (2016) 5, 875-882 doi:10.1242/bio.017632
+Biology Open

@@ -1,0 +1,134 @@
+Che  et al. Exp Hematol Oncol            (2020) 9:18  
+https://doi.org/10.1186/s40164-020-00176-0
+LETTER TO THE EDITOR
+Pancreatic cancer resistance conferred 
+by stellate cells: looking for new preclinical 
+models
+Pei Pei Che1,2, Alessandro Gregori2, Omidreza Firuzi3, Max Dahele1, Peter Sminia1, Godefridus J. Peters2,4*  
+and Elisa Giovannetti2,5
+Abstract 
+Pancreatic ductal adenocarcinoma (PDAC) has an extremely poor response to chemo- and (modest-dose convention-
+ally fractionated) radio-therapy. Emerging evidence suggests that pancreatic stellate cells (PSCs) secrete deoxycyti-dine, which confers resistance to gemcitabine. In particular, deoxycytidine was detected by analysis of metabolites in fractionated media from different mouse PSCs, showing that it caused PDAC cells chemoresistance by reducing the capacity of deoxycytidine kinase (dCK) for gemcitabine phosphorylation. However, data on human models are miss-ing and dCK expression was not associated with clinical efficacy of gemcitabine. We recently established co-culture models of hetero-spheroids including primary human PSCs and PDAC cells showing their importance as a platform to test the effects of cancer- and stroma-targeted drugs. Here, we discuss the limitations of previous studies and the potential use of above-mentioned models to study molecular mechanisms underlying chemo- and radio-resistance.
+Keywords: Pancreatic cancer, Therapy resistance, Stellate cells, Deoxycytidine
+© The Author(s) 2020. This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, 
+adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and 
+the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material 
+in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creat iveco  
+mmons  .org/licen ses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creat iveco mmons  .org/publi cdoma in/
+zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.To the Editor
+We read with great interest the recent article by Dalin 
+and collaborators [1] on liquid chromatography-mass spectrometry analysis and cell viability assays in differ
+-
+ent models of PDAC cells and PSCs, showing that secre -
+tion of deoxycytidine by PSCs conferred resistance to gemcitabine.
+PDAC is typically characterized by features associated 
+with poor prognosis: therapy resistance, early metasta
+-
+sis and recurrence [2]. Approximately 80% of PDAC vol -
+ume is stroma comprising a liquid milieu of cytokines/growth factors and extracellular vesicles, a cellular com
+-
+ponent (PSCs, fibroblasts, endothelial and immune cells), and an extracellular matrix. These components are interconnected and their communication with can
+-
+cer cells might affect aggressive behavior and therapy response (Fig. 1a).
+Despite inherent and acquired resistance against 
+most chemotherapeutic drugs, cytotoxic chemotherapy remains the mainstay of the treatment for PDAC patients, the majority of whom present with advanced-stage dis
+-
+ease. Gemcitabine resistance is multifactorial and PSCs have been implicated in several of the underlying pro
+-
+cesses [3]. Dalin and collaborators [1] performed an ele -
+gant analysis of metabolites in fractionated media from different mouse PSCs, showing that deoxycytidine is present and protects PDAC cells from gemcitabine cyto
+-
+toxicity, raising the question of whether deoxycytidine affects key oncogenic pathways as well. Notably, mouse macrophages are also able to secrete deoxycytidine [4], but hepatic stellate cells do not. No data are available from primary human PSCs from cancer patients. Pri
+-
+mary human PSCs and commonly used PSC-cultures differ both phenotypically and in their interactions with Open AccessExperimental Hematology & 
+Oncology
+*Correspondence:  gj.peters@amsterdamumc.nl
+2 Department of Medical Oncology, Amsterdam University Medical 
+Centers, Location VUMC, Cancer Center Amsterdam, CCA Room 1.52 De 
+Boelelaan 1117, 1081 HV Amsterdam, The NetherlandsFull list of author information is available at the end of the articlePage 2 of 3 Che et al. Exp Hematol Oncol            (2020) 9:18 
+PDAC cells [5], emphasizing the importance of appropri -
+ate PSC-PDAC co-culture models, with paired primary 
+cancer cells and PSCs. Moreover, when a PDAC organoid was assessed for the influence of PSC conditioned media, no significant protection against gemcitabine cytotoxicity was observed [1]. This interesting observation suggests that under particular physiological conditions and in 3D models, the microenvironment could behave differ
+-
+ently. This motivates efforts to investigate these findings in even more appropriate tumor-TME preclinical models.
+We recently established PSC/PDAC spheroids to 
+be used as an important tool for screening of cancer- and stroma-targeted drugs (Fig.  1b). These co-culture 
+spheroids exhibited higher resistance to gemcitabine compared to PDAC-only spheroids, whereas c-MET inhibitors tivantinib, PHA-665752 and crizotinib were equally effective in both spheroid models [6]. The poten
+-
+tial of targeting c-MET receptor as a valuable therapeu -
+tic strategy in selected cases of PDAC was also shown in a recent in  vivo study which demonstrated that a triple combination of gemcitabine with HGF and c-MET inhib
+-
+itors was the most effective strategy to both reduce the size of primary tumours as well as to completely elimi
+-
+nate metastases [7].
+In order to combat the drug- and radioresistance medi -
+ated by PSCs in PDAC [8], these novel 3D preclinical model studies are highly preferred to investigate the interaction between pharmacological and radiothera
+-
+peutic strategies, for example through testing of com -
+binations of radiosensitizing and cytotoxic agents with radiation. Similar studies have been performed using 3D preclinical models in glioblastoma [9].
+Another important question arises concerning the 
+hypothetical role of dCK in gemcitabine resistance. Treatment with PSC media did not reduce intracellular levels of gemcitabine, suggesting no uptake competition, but rescued dCK-catalyzed formation of intracellular deoxycytidine triphosphate (dCTP) levels [1]. It would be of interest to determine the formation of gemcitabine-diphosphate, which inhibits ribonucleotide-reductase, responsible for synthesizing deoxynucleotides required for DNA synthesis/repair. A decreased dCTP would indeed result in reduced feedback inhibition of dCK, and potentiate gemcitabine activation, favoring gem
+-
+citabine-triphosphate in its competition with dCTP for incorporation into DNA [10]. Data on the synthesis of gemcitabine-triphosphate and its incorporation into DNA are therefore warranted to further elucidate the mechanism of resistance.
+Finally, dCK expression is not clearly associated with 
+clinical efficacy of gemcitabine in PDAC [5]. Further studies on the complex TME comprising distinct cell 
+Fig. 1 Schematic overview of the surrounding TME in pancreatic cancer. a The TME of PDAC is comprised of several components, including CAFs, 
+immune cells and extracellular matrix proteins, like collagen. Activated PSCs and collagen are able to promote resistance against chemo- and 
+radiation treatment via paracrine signaling and mechanical cues, respectively. b Representative fluorescent image of co-cultured PSC/PDAC (1:2) spheroid. Green fluorescent protein-expressing PSCs were co-cultured with cyan fluorescent protein-expressing primary PDAC cells. Image was taken 48 h post-seeding. CAF Cancer-associated Fibroblasts, PDAC Pancreatic Ductal Adenocarcinoma, PSC Pancreatic Stellate Cells, CFP Cyan Fluorescent Protein, GFP Green Fluorescent protein. Some material of this figure was adapted from images made by Servier Medical Art by Servier, licensed under a Creative Commons Attribution 3.0 Unported License, at https ://smart .servi er.comPage 3 of 3
+ Che  et al. Exp Hematol Oncol            (2020) 9:18 
+ 
+•
+ fast, convenient online submission
+ •
+  thorough peer review by experienced researchers in your ﬁeld
+• 
+ rapid publication on acceptance
+• 
+ support for research data, including large and complex data types
+•
+  gold Open Access which fosters wider collaboration and increased citations 
+ maximum visibility for your research: over 100M website views per year •
+  At BMC, research is always in progress.
+Learn more biomedcentral.com/submissionsReady to submit y our researc h ?  Choose BMC and benefit fr om: 
+types, but also hypoxic and stromal dense areas [2], 
+might explain differential effects on pyrimidine metabo -
+lism and chemo- as well as radio-resistance.
+In conclusion, we look forward to additional studies 
+on optimized preclinical models evaluating the effects of chemotherapy and radiotherapy in PDAC and unravel
+-
+ling the mechanisms behind treatment failure.
+Abbreviations
+dCK: Deoxycytidine kinase; dCTP: Deoxcytidine triphosphate; PDAC: Pan-creatic ductal adenocarcinoma; PSCs: Pancreatic stellate cells; TME: Tumor microenvironment.
+Authors’ contribution
+PPC and AG performed the experiments and wrote the initial draft; concept and supervision (EG, GJP), contribution to the draft (OF, MD, PS), final editing (EG, GJP). All authors read and approved the final manuscript.
+Funding
+This work was partially supported by the following grants: Zabawas Founda-tion—Cancer Center Amsterdam Foundation CCA2019-5-55 (P .S.), CCA2015-1-19 (E.G., G.J.P), CCA2018-5-48 (E.G.), KWF Dutch Cancer Society—KWF project#11957 (E.G.), and Associazione Italiana per la Ricerca sul Cancro—AIRC/ Start-Up grant (E.G.), National Institute for Medical Research Develop -
+ment (NIMAD, Grant number: 957652) and the Polish National Science Center project 2018/31/B/NZ7/02909 (E.G., G.J.P .).
+Competing interests
+MD reports research grants from Varian Medical Systems outside the scope of this work. No writing assistance was utilized during production of this manuscript.
+Author details
+1 Department of Radiation Oncology, Amsterdam University Medical Centers, 
+Location VUMC, Cancer Center Amsterdam, Amsterdam, The Netherlands. 
+2 Department of Medical Oncology, Amsterdam University Medical Centers, 
+Location VUMC, Cancer Center Amsterdam, CCA Room 1.52 De Boelelaan 
+1117, 1081 HV Amsterdam, The Netherlands. 3 Medicinal and Natural Products 
+Chemistry Research Center, Shiraz University of Medical Sciences, Shiraz, Iran. 
+4 Department of Biochemistry, Medical University of Gdansk, Gdańsk, Poland. 
+5 Cancer Pharmacology Lab, AIRC Start -Up Unit, Fondazione Pisana per la 
+Scienza, Pisa, Italy. Received: 15 May 2020   Accepted: 29 July 2020
+References 1. Dalin S, Sullivan MR, Lau AN, Grauman-Boss B, Mueller HS, Kreidl E, et al. Deoxycytidine release from pancreatic stellate cells promotes gemcit -
+abine resistance. Cancer Res. 2019;79(22):5723–33.
+ 2. Giovannetti E, van der Borden CL, Frampton AE, Ali A, Firuzi O, Peters GJ. Never let it go: stopping key mechanisms underlying metastasis to fight pancreatic cancer. Semin Cancer Biol. 2017;44:43–59.
+ 3. Amrutkar M, Aasrum M, Verbeke CS, Gladhaug IP . Secretion of fibronectin by human pancreatic stellate cells promotes chemoresistance to gemcit -
+abine in pancreatic cancer cells. BMC Cancer. 2019;19(1):596.
+ 4. Halbrook CJ, Pontious C, Kovalenko I, Lapienyte L, Dreyer S, Lee HJ, et al. Macrophage-Released Pyrimidines Inhibit Gemcitabine Therapy in Pan-creatic Cancer. Cell Metab. 2019;29(6):1390-9 e6.
+ 5. Lenggenhager D, Amrutkar M, Santha P , Aasrum M, Lohr JM, Gladhaug IP , et al. Commonly used pancreatic stellate cell cultures differ pheno -
+typically and in their interactions with pancreatic cancer cells. Cells. 2019;8(1):23.
+ 6. Firuzi O, Che PP , El Hassouni B, Buijs M, Coppola S, Lohr M, et al. Role of c-MET inhibitors in overcoming drug resistance in spheroid mod-els of primary human pancreatic cancer and stellate cells. Cancers. 2019;11(5):638.
+ 7. Xu Z, Pang TCY, Liu AC, Pothula SP , Mekapogu AR, Perera CJ, et al. Targeting the HGF/c-MET pathway in advanced pancreatic cancer: a key element of treatment that limits primary tumour growth and eliminates metastasis. Br J Cancer. 2020;122(10):1486–95.
+ 8. Mantoni TS, Lunardi S, Al-Assar O, Masamune A, Brunner TB. Pancreatic stellate cells radioprotect pancreatic cancer cells through beta1-integrin signaling. Cancer Res. 2011;71(10):3453–8.
+ 9. Narayan RS, Fedrigo CA, Brands E, Dik R, Stalpers LJ, Baumert BG, et al. The allosteric AKT inhibitor MK2206 shows a synergistic interaction with chemotherapy and radiotherapy in glioblastoma spheroid cultures. BMC Cancer. 2017;17(1):204.
+ 10. El Hassouni B, Li Petri G, Liu DSK, Cascioferro S, Parrino B, Hassan W, et al. Pharmacogenetics of treatments for pancreatic cancer. Expert Opin Drug Metab Toxicol. 2019;15(6):437–47.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub -
+lished maps and institutional affiliations.

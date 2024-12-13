@@ -1,0 +1,1 @@
+In this issue of Cancer Cell, Aftab et al. identify a pro-inflammatory cytokine, IL-33, that is released as a chemoattractant for type 2 immune cells in response to the intratumoral mycobiome. Depletion of fungi or deletion of IL-33 in cancer cells significantly decreases pancreatic ductal adenocarcinoma (PDAC) tumor progression and increases survival.
