@@ -3,7 +3,6 @@ import time
 import requests
 from bs4 import BeautifulSoup
 
-# Configuration
 SEARCH_TERM = "pancreatic cancer"
 BASE_SEARCH_URL = "https://pubmed.ncbi.nlm.nih.gov/"
 OUTPUT_FOLDER = "text_data"
@@ -81,7 +80,7 @@ def scrape_abstracts():
                     save_abstract(abstract, article_id)
                     total_fetched += 1
 
-                time.sleep(1)  # Respect server rate limits
+                time.sleep(1)
 
             page += 1
 
